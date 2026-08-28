@@ -19,6 +19,7 @@ jobs:
       - name: Buscar notícias
         env:
           NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+
         run: |
           python3 - <<'PY'
           import json
@@ -53,7 +54,18 @@ jobs:
           noticias = []
 
           for item in data.get("results", []):
+
               if not item.get("link") or not item.get("title"):
+                  continue
+
+              fonte = (item.get("source_name") or "").strip()
+              link = (item.get("link") or "").lower()
+
+              # Não aceitar notícias do Mix Vale
+              if "mix vale" in fonte.lower():
+                  continue
+
+              if "mixvale.com.br" in link:
                   continue
 
               noticias.append({
@@ -61,26 +73,39 @@ jobs:
                   "titulo": item.get("title"),
                   "descricao": item.get("description"),
                   "link": item.get("link"),
-                  "fonte": item.get("source_name"),
+                  "fonte": fonte,
                   "imagem": item.get("image_url"),
                   "data": item.get("pubDate")
               })
 
+              # Parar quando tivermos 8 notícias válidas
+              if len(noticias) >= 8:
+                  break
+
           resultado = {
               "atualizado": datetime.now(timezone.utc).isoformat(),
-              "noticias": noticias[:20]
+              "noticias": noticias
           }
 
           with open("noticias.json", "w", encoding="utf-8") as arquivo:
-              json.dump(resultado, arquivo, ensure_ascii=False, indent=2)
+              json.dump(
+                  resultado,
+                  arquivo,
+                  ensure_ascii=False,
+                  indent=2
+              )
 
-          print(f"{len(noticias)} notícias encontradas.")
+          print(f"{len(noticias)} notícias válidas encontradas.")
+
           PY
 
       - name: Salvar notícias no GitHub
         run: |
           git config user.name "Radio J.A FM"
           git config user.email "actions@users.noreply.github.com"
+
           git add noticias.json
+
           git diff --cached --quiet || git commit -m "Atualizar notícias"
+
           git push
