@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Baixar repositório
         uses: actions/checkout@v4
 
@@ -24,6 +25,7 @@ jobs:
       - name: Buscar notícias
         shell: python
         run: |
+
           import json
           import os
           import re
@@ -31,16 +33,16 @@ jobs:
           import hashlib
           import urllib.parse
           import urllib.request
+          import urllib.error
           import xml.etree.ElementTree as ET
           from datetime import datetime, timezone
 
-          ARQUIVO = "noticias.json"
 
-          # ---------------------------------------------------------
-          # CONFIGURAÇÃO
-          # ---------------------------------------------------------
+          ARQUIVO = "noticias.json"
+          PASTA_IMAGENS = "imagens"
 
           QUANTIDADE_MAXIMA = 8
+
 
           CONSULTAS = [
               "Pará",
@@ -56,57 +58,80 @@ jobs:
               "Brasil"
           ]
 
-          # Fontes que não devem aparecer
+
           FONTES_BLOQUEADAS = [
               "mix vale",
               "mixvale"
           ]
 
-          # Domínios que não devem aparecer
+
           DOMINIOS_BLOQUEADOS = [
               "mixvale.com.br",
               "mixvale"
           ]
+
+
+          os.makedirs(
+              PASTA_IMAGENS,
+              exist_ok=True
+          )
+
 
           # ---------------------------------------------------------
           # FUNÇÕES
           # ---------------------------------------------------------
 
           def limpar_texto(texto):
+
               if not texto:
                   return ""
 
-              texto = re.sub(r"<[^>]+>", "", texto)
-              texto = re.sub(r"\s+", " ", texto)
+              texto = re.sub(
+                  r"<[^>]+>",
+                  "",
+                  texto
+              )
+
+              texto = re.sub(
+                  r"\s+",
+                  " ",
+                  texto
+              )
+
               return texto.strip()
 
 
           def gerar_id(link, titulo):
-              base = (link or titulo or "").encode("utf-8")
-              return hashlib.md5(base).hexdigest()
+
+              base = (
+                  link
+                  or titulo
+                  or ""
+              ).encode("utf-8")
+
+              return hashlib.md5(
+                  base
+              ).hexdigest()
 
 
           def buscar_url(url, tentativas=4):
-              """
-              Faz a requisição com User-Agent e tratamento de HTTP 429.
-              """
 
               headers = {
-                  "User-Agent": (
+                  "User-Agent":
                       "Mozilla/5.0 "
                       "(X11; Linux x86_64) "
                       "AppleWebKit/537.36 "
                       "(KHTML, like Gecko) "
-                      "Chrome/131.0 Safari/537.36"
-                  ),
-                  "Accept": (
-                      "application/rss+xml, "
-                      "application/xml, "
-                      "text/xml, "
-                      "*/*"
-                  ),
-                  "Accept-Language": "pt-BR,pt;q=0.9"
+                      "Chrome/131.0 Safari/537.36",
+
+                  "Accept":
+                      "text/html,application/xhtml+xml,"
+                      "application/xml;q=0.9,*/*;q=0.8",
+
+                  "Accept-Language":
+                      "pt-BR,pt;q=0.9"
               }
+
 
               for tentativa in range(tentativas):
 
@@ -119,68 +144,118 @@ jobs:
 
                       with urllib.request.urlopen(
                           requisicao,
-                          timeout=20
+                          timeout=25
                       ) as resposta:
 
                           return resposta.read()
+
 
                   except urllib.error.HTTPError as erro:
 
                       if erro.code == 429:
 
-                          espera = 5 * (tentativa + 1)
+                          espera = 5 * (
+                              tentativa + 1
+                          )
 
                           print(
-                              f"HTTP 429 recebido. "
+                              f"HTTP 429. "
                               f"Aguardando {espera}s..."
                           )
 
-                          time.sleep(espera)
+                          time.sleep(
+                              espera
+                          )
+
                           continue
 
+
                       print(
-                          f"HTTP {erro.code} ao acessar {url}"
+                          f"HTTP {erro.code}: {url}"
                       )
 
                       return None
 
+
                   except Exception as erro:
 
                       print(
-                          f"Erro ao acessar {url}: {erro}"
+                          f"Erro: {erro}"
                       )
 
                       if tentativa < tentativas - 1:
                           time.sleep(3)
 
+
               return None
 
 
-          def extrair_texto(elemento, nomes):
+          def extrair_texto(item, nomes):
 
               for nome in nomes:
 
-                  encontrado = elemento.find(nome)
+                  elemento = item.find(nome)
 
-                  if encontrado is not None and encontrado.text:
-                      return limpar_texto(encontrado.text)
+                  if (
+                      elemento is not None
+                      and elemento.text
+                  ):
+
+                      return limpar_texto(
+                          elemento.text
+                      )
 
               return ""
 
 
           def extrair_link(item):
 
-              link = item.find("link")
+              elemento = item.find("link")
 
-              if link is not None:
+              if elemento is not None:
 
-                  if link.text:
-                      return link.text.strip()
+                  if elemento.text:
+                      return elemento.text.strip()
 
-                  href = link.attrib.get("href")
+                  href = elemento.attrib.get(
+                      "href"
+                  )
 
                   if href:
                       return href.strip()
+
+
+              # Atom
+              for elemento in item.findall(
+                  "{http://www.w3.org/2005/Atom}link"
+              ):
+
+                  href = elemento.attrib.get(
+                      "href"
+                  )
+
+                  if href:
+                      return href.strip()
+
+
+              return ""
+
+
+          def extrair_fonte(item):
+
+              # Google News RSS
+              for elemento in item.iter():
+
+                  tag = elemento.tag.lower()
+
+                  if tag.endswith("source"):
+
+                      if elemento.text:
+
+                          return limpar_texto(
+                              elemento.text
+                          )
+
 
               return ""
 
@@ -195,86 +270,225 @@ jobs:
                   if (
                       tag.endswith("content")
                       or tag.endswith("thumbnail")
-                      or tag.endswith("image")
                   ):
 
-                      url = elemento.attrib.get("url")
+                      url = elemento.attrib.get(
+                          "url"
+                      )
 
                       if url:
                           return url
 
+
               # enclosure
-              enclosure = item.find("enclosure")
+              enclosure = item.find(
+                  "enclosure"
+              )
 
               if enclosure is not None:
 
-                  url = enclosure.attrib.get("url")
+                  url = enclosure.attrib.get(
+                      "url"
+                  )
 
                   if url:
                       return url
 
-              # descrição contendo imagem
+
+              # descrição
               descricao = extrair_texto(
                   item,
-                  ["description"]
+                  [
+                      "description",
+                      "{http://www.w3.org/2005/Atom}summary"
+                  ]
               )
+
 
               if descricao:
 
                   encontrado = re.search(
-                      r'https?://[^"\']+\.(?:jpg|jpeg|png|webp)',
+                      r'https?://[^"\']+'
+                      r'\.(?:jpg|jpeg|png|webp)',
                       descricao,
                       re.IGNORECASE
                   )
 
                   if encontrado:
+
                       return encontrado.group(0)
+
 
               return ""
 
 
-          def fonte_bloqueada(fonte, link):
+          def fonte_bloqueada(
+              fonte,
+              link
+          ):
 
-              fonte_lower = (fonte or "").lower()
-              link_lower = (link or "").lower()
+              fonte_lower = (
+                  fonte or ""
+              ).lower()
+
+              link_lower = (
+                  link or ""
+              ).lower()
+
 
               for termo in FONTES_BLOQUEADAS:
 
                   if termo in fonte_lower:
                       return True
 
+
               for dominio in DOMINIOS_BLOQUEADOS:
 
                   if dominio in link_lower:
                       return True
 
+
               return False
 
 
-          def processar_feed(xml, consulta):
+          def baixar_imagem(
+              url,
+              id_noticia
+          ):
 
-              noticias = []
+              if not url:
+                  return ""
+
 
               try:
 
-                  raiz = ET.fromstring(xml)
+                  extensao = ".jpg"
+
+                  url_lower = url.lower()
+
+                  if ".png" in url_lower:
+                      extensao = ".png"
+
+                  elif ".webp" in url_lower:
+                      extensao = ".webp"
+
+                  elif ".jpeg" in url_lower:
+                      extensao = ".jpeg"
+
+
+                  nome_arquivo = (
+                      id_noticia
+                      + extensao
+                  )
+
+                  caminho = os.path.join(
+                      PASTA_IMAGENS,
+                      nome_arquivo
+                  )
+
+
+                  headers = {
+                      "User-Agent":
+                          "Mozilla/5.0 "
+                          "(X11; Linux x86_64) "
+                          "AppleWebKit/537.36 "
+                          "(KHTML, like Gecko) "
+                          "Chrome/131.0 Safari/537.36",
+
+                      "Referer":
+                          "https://news.google.com/"
+                  }
+
+
+                  requisicao = urllib.request.Request(
+                      url,
+                      headers=headers
+                  )
+
+
+                  with urllib.request.urlopen(
+                      requisicao,
+                      timeout=25
+                  ) as resposta:
+
+                      dados = resposta.read()
+
+
+                  if not dados:
+                      return ""
+
+
+                  with open(
+                      caminho,
+                      "wb"
+                  ) as arquivo:
+
+                      arquivo.write(dados)
+
+
+                  print(
+                      f"Imagem salva: {caminho}"
+                  )
+
+
+                  return (
+                      "https://raw.githubusercontent.com/"
+                      "jafmaovivo-pixel/"
+                      "radioja-noticias/"
+                      "main/"
+                      "imagens/"
+                      + nome_arquivo
+                  )
+
 
               except Exception as erro:
 
                   print(
-                      f"Erro ao interpretar RSS de '{consulta}': {erro}"
+                      f"Não foi possível baixar "
+                      f"a imagem: {url}"
+                  )
+
+                  print(
+                      f"Motivo: {erro}"
+                  )
+
+                  return ""
+
+
+          def processar_feed(
+              xml,
+              consulta
+          ):
+
+              noticias = []
+
+
+              try:
+
+                  raiz = ET.fromstring(
+                      xml
+                  )
+
+              except Exception as erro:
+
+                  print(
+                      f"Erro no XML: {erro}"
                   )
 
                   return noticias
 
-              # RSS tradicional
-              itens = raiz.findall(".//item")
 
-              # Atom
+              itens = raiz.findall(
+                  ".//item"
+              )
+
+
               if not itens:
+
                   itens = raiz.findall(
                       ".//{http://www.w3.org/2005/Atom}entry"
                   )
+
 
               for item in itens:
 
@@ -286,7 +500,11 @@ jobs:
                       ]
                   )
 
-                  link = extrair_link(item)
+
+                  link = extrair_link(
+                      item
+                  )
+
 
                   descricao = extrair_texto(
                       item,
@@ -296,6 +514,7 @@ jobs:
                           "{http://www.w3.org/2005/Atom}summary"
                       ]
                   )
+
 
                   data = extrair_texto(
                       item,
@@ -308,42 +527,91 @@ jobs:
                       ]
                   )
 
-                  imagem = extrair_imagem(item)
+
+                  fonte = extrair_fonte(
+                      item
+                  )
+
+
+                  imagem_original = (
+                      extrair_imagem(
+                          item
+                      )
+                  )
+
 
                   if not titulo or not link:
                       continue
 
-                  # RSS do Google News costuma fornecer
-                  # o nome da fonte no título/descrição.
-                  fonte = "Rádio JA FM"
+
+                  if fonte_bloqueada(
+                      fonte,
+                      link
+                  ):
+                      continue
+
+
+                  id_noticia = gerar_id(
+                      link,
+                      titulo
+                  )
+
+
+                  imagem_local = (
+                      baixar_imagem(
+                          imagem_original,
+                          id_noticia
+                      )
+                  )
+
 
                   noticia = {
-                      "id": gerar_id(link, titulo),
-                      "titulo": titulo,
-                      "descricao": descricao,
-                      "link": link,
-                      "fonte": fonte,
-                      "imagem": imagem,
-                      "data": data,
-                      "categoria": "PARÁ"
+
+                      "id":
+                          id_noticia,
+
+                      "titulo":
+                          titulo,
+
+                      "descricao":
+                          descricao,
+
+                      "link":
+                          link,
+
+                      "fonte":
+                          fonte
+                          or "Rádio JA FM",
+
+                      "imagem":
+                          imagem_local,
+
+                      "data":
+                          data,
+
+                      "categoria":
+                          "PARÁ"
                   }
 
-                  if not fonte_bloqueada(
-                      noticia["fonte"],
-                      noticia["link"]
-                  ):
-                      noticias.append(noticia)
+
+                  noticias.append(
+                      noticia
+                  )
+
 
               return noticias
 
 
           # ---------------------------------------------------------
-          # LER ARQUIVO ATUAL
+          # LER NOTÍCIAS ANTIGAS
           # ---------------------------------------------------------
 
           noticias_antigas = []
 
-          if os.path.exists(ARQUIVO):
+
+          if os.path.exists(
+              ARQUIVO
+          ):
 
               try:
 
@@ -353,70 +621,105 @@ jobs:
                       encoding="utf-8"
                   ) as arquivo:
 
-                      dados = json.load(arquivo)
+                      dados = json.load(
+                          arquivo
+                      )
 
                       if isinstance(
                           dados.get("noticias"),
                           list
                       ):
-                          noticias_antigas = dados["noticias"]
+
+                          noticias_antigas = (
+                              dados["noticias"]
+                          )
+
 
               except Exception as erro:
 
                   print(
-                      f"Não foi possível ler noticias.json: {erro}"
+                      f"Erro lendo noticias.json: "
+                      f"{erro}"
                   )
 
 
           # ---------------------------------------------------------
-          # BUSCAR NOTÍCIAS
+          # BUSCAR
           # ---------------------------------------------------------
 
           noticias_novas = []
 
+
           for consulta in CONSULTAS:
 
               print("")
-              print("=" * 60)
-              print(f"Consultando: {consulta}")
-              print("=" * 60)
+              print(
+                  "=" * 60
+              )
+              print(
+                  f"Consultando: {consulta}"
+              )
+              print(
+                  "=" * 60
+              )
+
 
               parametros = urllib.parse.urlencode({
-                  "q": consulta,
-                  "hl": "pt-BR",
-                  "gl": "BR",
-                  "ceid": "BR:pt-419"
+
+                  "q":
+                      consulta,
+
+                  "hl":
+                      "pt-BR",
+
+                  "gl":
+                      "BR",
+
+                  "ceid":
+                      "BR:pt-419"
+
               })
+
 
               url = (
                   "https://news.google.com/rss/search?"
                   + parametros
               )
 
-              xml = buscar_url(url)
+
+              xml = buscar_url(
+                  url
+              )
+
 
               if not xml:
 
                   print(
-                      f"Não foi possível consultar: {consulta}"
+                      f"Consulta falhou: {consulta}"
                   )
 
-                  # Pequena pausa para evitar excesso de requisições
                   time.sleep(2)
+
                   continue
+
 
               encontrados = processar_feed(
                   xml,
                   consulta
               )
 
+
               print(
-                  f"Encontradas: {len(encontrados)}"
+                  f"Encontradas: "
+                  f"{len(encontrados)}"
               )
 
-              noticias_novas.extend(encontrados)
 
-              # Evita disparar várias requisições seguidas
+              noticias_novas.extend(
+                  encontrados
+              )
+
+
               time.sleep(2)
 
 
@@ -425,10 +728,9 @@ jobs:
           # ---------------------------------------------------------
 
           todas = []
-
           vistos = set()
 
-          # Notícias novas primeiro
+
           for noticia in noticias_novas:
 
               chave = (
@@ -437,15 +739,21 @@ jobs:
                   or noticia.get("id")
               )
 
+
               if chave in vistos:
                   continue
 
-              vistos.add(chave)
-              todas.append(noticia)
+
+              vistos.add(
+                  chave
+              )
+
+              todas.append(
+                  noticia
+              )
 
 
-          # Depois preserva notícias antigas
-          # caso alguma consulta tenha falhado.
+          # Notícias antigas somente como reserva
           for noticia in noticias_antigas:
 
               chave = (
@@ -454,8 +762,10 @@ jobs:
                   or noticia.get("id")
               )
 
+
               if chave in vistos:
                   continue
+
 
               if fonte_bloqueada(
                   noticia.get("fonte", ""),
@@ -463,74 +773,63 @@ jobs:
               ):
                   continue
 
-              vistos.add(chave)
-              todas.append(noticia)
+
+              vistos.add(
+                  chave
+              )
+
+              todas.append(
+                  noticia
+              )
 
 
           # ---------------------------------------------------------
-          # ORDENAR POR DATA
+          # ORDENAR
           # ---------------------------------------------------------
-
-          def data_valor(noticia):
-
-              valor = noticia.get("data", "")
-
-              if not valor:
-                  return ""
-
-              return valor
-
 
           todas.sort(
-              key=data_valor,
+              key=lambda x:
+                  x.get("data", ""),
               reverse=True
           )
 
 
-          # ---------------------------------------------------------
-          # PEGAR SOMENTE 8
-          # ---------------------------------------------------------
-
-          noticias_finais = todas[
-              :QUANTIDADE_MAXIMA
-          ]
+          noticias_finais = (
+              todas[:QUANTIDADE_MAXIMA]
+          )
 
 
           # ---------------------------------------------------------
-          # SE NÃO CONSEGUIU NADA, PRESERVAR O JSON
+          # PRESERVAR SE NÃO HOUVER RESULTADO
           # ---------------------------------------------------------
 
-          if len(noticias_finais) == 0:
+          if not noticias_finais:
 
-              print("")
               print(
-                  "ERRO: nenhuma notícia encontrada."
-              )
-              print(
-                  "O noticias.json existente será preservado."
+                  "Nenhuma notícia nova."
               )
 
-              if noticias_antigas:
-
-                  noticias_finais = noticias_antigas[
+              noticias_finais = (
+                  noticias_antigas[
                       :QUANTIDADE_MAXIMA
                   ]
-
-              else:
-
-                  # Não derruba o workflow.
-                  noticias_finais = []
+              )
 
 
           # ---------------------------------------------------------
-          # GERAR JSON
+          # JSON FINAL
           # ---------------------------------------------------------
 
           resultado = {
-              "atualizado": datetime.now(
-                  timezone.utc
-              ).isoformat(),
-              "noticias": noticias_finais
+
+              "atualizado":
+                  datetime.now(
+                      timezone.utc
+                  ).isoformat(),
+
+              "noticias":
+                  noticias_finais
+
           }
 
 
@@ -549,29 +848,38 @@ jobs:
 
 
           print("")
-          print("=" * 60)
           print(
-              f"Total de notícias salvas: "
+              "=" * 60
+          )
+          print(
+              f"NOTÍCIAS SALVAS: "
               f"{len(noticias_finais)}"
           )
-          print("=" * 60)
+          print(
+              "=" * 60
+          )
 
 
       - name: Salvar notícias no GitHub
         run: |
+
           git config user.name "Radio JA FM"
-          git config user.email "radiojafm@users.noreply.github.com"
+
+          git config user.email \
+            "radiojafm@users.noreply.github.com"
 
           git add noticias.json
+          git add imagens/
 
           if git diff --cached --quiet; then
-            echo "Nenhuma alteração nas notícias."
-          else
-            git commit -m "Atualizar notícias"
-            git push
-          fi
 
-      - name: Finalizar
-        run: |
-          echo "Busca de notícias concluída."
-          echo "Arquivo noticias.json atualizado."
+            echo "Nenhuma alteração."
+
+          else
+
+            git commit \
+              -m "Atualizar noticias e imagens"
+
+            git push
+
+          fi
