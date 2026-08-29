@@ -1,4 +1,85 @@
 {
-  "atualizado": "",
-  "noticias": []
+  "atualizado": "2026-08-29T21:22:03.939777+00:00",
+  "noticias": [
+    {
+      "id": "f8aa2b960f362b812b617e9d583e63bc",
+      "titulo": "Quanto custa jantar no Hotel Tivoli? Influenciadora revela valores da experiência chique em Belém",
+      "descricao": "Quanto custa jantar no Hotel Tivoli? Influenciadora revela valores da experiência chique em Belém",
+      "link": "https://diariodopara.com.br/cotidiano/quanto-custa-jantar-no-hotel-tivoli-influenciadora-revela-valores-da-experiencia-chique-em-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_itlia-wine-bar-e-restaurante-abre-suas-portas-nesta-tera-em-belm-wg518e8ipo.jpg",
+      "data": "2026-08-29T21:22:03.939633+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1d819235b0cdc0c7e508b12261b3041f",
+      "titulo": "Bolinho de chuva salgado existe! Aprenda a fazer essa receita fácil e irresistível",
+      "descricao": "Bolinho de chuva salgado existe! Aprenda a fazer essa receita fácil e irresistível",
+      "link": "https://diariodopara.com.br/entretenimento/toda/bolinho-de-chuva-salgado-existe-aprenda-a-fazer-essa-receita-facil-e-irresistivel/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/Bolinho-de-Chuva-Salgado-receita-facil-e-rapida-para-um-petisco-delicioso-1.jpg",
+      "data": "2026-08-29T21:22:03.878525+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5d4710823ebd4ac9405f68c367924ce7",
+      "titulo": "Justiça em Fatos - Luiz Flávio",
+      "descricao": "Justiça em Fatos - Luiz Flávio",
+      "link": "https://diariodopara.com.br/colunas/justica-em-fatos-luiz-flavio/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://diariodopara.com.br/wp-content/uploads/2024/05/1200x675px.png",
+      "data": "2026-08-29T21:22:03.683757+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0785a8cc536ec1a3ad2f6c00a57bade7",
+      "titulo": "Videolocadora Carlos Eduardo Vilaça",
+      "descricao": "Videolocadora Carlos Eduardo Vilaça",
+      "link": "https://diariodopara.com.br/colunas/videolocadora-carlos-eduardo-vilaca/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://diariodopara.com.br/wp-content/uploads/2024/05/1200x675px.png",
+      "data": "2026-08-29T21:22:03.640919+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "423d549582b18a9cdcbcbec87685d050",
+      "titulo": "UFPA inaugura novo polo em Goianésia do Pará para expandir ensino superior e técnico no interior",
+      "descricao": "UFPA inaugura novo polo em Goianésia do Pará para expandir ensino superior e técnico no interior",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/ufpa-inaugura-novo-polo-em-goianesia-do-para-para-expandir-ensino-superior-e-tecnico-no-interior.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/yj3iNQgSo7bRkN8F9CiIqy_COQk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/J/KzY48QTRK6PSgrbMEAtQ/1000453772.jpg",
+      "data": "2026-08-29T21:22:03.357149+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f8f98e692153d59637aafd8eb9df0d8b",
+      "titulo": "Cinco homens são presos após troca de tiros com PMs em Marabá",
+      "descricao": "Cinco homens são presos após troca de tiros com PMs em Marabá",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/cinco-homens-sao-presos-apos-troca-de-tiros-com-pms-em-maraba.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/-rhzl3VgAPHeUdGnvvQ-MH-7VOU=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/K/RB2AxfQAAuMxckBFck3w/whatsapp-image-2026-08-29-at-10.30.14.jpeg",
+      "data": "2026-08-29T21:22:02.856606+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b4bd7476525cbb7348bdafa9fbce3d1b",
+      "titulo": "Motorista é preso com mais de 500 kg de drogas escondidos em caminhão carregado de milho no Pará",
+      "descricao": "Motorista é preso com mais de 500 kg de drogas escondidos em caminhão carregado de milho no Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/motorista-e-preso-com-mais-de-500-kg-de-drogas-escondidos-em-caminhao-carregado-de-milho-no-para.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/quqAc7MP-Px2l10CzlLisFKINRI=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/m/pdgtDhQfuYwCkB9NQPAQ/whatsapp-image-2026-08-29-at-10.55.51-1-.jpeg",
+      "data": "2026-08-29T21:22:02.433094+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "820f845dbfeb1779b50e4d0342e3a4d5",
+      "titulo": "'Nada do que foi dito muda a verdade sobre quem ela era', diz mãe em carta aberta",
+      "descricao": "'Nada do que foi dito muda a verdade sobre quem ela era', diz mãe em carta aberta",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/caso-yasmin-macedo-nada-do-que-foi-dito-muda-a-verdade-sobre-quem-ela-era-diz-mae-em-carta-aberta.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/aolkZ6n1Yjkho353xdHM2r-00qU=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/o/AuOtrjTv6N0NQUTuUQkg/img-6858.png",
+      "data": "2026-08-29T21:22:01.822751+00:00",
+      "categoria": "PARÁ"
+    }
+  ]
 }
