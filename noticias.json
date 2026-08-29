@@ -1,64 +1,24 @@
 {
-  "atualizado": "2026-08-29T21:38:22.055363+00:00",
+  "atualizado": "2026-08-29T21:43:35.662057+00:00",
   "noticias": [
     {
-      "id": "41f7de4b205eb61259ba530a3748350c",
-      "titulo": "Conheça os bastidores do filme que levou a aparelhagem para o centro do pop brasileiro",
-      "descricao": "Conheça os bastidores do filme que levou a aparelhagem para o centro do pop brasileiro",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/28/um-ano-de-rock-doido-conheca-os-bastidores-do-filme-que-levou-a-aparelhagem-para-o-centro-do-pop-brasileiro.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/CTzoUULmKczENDmz7WJPSsQC5mE=/5317x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/u/6Pdl5KQDaqqctidh7mhg/altar-sonoro-1-.jpg",
-      "data": "2026-08-29T21:38:22.052552+00:00",
+      "id": "b180605b1523834e25760595fa29b2de",
+      "titulo": "Feira do Livro dedica 1º dia às histórias de Nazaré Pereira e Jabutigão",
+      "descricao": "Feira do Livro dedica 1º dia às histórias de Nazaré Pereira e Jabutigão",
+      "link": "https://www.oliberal.com/cultura/feira-pan-amazonica-dedica-primeiro-sabado-as-historias-e-obras-de-nazare-pereira-e-jabutigao-1.1162570",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162572:1788002086/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-29T21:43:35.661845+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "2c2c4784cb94c04b9859eb7bdbcdb7b4",
-      "titulo": "Horário eleitoral gratuito: como foi 1° dia de propaganda na TV de candidatos ao governo",
-      "descricao": "Horário eleitoral gratuito: como foi 1° dia de propaganda na TV de candidatos ao governo",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/28/horario-eleitoral-gratuito-como-foi-1-dia-de-propaganda-na-tv-de-candidatos-ao-governo-do-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/jxMrAmytIjNOOSkQp6uhP9FO1EY=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/31/92/14909231",
-      "data": "2026-08-29T21:38:21.428312+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "423d549582b18a9cdcbcbec87685d050",
-      "titulo": "UFPA inaugura novo polo em Goianésia do Pará para expandir ensino superior e técnico no interior",
-      "descricao": "UFPA inaugura novo polo em Goianésia do Pará para expandir ensino superior e técnico no interior",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/ufpa-inaugura-novo-polo-em-goianesia-do-para-para-expandir-ensino-superior-e-tecnico-no-interior.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/yj3iNQgSo7bRkN8F9CiIqy_COQk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/J/KzY48QTRK6PSgrbMEAtQ/1000453772.jpg",
-      "data": "2026-08-29T21:38:20.613383+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f8f98e692153d59637aafd8eb9df0d8b",
-      "titulo": "Cinco homens são presos após troca de tiros com PMs em Marabá",
-      "descricao": "Cinco homens são presos após troca de tiros com PMs em Marabá",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/cinco-homens-sao-presos-apos-troca-de-tiros-com-pms-em-maraba.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/-rhzl3VgAPHeUdGnvvQ-MH-7VOU=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/K/RB2AxfQAAuMxckBFck3w/whatsapp-image-2026-08-29-at-10.30.14.jpeg",
-      "data": "2026-08-29T21:38:20.613214+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b4bd7476525cbb7348bdafa9fbce3d1b",
-      "titulo": "Motorista é preso com mais de 500 kg de drogas escondidos em caminhão carregado de milho no Pará",
-      "descricao": "Motorista é preso com mais de 500 kg de drogas escondidos em caminhão carregado de milho no Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/motorista-e-preso-com-mais-de-500-kg-de-drogas-escondidos-em-caminhao-carregado-de-milho-no-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/quqAc7MP-Px2l10CzlLisFKINRI=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/m/pdgtDhQfuYwCkB9NQPAQ/whatsapp-image-2026-08-29-at-10.55.51-1-.jpeg",
-      "data": "2026-08-29T21:38:20.613043+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "820f845dbfeb1779b50e4d0342e3a4d5",
-      "titulo": "'Nada do que foi dito muda a verdade sobre quem ela era', diz mãe em carta aberta",
-      "descricao": "'Nada do que foi dito muda a verdade sobre quem ela era', diz mãe em carta aberta",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/caso-yasmin-macedo-nada-do-que-foi-dito-muda-a-verdade-sobre-quem-ela-era-diz-mae-em-carta-aberta.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/aolkZ6n1Yjkho353xdHM2r-00qU=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/o/AuOtrjTv6N0NQUTuUQkg/img-6858.png",
-      "data": "2026-08-29T21:38:20.612877+00:00",
+      "id": "01e5f9f1cf7004b7131205778f16776e",
+      "titulo": "'Homem-Peixe' é encontrado e resgatado vivo nadando em área portuária de Vila do Conde",
+      "descricao": "'Homem-Peixe' é encontrado e resgatado vivo nadando em área portuária de Vila do Conde",
+      "link": "https://www.oliberal.com/policia/homem-peixe-e-encontrado-e-resgatado-vivo-nadando-em-area-portuaria-de-vila-do-conde-1.1162423",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162434:1787953070/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-29T21:43:35.316288+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -68,7 +28,7 @@
       "link": "https://www.oliberal.com/belem/homem-peixe-anuncia-que-seguira-nadando-ate-belem-apos-atravessar-a-baia-do-marajo-1.1162760",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162765:1788038258/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-29T21:38:18.396919+00:00",
+      "data": "2026-08-29T21:43:34.994934+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -78,7 +38,47 @@
       "link": "https://www.oliberal.com/esportes/futebol/remo-paysandu-tuna-e-vasco-lancam-camisas-especiais-para-o-cirio-2026-na-terca-1-1.1162301",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162304:1787936787/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-29T21:38:18.190213+00:00",
+      "data": "2026-08-29T21:43:34.994728+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bae58f41eb6a0ab07e69fbe3992d6fee",
+      "titulo": "É casa cheia! Arquibancadas do lado B para Paysandu x Maringá estão esgotadas",
+      "descricao": "É casa cheia! Arquibancadas do lado B para Paysandu x Maringá estão esgotadas",
+      "link": "https://www.oliberal.com/esportes/paysandu/e-casa-cheia-arquibancadas-do-lado-b-para-paysandu-x-maringa-estao-esgotadas-1.1162184",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.726220:1694700174/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-29T21:43:34.994486+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "635eb80a74679fb4997a68091a5c36fc",
+      "titulo": "Lobo Mau aparece fantasiado de árabe antes de Paysandu x Maringá",
+      "descricao": "Lobo Mau aparece fantasiado de árabe antes de Paysandu x Maringá",
+      "link": "https://www.oliberal.com/esportes/paysandu/lobo-mau-aparece-fantasiado-de-arabe-antes-de-paysandu-x-maringa-1.1162663",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162673:1788032879/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-29T21:43:34.679086+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "12853702f0fdf976fd51d07d62ef2f3c",
+      "titulo": "O que acontece se o Paysandu levar um gol do Maringá? Veja os cenários",
+      "descricao": "O que acontece se o Paysandu levar um gol do Maringá? Veja os cenários",
+      "link": "https://www.oliberal.com/esportes/paysandu/o-que-acontece-se-o-paysandu-levar-um-gol-do-maringa-veja-os-cenarios-1.1162732",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162721:1788036369/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-29T21:43:34.370182+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "47edbe5ee1cdc29492a17cedc13b1eb5",
+      "titulo": "Paysandu perde muitas chances de gol e pode se complicar; acompanhe",
+      "descricao": "Paysandu perde muitas chances de gol e pode se complicar; acompanhe",
+      "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/paysandu-x-maring%C3%A1",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
+      "data": "2026-08-29T21:43:34.063372+00:00",
       "categoria": "PARÁ"
     }
   ]
