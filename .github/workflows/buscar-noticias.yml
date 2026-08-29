@@ -41,162 +41,262 @@ jobs:
           import hashlib
           import requests
           import feedparser
+
           from datetime import datetime, timezone
           from bs4 import BeautifulSoup
 
 
           ARQUIVO = "noticias.json"
 
-          # ---------------------------------------------------------
-          # CONFIGURAÇÃO
-          # ---------------------------------------------------------
-
           LIMITE = 8
+
+
+          # =========================================================
+          # FONTES
+          # =========================================================
 
           FONTES = [
 
               {
-                  "nome": "G1 - O Portal",
-                  "url": "https://g1.globo.com/rss/g1/para/"
+                  "nome": "Diário do Pará",
+                  "tipo": "rss",
+                  "url": "https://diariodopara.com.br/feed/"
               },
 
               {
                   "nome": "O Liberal",
-                  "url": "https://www.oliberal.com/rss"
+                  "tipo": "pagina",
+                  "url": "https://www.oliberal.com/"
               },
 
               {
-                  "nome": "Diário do Pará",
-                  "url": "https://diariodopara.com.br/feed/"
+                  "nome": "G1 - O Portal",
+                  "tipo": "pagina",
+                  "url": "https://g1.globo.com/pa/para/"
               }
 
           ]
 
 
-          # ---------------------------------------------------------
-          # FUNÇÕES
-          # ---------------------------------------------------------
+          # =========================================================
+          # SESSÃO HTTP
+          # =========================================================
 
-          def limpar_texto(texto):
+          sessao = requests.Session()
+
+          sessao.headers.update({
+
+              "User-Agent":
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+              "AppleWebKit/537.36 "
+              "(KHTML, like Gecko) "
+              "Chrome/131.0 Safari/537.36",
+
+              "Accept":
+              "text/html,application/xhtml+xml,"
+              "application/xml;q=0.9,*/*;q=0.8"
+
+          })
+
+
+          # =========================================================
+          # FUNÇÕES
+          # =========================================================
+
+          def limpar(texto):
 
               if not texto:
                   return ""
 
-              soup = BeautifulSoup(texto, "html.parser")
+              soup = BeautifulSoup(
+                  texto,
+                  "html.parser"
+              )
 
-              texto = soup.get_text(" ", strip=True)
+              texto = soup.get_text(
+                  " ",
+                  strip=True
+              )
 
-              texto = re.sub(r"\s+", " ", texto)
+              texto = re.sub(
+                  r"\s+",
+                  " ",
+                  texto
+              )
 
               return texto.strip()
 
 
           def criar_id(titulo, link):
 
-              base = (titulo + "|" + link).encode("utf-8")
+              base = (
+                  titulo.strip()
+                  + "|"
+                  + link.strip()
+              )
 
-              return hashlib.md5(base).hexdigest()
+              return hashlib.md5(
+                  base.encode("utf-8")
+              ).hexdigest()
 
 
-          def extrair_imagem(item):
+          def imagem_do_item(item):
 
-              # media_content
-              if hasattr(item, "media_content"):
+              try:
 
-                  try:
+                  if hasattr(
+                      item,
+                      "media_content"
+                  ):
 
                       for media in item.media_content:
 
                           if media.get("url"):
 
-                              return media.get("url")
+                              return media["url"]
 
-                  except Exception:
-                      pass
+              except Exception:
+                  pass
 
 
-              # media_thumbnail
-              if hasattr(item, "media_thumbnail"):
+              try:
 
-                  try:
+                  if hasattr(
+                      item,
+                      "media_thumbnail"
+                  ):
 
                       for media in item.media_thumbnail:
 
                           if media.get("url"):
 
-                              return media.get("url")
+                              return media["url"]
 
-                  except Exception:
-                      pass
-
-
-              # enclosure
-              if hasattr(item, "enclosures"):
-
-                  try:
-
-                      for enclosure in item.enclosures:
-
-                          url = enclosure.get("href") or enclosure.get("url")
-
-                          if url:
-                              return url
-
-                  except Exception:
-                      pass
+              except Exception:
+                  pass
 
 
-              # imagem dentro da descrição
-              descricao = item.get("description", "")
+              try:
 
-              if descricao:
+                  for enclosure in item.get(
+                      "enclosures",
+                      []
+                  ):
 
-                  soup = BeautifulSoup(descricao, "html.parser")
+                      url = (
+                          enclosure.get("href")
+                          or enclosure.get("url")
+                      )
+
+                      if url:
+                          return url
+
+              except Exception:
+                  pass
+
+
+              try:
+
+                  html = (
+                      item.get("summary", "")
+                      or item.get("description", "")
+                  )
+
+                  soup = BeautifulSoup(
+                      html,
+                      "html.parser"
+                  )
 
                   img = soup.find("img")
 
-                  if img and img.get("src"):
+                  if img:
 
-                      return img.get("src")
+                      return (
+                          img.get("src")
+                          or img.get("data-src")
+                          or ""
+                      )
+
+              except Exception:
+                  pass
 
 
               return ""
 
 
-          def obter_data(item):
+          def data_item(item):
 
               try:
 
-                  if item.get("published_parsed"):
+                  if item.get(
+                      "published_parsed"
+                  ):
 
                       return datetime.fromtimestamp(
-                          time.mktime(item.published_parsed),
+                          time.mktime(
+                              item.published_parsed
+                          ),
                           timezone.utc
                       ).isoformat()
 
               except Exception:
                   pass
 
+
               try:
 
-                  if item.get("updated_parsed"):
+                  if item.get(
+                      "updated_parsed"
+                  ):
 
                       return datetime.fromtimestamp(
-                          time.mktime(item.updated_parsed),
+                          time.mktime(
+                              item.updated_parsed
+                          ),
                           timezone.utc
                       ).isoformat()
 
               except Exception:
                   pass
 
-              return datetime.now(timezone.utc).isoformat()
+
+              return datetime.now(
+                  timezone.utc
+              ).isoformat()
 
 
-          # ---------------------------------------------------------
-          # LER JSON ATUAL
-          # ---------------------------------------------------------
+          def bloqueada(titulo, link):
 
-          noticias_antigas = []
+              texto = (
+                  (titulo or "")
+                  + " "
+                  + (link or "")
+              ).lower()
+
+
+              palavras = [
+
+                  "mixvale",
+                  "mix vale"
+
+              ]
+
+
+              for palavra in palavras:
+
+                  if palavra in texto:
+                      return True
+
+
+              return False
+
+
+          # =========================================================
+          # LER NOTÍCIAS EXISTENTES
+          # =========================================================
+
+          antigas = []
+
 
           if os.path.exists(ARQUIVO):
 
@@ -208,90 +308,93 @@ jobs:
                       encoding="utf-8"
                   ) as arquivo:
 
-                      dados_antigos = json.load(arquivo)
+                      dados = json.load(
+                          arquivo
+                      )
 
-                      if isinstance(
-                          dados_antigos,
-                          dict
+                      antigas = dados.get(
+                          "noticias",
+                          []
+                      )
+
+                      if not isinstance(
+                          antigas,
+                          list
                       ):
+                          antigas = []
 
-                          noticias_antigas = dados_antigos.get(
-                              "noticias",
-                              []
-                          )
 
               except Exception as erro:
 
                   print(
-                      "Aviso: não foi possível ler o JSON atual:",
+                      "Aviso ao ler JSON:",
                       erro
                   )
 
 
           print(
               "Notícias existentes:",
-              len(noticias_antigas)
+              len(antigas)
           )
 
-
-          # ---------------------------------------------------------
-          # BUSCAR NOVAS NOTÍCIAS
-          # ---------------------------------------------------------
 
           novas = []
 
 
-          for fonte in FONTES:
+          # =========================================================
+          # RSS
+          # =========================================================
 
-              nome = fonte["nome"]
-              url = fonte["url"]
+          def buscar_rss(fonte):
 
               print("")
-              print("====================================")
-              print("Consultando:", nome)
-              print(url)
-              print("====================================")
+              print(
+                  "===================================="
+              )
+
+              print(
+                  "Consultando:",
+                  fonte["nome"]
+              )
+
+              print(
+                  "===================================="
+              )
+
 
               try:
 
-                  # Pequena pausa para evitar bloqueios
-                  time.sleep(3)
+                  time.sleep(2)
 
-                  resposta = requests.get(
-                      url,
-                      headers={
-                          "User-Agent":
-                          "Mozilla/5.0 (compatible; RadioJA-FM/1.0)"
-                      },
+
+                  resposta = sessao.get(
+                      fonte["url"],
                       timeout=20
                   )
+
 
                   print(
                       "HTTP:",
                       resposta.status_code
                   )
 
+
                   if resposta.status_code == 429:
 
                       print(
-                          "429 - Fonte limitou as consultas."
+                          "429 - Fonte bloqueou temporariamente."
                       )
 
-                      print(
-                          "Ignorando esta fonte e continuando..."
-                      )
-
-                      continue
+                      return []
 
 
                   if resposta.status_code != 200:
 
                       print(
-                          "Fonte indisponível:",
-                          resposta.status_code
+                          "Fonte indisponível."
                       )
 
-                      continue
+                      return []
 
 
                   feed = feedparser.parse(
@@ -299,22 +402,16 @@ jobs:
                   )
 
 
-                  if not feed.entries:
-
-                      print(
-                          "Nenhuma notícia encontrada."
-                      )
-
-                      continue
+                  resultado = []
 
 
-                  contador = 0
+                  for item in feed.entries[:12]:
 
-
-                  for item in feed.entries:
-
-                      titulo = limpar_texto(
-                          item.get("title", "")
+                      titulo = limpar(
+                          item.get(
+                              "title",
+                              ""
+                          )
                       )
 
                       link = item.get(
@@ -324,34 +421,17 @@ jobs:
 
 
                       if not titulo or not link:
-
                           continue
 
 
-                      titulo_lower = titulo.lower()
-                      link_lower = link.lower()
-
-
-                      # ------------------------------------------------
-                      # BLOQUEIOS
-                      # ------------------------------------------------
-
-                      if "mixvale" in titulo_lower:
-                          continue
-
-                      if "mixvale" in link_lower:
-                          continue
-
-                      if "mix vale" in titulo_lower:
+                      if bloqueada(
+                          titulo,
+                          link
+                      ):
                           continue
 
 
-                      imagem = extrair_imagem(
-                          item
-                      )
-
-
-                      descricao = limpar_texto(
+                      descricao = limpar(
                           item.get(
                               "summary",
                               item.get(
@@ -362,12 +442,7 @@ jobs:
                       )
 
 
-                      data = obter_data(
-                          item
-                      )
-
-
-                      noticia = {
+                      resultado.append({
 
                           "id": criar_id(
                               titulo,
@@ -380,60 +455,336 @@ jobs:
 
                           "link": link,
 
-                          "fonte": nome,
+                          "fonte":
+                              fonte["nome"],
 
-                          "imagem": imagem,
+                          "imagem":
+                              imagem_do_item(
+                                  item
+                              ),
 
-                          "data": data,
+                          "data":
+                              data_item(
+                                  item
+                              ),
 
-                          "categoria": "PARÁ"
+                          "categoria":
+                              "PARÁ"
 
-                      }
-
-
-                      novas.append(
-                          noticia
-                      )
-
-                      contador += 1
-
-
-                      if contador >= 10:
-                          break
+                      })
 
 
                   print(
-                      "Notícias encontradas:",
-                      contador
+                      "Encontradas:",
+                      len(resultado)
                   )
+
+
+                  return resultado
 
 
               except Exception as erro:
 
                   print(
-                      "Erro nesta fonte:",
+                      "Erro RSS:",
                       erro
                   )
 
-                  print(
-                      "Continuando normalmente..."
+                  return []
+
+
+          # =========================================================
+          # PÁGINA HTML
+          # =========================================================
+
+          def buscar_pagina(fonte):
+
+              print("")
+              print(
+                  "===================================="
+              )
+
+              print(
+                  "Consultando:",
+                  fonte["nome"]
+              )
+
+              print(
+                  "===================================="
+              )
+
+
+              try:
+
+                  time.sleep(3)
+
+
+                  resposta = sessao.get(
+                      fonte["url"],
+                      timeout=25
                   )
 
-                  continue
+
+                  print(
+                      "HTTP:",
+                      resposta.status_code
+                  )
 
 
-          # ---------------------------------------------------------
-          # JUNTAR NOTÍCIAS NOVAS + ANTIGAS
-          # ---------------------------------------------------------
+                  if resposta.status_code == 429:
 
-          todas = novas + noticias_antigas
+                      print(
+                          "429 - Fonte bloqueou temporariamente."
+                      )
+
+                      return []
 
 
-          # ---------------------------------------------------------
+                  if resposta.status_code != 200:
+
+                      return []
+
+
+                  soup = BeautifulSoup(
+                      resposta.text,
+                      "html.parser"
+                  )
+
+
+                  resultado = []
+
+
+                  # -------------------------------------------------
+                  # Procurar links de notícias
+                  # -------------------------------------------------
+
+                  for a in soup.find_all(
+                      "a",
+                      href=True
+                  ):
+
+                      titulo = limpar(
+                          a.get_text(
+                              " ",
+                              strip=True
+                          )
+                      )
+
+
+                      href = a.get(
+                          "href",
+                          ""
+                      )
+
+
+                      if not titulo:
+                          continue
+
+
+                      if len(titulo) < 25:
+                          continue
+
+
+                      if len(titulo) > 180:
+                          continue
+
+
+                      # Link absoluto
+                      if href.startswith("/"):
+                          link = (
+                              fonte["url"].rstrip("/")
+                              + href
+                          )
+
+                      elif href.startswith(
+                          "http://"
+                      ) or href.startswith(
+                          "https://"
+                      ):
+
+                          link = href
+
+                      else:
+
+                          continue
+
+
+                      if bloqueada(
+                          titulo,
+                          link
+                      ):
+                          continue
+
+
+                      # Só aceitar matérias
+                      # das próprias fontes
+
+                      if fonte["nome"] == "O Liberal":
+
+                          if "oliberal.com" not in link:
+                              continue
+
+
+                      if fonte["nome"] == "G1 - O Portal":
+
+                          if "g1.globo.com" not in link:
+                              continue
+
+
+                      # Evitar páginas gerais
+
+                      partes_bloqueadas = [
+
+                          "/",
+                          "/busca",
+                          "/login",
+                          "/newsletter",
+                          "/videos",
+                          "/webstories"
+
+                      ]
+
+
+                      if link.rstrip("/") in partes_bloqueadas:
+                          continue
+
+
+                      # ------------------------------------------------
+                      # Procurar imagem próxima ao link
+                      # ------------------------------------------------
+
+                      imagem = ""
+
+
+                      try:
+
+                          pai = a.parent
+
+                          if pai:
+
+                              img = pai.find(
+                                  "img"
+                              )
+
+                              if img:
+
+                                  imagem = (
+                                      img.get("src")
+                                      or img.get(
+                                          "data-src"
+                                      )
+                                      or ""
+                                  )
+
+                      except Exception:
+                          pass
+
+
+                      resultado.append({
+
+                          "id": criar_id(
+                              titulo,
+                              link
+                          ),
+
+                          "titulo": titulo,
+
+                          "descricao":
+                              titulo,
+
+                          "link": link,
+
+                          "fonte":
+                              fonte["nome"],
+
+                          "imagem": imagem,
+
+                          "data":
+                              datetime.now(
+                                  timezone.utc
+                              ).isoformat(),
+
+                          "categoria":
+                              "PARÁ"
+
+                      })
+
+
+                      if len(resultado) >= 6:
+                          break
+
+
+                  print(
+                      "Encontradas:",
+                      len(resultado)
+                  )
+
+
+                  return resultado
+
+
+              except Exception as erro:
+
+                  print(
+                      "Erro página:",
+                      erro
+                  )
+
+                  return []
+
+
+          # =========================================================
+          # EXECUTAR FONTES
+          # =========================================================
+
+          for fonte in FONTES:
+
+              if fonte["tipo"] == "rss":
+
+                  noticias_fonte = buscar_rss(
+                      fonte
+                  )
+
+              else:
+
+                  noticias_fonte = buscar_pagina(
+                      fonte
+                  )
+
+
+              novas.extend(
+                  noticias_fonte
+              )
+
+
+          print("")
+          print(
+              "===================================="
+          )
+
+          print(
+              "TOTAL DE NOVAS NOTÍCIAS:",
+              len(novas)
+          )
+
+          print(
+              "===================================="
+          )
+
+
+          # =========================================================
+          # COMBINAR
+          # =========================================================
+
+          todas = novas + antigas
+
+
+          # =========================================================
           # REMOVER DUPLICADAS
-          # ---------------------------------------------------------
+          # =========================================================
 
           unicas = {}
+
 
           for noticia in todas:
 
@@ -445,6 +796,7 @@ jobs:
                   .strip()
                   .lower()
               )
+
 
               link = (
                   noticia.get(
@@ -473,69 +825,54 @@ jobs:
           )
 
 
-          # ---------------------------------------------------------
-          # ORDENAR POR DATA
-          # ---------------------------------------------------------
+          # =========================================================
+          # ORDENAR
+          # =========================================================
 
-          def data_noticia(noticia):
+          def ordenar(noticia):
 
-              try:
-
-                  return noticia.get(
-                      "data",
-                      ""
-                  )
-
-              except Exception:
-
-                  return ""
+              return noticia.get(
+                  "data",
+                  ""
+              )
 
 
           todas.sort(
-              key=data_noticia,
+              key=ordenar,
               reverse=True
           )
 
 
-          # ---------------------------------------------------------
-          # PEGAR AS 8 MAIS RECENTES
-          # ---------------------------------------------------------
+          # =========================================================
+          # LIMITE
+          # =========================================================
 
           resultado = todas[:LIMITE]
 
 
-          # ---------------------------------------------------------
-          # SE NÃO ENCONTROU NADA
-          # NÃO APAGA O JSON EXISTENTE
-          # ---------------------------------------------------------
+          # =========================================================
+          # PROTEÇÃO
+          # =========================================================
 
           if len(novas) == 0:
 
               print("")
               print(
-                  "===================================="
+                  "Nenhuma fonte entregou notícias novas."
               )
 
               print(
-                  "NENHUMA NOTÍCIA NOVA FOI ENCONTRADA."
-              )
-
-              print(
-                  "O noticias.json será preservado."
-              )
-
-              print(
-                  "===================================="
+                  "O noticias.json atual será preservado."
               )
 
               raise SystemExit(0)
 
 
-          # ---------------------------------------------------------
-          # SALVAR JSON
-          # ---------------------------------------------------------
+          # =========================================================
+          # SALVAR
+          # =========================================================
 
-          dados = {
+          dados_finais = {
 
               "atualizado":
                   datetime.now(
@@ -555,7 +892,7 @@ jobs:
           ) as arquivo:
 
               json.dump(
-                  dados,
+                  dados_finais,
                   arquivo,
                   ensure_ascii=False,
                   indent=2
@@ -572,12 +909,12 @@ jobs:
           )
 
           print(
-              "Novas notícias:",
+              "Notícias novas:",
               len(novas)
           )
 
           print(
-              "Total gravado:",
+              "Notícias gravadas:",
               len(resultado)
           )
 
@@ -600,4 +937,3 @@ jobs:
           git diff --cached --quiet || git commit -m "Atualizar notícias"
 
           git push
-
