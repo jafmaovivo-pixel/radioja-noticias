@@ -2,7 +2,6 @@ name: Buscar notícias
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "*/30 * * * *"
 
@@ -18,249 +17,186 @@ jobs:
       - name: Baixar repositório
         uses: actions/checkout@v4
 
-      - name: Buscar notícias do Pará
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests feedparser beautifulsoup4
+
+      - name: Buscar notícias
+        env:
+          PYTHONUNBUFFERED: "1"
         run: |
 
-          python3 - <<'PY'
+          python3 <<'PY'
 
           import json
           import os
           import re
+          import time
           import hashlib
-          import urllib.request
-          import xml.etree.ElementTree as ET
+          import requests
+          import feedparser
           from datetime import datetime, timezone
-          from html import unescape
+          from bs4 import BeautifulSoup
 
 
           ARQUIVO = "noticias.json"
+
+          # ---------------------------------------------------------
+          # CONFIGURAÇÃO
+          # ---------------------------------------------------------
+
           LIMITE = 8
 
+          FONTES = [
 
-          FEEDS = [
-              (
-                  "G1 - O Portal",
-                  "https://g1.globo.com/dynamo/pa/para/rss2.xml"
-              ),
-              (
-                  "Diário do Pará",
-                  "https://diariodopara.com.br/feed/"
-              )
+              {
+                  "nome": "G1 - O Portal",
+                  "url": "https://g1.globo.com/rss/g1/para/"
+              },
+
+              {
+                  "nome": "O Liberal",
+                  "url": "https://www.oliberal.com/rss"
+              },
+
+              {
+                  "nome": "Diário do Pará",
+                  "url": "https://diariodopara.com.br/feed/"
+              }
+
           ]
 
 
-          def limpar_html(texto):
+          # ---------------------------------------------------------
+          # FUNÇÕES
+          # ---------------------------------------------------------
+
+          def limpar_texto(texto):
 
               if not texto:
                   return ""
 
-              texto = unescape(texto)
+              soup = BeautifulSoup(texto, "html.parser")
 
-              texto = re.sub(
-                  r"<[^>]+>",
-                  " ",
-                  texto
-              )
+              texto = soup.get_text(" ", strip=True)
 
-              texto = re.sub(
-                  r"\s+",
-                  " ",
-                  texto
-              )
+              texto = re.sub(r"\s+", " ", texto)
 
               return texto.strip()
 
 
-          def baixar(url):
+          def criar_id(titulo, link):
 
-              req = urllib.request.Request(
-                  url,
-                  headers={
-                      "User-Agent":
-                      "Radio-JA-FM/1.0"
-                  }
-              )
+              base = (titulo + "|" + link).encode("utf-8")
 
-              with urllib.request.urlopen(
-                  req,
-                  timeout=30
-              ) as resposta:
-
-                  return resposta.read()
+              return hashlib.md5(base).hexdigest()
 
 
-          def texto(elemento):
+          def extrair_imagem(item):
 
-              if elemento is None:
-                  return ""
+              # media_content
+              if hasattr(item, "media_content"):
 
-              return "".join(
-                  elemento.itertext()
-              ).strip()
+                  try:
 
+                      for media in item.media_content:
 
-          noticias = []
+                          if media.get("url"):
 
-          links = set()
+                              return media.get("url")
 
-          titulos = set()
-
-
-          print("")
-          print("===================================")
-          print("BUSCANDO NOTÍCIAS")
-          print("===================================")
+                  except Exception:
+                      pass
 
 
-          for fonte, url in FEEDS:
+              # media_thumbnail
+              if hasattr(item, "media_thumbnail"):
 
-              print("")
-              print("Fonte:", fonte)
-              print("URL:", url)
+                  try:
+
+                      for media in item.media_thumbnail:
+
+                          if media.get("url"):
+
+                              return media.get("url")
+
+                  except Exception:
+                      pass
+
+
+              # enclosure
+              if hasattr(item, "enclosures"):
+
+                  try:
+
+                      for enclosure in item.enclosures:
+
+                          url = enclosure.get("href") or enclosure.get("url")
+
+                          if url:
+                              return url
+
+                  except Exception:
+                      pass
+
+
+              # imagem dentro da descrição
+              descricao = item.get("description", "")
+
+              if descricao:
+
+                  soup = BeautifulSoup(descricao, "html.parser")
+
+                  img = soup.find("img")
+
+                  if img and img.get("src"):
+
+                      return img.get("src")
+
+
+              return ""
+
+
+          def obter_data(item):
 
               try:
 
-                  xml = baixar(url)
+                  if item.get("published_parsed"):
 
-                  raiz = ET.fromstring(xml)
+                      return datetime.fromtimestamp(
+                          time.mktime(item.published_parsed),
+                          timezone.utc
+                      ).isoformat()
 
-                  itens = raiz.findall(
-                      ".//item"
-                  )
+              except Exception:
+                  pass
 
-                  print(
-                      "Itens encontrados:",
-                      len(itens)
-                  )
+              try:
 
+                  if item.get("updated_parsed"):
 
-                  for item in itens:
+                      return datetime.fromtimestamp(
+                          time.mktime(item.updated_parsed),
+                          timezone.utc
+                      ).isoformat()
 
-                      titulo = texto(
-                          item.find("title")
-                      )
+              except Exception:
+                  pass
 
-                      link = texto(
-                          item.find("link")
-                      )
-
-                      descricao = texto(
-                          item.find("description")
-                      )
-
-                      data = texto(
-                          item.find("pubDate")
-                      )
+              return datetime.now(timezone.utc).isoformat()
 
 
-                      if not titulo or not link:
-                          continue
+          # ---------------------------------------------------------
+          # LER JSON ATUAL
+          # ---------------------------------------------------------
 
-
-                      titulo_chave = (
-                          titulo
-                          .lower()
-                          .strip()
-                      )
-
-
-                      # -----------------------------
-                      # DUPLICADOS
-                      # -----------------------------
-
-                      if link in links:
-                          continue
-
-                      if titulo_chave in titulos:
-                          continue
-
-
-                      # -----------------------------
-                      # BLOQUEAR MIX VALE
-                      # -----------------------------
-
-                      texto_busca = (
-                          titulo
-                          + " "
-                          + link
-                          + " "
-                          + fonte
-                      ).lower()
-
-
-                      if (
-                          "mix vale" in texto_busca
-                          or
-                          "mixvale" in texto_busca
-                      ):
-
-                          print(
-                              "Ignorada Mix Vale:",
-                              titulo
-                          )
-
-                          continue
-
-
-                      links.add(link)
-
-                      titulos.add(
-                          titulo_chave
-                      )
-
-
-                      identificador = hashlib.md5(
-                          link.encode(
-                              "utf-8"
-                          )
-                      ).hexdigest()
-
-
-                      noticias.append({
-
-                          "id": identificador,
-
-                          "titulo": titulo,
-
-                          "descricao":
-                              limpar_html(
-                                  descricao
-                              ),
-
-                          "link": link,
-
-                          "fonte": fonte,
-
-                          "imagem": None,
-
-                          "data": data,
-
-                          "categoria": "PARÁ"
-
-                      })
-
-
-          # ---------------------------------------
-          # ORDENAR POR DATA ORIGINAL QUANDO POSSÍVEL
-          # ---------------------------------------
-
-          noticias = noticias[:LIMITE]
-
-
-          print("")
-          print("===================================")
-          print(
-              "TOTAL ENCONTRADO:",
-              len(noticias)
-          )
-          print("===================================")
-
-
-          # ---------------------------------------
-          # LER JSON ANTIGO
-          # ---------------------------------------
-
-          antigas = []
+          noticias_antigas = []
 
           if os.path.exists(ARQUIVO):
 
@@ -272,93 +208,334 @@ jobs:
                       encoding="utf-8"
                   ) as arquivo:
 
-                      dados = json.load(
-                          arquivo
+                      dados_antigos = json.load(arquivo)
+
+                      if isinstance(
+                          dados_antigos,
+                          dict
+                      ):
+
+                          noticias_antigas = dados_antigos.get(
+                              "noticias",
+                              []
+                          )
+
+              except Exception as erro:
+
+                  print(
+                      "Aviso: não foi possível ler o JSON atual:",
+                      erro
+                  )
+
+
+          print(
+              "Notícias existentes:",
+              len(noticias_antigas)
+          )
+
+
+          # ---------------------------------------------------------
+          # BUSCAR NOVAS NOTÍCIAS
+          # ---------------------------------------------------------
+
+          novas = []
+
+
+          for fonte in FONTES:
+
+              nome = fonte["nome"]
+              url = fonte["url"]
+
+              print("")
+              print("====================================")
+              print("Consultando:", nome)
+              print(url)
+              print("====================================")
+
+              try:
+
+                  # Pequena pausa para evitar bloqueios
+                  time.sleep(3)
+
+                  resposta = requests.get(
+                      url,
+                      headers={
+                          "User-Agent":
+                          "Mozilla/5.0 (compatible; RadioJA-FM/1.0)"
+                      },
+                      timeout=20
+                  )
+
+                  print(
+                      "HTTP:",
+                      resposta.status_code
+                  )
+
+                  if resposta.status_code == 429:
+
+                      print(
+                          "429 - Fonte limitou as consultas."
                       )
 
-                      antigas = dados.get(
-                          "noticias",
-                          []
+                      print(
+                          "Ignorando esta fonte e continuando..."
                       )
+
+                      continue
+
+
+                  if resposta.status_code != 200:
+
+                      print(
+                          "Fonte indisponível:",
+                          resposta.status_code
+                      )
+
+                      continue
+
+
+                  feed = feedparser.parse(
+                      resposta.content
+                  )
+
+
+                  if not feed.entries:
+
+                      print(
+                          "Nenhuma notícia encontrada."
+                      )
+
+                      continue
+
+
+                  contador = 0
+
+
+                  for item in feed.entries:
+
+                      titulo = limpar_texto(
+                          item.get("title", "")
+                      )
+
+                      link = item.get(
+                          "link",
+                          ""
+                      )
+
+
+                      if not titulo or not link:
+
+                          continue
+
+
+                      titulo_lower = titulo.lower()
+                      link_lower = link.lower()
+
+
+                      # ------------------------------------------------
+                      # BLOQUEIOS
+                      # ------------------------------------------------
+
+                      if "mixvale" in titulo_lower:
+                          continue
+
+                      if "mixvale" in link_lower:
+                          continue
+
+                      if "mix vale" in titulo_lower:
+                          continue
+
+
+                      imagem = extrair_imagem(
+                          item
+                      )
+
+
+                      descricao = limpar_texto(
+                          item.get(
+                              "summary",
+                              item.get(
+                                  "description",
+                                  ""
+                              )
+                          )
+                      )
+
+
+                      data = obter_data(
+                          item
+                      )
+
+
+                      noticia = {
+
+                          "id": criar_id(
+                              titulo,
+                              link
+                          ),
+
+                          "titulo": titulo,
+
+                          "descricao": descricao,
+
+                          "link": link,
+
+                          "fonte": nome,
+
+                          "imagem": imagem,
+
+                          "data": data,
+
+                          "categoria": "PARÁ"
+
+                      }
+
+
+                      novas.append(
+                          noticia
+                      )
+
+                      contador += 1
+
+
+                      if contador >= 10:
+                          break
+
+
+                  print(
+                      "Notícias encontradas:",
+                      contador
+                  )
+
+
+              except Exception as erro:
+
+                  print(
+                      "Erro nesta fonte:",
+                      erro
+                  )
+
+                  print(
+                      "Continuando normalmente..."
+                  )
+
+                  continue
+
+
+          # ---------------------------------------------------------
+          # JUNTAR NOTÍCIAS NOVAS + ANTIGAS
+          # ---------------------------------------------------------
+
+          todas = novas + noticias_antigas
+
+
+          # ---------------------------------------------------------
+          # REMOVER DUPLICADAS
+          # ---------------------------------------------------------
+
+          unicas = {}
+
+          for noticia in todas:
+
+              titulo = (
+                  noticia.get(
+                      "titulo",
+                      ""
+                  )
+                  .strip()
+                  .lower()
+              )
+
+              link = (
+                  noticia.get(
+                      "link",
+                      ""
+                  )
+                  .strip()
+                  .lower()
+              )
+
+
+              chave = link or titulo
+
+
+              if not chave:
+                  continue
+
+
+              if chave not in unicas:
+
+                  unicas[chave] = noticia
+
+
+          todas = list(
+              unicas.values()
+          )
+
+
+          # ---------------------------------------------------------
+          # ORDENAR POR DATA
+          # ---------------------------------------------------------
+
+          def data_noticia(noticia):
+
+              try:
+
+                  return noticia.get(
+                      "data",
+                      ""
+                  )
 
               except Exception:
 
-                  antigas = []
+                  return ""
 
 
-          # ---------------------------------------
-          # SE NÃO ENCONTROU NADA,
-          # PRESERVA O JSON EXISTENTE
-          # ---------------------------------------
-
-          if not noticias:
-
-              if antigas:
-
-                  print(
-                      "Nenhuma notícia nova."
-                  )
-
-                  print(
-                      "Mantendo JSON existente."
-                  )
-
-                  raise SystemExit(0)
-
-              else:
-
-                  raise SystemExit(
-                      "Nenhuma notícia encontrada."
-                  )
+          todas.sort(
+              key=data_noticia,
+              reverse=True
+          )
 
 
-          # ---------------------------------------
-          # COMPLETAR COM NOTÍCIAS ANTIGAS
-          # ---------------------------------------
+          # ---------------------------------------------------------
+          # PEGAR AS 8 MAIS RECENTES
+          # ---------------------------------------------------------
 
-          links_finais = {
-              n.get("link")
-              for n in noticias
-              if n.get("link")
-          }
+          resultado = todas[:LIMITE]
 
 
-          for antiga in antigas:
+          # ---------------------------------------------------------
+          # SE NÃO ENCONTROU NADA
+          # NÃO APAGA O JSON EXISTENTE
+          # ---------------------------------------------------------
 
-              if len(noticias) >= LIMITE:
-                  break
+          if len(novas) == 0:
 
-
-              link = antiga.get(
-                  "link"
+              print("")
+              print(
+                  "===================================="
               )
 
-
-              if not link:
-                  continue
-
-
-              if link in links_finais:
-                  continue
-
-
-              noticias.append(
-                  antiga
+              print(
+                  "NENHUMA NOTÍCIA NOVA FOI ENCONTRADA."
               )
 
-              links_finais.add(
-                  link
+              print(
+                  "O noticias.json será preservado."
               )
 
+              print(
+                  "===================================="
+              )
 
-          noticias = noticias[:LIMITE]
+              raise SystemExit(0)
 
 
-          # ---------------------------------------
-          # GERAR JSON
-          # ---------------------------------------
+          # ---------------------------------------------------------
+          # SALVAR JSON
+          # ---------------------------------------------------------
 
-          resultado = {
+          dados = {
 
               "atualizado":
                   datetime.now(
@@ -366,7 +543,7 @@ jobs:
                   ).isoformat(),
 
               "noticias":
-                  noticias
+                  resultado
 
           }
 
@@ -378,7 +555,7 @@ jobs:
           ) as arquivo:
 
               json.dump(
-                  resultado,
+                  dados,
                   arquivo,
                   ensure_ascii=False,
                   indent=2
@@ -386,24 +563,28 @@ jobs:
 
 
           print("")
-          print("===================================")
           print(
-              "NOTÍCIAS SALVAS:",
-              len(noticias)
+              "===================================="
           )
-          print("===================================")
 
+          print(
+              "SUCESSO!"
+          )
 
-          for i, noticia in enumerate(
-              noticias,
-              1
-          ):
+          print(
+              "Novas notícias:",
+              len(novas)
+          )
 
-              print(
-                  f"{i}. "
-                  f"{noticia['titulo']}"
-              )
+          print(
+              "Total gravado:",
+              len(resultado)
+          )
 
+          print(
+              "===================================="
+
+          )
 
           PY
 
@@ -411,22 +592,12 @@ jobs:
       - name: Salvar notícias no GitHub
         run: |
 
-          git config user.name "Radio J.A FM"
-
-          git config user.email \
-            "actions@users.noreply.github.com"
+          git config user.name "Radio JA FM"
+          git config user.email "radioja-fm@users.noreply.github.com"
 
           git add noticias.json
 
-          if git diff --cached --quiet; then
+          git diff --cached --quiet || git commit -m "Atualizar notícias"
 
-            echo "Nenhuma alteração."
+          git push
 
-          else
-
-            git commit \
-              -m "Atualizar notícias"
-
-            git push
-
-          fi
