@@ -28,66 +28,251 @@ jobs:
           import urllib.request
           from datetime import datetime, timezone
 
-          api_key = os.environ["NEWSDATA_API_KEY"]
+          API_KEY = os.environ["NEWSDATA_API_KEY"]
 
-          params = urllib.parse.urlencode({
-              "apikey": api_key,
-              "country": "br",
-              "language": "pt",
-              "category": "top"
-          })
+          BASE_URL = "https://newsdata.io/api/1/latest"
 
-          url = "https://newsdata.io/api/1/latest?" + params
+          # Fontes que não queremos utilizar
+          FONTES_BLOQUEADAS = [
+              "mix vale",
+              "mixvale"
+          ]
 
-          request = urllib.request.Request(
-              url,
-              headers={"User-Agent": "RadioJA-FM-NewsBot/1.0"}
-          )
+          LINKS_BLOQUEADOS = [
+              "mixvale.com.br",
+              "mixvale"
+          ]
 
-          with urllib.request.urlopen(request, timeout=30) as response:
-              data = json.loads(response.read().decode("utf-8"))
+          def buscar_noticias(query=None, categoria=None):
 
-          if data.get("status") != "success":
-              print(data)
-              raise SystemExit("Erro ao consultar NewsData")
+              parametros = {
+                  "apikey": API_KEY,
+                  "country": "br",
+                  "language": "pt"
+              }
 
-          noticias = []
+              if query:
+                  parametros["q"] = query
 
-          for item in data.get("results", []):
+              if categoria:
+                  parametros["category"] = categoria
 
-              if not item.get("link") or not item.get("title"):
-                  continue
+              url = BASE_URL + "?" + urllib.parse.urlencode(parametros)
 
+              try:
+
+                  requisicao = urllib.request.Request(
+                      url,
+                      headers={
+                          "User-Agent": "RadioJA-FM-NewsBot/1.0"
+                      }
+                  )
+
+                  with urllib.request.urlopen(
+                      requisicao,
+                      timeout=30
+                  ) as resposta:
+
+                      dados = json.loads(
+                          resposta.read().decode("utf-8")
+                      )
+
+                  if dados.get("status") != "success":
+                      return []
+
+                  return dados.get("results", [])
+
+              except Exception as erro:
+
+                  print("Erro na busca:", erro)
+
+                  return []
+
+
+          def valida_noticia(item):
+
+              titulo = (item.get("title") or "").strip()
+              link = (item.get("link") or "").strip()
               fonte = (item.get("source_name") or "").strip()
-              link = (item.get("link") or "").lower()
 
-              # Não aceitar notícias do Mix Vale
-              if "mix vale" in fonte.lower():
-                  continue
+              if not titulo or not link:
+                  return False
 
-              if "mixvale.com.br" in link:
-                  continue
+              fonte_lower = fonte.lower()
+              link_lower = link.lower()
 
-              noticias.append({
+              for bloqueada in FONTES_BLOQUEADAS:
+
+                  if bloqueada in fonte_lower:
+                      return False
+
+              for bloqueado in LINKS_BLOQUEADOS:
+
+                  if bloqueado in link_lower:
+                      return False
+
+              return True
+
+
+          def converter(item):
+
+              return {
                   "id": item.get("article_id"),
                   "titulo": item.get("title"),
                   "descricao": item.get("description"),
                   "link": item.get("link"),
-                  "fonte": fonte,
+                  "fonte": item.get("source_name"),
                   "imagem": item.get("image_url"),
                   "data": item.get("pubDate")
-              })
+              }
 
-              # Parar quando tivermos 8 notícias válidas
-              if len(noticias) >= 8:
-                  break
+
+          usadas = set()
+          noticias = []
+
+
+          def adicionar(lista, quantidade, nome):
+
+              adicionadas = 0
+
+              for item in lista:
+
+                  if len(noticias) >= 8:
+                      break
+
+                  if not valida_noticia(item):
+                      continue
+
+                  noticia = converter(item)
+
+                  identificador = (
+                      noticia["link"] or
+                      noticia["titulo"]
+                  ).lower()
+
+                  if identificador in usadas:
+                      continue
+
+                  usadas.add(identificador)
+
+                  noticias.append(noticia)
+
+                  adicionadas += 1
+
+                  print(
+                      f"[{nome}] {noticia['fonte']} - "
+                      f"{noticia['titulo']}"
+                  )
+
+                  if adicionadas >= quantidade:
+                      break
+
+
+          # =====================================================
+          # 1 — BELÉM / REGIÃO METROPOLITANA
+          # =====================================================
+
+          belem = buscar_noticias(
+              "Belém OR Ananindeua OR Marituba OR Benevides OR "
+              "\"Santa Izabel do Pará\" OR \"Santa Bárbara do Pará\""
+          )
+
+          adicionar(
+              belem,
+              1,
+              "BELEM/RMB"
+          )
+
+
+          # =====================================================
+          # 2 — NORDESTE DO PARÁ
+          # =====================================================
+
+          nordeste = buscar_noticias(
+              "Castanhal OR Bragança OR Capanema OR Salinópolis OR "
+              "Paragominas OR Barcarena OR Abaetetuba OR "
+              "\"Tomé-Açu\" OR \"Tomé Açu\" OR Igarapé-Açu OR "
+              "Igarapé-Açu OR Cametá OR Vigia OR Capitão Poço"
+          )
+
+          adicionar(
+              nordeste,
+              2,
+              "NORDESTE PARA"
+          )
+
+
+          # =====================================================
+          # 3 — NOTÍCIAS GERAIS DO PARÁ / BRASIL
+          # =====================================================
+
+          gerais = buscar_noticias(
+              "Pará OR \"Pará\" OR Brasil"
+          )
+
+          adicionar(
+              gerais,
+              4,
+              "PARA/BRASIL"
+          )
+
+
+          # =====================================================
+          # 4 — EXTRA: TOMÉ-AÇU
+          # =====================================================
+
+          tome_acu = buscar_noticias(
+              "\"Tomé-Açu\" OR \"Tomé Açu\""
+          )
+
+          adicionar(
+              tome_acu,
+              1,
+              "TOME-ACU"
+          )
+
+
+          # =====================================================
+          # 5 — COMPLETAR ATÉ 8 CASO ALGUMA BUSCA NÃO TENHA
+          # =====================================================
+
+          if len(noticias) < 8:
+
+              print(
+                  f"Atenção: somente {len(noticias)} "
+                  "notícias encontradas nas buscas prioritárias."
+              )
+
+              complemento = buscar_noticias(
+                  "Pará OR Belém OR Brasil"
+              )
+
+              adicionar(
+                  complemento,
+                  8 - len(noticias),
+                  "COMPLEMENTO"
+              )
+
+
+          # =====================================================
+          # SALVAR
+          # =====================================================
 
           resultado = {
-              "atualizado": datetime.now(timezone.utc).isoformat(),
-              "noticias": noticias
+              "atualizado": datetime.now(
+                  timezone.utc
+              ).isoformat(),
+
+              "noticias": noticias[:8]
           }
 
-          with open("noticias.json", "w", encoding="utf-8") as arquivo:
+
+          with open(
+              "noticias.json",
+              "w",
+              encoding="utf-8"
+          ) as arquivo:
+
               json.dump(
                   resultado,
                   arquivo,
@@ -95,9 +280,28 @@ jobs:
                   indent=2
               )
 
-          print(f"{len(noticias)} notícias válidas encontradas.")
+
+          print("")
+          print("==============================")
+          print(
+              f"TOTAL DE NOTÍCIAS: {len(noticias[:8])}"
+          )
+          print("==============================")
+
+
+          for numero, noticia in enumerate(
+              noticias[:8],
+              start=1
+          ):
+
+              print(
+                  f"{numero}. "
+                  f"{noticia['fonte']} - "
+                  f"{noticia['titulo']}"
+              )
 
           PY
+
 
       - name: Salvar notícias no GitHub
         run: |
