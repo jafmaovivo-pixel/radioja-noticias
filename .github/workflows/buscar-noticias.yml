@@ -29,30 +29,98 @@ jobs:
           import os
           import urllib.parse
           import urllib.request
+          import urllib.error
           from datetime import datetime, timezone
 
           API_KEY = os.environ.get("NEWSDATA_API_KEY")
 
           if not API_KEY:
-              raise SystemExit("ERRO: NEWSDATA_API_KEY não configurada.")
+              raise SystemExit(
+                  "ERRO: NEWSDATA_API_KEY não configurada."
+              )
 
-          API_URL = "https://newsdata.io/api/1/latest"
+          URL = "https://newsdata.io/api/1/latest"
 
-          LIMITE = 8
+          parametros = {
+              "apikey": API_KEY,
+              "country": "br",
+              "language": "pt",
+              "q": "Pará",
+              "size": "10"
+          }
 
-          consultas = [
-              "Pará",
-              "Belém",
-              "Ananindeua",
-              "Tomé-Açu",
-              "Bragança",
-              "Capanema",
-              "Castanhal",
-              "Marituba",
-              "Paragominas",
-              "Abaetetuba",
-              "Brasil"
-          ]
+          url = URL + "?" + urllib.parse.urlencode(parametros)
+
+          print("Consultando NewsData...")
+          print("Consulta: Pará")
+
+          try:
+
+              requisicao = urllib.request.Request(
+                  url,
+                  headers={
+                      "User-Agent": "RadioJA-FM-NewsBot/1.0"
+                  }
+              )
+
+              with urllib.request.urlopen(
+                  requisicao,
+                  timeout=30
+              ) as resposta:
+
+                  dados = json.loads(
+                      resposta.read().decode("utf-8")
+                  )
+
+          except urllib.error.HTTPError as erro:
+
+              print(
+                  f"ERRO HTTP {erro.code}: {erro.reason}"
+              )
+
+              if erro.code == 429:
+
+                  raise SystemExit(
+                      "A NewsData recusou a requisição "
+                      "por limite de uso (429). "
+                      "Aguarde o limite ser reiniciado "
+                      "e execute novamente."
+                  )
+
+              raise
+
+          except Exception as erro:
+
+              raise SystemExit(
+                  f"ERRO ao acessar NewsData: {erro}"
+              )
+
+          if dados.get("status") != "success":
+
+              print("Resposta da API:")
+              print(json.dumps(
+                  dados,
+                  ensure_ascii=False,
+                  indent=2
+              ))
+
+              raise SystemExit(
+                  "A NewsData não retornou sucesso."
+              )
+
+          resultados = dados.get(
+              "results",
+              []
+          )
+
+          print(
+              f"Notícias recebidas: {len(resultados)}"
+          )
+
+          noticias = []
+
+          links = set()
+          titulos = set()
 
           bloqueados = [
               "mix vale",
@@ -60,226 +128,129 @@ jobs:
               "mixvale.com.br"
           ]
 
-          def normalizar(texto):
-              if not texto:
-                  return ""
+          for item in resultados:
 
-              return str(texto).lower().strip()
+              titulo = (
+                  item.get("title") or ""
+              ).strip()
 
-          def bloqueada(item):
-
-              texto = " ".join([
-                  item.get("title") or "",
-                  item.get("description") or "",
-                  item.get("source_name") or "",
+              link = (
                   item.get("link") or ""
-              ])
+              ).strip()
 
-              texto = normalizar(texto)
+              if not titulo or not link:
+                  continue
 
-              for termo in bloqueados:
-                  if termo in texto:
-                      return True
+              texto = (
+                  titulo
+                  + " "
+                  + str(item.get("source_name") or "")
+                  + " "
+                  + link
+              ).lower()
 
-              return False
+              if any(
+                  termo in texto
+                  for termo in bloqueados
+              ):
+                  continue
 
-          def buscar(consulta):
+              titulo_chave = titulo.lower()
 
-              parametros = {
-                  "apikey": API_KEY,
-                  "country": "br",
-                  "language": "pt",
-                  "q": consulta,
-                  "size": "10"
-              }
+              if link in links:
+                  continue
 
-              url = (
-                  API_URL
-                  + "?"
-                  + urllib.parse.urlencode(parametros)
-              )
+              if titulo_chave in titulos:
+                  continue
 
-              try:
+              links.add(link)
+              titulos.add(titulo_chave)
 
-                  requisicao = urllib.request.Request(
-                      url,
-                      headers={
-                          "User-Agent": "RadioJA-FM-NewsBot/1.0"
-                      }
-                  )
+              noticias.append({
+                  "id": item.get("article_id"),
+                  "titulo": titulo,
+                  "descricao": item.get("description"),
+                  "link": link,
+                  "fonte": item.get("source_name"),
+                  "imagem": item.get("image_url"),
+                  "data": item.get("pubDate"),
+                  "categoria": "PARÁ"
+              })
 
-                  with urllib.request.urlopen(
-                      requisicao,
-                      timeout=30
-                  ) as resposta:
-
-                      dados = json.loads(
-                          resposta.read().decode("utf-8")
-                      )
-
-                  if dados.get("status") != "success":
-
-                      print(
-                          "Erro na consulta:",
-                          consulta
-                      )
-
-                      return []
-
-                  return dados.get("results", [])
-
-              except Exception as erro:
-
-                  print(
-                      "Erro ao buscar",
-                      consulta,
-                      ":",
-                      erro
-                  )
-
-                  return []
-
-          noticias = []
-
-          links_usados = set()
-
-          titulos_usados = set()
-
-          for consulta in consultas:
-
-              if len(noticias) >= LIMITE:
+              if len(noticias) >= 8:
                   break
 
-              print("")
-              print("Consultando:", consulta)
+          # -----------------------------------------------
+          # NÃO APAGAR O JSON SE A API NÃO RETORNAR NOTÍCIAS
+          # -----------------------------------------------
 
-              resultados = buscar(consulta)
+          arquivo = "noticias.json"
 
-              for item in resultados:
+          antigas = []
 
-                  if len(noticias) >= LIMITE:
-                      break
-
-                  if not item.get("title"):
-                      continue
-
-                  if not item.get("link"):
-                      continue
-
-                  if bloqueada(item):
-                      continue
-
-                  link = item.get("link").strip()
-
-                  titulo = (
-                      item.get("title")
-                      .strip()
-                      .lower()
-                  )
-
-                  if link in links_usados:
-                      continue
-
-                  if titulo in titulos_usados:
-                      continue
-
-                  links_usados.add(link)
-
-                  titulos_usados.add(titulo)
-
-                  noticia = {
-                      "id": item.get("article_id"),
-                      "titulo": item.get("title"),
-                      "descricao": item.get("description"),
-                      "link": item.get("link"),
-                      "fonte": item.get("source_name"),
-                      "imagem": item.get("image_url"),
-                      "data": item.get("pubDate"),
-                      "categoria": "PARÁ"
-                  }
-
-                  noticias.append(noticia)
-
-                  print(
-                      f"{len(noticias)} - "
-                      f"{noticia['fonte']} - "
-                      f"{noticia['titulo']}"
-                  )
-
-          # -------------------------------------------------
-          # IMPORTANTE:
-          # SE A API NÃO TROUXER NOTÍCIAS,
-          # NÃO APAGA O JSON EXISTENTE.
-          # -------------------------------------------------
-
-          arquivo_json = "noticias.json"
-
-          noticias_antigas = []
-
-          if os.path.exists(arquivo_json):
+          if os.path.exists(arquivo):
 
               try:
 
                   with open(
-                      arquivo_json,
+                      arquivo,
                       "r",
                       encoding="utf-8"
-                  ) as arquivo:
+                  ) as f:
 
-                      antigo = json.load(arquivo)
-
-                  noticias_antigas = antigo.get(
-                      "noticias",
-                      []
-                  )
+                      antigas = json.load(
+                          f
+                      ).get(
+                          "noticias",
+                          []
+                      )
 
               except Exception:
 
-                  noticias_antigas = []
+                  antigas = []
 
-          # -------------------------------------------------
-          # COMPLETAR COM NOTÍCIAS ANTIGAS SE NECESSÁRIO
-          # -------------------------------------------------
+          # -----------------------------------------------
+          # COMPLETA COM NOTÍCIAS ANTIGAS
+          # -----------------------------------------------
 
-          if len(noticias) < LIMITE:
+          if len(noticias) < 8:
 
-              for antiga in noticias_antigas:
-
-                  if len(noticias) >= LIMITE:
-                      break
+              for antiga in antigas:
 
                   link = (
                       antiga.get("link") or ""
-                  ).strip()
+                  )
 
                   titulo = (
                       antiga.get("titulo") or ""
-                  ).strip().lower()
+                  ).lower()
 
                   if not link or not titulo:
                       continue
 
-                  if link in links_usados:
+                  if link in links:
                       continue
 
-                  if titulo in titulos_usados:
+                  if titulo in titulos:
                       continue
-
-                  links_usados.add(link)
-
-                  titulos_usados.add(titulo)
 
                   noticias.append(antiga)
 
-          # -------------------------------------------------
-          # RESULTADO FINAL
-          # -------------------------------------------------
+                  links.add(link)
+                  titulos.add(titulo)
+
+                  if len(noticias) >= 8:
+                      break
+
+          # -----------------------------------------------
+          # NÃO DEIXAR O JSON VAZIO
+          # -----------------------------------------------
 
           if not noticias:
 
               raise SystemExit(
-                  "ERRO: nenhuma notícia encontrada. "
-                  "O noticias.json existente foi preservado."
+                  "Nenhuma notícia encontrada. "
+                  "O noticias.json foi preservado."
               )
 
           resultado = {
@@ -287,18 +258,18 @@ jobs:
                   timezone.utc
               ).isoformat(),
 
-              "noticias": noticias[:LIMITE]
+              "noticias": noticias[:8]
           }
 
           with open(
-              arquivo_json,
+              arquivo,
               "w",
               encoding="utf-8"
-          ) as arquivo:
+          ) as f:
 
               json.dump(
                   resultado,
-                  arquivo,
+                  f,
                   ensure_ascii=False,
                   indent=2
               )
@@ -306,10 +277,11 @@ jobs:
           print("")
           print("==============================")
           print(
-              "TOTAL DE NOTÍCIAS:",
-              len(noticias[:LIMITE])
+              "NOTÍCIAS SALVAS:",
+              len(noticias[:8])
           )
           print("==============================")
+
 
           PY
 
