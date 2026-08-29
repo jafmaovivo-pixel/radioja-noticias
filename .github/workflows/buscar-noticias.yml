@@ -22,74 +22,106 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Buscar notícias
-        shell: python
+      - name: Instalar dependências
         run: |
+          python -m pip install --upgrade pip
+          pip install requests feedparser beautifulsoup4
+
+      - name: Buscar notícias
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+
+          python3 <<'PY'
 
           import json
           import os
           import re
           import time
           import hashlib
-          import urllib.parse
-          import urllib.request
-          import urllib.error
-          import xml.etree.ElementTree as ET
-          from datetime import datetime, timezone
+          import requests
+          import feedparser
 
+          from datetime import datetime, timezone
+          from bs4 import BeautifulSoup
+          from urllib.parse import urljoin
+
+
+          # =========================================================
+          # CONFIGURAÇÃO
+          # =========================================================
 
           ARQUIVO = "noticias.json"
-          PASTA_IMAGENS = "imagens"
+          LIMITE = 8
 
-          QUANTIDADE_MAXIMA = 8
+          FONTES = [
 
+              {
+                  "nome": "Diário do Pará",
+                  "tipo": "rss",
+                  "url": "https://diariodopara.com.br/feed/"
+              },
 
-          CONSULTAS = [
-              "Pará",
-              "Belém Pará",
-              "Ananindeua Pará",
-              "Tomé-Açu Pará",
-              "Bragança Pará",
-              "Capanema Pará",
-              "Castanhal Pará",
-              "Marituba Pará",
-              "Paragominas Pará",
-              "Abaetetuba Pará",
-              "Brasil"
+              {
+                  "nome": "O Liberal",
+                  "tipo": "pagina",
+                  "url": "https://www.oliberal.com/"
+              },
+
+              {
+                  "nome": "G1 - O Portal",
+                  "tipo": "pagina",
+                  "url": "https://g1.globo.com/pa/para/"
+              }
+
           ]
 
 
-          FONTES_BLOQUEADAS = [
-              "mix vale",
-              "mixvale"
-          ]
+          # =========================================================
+          # SESSÃO HTTP
+          # =========================================================
+
+          sessao = requests.Session()
+
+          sessao.headers.update({
+
+              "User-Agent":
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+              "AppleWebKit/537.36 "
+              "(KHTML, like Gecko) "
+              "Chrome/131.0 Safari/537.36",
+
+              "Accept":
+              "text/html,application/xhtml+xml,"
+              "application/xml;q=0.9,image/avif,image/webp,"
+              "*/*;q=0.8",
+
+              "Accept-Language":
+              "pt-BR,pt;q=0.9,en;q=0.8",
+
+              "Cache-Control":
+              "no-cache"
+
+          })
 
 
-          DOMINIOS_BLOQUEADOS = [
-              "mixvale.com.br",
-              "mixvale"
-          ]
+          # =========================================================
+          # LIMPAR TEXTO
+          # =========================================================
 
-
-          os.makedirs(
-              PASTA_IMAGENS,
-              exist_ok=True
-          )
-
-
-          # ---------------------------------------------------------
-          # FUNÇÕES
-          # ---------------------------------------------------------
-
-          def limpar_texto(texto):
+          def limpar(texto):
 
               if not texto:
                   return ""
 
-              texto = re.sub(
-                  r"<[^>]+>",
-                  "",
-                  texto
+              soup = BeautifulSoup(
+                  texto,
+                  "html.parser"
+              )
+
+              texto = soup.get_text(
+                  " ",
+                  strip=True
               )
 
               texto = re.sub(
@@ -101,513 +133,630 @@ jobs:
               return texto.strip()
 
 
-          def gerar_id(link, titulo):
+          # =========================================================
+          # ID
+          # =========================================================
+
+          def criar_id(titulo, link):
 
               base = (
-                  link
-                  or titulo
-                  or ""
-              ).encode("utf-8")
+                  titulo.strip()
+                  + "|"
+                  + link.strip()
+              )
 
               return hashlib.md5(
-                  base
+                  base.encode("utf-8")
               ).hexdigest()
 
 
-          def buscar_url(url, tentativas=4):
+          # =========================================================
+          # DATA DO RSS
+          # =========================================================
 
-              headers = {
-                  "User-Agent":
-                      "Mozilla/5.0 "
-                      "(X11; Linux x86_64) "
-                      "AppleWebKit/537.36 "
-                      "(KHTML, like Gecko) "
-                      "Chrome/131.0 Safari/537.36",
+          def data_item(item):
 
-                  "Accept":
-                      "text/html,application/xhtml+xml,"
-                      "application/xml;q=0.9,*/*;q=0.8",
+              try:
 
-                  "Accept-Language":
-                      "pt-BR,pt;q=0.9"
-              }
+                  if item.get("published_parsed"):
+
+                      return datetime.fromtimestamp(
+                          time.mktime(
+                              item.published_parsed
+                          ),
+                          timezone.utc
+                      ).isoformat()
+
+              except Exception:
+                  pass
 
 
-              for tentativa in range(tentativas):
+              try:
+
+                  if item.get("updated_parsed"):
+
+                      return datetime.fromtimestamp(
+                          time.mktime(
+                              item.updated_parsed
+                          ),
+                          timezone.utc
+                      ).isoformat()
+
+              except Exception:
+                  pass
+
+
+              return datetime.now(
+                  timezone.utc
+              ).isoformat()
+
+
+          # =========================================================
+          # BLOQUEIOS
+          # =========================================================
+
+          def bloqueada(titulo, link):
+
+              texto = (
+                  (titulo or "")
+                  + " "
+                  + (link or "")
+              ).lower()
+
+              palavras = [
+                  "mixvale",
+                  "mix vale"
+              ]
+
+              for palavra in palavras:
+
+                  if palavra in texto:
+                      return True
+
+              return False
+
+
+          # =========================================================
+          # NORMALIZAR URL DE IMAGEM
+          # =========================================================
+
+          def normalizar_imagem(url, pagina):
+
+              if not url:
+                  return ""
+
+              url = url.strip()
+
+              if not url:
+                  return ""
+
+              if url.startswith("//"):
+                  return "https:" + url
+
+              if url.startswith("/"):
+                  return urljoin(
+                      pagina,
+                      url
+                  )
+
+              if url.startswith("http://"):
+                  return url.replace(
+                      "http://",
+                      "https://",
+                      1
+                  )
+
+              if url.startswith("https://"):
+                  return url
+
+              return urljoin(
+                  pagina,
+                  url
+              )
+
+
+          # =========================================================
+          # PROCURAR URL DE IMAGEM EM JSON-LD
+          # =========================================================
+
+          def imagem_jsonld(soup, pagina):
+
+              scripts = soup.find_all(
+                  "script",
+                  type="application/ld+json"
+              )
+
+              for script in scripts:
 
                   try:
 
-                      requisicao = urllib.request.Request(
-                          url,
-                          headers=headers
-                      )
+                      texto = script.string
 
-                      with urllib.request.urlopen(
-                          requisicao,
-                          timeout=25
-                      ) as resposta:
-
-                          return resposta.read()
-
-
-                  except urllib.error.HTTPError as erro:
-
-                      if erro.code == 429:
-
-                          espera = 5 * (
-                              tentativa + 1
-                          )
-
-                          print(
-                              f"HTTP 429. "
-                              f"Aguardando {espera}s..."
-                          )
-
-                          time.sleep(
-                              espera
-                          )
-
+                      if not texto:
                           continue
 
+                      dados = json.loads(texto)
 
-                      print(
-                          f"HTTP {erro.code}: {url}"
-                      )
+                      objetos = []
 
-                      return None
-
-
-                  except Exception as erro:
-
-                      print(
-                          f"Erro: {erro}"
-                      )
-
-                      if tentativa < tentativas - 1:
-                          time.sleep(3)
-
-
-              return None
-
-
-          def extrair_texto(item, nomes):
-
-              for nome in nomes:
-
-                  elemento = item.find(nome)
-
-                  if (
-                      elemento is not None
-                      and elemento.text
-                  ):
-
-                      return limpar_texto(
-                          elemento.text
-                      )
-
-              return ""
-
-
-          def extrair_link(item):
-
-              elemento = item.find("link")
-
-              if elemento is not None:
-
-                  if elemento.text:
-                      return elemento.text.strip()
-
-                  href = elemento.attrib.get(
-                      "href"
-                  )
-
-                  if href:
-                      return href.strip()
-
-
-              # Atom
-              for elemento in item.findall(
-                  "{http://www.w3.org/2005/Atom}link"
-              ):
-
-                  href = elemento.attrib.get(
-                      "href"
-                  )
-
-                  if href:
-                      return href.strip()
-
-
-              return ""
-
-
-          def extrair_fonte(item):
-
-              # Google News RSS
-              for elemento in item.iter():
-
-                  tag = elemento.tag.lower()
-
-                  if tag.endswith("source"):
-
-                      if elemento.text:
-
-                          return limpar_texto(
-                              elemento.text
+                      if isinstance(
+                          dados,
+                          list
+                      ):
+                          objetos.extend(
+                              dados
                           )
 
+                      elif isinstance(
+                          dados,
+                          dict
+                      ):
+
+                          objetos.append(
+                              dados
+                          )
+
+                          graph = dados.get(
+                              "@graph"
+                          )
+
+                          if isinstance(
+                              graph,
+                              list
+                          ):
+                              objetos.extend(
+                                  graph
+                              )
+
+
+                      for obj in objetos:
+
+                          if not isinstance(
+                              obj,
+                              dict
+                          ):
+                              continue
+
+                          imagem = obj.get(
+                              "image"
+                          )
+
+                          if isinstance(
+                              imagem,
+                              str
+                          ):
+
+                              url = normalizar_imagem(
+                                  imagem,
+                                  pagina
+                              )
+
+                              if url:
+                                  return url
+
+
+                          if isinstance(
+                              imagem,
+                              dict
+                          ):
+
+                              url = (
+                                  imagem.get("url")
+                                  or imagem.get("contentUrl")
+                                  or ""
+                              )
+
+                              url = normalizar_imagem(
+                                  url,
+                                  pagina
+                              )
+
+                              if url:
+                                  return url
+
+
+                          if isinstance(
+                              imagem,
+                              list
+                          ):
+
+                              for item in imagem:
+
+                                  if isinstance(
+                                      item,
+                                      str
+                                  ):
+
+                                      url = normalizar_imagem(
+                                          item,
+                                          pagina
+                                      )
+
+                                      if url:
+                                          return url
+
+                                  elif isinstance(
+                                      item,
+                                      dict
+                                  ):
+
+                                      url = (
+                                          item.get("url")
+                                          or item.get("contentUrl")
+                                          or ""
+                                      )
+
+                                      url = normalizar_imagem(
+                                          url,
+                                          pagina
+                                      )
+
+                                      if url:
+                                          return url
+
+                  except Exception:
+                      continue
 
               return ""
 
 
-          def extrair_imagem(item):
+          # =========================================================
+          # PROCURAR IMAGEM OG / TWITTER / HTML
+          # =========================================================
 
-              # media:content
-              for elemento in item.iter():
+          def extrair_imagem_pagina(link):
 
-                  tag = elemento.tag.lower()
+              print(
+                  "Buscando imagem:",
+                  link
+              )
 
-                  if (
-                      tag.endswith("content")
-                      or tag.endswith("thumbnail")
+              try:
+
+                  resposta = sessao.get(
+                      link,
+                      timeout=25,
+                      allow_redirects=True
+                  )
+
+                  print(
+                      "HTTP matéria:",
+                      resposta.status_code
+                  )
+
+                  if resposta.status_code != 200:
+                      return ""
+
+                  soup = BeautifulSoup(
+                      resposta.text,
+                      "html.parser"
+                  )
+
+
+                  # -------------------------------------------------
+                  # 1 - OG IMAGE
+                  # -------------------------------------------------
+
+                  metas = [
+
+                      {
+                          "attr": "property",
+                          "value": "og:image"
+                      },
+
+                      {
+                          "attr": "property",
+                          "value": "og:image:url"
+                      },
+
+                      {
+                          "attr": "name",
+                          "value": "twitter:image"
+                      },
+
+                      {
+                          "attr": "name",
+                          "value": "twitter:image:src"
+                      }
+
+                  ]
+
+
+                  for meta_config in metas:
+
+                      meta = soup.find(
+                          "meta",
+                          attrs={
+                              meta_config["attr"]:
+                              meta_config["value"]
+                          }
+                      )
+
+                      if meta:
+
+                          url = (
+                              meta.get("content")
+                              or ""
+                          )
+
+                          url = normalizar_imagem(
+                              url,
+                              link
+                          )
+
+                          if url:
+                              print(
+                                  "Imagem encontrada:",
+                                  url
+                              )
+
+                              return url
+
+
+                  # -------------------------------------------------
+                  # 2 - JSON-LD
+                  # -------------------------------------------------
+
+                  url = imagem_jsonld(
+                      soup,
+                      link
+                  )
+
+                  if url:
+
+                      print(
+                          "Imagem encontrada via JSON-LD:",
+                          url
+                      )
+
+                      return url
+
+
+                  # -------------------------------------------------
+                  # 3 - IMAGENS DO ARTIGO
+                  # -------------------------------------------------
+
+                  article = (
+                      soup.find("article")
+                      or soup.find(
+                          "main"
+                      )
+                  )
+
+                  if article:
+
+                      imagens = article.find_all(
+                          "img"
+                      )
+
+                      for img in imagens:
+
+                          url = (
+                              img.get("src")
+                              or img.get("data-src")
+                              or img.get(
+                                  "data-original"
+                              )
+                              or img.get(
+                                  "data-lazy-src"
+                              )
+                              or ""
+                          )
+
+                          url = normalizar_imagem(
+                              url,
+                              link
+                          )
+
+                          if url:
+
+                              # Ignorar imagens pequenas
+                              # ou claramente decorativas
+
+                              largura = img.get(
+                                  "width"
+                              )
+
+                              altura = img.get(
+                                  "height"
+                              )
+
+                              try:
+
+                                  if largura and int(
+                                      largura
+                                  ) < 200:
+                                      continue
+
+                                  if altura and int(
+                                      altura
+                                  ) < 150:
+                                      continue
+
+                              except Exception:
+                                  pass
+
+
+                              print(
+                                  "Imagem encontrada no artigo:",
+                                  url
+                              )
+
+                              return url
+
+
+                  # -------------------------------------------------
+                  # 4 - QUALQUER IMAGEM GRANDE
+                  # -------------------------------------------------
+
+                  for img in soup.find_all(
+                      "img"
                   ):
 
-                      url = elemento.attrib.get(
-                          "url"
+                      url = (
+                          img.get("src")
+                          or img.get("data-src")
+                          or img.get(
+                              "data-original"
+                          )
+                          or img.get(
+                              "data-lazy-src"
+                          )
+                          or ""
+                      )
+
+                      url = normalizar_imagem(
+                          url,
+                          link
+                      )
+
+                      if url:
+
+                          largura = img.get(
+                              "width"
+                          )
+
+                          altura = img.get(
+                              "height"
+                          )
+
+                          try:
+
+                              if largura and int(
+                                  largura
+                              ) < 250:
+                                  continue
+
+                              if altura and int(
+                                  altura
+                              ) < 150:
+                                  continue
+
+                          except Exception:
+                              pass
+
+
+                          print(
+                              "Imagem encontrada:",
+                              url
+                          )
+
+                          return url
+
+
+              except Exception as erro:
+
+                  print(
+                      "Erro ao obter imagem:",
+                      erro
+                  )
+
+              return ""
+
+
+          # =========================================================
+          # IMAGEM DO ITEM RSS
+          # =========================================================
+
+          def imagem_do_item(item):
+
+              try:
+
+                  if hasattr(
+                      item,
+                      "media_content"
+                  ):
+
+                      for media in item.media_content:
+
+                          if media.get("url"):
+
+                              return media["url"]
+
+              except Exception:
+                  pass
+
+
+              try:
+
+                  if hasattr(
+                      item,
+                      "media_thumbnail"
+                  ):
+
+                      for media in item.media_thumbnail:
+
+                          if media.get("url"):
+
+                              return media["url"]
+
+              except Exception:
+                  pass
+
+
+              try:
+
+                  for enclosure in item.get(
+                      "enclosures",
+                      []
+                  ):
+
+                      url = (
+                          enclosure.get("href")
+                          or enclosure.get("url")
                       )
 
                       if url:
                           return url
 
+              except Exception:
+                  pass
 
-              # enclosure
-              enclosure = item.find(
-                  "enclosure"
-              )
 
-              if enclosure is not None:
+              try:
 
-                  url = enclosure.attrib.get(
-                      "url"
+                  html = (
+                      item.get(
+                          "summary",
+                          ""
+                      )
+                      or item.get(
+                          "description",
+                          ""
+                      )
                   )
 
-                  if url:
-                      return url
-
-
-              # descrição
-              descricao = extrair_texto(
-                  item,
-                  [
-                      "description",
-                      "{http://www.w3.org/2005/Atom}summary"
-                  ]
-              )
-
-
-              if descricao:
-
-                  encontrado = re.search(
-                      r'https?://[^"\']+'
-                      r'\.(?:jpg|jpeg|png|webp)',
-                      descricao,
-                      re.IGNORECASE
+                  soup = BeautifulSoup(
+                      html,
+                      "html.parser"
                   )
 
-                  if encontrado:
+                  img = soup.find(
+                      "img"
+                  )
 
-                      return encontrado.group(0)
+                  if img:
+
+                      return (
+                          img.get("src")
+                          or img.get(
+                              "data-src"
+                          )
+                          or ""
+                      )
+
+              except Exception:
+                  pass
 
 
               return ""
 
 
-          def fonte_bloqueada(
-              fonte,
-              link
-          ):
-
-              fonte_lower = (
-                  fonte or ""
-              ).lower()
-
-              link_lower = (
-                  link or ""
-              ).lower()
-
-
-              for termo in FONTES_BLOQUEADAS:
-
-                  if termo in fonte_lower:
-                      return True
-
-
-              for dominio in DOMINIOS_BLOQUEADOS:
-
-                  if dominio in link_lower:
-                      return True
-
-
-              return False
-
-
-          def baixar_imagem(
-              url,
-              id_noticia
-          ):
-
-              if not url:
-                  return ""
-
-
-              try:
-
-                  extensao = ".jpg"
-
-                  url_lower = url.lower()
-
-                  if ".png" in url_lower:
-                      extensao = ".png"
-
-                  elif ".webp" in url_lower:
-                      extensao = ".webp"
-
-                  elif ".jpeg" in url_lower:
-                      extensao = ".jpeg"
-
-
-                  nome_arquivo = (
-                      id_noticia
-                      + extensao
-                  )
-
-                  caminho = os.path.join(
-                      PASTA_IMAGENS,
-                      nome_arquivo
-                  )
-
-
-                  headers = {
-                      "User-Agent":
-                          "Mozilla/5.0 "
-                          "(X11; Linux x86_64) "
-                          "AppleWebKit/537.36 "
-                          "(KHTML, like Gecko) "
-                          "Chrome/131.0 Safari/537.36",
-
-                      "Referer":
-                          "https://news.google.com/"
-                  }
-
-
-                  requisicao = urllib.request.Request(
-                      url,
-                      headers=headers
-                  )
-
-
-                  with urllib.request.urlopen(
-                      requisicao,
-                      timeout=25
-                  ) as resposta:
-
-                      dados = resposta.read()
-
-
-                  if not dados:
-                      return ""
-
-
-                  with open(
-                      caminho,
-                      "wb"
-                  ) as arquivo:
-
-                      arquivo.write(dados)
-
-
-                  print(
-                      f"Imagem salva: {caminho}"
-                  )
-
-
-                  return (
-                      "https://raw.githubusercontent.com/"
-                      "jafmaovivo-pixel/"
-                      "radioja-noticias/"
-                      "main/"
-                      "imagens/"
-                      + nome_arquivo
-                  )
-
-
-              except Exception as erro:
-
-                  print(
-                      f"Não foi possível baixar "
-                      f"a imagem: {url}"
-                  )
-
-                  print(
-                      f"Motivo: {erro}"
-                  )
-
-                  return ""
-
-
-          def processar_feed(
-              xml,
-              consulta
-          ):
-
-              noticias = []
-
-
-              try:
-
-                  raiz = ET.fromstring(
-                      xml
-                  )
-
-              except Exception as erro:
-
-                  print(
-                      f"Erro no XML: {erro}"
-                  )
-
-                  return noticias
-
-
-              itens = raiz.findall(
-                  ".//item"
-              )
-
-
-              if not itens:
-
-                  itens = raiz.findall(
-                      ".//{http://www.w3.org/2005/Atom}entry"
-                  )
-
-
-              for item in itens:
-
-                  titulo = extrair_texto(
-                      item,
-                      [
-                          "title",
-                          "{http://www.w3.org/2005/Atom}title"
-                      ]
-                  )
-
-
-                  link = extrair_link(
-                      item
-                  )
-
-
-                  descricao = extrair_texto(
-                      item,
-                      [
-                          "description",
-                          "summary",
-                          "{http://www.w3.org/2005/Atom}summary"
-                      ]
-                  )
-
-
-                  data = extrair_texto(
-                      item,
-                      [
-                          "pubDate",
-                          "published",
-                          "updated",
-                          "{http://www.w3.org/2005/Atom}published",
-                          "{http://www.w3.org/2005/Atom}updated"
-                      ]
-                  )
-
-
-                  fonte = extrair_fonte(
-                      item
-                  )
-
-
-                  imagem_original = (
-                      extrair_imagem(
-                          item
-                      )
-                  )
-
-
-                  if not titulo or not link:
-                      continue
-
-
-                  if fonte_bloqueada(
-                      fonte,
-                      link
-                  ):
-                      continue
-
-
-                  id_noticia = gerar_id(
-                      link,
-                      titulo
-                  )
-
-
-                  imagem_local = (
-                      baixar_imagem(
-                          imagem_original,
-                          id_noticia
-                      )
-                  )
-
-
-                  noticia = {
-
-                      "id":
-                          id_noticia,
-
-                      "titulo":
-                          titulo,
-
-                      "descricao":
-                          descricao,
-
-                      "link":
-                          link,
-
-                      "fonte":
-                          fonte
-                          or "Rádio JA FM",
-
-                      "imagem":
-                          imagem_local,
-
-                      "data":
-                          data,
-
-                      "categoria":
-                          "PARÁ"
-                  }
-
-
-                  noticias.append(
-                      noticia
-                  )
-
-
-              return noticias
-
-
-          # ---------------------------------------------------------
-          # LER NOTÍCIAS ANTIGAS
-          # ---------------------------------------------------------
-
-          noticias_antigas = []
-
+          # =========================================================
+          # LER JSON EXISTENTE
+          # =========================================================
+
+          antigas = []
 
           if os.path.exists(
               ARQUIVO
@@ -625,202 +774,723 @@ jobs:
                           arquivo
                       )
 
-                      if isinstance(
-                          dados.get("noticias"),
+                      antigas = dados.get(
+                          "noticias",
+                          []
+                      )
+
+                      if not isinstance(
+                          antigas,
                           list
                       ):
+                          antigas = []
 
-                          noticias_antigas = (
-                              dados["noticias"]
+              except Exception as erro:
+
+                  print(
+                      "Erro ao ler JSON:",
+                      erro
+                  )
+
+
+          print(
+              "Notícias existentes:",
+              len(antigas)
+          )
+
+
+          # =========================================================
+          # MAPA DE IMAGENS EXISTENTES
+          # =========================================================
+
+          imagens_antigas = {}
+
+          for noticia in antigas:
+
+              link = (
+                  noticia.get(
+                      "link",
+                      ""
+                  )
+                  .strip()
+              )
+
+              imagem = (
+                  noticia.get(
+                      "imagem",
+                      ""
+                  )
+                  .strip()
+              )
+
+              if link and imagem:
+
+                  imagens_antigas[
+                      link
+                  ] = imagem
+
+
+          novas = []
+
+
+          # =========================================================
+          # BUSCAR RSS
+          # =========================================================
+
+          def buscar_rss(fonte):
+
+              print("")
+              print(
+                  "===================================="
+              )
+              print(
+                  "Consultando:",
+                  fonte["nome"]
+              )
+              print(
+                  "===================================="
+              )
+
+              try:
+
+                  time.sleep(2)
+
+                  resposta = sessao.get(
+                      fonte["url"],
+                      timeout=25
+                  )
+
+                  print(
+                      "HTTP:",
+                      resposta.status_code
+                  )
+
+                  if resposta.status_code != 200:
+
+                      print(
+                          "Fonte RSS indisponível."
+                      )
+
+                      return []
+
+
+                  feed = feedparser.parse(
+                      resposta.content
+                  )
+
+                  resultado = []
+
+
+                  for item in feed.entries[:12]:
+
+                      titulo = limpar(
+                          item.get(
+                              "title",
+                              ""
                           )
+                      )
+
+                      link = item.get(
+                          "link",
+                          ""
+                      )
+
+
+                      if not titulo or not link:
+                          continue
+
+
+                      if bloqueada(
+                          titulo,
+                          link
+                      ):
+                          continue
+
+
+                      descricao = limpar(
+                          item.get(
+                              "summary",
+                              item.get(
+                                  "description",
+                                  ""
+                              )
+                          )
+                      )
+
+
+                      imagem = imagem_do_item(
+                          item
+                      )
+
+
+                      if not imagem:
+
+                          imagem = imagens_antigas.get(
+                              link,
+                              ""
+                          )
+
+
+                      resultado.append({
+
+                          "id":
+                              criar_id(
+                                  titulo,
+                                  link
+                              ),
+
+                          "titulo":
+                              titulo,
+
+                          "descricao":
+                              descricao,
+
+                          "link":
+                              link,
+
+                          "fonte":
+                              fonte["nome"],
+
+                          "imagem":
+                              imagem,
+
+                          "data":
+                              data_item(
+                                  item
+                              ),
+
+                          "categoria":
+                              "PARÁ"
+
+                      })
+
+
+                  print(
+                      "Encontradas:",
+                      len(resultado)
+                  )
+
+                  return resultado
 
 
               except Exception as erro:
 
                   print(
-                      f"Erro lendo noticias.json: "
-                      f"{erro}"
+                      "Erro RSS:",
+                      erro
                   )
 
-
-          # ---------------------------------------------------------
-          # BUSCAR
-          # ---------------------------------------------------------
-
-          noticias_novas = []
+                  return []
 
 
-          for consulta in CONSULTAS:
+          # =========================================================
+          # BUSCAR PÁGINA
+          # =========================================================
+
+          def buscar_pagina(fonte):
 
               print("")
               print(
-                  "=" * 60
+                  "===================================="
               )
               print(
-                  f"Consultando: {consulta}"
+                  "Consultando:",
+                  fonte["nome"]
               )
               print(
-                  "=" * 60
+                  "===================================="
               )
 
+              try:
 
-              parametros = urllib.parse.urlencode({
+                  time.sleep(3)
 
-                  "q":
-                      consulta,
-
-                  "hl":
-                      "pt-BR",
-
-                  "gl":
-                      "BR",
-
-                  "ceid":
-                      "BR:pt-419"
-
-              })
-
-
-              url = (
-                  "https://news.google.com/rss/search?"
-                  + parametros
-              )
-
-
-              xml = buscar_url(
-                  url
-              )
-
-
-              if not xml:
-
-                  print(
-                      f"Consulta falhou: {consulta}"
+                  resposta = sessao.get(
+                      fonte["url"],
+                      timeout=30
                   )
 
-                  time.sleep(2)
+                  print(
+                      "HTTP:",
+                      resposta.status_code
+                  )
 
-                  continue
+                  if resposta.status_code != 200:
+
+                      print(
+                          "Página indisponível."
+                      )
+
+                      return []
 
 
-              encontrados = processar_feed(
-                  xml,
-                  consulta
+                  soup = BeautifulSoup(
+                      resposta.text,
+                      "html.parser"
+                  )
+
+                  resultado = []
+
+                  links_vistos = set()
+
+
+                  for a in soup.find_all(
+                      "a",
+                      href=True
+                  ):
+
+                      titulo = limpar(
+                          a.get_text(
+                              " ",
+                              strip=True
+                          )
+                      )
+
+                      href = a.get(
+                          "href",
+                          ""
+                      )
+
+
+                      if not titulo:
+                          continue
+
+
+                      if len(titulo) < 25:
+                          continue
+
+
+                      if len(titulo) > 180:
+                          continue
+
+
+                      # -------------------------------------------------
+                      # LINK ABSOLUTO
+                      # -------------------------------------------------
+
+                      link = urljoin(
+                          fonte["url"],
+                          href
+                      )
+
+
+                      if not (
+                          link.startswith(
+                              "http://"
+                          )
+                          or
+                          link.startswith(
+                              "https://"
+                          )
+                      ):
+                          continue
+
+
+                      # -------------------------------------------------
+                      # DOMÍNIO
+                      # -------------------------------------------------
+
+                      if fonte["nome"] == "O Liberal":
+
+                          if "oliberal.com" not in link:
+                              continue
+
+
+                      if fonte["nome"] == "G1 - O Portal":
+
+                          if "g1.globo.com" not in link:
+                              continue
+
+
+                      # -------------------------------------------------
+                      # EVITAR LINKS DUPLICADOS
+                      # -------------------------------------------------
+
+                      if link in links_vistos:
+                          continue
+
+                      links_vistos.add(
+                          link
+                      )
+
+
+                      # -------------------------------------------------
+                      # BLOQUEIOS
+                      # -------------------------------------------------
+
+                      if bloqueada(
+                          titulo,
+                          link
+                      ):
+                          continue
+
+
+                      caminho = link.lower()
+
+
+                      bloqueios = [
+
+                          "/busca",
+                          "/login",
+                          "/newsletter",
+                          "/videos",
+                          "/video/",
+                          "/webstories",
+                          "/podcasts",
+                          "/programas",
+                          "/ao-vivo"
+
+                      ]
+
+
+                      if any(
+                          trecho in caminho
+                          for trecho in bloqueios
+                      ):
+                          continue
+
+
+                      # -------------------------------------------------
+                      # SOMENTE LINKS DE MATÉRIA
+                      # -------------------------------------------------
+
+                      if fonte["nome"] == "G1 - O Portal":
+
+                          if "/noticia/" not in link:
+                              continue
+
+
+                      if fonte["nome"] == "O Liberal":
+
+                          secoes = [
+                              "/policia/",
+                              "/para/",
+                              "/belem/",
+                              "/amazonia/",
+                              "/politica/",
+                              "/economia/",
+                              "/esportes/",
+                              "/entretenimento/",
+                              "/mundo/",
+                              "/brasil/",
+                              "/tecnologia/",
+                              "/cultura/",
+                              "/saude/",
+                              "/concursos/"
+                          ]
+
+                          if not any(
+                              secao in caminho
+                              for secao in secoes
+                          ):
+                              continue
+
+
+                      # -------------------------------------------------
+                      # IMAGEM EXISTENTE
+                      # -------------------------------------------------
+
+                      imagem = imagens_antigas.get(
+                          link,
+                          ""
+                      )
+
+
+                      # -------------------------------------------------
+                      # BUSCAR IMAGEM NA MATÉRIA
+                      # -------------------------------------------------
+
+                      if not imagem:
+
+                          imagem = extrair_imagem_pagina(
+                              link
+                          )
+
+
+                      # -------------------------------------------------
+                      # SALVAR
+                      # -------------------------------------------------
+
+                      resultado.append({
+
+                          "id":
+                              criar_id(
+                                  titulo,
+                                  link
+                              ),
+
+                          "titulo":
+                              titulo,
+
+                          "descricao":
+                              titulo,
+
+                          "link":
+                              link,
+
+                          "fonte":
+                              fonte["nome"],
+
+                          "imagem":
+                              imagem,
+
+                          "data":
+                              datetime.now(
+                                  timezone.utc
+                              ).isoformat(),
+
+                          "categoria":
+                              "PARÁ"
+
+                      })
+
+
+                      print(
+                          "Notícia adicionada:",
+                          titulo
+                      )
+
+                      print(
+                          "Imagem:",
+                          imagem
+                      )
+
+
+                      # -------------------------------------------------
+                      # LIMITE POR FONTE
+                      # -------------------------------------------------
+
+                      if len(resultado) >= 6:
+                          break
+
+
+                  print(
+                      "Encontradas:",
+                      len(resultado)
+                  )
+
+                  return resultado
+
+
+              except Exception as erro:
+
+                  print(
+                      "Erro página:",
+                      erro
+                  )
+
+                  return []
+
+
+          # =========================================================
+          # EXECUTAR FONTES
+          # =========================================================
+
+          for fonte in FONTES:
+
+              if fonte["tipo"] == "rss":
+
+                  noticias_fonte = buscar_rss(
+                      fonte
+                  )
+
+              else:
+
+                  noticias_fonte = buscar_pagina(
+                      fonte
+                  )
+
+
+              novas.extend(
+                  noticias_fonte
               )
 
+
+          print("")
+          print(
+              "===================================="
+          )
+
+          print(
+              "TOTAL DE NOVAS NOTÍCIAS:",
+              len(novas)
+          )
+
+          print(
+              "===================================="
+          )
+
+
+          # =========================================================
+          # SE NENHUMA FONTE RESPONDEU
+          # =========================================================
+
+          if len(novas) == 0:
 
               print(
-                  f"Encontradas: "
-                  f"{len(encontrados)}"
+                  "Nenhuma notícia nova encontrada."
               )
 
-
-              noticias_novas.extend(
-                  encontrados
+              print(
+                  "JSON existente preservado."
               )
 
+              raise SystemExit(0)
 
-              time.sleep(2)
+
+          # =========================================================
+          # COMBINAR
+          # =========================================================
+
+          todas = novas + antigas
 
 
-          # ---------------------------------------------------------
+          # =========================================================
           # REMOVER DUPLICADAS
-          # ---------------------------------------------------------
+          # =========================================================
 
-          todas = []
-          vistos = set()
+          unicas = {}
 
 
-          for noticia in noticias_novas:
+          for noticia in todas:
 
-              chave = (
-                  noticia.get("link")
-                  or noticia.get("titulo")
-                  or noticia.get("id")
+              titulo = (
+                  noticia.get(
+                      "titulo",
+                      ""
+                  )
+                  .strip()
+                  .lower()
+              )
+
+              link = (
+                  noticia.get(
+                      "link",
+                      ""
+                  )
+                  .strip()
+                  .lower()
               )
 
 
-              if chave in vistos:
+              chave = link or titulo
+
+
+              if not chave:
                   continue
 
 
-              vistos.add(
-                  chave
+              # -------------------------------------------------
+              # Se já existe uma versão com imagem,
+              # preferir essa versão.
+              # -------------------------------------------------
+
+              if chave in unicas:
+
+                  imagem_atual = (
+                      unicas[chave].get(
+                          "imagem",
+                          ""
+                      )
+                      .strip()
+                  )
+
+                  imagem_nova = (
+                      noticia.get(
+                          "imagem",
+                          ""
+                      )
+                      .strip()
+                  )
+
+
+                  if (
+                      not imagem_atual
+                      and imagem_nova
+                  ):
+
+                      unicas[chave] = noticia
+
+              else:
+
+                  unicas[chave] = noticia
+
+
+          todas = list(
+              unicas.values()
+          )
+
+
+          # =========================================================
+          # CORRIGIR IMAGENS VAZIAS
+          # =========================================================
+
+          for noticia in todas:
+
+              link = (
+                  noticia.get(
+                      "link",
+                      ""
+                  )
+                  .strip()
               )
 
-              todas.append(
-                  noticia
+              imagem = (
+                  noticia.get(
+                      "imagem",
+                      ""
+                  )
+                  .strip()
               )
 
 
-          # Notícias antigas somente como reserva
-          for noticia in noticias_antigas:
+              if not imagem and link:
 
-              chave = (
-                  noticia.get("link")
-                  or noticia.get("titulo")
-                  or noticia.get("id")
-              )
-
-
-              if chave in vistos:
-                  continue
+                  imagem_antiga = (
+                      imagens_antigas.get(
+                          link,
+                          ""
+                      )
+                  )
 
 
-              if fonte_bloqueada(
-                  noticia.get("fonte", ""),
-                  noticia.get("link", "")
-              ):
-                  continue
+                  if imagem_antiga:
+
+                      noticia["imagem"] = (
+                          imagem_antiga
+                      )
 
 
-              vistos.add(
-                  chave
-              )
-
-              todas.append(
-                  noticia
-              )
-
-
-          # ---------------------------------------------------------
+          # =========================================================
           # ORDENAR
-          # ---------------------------------------------------------
+          # =========================================================
+
+          def ordenar(noticia):
+
+              return noticia.get(
+                  "data",
+                  ""
+              )
+
 
           todas.sort(
-              key=lambda x:
-                  x.get("data", ""),
+              key=ordenar,
               reverse=True
           )
 
 
-          noticias_finais = (
-              todas[:QUANTIDADE_MAXIMA]
-          )
+          # =========================================================
+          # LIMITE
+          # =========================================================
+
+          resultado = todas[:LIMITE]
 
 
-          # ---------------------------------------------------------
-          # PRESERVAR SE NÃO HOUVER RESULTADO
-          # ---------------------------------------------------------
+          # =========================================================
+          # SALVAR
+          # =========================================================
 
-          if not noticias_finais:
-
-              print(
-                  "Nenhuma notícia nova."
-              )
-
-              noticias_finais = (
-                  noticias_antigas[
-                      :QUANTIDADE_MAXIMA
-                  ]
-              )
-
-
-          # ---------------------------------------------------------
-          # JSON FINAL
-          # ---------------------------------------------------------
-
-          resultado = {
+          dados_finais = {
 
               "atualizado":
                   datetime.now(
@@ -828,7 +1498,7 @@ jobs:
                   ).isoformat(),
 
               "noticias":
-                  noticias_finais
+                  resultado
 
           }
 
@@ -840,46 +1510,76 @@ jobs:
           ) as arquivo:
 
               json.dump(
-                  resultado,
+                  dados_finais,
                   arquivo,
                   ensure_ascii=False,
                   indent=2
               )
 
 
+          # =========================================================
+          # RELATÓRIO
+          # =========================================================
+
           print("")
           print(
-              "=" * 60
-          )
-          print(
-              f"NOTÍCIAS SALVAS: "
-              f"{len(noticias_finais)}"
-          )
-          print(
-              "=" * 60
+              "===================================="
           )
 
+          print(
+              "SUCESSO!"
+          )
+
+          print(
+              "Notícias novas:",
+              len(novas)
+          )
+
+          print(
+              "Notícias gravadas:",
+              len(resultado)
+          )
+
+          print(
+              "===================================="
+          )
+
+
+          for noticia in resultado:
+
+              print(
+                  "-",
+                  noticia.get(
+                      "titulo",
+                      ""
+                  )
+              )
+
+              print(
+                  "  imagem:",
+                  noticia.get(
+                      "imagem",
+                      ""
+                  )
+              )
+
+
+          PY
+
+
+      # =========================================================
+      # SALVAR NO GITHUB
+      # =========================================================
 
       - name: Salvar notícias no GitHub
         run: |
 
           git config user.name "Radio JA FM"
-
-          git config user.email \
-            "radiojafm@users.noreply.github.com"
+          git config user.email "radioja-fm@users.noreply.github.com"
 
           git add noticias.json
-          git add imagens/
 
-          if git diff --cached --quiet; then
+          git diff --cached --quiet || \
+            git commit -m "Atualizar notícias com imagens"
 
-            echo "Nenhuma alteração."
-
-          else
-
-            git commit \
-              -m "Atualizar noticias e imagens"
-
-            git push
-
-          fi
+          git push
