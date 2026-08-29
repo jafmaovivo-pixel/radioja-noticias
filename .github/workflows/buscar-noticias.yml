@@ -41,9 +41,11 @@ jobs:
           import json
           import os
           import re
+          import sys
           import unicodedata
           import urllib.parse
           import urllib.request
+          import urllib.error
 
           from datetime import datetime, timezone
 
@@ -56,7 +58,7 @@ jobs:
 
           API_URL = "https://newsdata.io/api/1/latest"
 
-          LIMITE_NOTICIAS = 8
+          LIMITE_FINAL = 8
 
 
           # =====================================================
@@ -65,9 +67,13 @@ jobs:
 
           if not API_KEY:
 
-              print("ERRO: NEWSDATA_API_KEY não configurada.")
+              print("")
+              print("========================================")
+              print("ERRO: NEWSDATA_API_KEY NÃO CONFIGURADA")
+              print("========================================")
+              print("")
 
-              raise SystemExit(1)
+              sys.exit(1)
 
 
           # =====================================================
@@ -135,7 +141,7 @@ jobs:
 
 
           # =====================================================
-          # TERMOS QUE IDENTIFICAM O PARÁ
+          # TERMOS QUE IDENTIFICAM O ESTADO DO PARÁ
           # =====================================================
 
           PARA = [
@@ -153,15 +159,18 @@ jobs:
               "assembleia legislativa do para",
               "governador do para",
               "governadora do para",
-              "eleicoes do para",
-              "eleicoes paraenses",
-              "amazonas paraense"
+              "justica do para",
+              "tse para",
+              "eleicoes no para",
+              "eleicoes do para"
 
           ]
 
 
           # =====================================================
           # OUTRAS REGIÕES / ESTADOS
+          #
+          # Usadas para impedir classificações incorretas.
           # =====================================================
 
           OUTRAS_REGIOES = [
@@ -249,7 +258,9 @@ jobs:
               if not texto:
                   return ""
 
-              texto = str(texto).lower()
+              texto = str(texto)
+
+              texto = texto.lower()
 
               texto = unicodedata.normalize(
                   "NFD",
@@ -312,9 +323,7 @@ jobs:
 
                   item.get("source_name") or "",
 
-                  item.get("content") or "",
-
-                  item.get("creator") or ""
+                  item.get("source_id") or ""
 
               ]
 
@@ -329,11 +338,30 @@ jobs:
 
           def bloqueada(item):
 
-              texto = texto_noticia(item)
+              titulo = normalizar(
+                  item.get("title") or ""
+              )
+
+              descricao = normalizar(
+                  item.get("description") or ""
+              )
+
+              fonte = normalizar(
+                  item.get("source_name") or ""
+              )
 
               link = normalizar(
                   item.get("link") or ""
               )
+
+              texto = " ".join([
+
+                  titulo,
+                  descricao,
+                  fonte
+
+              ])
+
 
               for termo in BLOQUEADOS:
 
@@ -342,20 +370,10 @@ jobs:
                       termo
                   ):
 
-                      print(
-                          "BLOQUEADA:",
-                          item.get("title")
-                      )
-
                       return True
 
 
               if "mixvale.com.br" in link:
-
-                  print(
-                      "BLOQUEADA PELO LINK:",
-                      link
-                  )
 
                   return True
 
@@ -364,15 +382,12 @@ jobs:
 
 
           # =====================================================
-          # NOTÍCIA VÁLIDA
-          #
-          # ESTA É A FUNÇÃO CORRIGIDA
+          # VALIDAR NOTÍCIA
           # =====================================================
 
           def valido(item):
 
-              if not isinstance(item, dict):
-
+              if not item:
                   return False
 
 
@@ -387,23 +402,14 @@ jobs:
 
 
               if not titulo:
-
                   return False
 
 
               if not link:
-
-                  return False
-
-
-              # Remove links inválidos
-              if link.startswith("javascript:"):
-
                   return False
 
 
               if bloqueada(item):
-
                   return False
 
 
@@ -424,7 +430,9 @@ jobs:
 
                   "language": "pt",
 
-                  "q": consulta
+                  "q": consulta,
+
+                  "size": 10
 
               }
 
@@ -433,15 +441,17 @@ jobs:
 
                   API_URL
                   + "?"
-                  + urllib.parse.urlencode(parametros)
+                  + urllib.parse.urlencode(
+                      parametros
+                  )
 
               )
 
 
-              print(
-                  "URL DE BUSCA:",
-                  consulta
-              )
+              print("")
+              print("----------------------------------------")
+              print("CONSULTA:", consulta)
+              print("----------------------------------------")
 
 
               try:
@@ -453,7 +463,10 @@ jobs:
                       headers={
 
                           "User-Agent":
-                          "RadioJA-FM-News/2.0"
+                          "RadioJA-FM-News/2.0",
+
+                          "Accept":
+                          "application/json"
 
                       }
 
@@ -487,9 +500,17 @@ jobs:
 
                   if status == "error":
 
+                      print("")
                       print(
-                          "ERRO DA NEWSDATA:",
-                          dados
+                          "ERRO RETORNADO PELA NEWSDATA:"
+                      )
+
+                      print(
+                          json.dumps(
+                              dados,
+                              ensure_ascii=False,
+                              indent=2
+                          )
                       )
 
                       return []
@@ -501,22 +522,59 @@ jobs:
                   )
 
 
-                  if not isinstance(
-                      resultados,
-                      list
-                  ):
-
-                      return []
+                  print(
+                      "RESULTADOS RECEBIDOS:",
+                      len(resultados)
+                  )
 
 
                   return resultados
 
 
+              except urllib.error.HTTPError as erro:
+
+                  print("")
+                  print(
+                      "ERRO HTTP:",
+                      erro.code
+                  )
+
+
+                  try:
+
+                      corpo = (
+                          erro.read()
+                          .decode("utf-8")
+                      )
+
+                      print(
+                          corpo
+                      )
+
+                  except Exception:
+                      pass
+
+
+                  return []
+
+
+              except urllib.error.URLError as erro:
+
+                  print("")
+                  print(
+                      "ERRO DE CONEXÃO:",
+                      erro
+                  )
+
+                  return []
+
+
               except Exception as erro:
 
+                  print("")
                   print(
                       "ERRO NA BUSCA:",
-                      erro
+                      repr(erro)
                   )
 
                   return []
@@ -527,16 +585,6 @@ jobs:
           # =====================================================
 
           def converter(item, categoria):
-
-              imagem = (
-                  item.get("image_url")
-              )
-
-
-              if imagem == "":
-
-                  imagem = None
-
 
               return {
 
@@ -556,7 +604,7 @@ jobs:
                       item.get("source_name"),
 
                   "imagem":
-                      imagem,
+                      item.get("image_url"),
 
                   "data":
                       item.get("pubDate"),
@@ -568,12 +616,17 @@ jobs:
 
 
           # =====================================================
-          # VERIFICAR GRUPO
+          # VERIFICAR PERTENCIMENTO AO GRUPO
           # =====================================================
 
-          def pertence_ao_grupo(item, termos):
+          def pertence_ao_grupo(
+              item,
+              termos
+          ):
 
-              texto = texto_noticia(item)
+              texto = texto_noticia(
+                  item
+              )
 
 
               for termo in termos:
@@ -593,9 +646,13 @@ jobs:
           # VERIFICAR OUTRA REGIÃO
           # =====================================================
 
-          def pertence_outra_regiao(item):
+          def pertence_outra_regiao(
+              item
+          ):
 
-              texto = texto_noticia(item)
+              texto = texto_noticia(
+                  item
+              )
 
 
               for termo in OUTRAS_REGIOES:
@@ -612,12 +669,14 @@ jobs:
 
 
           # =====================================================
-          # VERIFICAR SE É DO PARÁ
+          # VERIFICAR SE REALMENTE É DO PARÁ
           # =====================================================
 
           def eh_para(item):
 
-              texto = texto_noticia(item)
+              texto = texto_noticia(
+                  item
+              )
 
 
               tem_para = pertence_ao_grupo(
@@ -626,28 +685,35 @@ jobs:
               )
 
 
-              tem_outra_regiao = pertence_outra_regiao(
-                  item
+              tem_outra_regiao = (
+                  pertence_outra_regiao(
+                      item
+                  )
               )
 
 
-              # Se há referência explícita ao Pará,
-              # consideramos notícia do Pará mesmo que
-              # também cite outro estado.
+              # -----------------------------------------------
+              # Se não existe nenhuma referência ao Pará,
+              # não classifica como notícia do Pará.
+              # -----------------------------------------------
 
-              if tem_para:
-
-                  return True
-
-
-              # Se não há Pará, não classifica como Pará.
-
-              if tem_outra_regiao:
+              if not tem_para:
 
                   return False
 
 
-              return False
+              # -----------------------------------------------
+              # Se há Pará e outro estado, ainda aceitamos
+              # porque pode ser uma notícia comparativa,
+              # envolvendo diretamente o Pará.
+              # -----------------------------------------------
+
+              if tem_outra_regiao:
+
+                  return True
+
+
+              return True
 
 
           # =====================================================
@@ -701,10 +767,17 @@ jobs:
               '"Governo do Pará"',
               '"Polícia do Pará"',
               '"Estado do Pará"',
+              '"Polícia Civil do Pará"',
+              '"Polícia Militar do Pará"',
+              '"Justiça do Pará"',
+              '"eleições do Pará"',
 
 
               # -----------------------------------------------
               # BRASIL
+              #
+              # Usada somente para completar caso não existam
+              # notícias suficientes do Pará.
               # -----------------------------------------------
 
               '"Brasil"'
@@ -719,31 +792,18 @@ jobs:
           candidatos = {}
 
 
+          total_resultados_api = 0
+
+
           for consulta in consultas:
-
-              print("")
-              print(
-                  "========================================"
-              )
-
-              print(
-                  "BUSCANDO:",
-                  consulta
-              )
-
-              print(
-                  "========================================"
-              )
-
 
               resultados = buscar(
                   consulta
               )
 
 
-              print(
-                  "RESULTADOS:",
-                  len(resultados)
+              total_resultados_api += len(
+                  resultados
               )
 
 
@@ -770,18 +830,35 @@ jobs:
 
 
           print("")
+          print("========================================")
           print(
-              "========================================"
+              "TOTAL DE RESULTADOS DA API:",
+              total_resultados_api
           )
-
           print(
-              "TOTAL DE CANDIDATOS:",
+              "TOTAL DE CANDIDATOS ÚNICOS:",
               len(candidatos)
           )
+          print("========================================")
 
-          print(
-              "========================================"
-          )
+
+          # =====================================================
+          # SE A API NÃO RETORNOU NADA
+          # =====================================================
+
+          if total_resultados_api == 0:
+
+              print("")
+              print(
+                  "ERRO: A NEWSDATA NÃO RETORNOU NENHUM RESULTADO."
+              )
+
+              print(
+                  "Verifique a API KEY, limite da conta ou "
+                  "resposta da API acima."
+              )
+
+              sys.exit(1)
 
 
           # =====================================================
@@ -810,7 +887,9 @@ jobs:
                   TOME_ACU
               ):
 
-                  tome_acu.append(item)
+                  tome_acu.append(
+                      item
+                  )
 
                   continue
 
@@ -824,7 +903,9 @@ jobs:
                   BELEM_RMB
               ):
 
-                  belem.append(item)
+                  belem.append(
+                      item
+                  )
 
                   continue
 
@@ -838,7 +919,9 @@ jobs:
                   NORDESTE_PARA
               ):
 
-                  nordeste.append(item)
+                  nordeste.append(
+                      item
+                  )
 
                   continue
 
@@ -849,7 +932,9 @@ jobs:
 
               if eh_para(item):
 
-                  para.append(item)
+                  para.append(
+                      item
+                  )
 
                   continue
 
@@ -857,11 +942,13 @@ jobs:
               # -----------------------------------------------
               # 5. BRASIL
               #
-              # Aqui fica somente aquilo que não foi
-              # classificado como Pará.
+              # Só entra aqui aquilo que não foi identificado
+              # como notícia do Pará.
               # -----------------------------------------------
 
-              brasil.append(item)
+              brasil.append(
+                  item
+              )
 
 
           # =====================================================
@@ -869,17 +956,9 @@ jobs:
           # =====================================================
 
           print("")
-          print(
-              "========================================"
-          )
-
-          print(
-              "CLASSIFICAÇÃO"
-          )
-
-          print(
-              "========================================"
-          )
+          print("========================================")
+          print("CLASSIFICAÇÃO")
+          print("========================================")
 
           print(
               "Tomé-Açu:",
@@ -918,7 +997,9 @@ jobs:
           noticias = []
 
 
-          def titulo_normalizado(titulo):
+          def titulo_normalizado(
+              titulo
+          ):
 
               titulo = normalizar(
                   titulo
@@ -951,7 +1032,7 @@ jobs:
               categoria
           ):
 
-              if len(noticias) >= LIMITE_NOTICIAS:
+              if len(noticias) >= LIMITE_FINAL:
 
                   return False
 
@@ -1027,22 +1108,27 @@ jobs:
 
           # =====================================================
           # PRIORIDADE 1
+          #
           # TOMÉ-AÇU
           # =====================================================
 
           for item in tome_acu:
 
-              if adicionar(
+              adicionar(
                   item,
                   "TOMÉ-AÇU"
-              ):
+              )
+
+              if len(noticias) >= LIMITE_FINAL:
 
                   break
 
 
           # =====================================================
           # PRIORIDADE 2
+          #
           # BELÉM / RMB
+          #
           # MÁXIMO 2
           # =====================================================
 
@@ -1051,7 +1137,7 @@ jobs:
 
           for item in belem:
 
-              if len(noticias) >= LIMITE_NOTICIAS:
+              if len(noticias) >= LIMITE_FINAL:
 
                   break
 
@@ -1071,7 +1157,9 @@ jobs:
 
           # =====================================================
           # PRIORIDADE 3
+          #
           # NORDESTE DO PARÁ
+          #
           # MÁXIMO 2
           # =====================================================
 
@@ -1080,7 +1168,7 @@ jobs:
 
           for item in nordeste:
 
-              if len(noticias) >= LIMITE_NOTICIAS:
+              if len(noticias) >= LIMITE_FINAL:
 
                   break
 
@@ -1100,12 +1188,13 @@ jobs:
 
           # =====================================================
           # PRIORIDADE 4
+          #
           # OUTRAS NOTÍCIAS DO PARÁ
           # =====================================================
 
           for item in para:
 
-              if len(noticias) >= LIMITE_NOTICIAS:
+              if len(noticias) >= LIMITE_FINAL:
 
                   break
 
@@ -1118,12 +1207,15 @@ jobs:
 
           # =====================================================
           # PRIORIDADE 5
+          #
           # BRASIL
+          #
+          # SOMENTE COMPLETA ATÉ 8
           # =====================================================
 
           for item in brasil:
 
-              if len(noticias) >= LIMITE_NOTICIAS:
+              if len(noticias) >= LIMITE_FINAL:
 
                   break
 
@@ -1146,7 +1238,7 @@ jobs:
                   ).isoformat(),
 
               "noticias":
-                  noticias[:LIMITE_NOTICIAS]
+                  noticias[:LIMITE_FINAL]
 
           }
 
@@ -1179,25 +1271,12 @@ jobs:
           # =====================================================
 
           print("")
-          print(
-              "========================================"
-          )
-
+          print("========================================")
           print(
               "TOTAL FINAL:",
-              len(noticias[:LIMITE_NOTICIAS])
+              len(noticias[:LIMITE_FINAL])
           )
-
-          print(
-              "========================================"
-          )
-
-
-          if not noticias:
-
-              print(
-                  "ATENÇÃO: nenhuma notícia foi encontrada."
-              )
+          print("========================================")
 
 
           print("")
@@ -1205,7 +1284,7 @@ jobs:
 
           for numero, noticia in enumerate(
 
-              noticias[:LIMITE_NOTICIAS],
+              noticias[:LIMITE_FINAL],
 
               start=1
 
@@ -1218,6 +1297,22 @@ jobs:
                   f"{noticia['titulo']}"
 
               )
+
+
+          # =====================================================
+          # AVISO SE NÃO HOUVER NOTÍCIAS
+          # =====================================================
+
+          if not noticias:
+
+              print("")
+              print("========================================")
+              print(
+                  "ATENÇÃO: NENHUMA NOTÍCIA FOI SELECIONADA."
+              )
+              print("========================================")
+
+              sys.exit(1)
 
 
           PY
@@ -1239,14 +1334,8 @@ jobs:
           git add noticias.json
 
 
-          if git diff --cached --quiet; then
-
-            echo "Nenhuma alteração nas notícias."
-
-          else
-
+          git diff --cached --quiet || \
             git commit -m "Atualizar notícias"
 
-            git push
 
-          fi
+          git push
