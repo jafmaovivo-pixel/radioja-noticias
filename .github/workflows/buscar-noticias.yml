@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Baixar arquivos
         uses: actions/checkout@v4
 
@@ -22,12 +23,15 @@ jobs:
 
         run: |
           python3 - <<'PY'
+
           import json
           import os
           import re
           import urllib.parse
           import urllib.request
+          import unicodedata
           from datetime import datetime, timezone
+
 
           API_KEY = os.environ["NEWSDATA_API_KEY"]
 
@@ -35,7 +39,14 @@ jobs:
 
 
           # =====================================================
-          # CONFIGURAÇÃO
+          # CONFIGURAÇÕES
+          # =====================================================
+
+          LIMITE_NOTICIAS = 8
+
+
+          # =====================================================
+          # FONTES / TERMOS BLOQUEADOS
           # =====================================================
 
           BLOQUEADOS = [
@@ -52,14 +63,15 @@ jobs:
           TOME_ACU = [
               "tomé-açu",
               "tomé açu",
-              "tome-açu",
+              "tome-acu",
               "tome acu",
-              "tome-acu"
+              "tomeaçu",
+              "tomeacu"
           ]
 
 
           # =====================================================
-          # BELÉM / REGIÃO METROPOLITANA
+          # BELÉM E REGIÃO METROPOLITANA
           # =====================================================
 
           BELEM_RMB = [
@@ -100,7 +112,43 @@ jobs:
 
 
           # =====================================================
-          # PARÁ
+          # OUTRAS CIDADES IMPORTANTES DO PARÁ
+          # =====================================================
+
+          OUTRAS_CIDADES_PARA = [
+              "santarém",
+              "santarem",
+              "altamira",
+              "marabá",
+              "maraba",
+              "parauapebas",
+              "redenção",
+              "redencao",
+              "tucuruí",
+              "tucurui",
+              "tailândia",
+              "tailandia",
+              "moju",
+              "itaituba",
+              "breves",
+              "cametá",
+              "cameta",
+              "óbidos",
+              "obidos",
+              "juruti",
+              "ourilândia",
+              "ourilandia",
+              "xinguara",
+              "dom eliseu",
+              "ulianópolis",
+              "ulianopolis",
+              "tomé-açu",
+              "tome acu"
+          ]
+
+
+          # =====================================================
+          # TERMOS QUE IDENTIFICAM O ESTADO DO PARÁ
           # =====================================================
 
           PARA = [
@@ -111,91 +159,161 @@ jobs:
               "estado do para",
               "governo do pará",
               "governo do para",
+              "assembleia legislativa do pará",
+              "assembleia legislativa do para",
               "polícia do pará",
               "policia do para",
-              "assembleia legislativa do pará",
+              "polícia civil do pará",
+              "policia civil do para",
+              "polícia militar do pará",
+              "policia militar do para",
               "tribunal de justiça do pará",
-              "tjpa",
-              "mppa",
+              "tribunal de justiça do para",
+              "ministério público do pará",
+              "ministerio publico do para",
+              "defensoria pública do pará",
+              "defensoria publica do para",
               "ufpa",
               "ifpa",
-              "susipe",
-              "sefa pará",
-              "sefa para",
-              "detraf",
-              "segup pará",
-              "segup para"
+              "uepa"
           ]
 
 
           # =====================================================
-          # OUTRAS REGIÕES
+          # OUTROS ESTADOS / REGIÕES
+          #
+          # Usados para evitar que uma notícia nacional seja
+          # interpretada como notícia do Pará apenas porque
+          # menciona uma cidade paraense.
           # =====================================================
 
           OUTRAS_REGIOES = [
+
+              "acre",
+              "alagoas",
+              "amapá",
+              "amapa",
+              "amazonas",
+
               "bahia",
               "salvador",
-              "feira de santana",
-
-              "são paulo",
-              "sao paulo",
-              "campinas",
-              "guarulhos",
-
-              "rio de janeiro",
-              "niterói",
-              "duque de caxias",
-
-              "minas gerais",
-              "belo horizonte",
-
-              "pernambuco",
-              "recife",
 
               "ceará",
               "ceara",
               "fortaleza",
 
-              "paraná",
-              "parana",
-              "curitiba",
-
-              "rio grande do sul",
-              "porto alegre",
-
+              "distrito federal",
               "brasília",
               "brasilia",
+
+              "espírito santo",
+              "espirito santo",
 
               "goiás",
               "goias",
               "goiânia",
               "goiania",
 
-              "amazonas",
-              "manaus",
+              "maranhão",
+              "maranhao",
+              "são luís",
+              "sao luis",
 
-              "acre",
-              "rio branco",
+              "mato grosso",
+              "mato grosso do sul",
+
+              "minas gerais",
+              "belo horizonte",
+
+              "paraíba",
+              "paraiba",
+              "joão pessoa",
+              "joao pessoa",
+
+              "paraná",
+              "parana",
+              "curitiba",
+
+              "pernambuco",
+              "recife",
+
+              "piauí",
+              "piaui",
+              "teresina",
+
+              "rio de janeiro",
+              "rio grande do norte",
+              "rio grande do sul",
 
               "rondônia",
               "rondonia",
-              "porto velho",
 
-              "mato grosso",
-              "cuiabá",
-              "cuiaba",
-
-              "mato grosso do sul",
-              "campo grande",
-
-              "espírito santo",
-              "espirito santo",
-              "vitória",
-              "vitoria",
+              "roraima",
 
               "santa catarina",
-              "florianópolis",
-              "florianopolis"
+
+              "são paulo",
+              "sao paulo",
+
+              "sergipe",
+
+              "tocantins",
+
+              "mato grosso"
+          ]
+
+
+          # =====================================================
+          # TERMOS NACIONAIS
+          #
+          # Esses assuntos frequentemente produzem matérias
+          # nacionais que citam o Pará apenas em listas.
+          # =====================================================
+
+          ASSUNTOS_NACIONAIS = [
+
+              "inss",
+              "previdência social",
+              "previdencia social",
+              "meu inss",
+
+              "imposto de renda",
+              "receita federal",
+
+              "fgts",
+              "abono salarial",
+              "pis/pasep",
+              "pis pasep",
+
+              "bolsa família",
+              "bolsa familia",
+
+              "cadúnico",
+              "cadunico",
+
+              "seguro-desemprego",
+              "seguro desemprego",
+
+              "saque aniversário",
+              "saque aniversario",
+
+              "benefício social",
+              "beneficio social",
+
+              "concurso nacional",
+
+              "governo federal",
+
+              "câmara dos deputados",
+              "camara dos deputados",
+
+              "senado federal",
+
+              "supremo tribunal federal",
+              "stf",
+
+              "eleições 2026",
+              "eleicoes 2026"
           ]
 
 
@@ -208,7 +326,17 @@ jobs:
               if not texto:
                   return ""
 
-              texto = texto.lower()
+              texto = str(texto).lower()
+
+              texto = unicodedata.normalize(
+                  "NFKD",
+                  texto
+              )
+
+              texto = "".join(
+                  c for c in texto
+                  if not unicodedata.combining(c)
+              )
 
               texto = re.sub(
                   r"\s+",
@@ -220,46 +348,90 @@ jobs:
 
 
           # =====================================================
-          # BUSCA NA NEWSDATA
+          # TEXTO COMPLETO DA NOTÍCIA
+          # =====================================================
+
+          def texto_noticia(item):
+
+              partes = [
+
+                  item.get("title") or "",
+
+                  item.get("description") or "",
+
+                  item.get("source_name") or ""
+
+              ]
+
+              return normalizar(
+                  " ".join(partes)
+              )
+
+
+          # =====================================================
+          # BUSCAR API
           # =====================================================
 
           def buscar(consulta):
 
               parametros = {
+
                   "apikey": API_KEY,
+
                   "country": "br",
+
                   "language": "pt",
+
                   "q": consulta
               }
 
+
               url = (
-                  API_URL
-                  + "?"
-                  + urllib.parse.urlencode(parametros)
+
+                  API_URL +
+
+                  "?" +
+
+                  urllib.parse.urlencode(
+                      parametros
+                  )
               )
+
 
               try:
 
                   requisicao = urllib.request.Request(
+
                       url,
+
                       headers={
-                          "User-Agent": "RadioJA-FM-News/1.0"
+                          "User-Agent":
+                          "RadioJA-FM-News/2.0"
                       }
                   )
 
+
                   with urllib.request.urlopen(
+
                       requisicao,
+
                       timeout=30
+
                   ) as resposta:
 
                       dados = json.loads(
-                          resposta.read().decode("utf-8")
+
+                          resposta
+                          .read()
+                          .decode("utf-8")
                       )
+
 
                   return dados.get(
                       "results",
                       []
                   )
+
 
               except Exception as erro:
 
@@ -272,22 +444,7 @@ jobs:
 
 
           # =====================================================
-          # TEXTO COMPLETO DA NOTÍCIA
-          # =====================================================
-
-          def texto_noticia(item):
-
-              return normalizar(
-                  " ".join([
-                      item.get("title") or "",
-                      item.get("description") or "",
-                      item.get("source_name") or ""
-                  ])
-              )
-
-
-          # =====================================================
-          # NOTÍCIA BLOQUEADA
+          # VERIFICAR BLOQUEIOS
           # =====================================================
 
           def bloqueada(item):
@@ -308,161 +465,400 @@ jobs:
                   item.get("link") or ""
               )
 
-              texto = (
-                  titulo
-                  + " "
-                  + descricao
-                  + " "
-                  + fonte
-              )
+
+              texto = " ".join([
+
+                  titulo,
+
+                  descricao,
+
+                  fonte
+              ])
+
 
               for termo in BLOQUEADOS:
 
-                  if termo in texto:
+                  if normalizar(termo) in texto:
+
                       return True
+
 
               for termo in BLOQUEADOS:
 
-                  if termo in link:
+                  if normalizar(termo) in link:
+
                       return True
+
 
               return False
 
 
           # =====================================================
-          # VERIFICAR SE POSSUI TERMO
+          # VALIDAR CAMPOS BÁSICOS
           # =====================================================
 
-          def pertence_ao_grupo(
-              item,
-              termos
-          ):
+          def campos_validos(item):
 
-              texto = texto_noticia(item)
+              if not item.get("title"):
 
-              for termo in termos:
-
-                  if termo in texto:
-                      return True
-
-              return False
-
-
-          # =====================================================
-          # VERIFICAR SE É OUTRA REGIÃO
-          # =====================================================
-
-          def eh_outra_regiao(item):
-
-              texto = texto_noticia(item)
-
-              for termo in OUTRAS_REGIOES:
-
-                  if termo in texto:
-                      return True
-
-              return False
-
-
-          # =====================================================
-          # VALIDAÇÃO PRINCIPAL
-          # =====================================================
-
-          def valido(item):
-
-              titulo = (
-                  item.get("title") or ""
-              ).strip()
-
-              link = (
-                  item.get("link") or ""
-              ).strip()
-
-              descricao = (
-                  item.get("description") or ""
-              ).strip()
-
-              fonte = (
-                  item.get("source_name") or ""
-              ).strip()
-
-              if not titulo:
                   return False
 
-              if not link:
+
+              if not item.get("link"):
+
                   return False
+
 
               if bloqueada(item):
-                  return False
-
-              # -------------------------------------------------
-              # Rejeita notícias claramente identificadas
-              # como pertencentes a outros estados/regiões.
-              # -------------------------------------------------
-
-              texto = normalizar(
-                  " ".join([
-                      titulo,
-                      descricao,
-                      fonte
-                  ])
-              )
-
-              # Se a notícia fala explicitamente de outra
-              # região e não apresenta nenhuma referência
-              # ao Pará, não entra.
-              tem_para = pertence_ao_grupo(
-                  item,
-                  PARA
-              )
-
-              tem_belem = pertence_ao_grupo(
-                  item,
-                  BELEM_RMB
-              )
-
-              tem_nordeste = pertence_ao_grupo(
-                  item,
-                  NORDESTE_PARA
-              )
-
-              tem_tome = pertence_ao_grupo(
-                  item,
-                  TOME_ACU
-              )
-
-              eh_regional = (
-                  tem_para
-                  or tem_belem
-                  or tem_nordeste
-                  or tem_tome
-              )
-
-              outra_regiao = eh_outra_regiao(
-                  item
-              )
-
-              if outra_regiao and not eh_regional:
 
                   return False
+
 
               return True
 
 
           # =====================================================
-          # CONVERTER
+          # CONTAR OCORRÊNCIAS
+          # =====================================================
+
+          def contar_termos(texto, termos):
+
+              contador = 0
+
+              for termo in termos:
+
+                  termo_normalizado = normalizar(
+                      termo
+                  )
+
+                  if termo_normalizado in texto:
+
+                      contador += 1
+
+              return contador
+
+
+          # =====================================================
+          # VERIFICAR OUTROS ESTADOS
+          # =====================================================
+
+          def menciona_outra_regiao(texto):
+
+              encontrados = []
+
+              for termo in OUTRAS_REGIOES:
+
+                  termo_normalizado = normalizar(
+                      termo
+                  )
+
+                  if termo_normalizado in texto:
+
+                      encontrados.append(
+                          termo_normalizado
+                      )
+
+
+              return encontrados
+
+
+          # =====================================================
+          # IDENTIFICAR SE É NOTÍCIA REALMENTE SOBRE O PARÁ
+          #
+          # IMPORTANTE:
+          #
+          # Não basta aparecer "Pará" na descrição.
+          #
+          # O Pará precisa aparecer no título OU existir uma
+          # forte indicação regional.
+          # =====================================================
+
+          def e_realmente_do_para(item):
+
+              titulo = normalizar(
+                  item.get("title") or ""
+              )
+
+              descricao = normalizar(
+                  item.get("description") or ""
+              )
+
+              fonte = normalizar(
+                  item.get("source_name") or ""
+              )
+
+
+              texto = " ".join([
+
+                  titulo,
+
+                  descricao,
+
+                  fonte
+              ])
+
+
+              # -------------------------------------------------
+              # 1. Cidades específicas no TÍTULO
+              # -------------------------------------------------
+
+              if contar_termos(
+                  titulo,
+                  TOME_ACU
+              ) > 0:
+
+                  return True
+
+
+              if contar_termos(
+                  titulo,
+                  BELEM_RMB
+              ) > 0:
+
+                  return True
+
+
+              if contar_termos(
+                  titulo,
+                  NORDESTE_PARA
+              ) > 0:
+
+                  return True
+
+
+              if contar_termos(
+                  titulo,
+                  OUTRAS_CIDADES_PARA
+              ) > 0:
+
+                  return True
+
+
+              # -------------------------------------------------
+              # 2. "Pará" ou termos oficiais no TÍTULO
+              # -------------------------------------------------
+
+              if contar_termos(
+                  titulo,
+                  PARA
+              ) > 0:
+
+                  return True
+
+
+              # -------------------------------------------------
+              # 3. Instituições paraenses no título
+              # -------------------------------------------------
+
+              instituicoes_para = [
+
+                  "ufpa",
+                  "ifpa",
+                  "uepa",
+                  "governo do para",
+                  "governo do pará",
+                  "policia do para",
+                  "polícia do pará",
+                  "tribunal de justiça do pará",
+                  "tribunal de justiça do para"
+              ]
+
+
+              if contar_termos(
+                  titulo,
+                  instituicoes_para
+              ) > 0:
+
+                  return True
+
+
+              # -------------------------------------------------
+              # 4. Cidade + Pará no texto
+              #
+              # Isso é mais forte que simplesmente "Pará".
+              # -------------------------------------------------
+
+              cidades_para = (
+
+                  TOME_ACU +
+
+                  BELEM_RMB +
+
+                  NORDESTE_PARA +
+
+                  OUTRAS_CIDADES_PARA
+              )
+
+
+              cidade_encontrada = (
+                  contar_termos(
+                      texto,
+                      cidades_para
+                  ) > 0
+              )
+
+
+              para_encontrado = (
+                  contar_termos(
+                      texto,
+                      PARA
+                  ) > 0
+              )
+
+
+              if cidade_encontrada and para_encontrado:
+
+                  return True
+
+
+              # -------------------------------------------------
+              # 5. Fonte claramente paraense
+              # -------------------------------------------------
+
+              fontes_para = [
+
+                  "g1 - o portal",
+                  "diário do pará",
+                  "diario do para"
+              ]
+
+
+              if any(
+                  fonte_nome in fonte
+                  for fonte_nome in fontes_para
+              ):
+
+                  if para_encontrado:
+
+                      return True
+
+
+              # -------------------------------------------------
+              # 6. Se aparecer outra região forte, rejeita.
+              # -------------------------------------------------
+
+              outras = menciona_outra_regiao(
+                  titulo
+              )
+
+
+              if outras:
+
+                  return False
+
+
+              # -------------------------------------------------
+              # 7. Apenas "Pará" na descrição não é suficiente.
+              # -------------------------------------------------
+
+              return False
+
+
+          # =====================================================
+          # CLASSIFICAÇÃO
+          # =====================================================
+
+          def classificar(item):
+
+              titulo = normalizar(
+                  item.get("title") or ""
+              )
+
+              descricao = normalizar(
+                  item.get("description") or ""
+              )
+
+              texto = " ".join([
+                  titulo,
+                  descricao
+              ])
+
+
+              if contar_termos(
+                  titulo,
+                  TOME_ACU
+              ) > 0:
+
+                  return "TOMÉ-AÇU"
+
+
+              if contar_termos(
+                  titulo,
+                  BELEM_RMB
+              ) > 0:
+
+                  return "BELÉM/RMB"
+
+
+              if contar_termos(
+                  titulo,
+                  NORDESTE_PARA
+              ) > 0:
+
+                  return "NORDESTE DO PARÁ"
+
+
+              if contar_termos(
+                  titulo,
+                  OUTRAS_CIDADES_PARA
+              ) > 0:
+
+                  return "PARÁ"
+
+
+              if contar_termos(
+                  titulo,
+                  PARA
+              ) > 0:
+
+                  return "PARÁ"
+
+
+              return "PARÁ"
+
+
+          # =====================================================
+          # CONVERTER NOTÍCIA
           # =====================================================
 
           def converter(item):
 
               return {
-                  "id": item.get("article_id"),
-                  "titulo": item.get("title"),
-                  "descricao": item.get("description"),
-                  "link": item.get("link"),
-                  "fonte": item.get("source_name"),
-                  "imagem": item.get("image_url"),
-                  "data": item.get("pubDate")
+
+                  "id":
+                      item.get(
+                          "article_id"
+                      ),
+
+                  "titulo":
+                      item.get(
+                          "title"
+                      ),
+
+                  "descricao":
+                      item.get(
+                          "description"
+                      ),
+
+                  "link":
+                      item.get(
+                          "link"
+                      ),
+
+                  "fonte":
+                      item.get(
+                          "source_name"
+                      ),
+
+                  "imagem":
+                      item.get(
+                          "image_url"
+                      ),
+
+                  "data":
+                      item.get(
+                          "pubDate"
+                      )
               }
 
 
@@ -472,53 +868,103 @@ jobs:
 
           consultas = [
 
-              # -------------------------------------------------
+              # -------------------------------
               # TOMÉ-AÇU
-              # -------------------------------------------------
+              # -------------------------------
 
               '"Tomé-Açu"',
 
+              '"Tome Acu"',
 
-              # -------------------------------------------------
+
+              # -------------------------------
               # BELÉM / RMB
-              # -------------------------------------------------
+              # -------------------------------
 
               '"Belém"',
+
               '"Ananindeua"',
+
               '"Marituba"',
+
               '"Benevides"',
+
               '"Santa Izabel do Pará"',
 
 
-              # -------------------------------------------------
+              # -------------------------------
               # NORDESTE DO PARÁ
-              # -------------------------------------------------
+              # -------------------------------
 
               '"Castanhal"',
+
               '"Bragança"',
+
               '"Capanema"',
+
               '"Salinópolis"',
+
               '"Paragominas"',
+
               '"Barcarena"',
+
               '"Abaetetuba"',
+
               '"Cametá"',
+
               '"Vigia"',
+
               '"Capitão Poço"',
+
               '"Igarapé-Açu"',
 
 
-              # -------------------------------------------------
+              # -------------------------------
+              # OUTRAS CIDADES
+              # -------------------------------
+
+              '"Santarém"',
+
+              '"Altamira"',
+
+              '"Marabá"',
+
+              '"Parauapebas"',
+
+              '"Redenção"',
+
+              '"Tucuruí"',
+
+              '"Tailândia"',
+
+              '"Moju"',
+
+              '"Itaituba"',
+
+
+              # -------------------------------
               # PARÁ
-              # -------------------------------------------------
+              # -------------------------------
 
               '"Pará"',
+
               '"governo do Pará"',
+
               '"polícia do Pará"',
 
+              '"UFPA"',
 
-              # -------------------------------------------------
+              '"IFPA"',
+
+              '"UEPA"',
+
+
+              # -------------------------------
               # BRASIL
-              # -------------------------------------------------
+              #
+              # Mantido somente como consulta
+              # secundária.
+              # -------------------------------
 
               '"Brasil"'
           ]
@@ -539,26 +985,34 @@ jobs:
                   consulta
               )
 
+
               resultados = buscar(
                   consulta
               )
+
 
               print(
                   "RESULTADOS:",
                   len(resultados)
               )
 
+
               for item in resultados:
 
-                  if not valido(item):
+                  if not campos_validos(item):
+
                       continue
+
 
                   link = (
                       item.get("link") or ""
                   ).strip()
 
+
                   if not link:
+
                       continue
+
 
                   if link not in candidatos:
 
@@ -573,90 +1027,90 @@ jobs:
 
 
           # =====================================================
-          # CLASSIFICAÇÃO
+          # FILTRAR NOTÍCIAS
           # =====================================================
 
-          tome_acu = []
-          belem = []
-          nordeste = []
-          para = []
-          brasil = []
+          filtradas = []
 
 
           for item in candidatos.values():
 
-              if pertence_ao_grupo(
-                  item,
-                  TOME_ACU
-              ):
+              if e_realmente_do_para(item):
 
-                  tome_acu.append(item)
-
-              elif pertence_ao_grupo(
-                  item,
-                  BELEM_RMB
-              ):
-
-                  belem.append(item)
-
-              elif pertence_ao_grupo(
-                  item,
-                  NORDESTE_PARA
-              ):
-
-                  nordeste.append(item)
-
-              elif pertence_ao_grupo(
-                  item,
-                  PARA
-              ):
-
-                  para.append(item)
-
-              else:
-
-                  # Só permite entrar como Brasil
-                  # se não for claramente de outra região.
-
-                  if not eh_outra_regiao(item):
-
-                      brasil.append(item)
+                  filtradas.append(item)
 
 
           print("")
           print(
-              "=============================="
-          )
-          print(
-              "CLASSIFICAÇÃO"
-          )
-          print(
-              "Tomé-Açu:",
-              len(tome_acu)
-          )
-          print(
-              "Belém/RMB:",
-              len(belem)
-          )
-          print(
-              "Nordeste do Pará:",
-              len(nordeste)
-          )
-          print(
-              "Pará:",
-              len(para)
-          )
-          print(
-              "Brasil:",
-              len(brasil)
-          )
-          print(
-              "=============================="
+              "NOTÍCIAS REALMENTE DO PARÁ:",
+              len(filtradas)
           )
 
 
           # =====================================================
-          # REMOVER DUPLICADAS
+          # CLASSIFICAR
+          # =====================================================
+
+          tome_acu = []
+
+          belem = []
+
+          nordeste = []
+
+          para = []
+
+
+          for item in filtradas:
+
+              categoria = classificar(
+                  item
+              )
+
+
+              if categoria == "TOMÉ-AÇU":
+
+                  tome_acu.append(item)
+
+
+              elif categoria == "BELÉM/RMB":
+
+                  belem.append(item)
+
+
+              elif categoria == "NORDESTE DO PARÁ":
+
+                  nordeste.append(item)
+
+
+              else:
+
+                  para.append(item)
+
+
+          print("")
+          print(
+              "TOMÉ-AÇU:",
+              len(tome_acu)
+          )
+
+          print(
+              "BELÉM/RMB:",
+              len(belem)
+          )
+
+          print(
+              "NORDESTE DO PARÁ:",
+              len(nordeste)
+          )
+
+          print(
+              "OUTRAS DO PARÁ:",
+              len(para)
+          )
+
+
+          # =====================================================
+          # REMOÇÃO DE DUPLICADAS
           # =====================================================
 
           titulos_usados = set()
@@ -672,67 +1126,185 @@ jobs:
                   titulo
               )
 
+
               titulo = re.sub(
-                  r"[^a-z0-9áéíóúãõâêôç ]",
-                  "",
+
+                  r"[^a-z0-9 ]",
+
+                  " ",
+
                   titulo
               )
 
+
               titulo = re.sub(
+
                   r"\s+",
+
                   " ",
+
                   titulo
               )
+
 
               return titulo.strip()
 
+
+          # =====================================================
+          # DETECTAR TÍTULOS SEMELHANTES
+          # =====================================================
+
+          def palavras_titulo(titulo):
+
+              texto = titulo_normalizado(
+                  titulo
+              )
+
+
+              palavras = texto.split()
+
+
+              palavras = [
+
+                  p for p in palavras
+
+                  if len(p) >= 4
+              ]
+
+
+              return set(palavras)
+
+
+          def titulo_parecido(titulo):
+
+              palavras_novas = palavras_titulo(
+                  titulo
+              )
+
+
+              if not palavras_novas:
+
+                  return False
+
+
+              for titulo_existente in titulos_usados:
+
+                  palavras_existentes = palavras_titulo(
+                      titulo_existente
+                  )
+
+
+                  if not palavras_existentes:
+
+                      continue
+
+
+                  intersecao = (
+                      palavras_novas &
+                      palavras_existentes
+                  )
+
+
+                  menor = min(
+
+                      len(palavras_novas),
+
+                      len(palavras_existentes)
+                  )
+
+
+                  if menor > 0:
+
+                      semelhanca = (
+                          len(intersecao)
+                          /
+                          menor
+                      )
+
+
+                      if semelhanca >= 0.70:
+
+                          return True
+
+
+              return False
+
+
+          # =====================================================
+          # ADICIONAR NOTÍCIA
+          # =====================================================
 
           def adicionar(
               item,
               categoria
           ):
 
-              if len(noticias) >= 8:
+              if len(noticias) >= LIMITE_NOTICIAS:
 
                   return False
+
 
               link = (
                   item.get("link") or ""
               ).strip()
 
-              titulo = titulo_normalizado(
+
+              titulo_original = (
                   item.get("title") or ""
               )
 
+
+              titulo = titulo_normalizado(
+                  titulo_original
+              )
+
+
               if not link:
+
                   return False
 
-              if not titulo:
-                  return False
 
               if link in links_usados:
 
                   return False
 
+
               if titulo in titulos_usados:
 
                   return False
+
+
+              if titulo_parecido(
+                  titulo_original
+              ):
+
+                  print(
+                      "DUPLICADA SEMELHANTE:",
+                      titulo_original
+                  )
+
+                  return False
+
 
               links_usados.add(
                   link
               )
 
+
               titulos_usados.add(
                   titulo
               )
+
 
               noticia = converter(
                   item
               )
 
+
               noticias.append(
                   noticia
               )
+
 
               print(
                   f"{len(noticias)} | "
@@ -741,11 +1313,13 @@ jobs:
                   f"{noticia['titulo']}"
               )
 
+
               return True
 
 
           # =====================================================
           # PRIORIDADE 1
+          #
           # TOMÉ-AÇU
           # =====================================================
 
@@ -761,7 +1335,9 @@ jobs:
 
           # =====================================================
           # PRIORIDADE 2
+          #
           # BELÉM / RMB
+          #
           # MÁXIMO 2
           # =====================================================
 
@@ -770,8 +1346,10 @@ jobs:
 
           for item in belem:
 
-              if len(noticias) >= 8:
+              if len(noticias) >= LIMITE_NOTICIAS:
+
                   break
+
 
               if adicionar(
                   item,
@@ -780,13 +1358,17 @@ jobs:
 
                   contador_belem += 1
 
+
               if contador_belem >= 2:
+
                   break
 
 
           # =====================================================
           # PRIORIDADE 3
+          #
           # NORDESTE DO PARÁ
+          #
           # MÁXIMO 2
           # =====================================================
 
@@ -795,8 +1377,10 @@ jobs:
 
           for item in nordeste:
 
-              if len(noticias) >= 8:
+              if len(noticias) >= LIMITE_NOTICIAS:
+
                   break
+
 
               if adicionar(
                   item,
@@ -805,19 +1389,24 @@ jobs:
 
                   contador_nordeste += 1
 
+
               if contador_nordeste >= 2:
+
                   break
 
 
           # =====================================================
           # PRIORIDADE 4
+          #
           # OUTRAS NOTÍCIAS DO PARÁ
           # =====================================================
 
           for item in para:
 
-              if len(noticias) >= 8:
+              if len(noticias) >= LIMITE_NOTICIAS:
+
                   break
+
 
               adicionar(
                   item,
@@ -826,23 +1415,25 @@ jobs:
 
 
           # =====================================================
-          # PRIORIDADE 5
-          # BRASIL
+          # SE NÃO HOUVER 8 NOTÍCIAS
+          #
+          # NÃO vamos colocar notícias nacionais aleatórias.
+          #
+          # É melhor retornar menos notícias do Pará do que
+          # preencher o JSON com notícias que não são regionais.
           # =====================================================
-
-          for item in brasil:
-
-              if len(noticias) >= 8:
-                  break
-
-              adicionar(
-                  item,
-                  "BRASIL"
-              )
 
 
           # =====================================================
-          # SALVAR JSON
+          # ORDENAR POR DATA
+          #
+          # Mantemos a prioridade definida acima, portanto
+          # NÃO fazemos uma ordenação global aqui.
+          # =====================================================
+
+
+          # =====================================================
+          # RESULTADO FINAL
           # =====================================================
 
           resultado = {
@@ -853,36 +1444,53 @@ jobs:
                   ).isoformat(),
 
               "noticias":
-                  noticias[:8]
+                  noticias[:LIMITE_NOTICIAS]
           }
 
 
+          # =====================================================
+          # SALVAR JSON
+          # =====================================================
+
           with open(
+
               "noticias.json",
+
               "w",
+
               encoding="utf-8"
+
           ) as arquivo:
 
               json.dump(
+
                   resultado,
+
                   arquivo,
+
                   ensure_ascii=False,
+
                   indent=2
               )
 
 
           # =====================================================
-          # RESUMO FINAL
+          # RELATÓRIO
           # =====================================================
 
           print("")
+
           print(
               "=============================="
           )
 
           print(
               "TOTAL FINAL:",
-              len(noticias[:8])
+              len(
+                  noticias[
+                      :LIMITE_NOTICIAS
+                  ]
+              )
           )
 
           print(
@@ -890,29 +1498,37 @@ jobs:
           )
 
           print("")
-          print(
-              "ARQUIVO noticias.json ATUALIZADO!"
-          )
+
+          for i, noticia in enumerate(
+
+              noticias[
+                  :LIMITE_NOTICIAS
+              ],
+
+              start=1
+
+          ):
+
+              print(
+                  f"{i}. "
+                  f"{noticia['titulo']}"
+              )
+
+          print("")
 
           PY
 
-
-      # =======================================================
-      # SALVAR NO GITHUB
-      # =======================================================
 
       - name: Salvar notícias no GitHub
         run: |
 
           git config user.name "Radio J.A FM"
 
-          git config user.email \
-            "actions@users.noreply.github.com"
+          git config user.email "actions@users.noreply.github.com"
 
           git add noticias.json
 
           git diff --cached --quiet || \
-            git commit \
-            -m "Atualizar notícias"
+            git commit -m "Atualizar notícias"
 
           git push
