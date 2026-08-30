@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-08-30T11:02:07.658185+00:00",
+  "atualizado": "2026-08-30T11:32:11.261063+00:00",
   "noticias": [
     {
       "id": "5017641e89b3cd7a065520389757995b",
@@ -8,7 +8,7 @@
       "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/mulher-acidente-mario-covas.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/3yUbPoiI4NV4kqt6cAYRECXThWo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/01/38/14913801",
-      "data": "2026-08-30T11:02:06.024441+00:00",
+      "data": "2026-08-30T11:32:09.289878+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,57 +18,37 @@
       "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-no-pa-avaliacao-governo-29-agosto.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/uL_md5NI0cMfJaFrJFzLgnB6Cok=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/vqkAYHR3AGDQWajA7wjA/img-4945.jpg",
-      "data": "2026-08-30T11:02:06.024254+00:00",
+      "data": "2026-08-30T11:32:09.289754+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "b180605b1523834e25760595fa29b2de",
-      "titulo": "Feira do Livro dedica 1º dia às histórias de Nazaré Pereira e Jabutigão",
-      "descricao": "Feira do Livro dedica 1º dia às histórias de Nazaré Pereira e Jabutigão",
-      "link": "https://www.oliberal.com/cultura/feira-pan-amazonica-dedica-primeiro-sabado-as-historias-e-obras-de-nazare-pereira-e-jabutigao-1.1162570",
+      "id": "7ec5c3f9b01cd24cf87321b3f4b1028c",
+      "titulo": "Cronistas divergem sobre Léo Condé no comando do Leão",
+      "descricao": "Cronistas divergem sobre Léo Condé no comando do Leão",
+      "link": "https://www.oliberal.com/esportes/remo/remo-cronistas-divergem-sobre-permanencia-de-leo-conde-no-comando-do-leao-1.1162384",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162572:1788002086/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T11:02:03.205458+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128784:1780354714/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T11:32:06.684966+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "4fd698760919e2d67a4d6e77e3c740ce",
-      "titulo": "Acesso do Paysandu à Série B pode acontecer no dia do Círio; confira a tabela",
-      "descricao": "Acesso do Paysandu à Série B pode acontecer no dia do Círio; confira a tabela",
-      "link": "https://www.oliberal.com/esportes/paysandu/acesso-do-paysandu-a-serie-b-pode-acontecer-no-dia-do-cirio-confira-a-tabela-1.1162826",
+      "id": "cf0c87bcff05a446deda0d930091933d",
+      "titulo": "Inflação recua em Belém e Região Metropolitana registra deflação de 0,45% em julho",
+      "descricao": "Inflação recua em Belém e Região Metropolitana registra deflação de 0,45% em julho",
+      "link": "https://www.oliberal.com/economia/inflacao-recua-em-belem-e-regiao-metropolitana-registra-deflacao-de-0-45-em-julho-1.1155695",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162828:1788043034/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T11:02:03.205392+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1155699:1786456083/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T11:32:06.282688+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "451cb454526c0b3f57a964bb87c21e8b",
-      "titulo": "Papão perde para o Maringá mas avança com demais resultados",
-      "descricao": "Papão perde para o Maringá mas avança com demais resultados",
-      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-perde-para-o-maringa-e-avanca-de-fase-gracas-aos-resultados-da-rodada-1.1162738",
+      "id": "7b927f77375393ec6e646da455d0848b",
+      "titulo": "Belém é a 4ª cidade com aluguel mais caro do Brasil; corretores comentam",
+      "descricao": "Belém é a 4ª cidade com aluguel mais caro do Brasil; corretores comentam",
+      "link": "https://www.oliberal.com/economia/belem-e-a-4-cidade-com-aluguel-mais-caro-do-brasil-corretores-apontam-pouca-oferta-e-alta-demanda-1.1161004",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162802:1788040111/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T11:02:03.205302+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d2e52a7900df80aa9a3e43978ae619f3",
-      "titulo": "Pés rachados podem sinalizar diabetes e hipotireoidismo; veja como cuidar",
-      "descricao": "Além do ressecamento, as fissuras podem apontar dermatites, psoríase e doenças sistêmicas quando são recorrentes e não melhoram com hidratação As fissuras nos pés podem ser um alerta para doenças dermatológicas ou sistêmicas, exigindo avaliação médica. A hidratação diária e o uso correto de produtos são essenciais para o tratamento. O post Pés rachados podem sinalizar diabetes e hipotireoidismo; veja como cuidar apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/dr-responde/pes-rachados-podem-sinalizar-diabetes-e-hipotireoidismo-veja-como-cuidar/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/pe-rachado-o-q-fazer-dermatologista-larissa-montanheiro.jpg",
-      "data": "2026-08-30T11:02:01.689175+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5c7118871781ccb1cc9923dd805621d6",
-      "titulo": "Horóscopo do dia: domingo terá emoções intensas e atenção com dinheiro",
-      "descricao": "Astros alertam: domingo pode trazer tensão nas finanças e nos relacionamentos O horóscopo do dia para todos os signos revela um domingo de sensibilidade e inseguranças, mas também de oportunidades para organizar prioridades e fazer escolhas conscientes. O post Horóscopo do dia: domingo terá emoções intensas e atenção com dinheiro apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/horoscopo-do-dia-domingo-tera-emocoes-intensas-e-atencao-com-dinheiro/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/horoscopo-do-dia-previsoes-signos.png.webp",
-      "data": "2026-08-30T11:02:01.688738+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1151260:1787677784/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T11:32:05.880182+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -78,7 +58,27 @@
       "link": "https://diariodopara.com.br/bola/tinha-grade-messi-faz-quatro-gols-chega-a-926-na-carreira-e-comanda-goleada-do-inter-miami-por-7-a-1/",
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_SaveClip_App_787022282_18378728536227084_7068717423313606547_n.jpg",
-      "data": "2026-08-30T11:02:01.688365+00:00",
+      "data": "2026-08-30T11:32:03.861964+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "de7c69f82639ca2a8d07f64c04e8c4d5",
+      "titulo": "Paysandu bateu o recorde de público do Mangueirão? O resultado surpreende",
+      "descricao": "Mesmo com derrota, Paysandu leva 41 mil ao Mangueirão e entra no top 5 do ano. Foto: Mauro Ângelo Apesar da derrota para o Maringá, a torcida do Paysandu fez uma grande festa no Mangueirão, com mais de 41 mil presentes, e o time garantiu a classificação para a próxima fase da Série C. O post Paysandu bateu o recorde de público do Mangueirão? O resultado surpreende apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/paysandu-bateu-o-recorde-de-publico-do-mangueirao-o-resultado-surpreende/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/IMG-20260830-WA0023.jpg",
+      "data": "2026-08-30T11:32:03.861416+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d5126f9857f7e85131f0494da612fbe8",
+      "titulo": "Glover vence Shogun em luta histórica; veja tudo o que rolou nos 5 combates do Spaten Fight Night",
+      "descricao": "Glover vence Shogun em maior luta da história do Spaten Fight Night Imagens: “Inovafoto/Divulgação Spaten” O Spaten Fight Night 3 agitou São Paulo com grandes nomes do MMA, boxe, judô e jiu-jitsu. Glover Teixeira venceu Maurício Shogun na luta principal, e o evento marcou a estreia de judô e jiu-jitsu. O post Glover vence Shogun em luta histórica; veja tudo o que rolou nos 5 combates do Spaten Fight Night apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/glover-vence-shogun-em-luta-historica-veja-tudo-o-que-rolou-nos-5-combates-do-spaten-fight-night/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_unnamed_7.jpg",
+      "data": "2026-08-30T11:32:03.860978+00:00",
       "categoria": "PARÁ"
     }
   ]
