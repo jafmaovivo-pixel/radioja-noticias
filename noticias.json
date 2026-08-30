@@ -1,24 +1,34 @@
 {
-  "atualizado": "2026-08-30T11:32:11.261063+00:00",
+  "atualizado": "2026-08-30T11:51:16.702880+00:00",
   "noticias": [
     {
-      "id": "5017641e89b3cd7a065520389757995b",
-      "titulo": "Passageira de moto por aplicativo morre após cair e ser atingida por caminhão no elevado da Mário Covas",
-      "descricao": "Passageira de moto por aplicativo morre após cair e ser atingida por caminhão no elevado da Mário Covas",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/mulher-acidente-mario-covas.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/3yUbPoiI4NV4kqt6cAYRECXThWo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/01/38/14913801",
-      "data": "2026-08-30T11:32:09.289878+00:00",
+      "id": "7dd40826e478f6ff30615acb9bc869e1",
+      "titulo": "Arte Pará traz novos olhares para a arte contemporânea em Belém",
+      "descricao": "Arte Pará traz novos olhares para a arte contemporânea em Belém",
+      "link": "https://www.oliberal.com/cultura/arte-para-traz-novos-olhares-para-a-arte-contemporanea-em-belem-1.1162522",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162523:1787961430/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T11:51:15.616005+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "2b63174d8b2c5586c1c42235f090c964",
-      "titulo": "Quaest no Pará: 51% aprovam e 22% desaprovam governo de Hana Ghassan (MDB)",
-      "descricao": "Quaest no Pará: 51% aprovam e 22% desaprovam governo de Hana Ghassan (MDB)",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-no-pa-avaliacao-governo-29-agosto.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/uL_md5NI0cMfJaFrJFzLgnB6Cok=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/vqkAYHR3AGDQWajA7wjA/img-4945.jpg",
-      "data": "2026-08-30T11:32:09.289754+00:00",
+      "id": "f374f6caa7b96083d5de44da4107d0c9",
+      "titulo": "Pará tem quase meio milhão de pequenos negócios ativos",
+      "descricao": "Pará tem quase meio milhão de pequenos negócios ativos",
+      "link": "https://www.oliberal.com/economia/para-tem-quase-meio-milhao-depequenos-negocios-ativos-e-25-esta-em-belem-124-mil-1.1162505",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162507:1787957997/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T11:51:15.349795+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7c81a26734d5427283a5cfe4dc0743fe",
+      "titulo": "Júnior Rocha mira quadrangular: 'é outro campeonato'",
+      "descricao": "Júnior Rocha mira quadrangular: 'é outro campeonato'",
+      "link": "https://www.oliberal.com/esportes/paysandu/junior-rocha-destaca-classificacao-do-paysandu-e-mira-quadrangular-e-outro-campeonato-1.1162841",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1112926:1776870162/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T11:51:14.921254+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +38,7 @@
       "link": "https://www.oliberal.com/esportes/remo/remo-cronistas-divergem-sobre-permanencia-de-leo-conde-no-comando-do-leao-1.1162384",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128784:1780354714/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T11:32:06.684966+00:00",
+      "data": "2026-08-30T11:51:14.639470+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -38,7 +48,7 @@
       "link": "https://www.oliberal.com/economia/inflacao-recua-em-belem-e-regiao-metropolitana-registra-deflacao-de-0-45-em-julho-1.1155695",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1155699:1786456083/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T11:32:06.282688+00:00",
+      "data": "2026-08-30T11:51:14.639364+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -48,37 +58,27 @@
       "link": "https://www.oliberal.com/economia/belem-e-a-4-cidade-com-aluguel-mais-caro-do-brasil-corretores-apontam-pouca-oferta-e-alta-demanda-1.1161004",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1151260:1787677784/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T11:32:05.880182+00:00",
+      "data": "2026-08-30T11:51:14.639138+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "e7d96c4d5c91c86f0540f9f7871718e5",
-      "titulo": "Tinha grade? Messi faz quatro gols, chega a 926 na carreira e comanda goleada do Inter Miami por 7 a 1",
-      "descricao": "Aos 39 anos, Messi faz quatro gols, bate recorde e chega a 926 gols na carreira Lionel Messi brilhou na goleada do Inter Miami sobre o Montréal por 7 a 1, marcando quatro gols e comandando a vitória da equipe na MLS. O brasileiro Casemiro também deixou sua marca na partida. O post Tinha grade? Messi faz quatro gols, chega a 926 na carreira e comanda goleada do Inter Miami por 7 a 1 apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/tinha-grade-messi-faz-quatro-gols-chega-a-926-na-carreira-e-comanda-goleada-do-inter-miami-por-7-a-1/",
+      "id": "e0dd29d20df192f6fe1eed9a68ede1d7",
+      "titulo": "Myrian Rios: saiba como vive hoje uma das grandes paixões de Roberto Carlos",
+      "descricao": "Décadas após o fim do relacionamento, a história de Myrian Rios e Roberto Carlos ainda desperta curiosidade do público. Foto: Reprodução Atriz marcou novelas de sucesso, viveu nove anos com o Rei e, atualmente, mantém contato com o público principalmente pelas redes sociais O post Myrian Rios: saiba como vive hoje uma das grandes paixões de Roberto Carlos apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/myrian-rios-saiba-como-vive-hoje-uma-das-grandes-paixoes-de-roberto-carlos/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_SaveClip_App_787022282_18378728536227084_7068717423313606547_n.jpg",
-      "data": "2026-08-30T11:32:03.861964+00:00",
+      "imagem": "",
+      "data": "2026-08-30T11:34:48+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "de7c69f82639ca2a8d07f64c04e8c4d5",
-      "titulo": "Paysandu bateu o recorde de público do Mangueirão? O resultado surpreende",
-      "descricao": "Mesmo com derrota, Paysandu leva 41 mil ao Mangueirão e entra no top 5 do ano. Foto: Mauro Ângelo Apesar da derrota para o Maringá, a torcida do Paysandu fez uma grande festa no Mangueirão, com mais de 41 mil presentes, e o time garantiu a classificação para a próxima fase da Série C. O post Paysandu bateu o recorde de público do Mangueirão? O resultado surpreende apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/paysandu-bateu-o-recorde-de-publico-do-mangueirao-o-resultado-surpreende/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/IMG-20260830-WA0023.jpg",
-      "data": "2026-08-30T11:32:03.861416+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d5126f9857f7e85131f0494da612fbe8",
-      "titulo": "Glover vence Shogun em luta histórica; veja tudo o que rolou nos 5 combates do Spaten Fight Night",
-      "descricao": "Glover vence Shogun em maior luta da história do Spaten Fight Night Imagens: “Inovafoto/Divulgação Spaten” O Spaten Fight Night 3 agitou São Paulo com grandes nomes do MMA, boxe, judô e jiu-jitsu. Glover Teixeira venceu Maurício Shogun na luta principal, e o evento marcou a estreia de judô e jiu-jitsu. O post Glover vence Shogun em luta histórica; veja tudo o que rolou nos 5 combates do Spaten Fight Night apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/glover-vence-shogun-em-luta-historica-veja-tudo-o-que-rolou-nos-5-combates-do-spaten-fight-night/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_unnamed_7.jpg",
-      "data": "2026-08-30T11:32:03.860978+00:00",
+      "id": "5017641e89b3cd7a065520389757995b",
+      "titulo": "Passageira de moto por aplicativo morre após cair e ser atingida por caminhão no elevado da Mário Covas",
+      "descricao": "Passageira de moto por aplicativo morre após cair e ser atingida por caminhão no elevado da Mário Covas",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/mulher-acidente-mario-covas.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/3yUbPoiI4NV4kqt6cAYRECXThWo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/01/38/14913801",
+      "data": "2026-08-30T11:32:09.289878+00:00",
       "categoria": "PARÁ"
     }
   ]
