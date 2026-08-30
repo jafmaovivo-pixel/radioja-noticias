@@ -1,6 +1,66 @@
 {
-  "atualizado": "2026-08-30T17:02:00.514483+00:00",
+  "atualizado": "2026-08-30T17:31:58.271151+00:00",
   "noticias": [
+    {
+      "id": "16cc544683e2e1367a8ee005228fcc34",
+      "titulo": "29ª Feira do Livro: 2º dia inicia com movimento tranquilo, obras promocionais e canto para Jabutigão",
+      "descricao": "29ª Feira do Livro: 2º dia inicia com movimento tranquilo, obras promocionais e canto para Jabutigão",
+      "link": "https://www.oliberal.com/cultura/29-feira-do-livro-2-dia-inicia-com-movimento-tranquilo-obras-promocionais-e-canto-para-jabutigao-1.1162908",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162910:1788109137/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T17:31:55.147499+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "55e77a71150613372e11bdbe56dca5dd",
+      "titulo": "Real Madrid goleia Málaga e chega à terceira vitória seguida em La Liga",
+      "descricao": "Real Madrid goleia Málaga e chega à terceira vitória seguida em La Liga",
+      "link": "https://www.oliberal.com/esportes/real-madrid-goleia-malaga-e-chega-a-terceira-vitoria-seguida-em-la-liga-1.1162922",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.928522:1750518873/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T17:31:54.802308+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5f6a203fc79991eb22ab12156c1725da",
+      "titulo": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
+      "descricao": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
+      "link": "https://www.oliberal.com/belem/cirio-2026-atendimento-a-romeiros-nas-estradas-deve-ter-27-pontos-de-apoio-1.1162890",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.871744:1728418406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T17:31:54.435261+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7ec5c3f9b01cd24cf87321b3f4b1028c",
+      "titulo": "Cronistas divergem sobre Léo Condé no comando do Leão",
+      "descricao": "Cronistas divergem sobre Léo Condé no comando do Leão",
+      "link": "https://www.oliberal.com/esportes/remo/remo-cronistas-divergem-sobre-permanencia-de-leo-conde-no-comando-do-leao-1.1162384",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128784:1780354714/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T17:31:54.435130+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f9c4a04b038a1adf50babc5c0dfb6fbd",
+      "titulo": "Júnior Rocha destaca classificação do Paysandu e mira quadrangular: 'é outro campeonato'",
+      "descricao": "Júnior Rocha destaca classificação do Paysandu e mira quadrangular: 'é outro campeonato'",
+      "link": "https://www.oliberal.com/esportes/paysandu/junior-rocha-destaca-classificacao-do-paysandu-e-mira-quadrangular-e-outro-campeonato-1.1162841",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1112926:1776870162/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T17:31:54.434979+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "216d5be251a7c92665fc22aaa37e40b4",
+      "titulo": "Paysandu não venceu Brusque, Ferroviária e Inter na 1ª fase",
+      "descricao": "Paysandu não venceu Brusque, Ferroviária e Inter na 1ª fase",
+      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-nao-venceu-os-adversarios-do-quadrangular-decisivo-na-primeira-fase-da-serie-c-1.1162884",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1150453:1785177567/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T17:31:54.434805+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "1637eff50b749f1112ededb21906d2de",
       "titulo": "Projeto da UFPA devolve vida e autonomia aos pacientes com esclerose múltipla",
@@ -19,66 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.928522:1750518873/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-08-30T17:01:55.176117+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5f6a203fc79991eb22ab12156c1725da",
-      "titulo": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
-      "descricao": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
-      "link": "https://www.oliberal.com/belem/cirio-2026-atendimento-a-romeiros-nas-estradas-deve-ter-27-pontos-de-apoio-1.1162890",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.871744:1728418406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T17:01:54.756667+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7ec5c3f9b01cd24cf87321b3f4b1028c",
-      "titulo": "Cronistas divergem sobre Léo Condé no comando do Leão",
-      "descricao": "Cronistas divergem sobre Léo Condé no comando do Leão",
-      "link": "https://www.oliberal.com/esportes/remo/remo-cronistas-divergem-sobre-permanencia-de-leo-conde-no-comando-do-leao-1.1162384",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128784:1780354714/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T17:01:54.756530+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f9c4a04b038a1adf50babc5c0dfb6fbd",
-      "titulo": "Júnior Rocha destaca classificação do Paysandu e mira quadrangular: 'é outro campeonato'",
-      "descricao": "Júnior Rocha destaca classificação do Paysandu e mira quadrangular: 'é outro campeonato'",
-      "link": "https://www.oliberal.com/esportes/paysandu/junior-rocha-destaca-classificacao-do-paysandu-e-mira-quadrangular-e-outro-campeonato-1.1162841",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1112926:1776870162/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T17:01:54.756335+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "216d5be251a7c92665fc22aaa37e40b4",
-      "titulo": "Paysandu não venceu Brusque, Ferroviária e Inter na 1ª fase",
-      "descricao": "Paysandu não venceu Brusque, Ferroviária e Inter na 1ª fase",
-      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-nao-venceu-os-adversarios-do-quadrangular-decisivo-na-primeira-fase-da-serie-c-1.1162884",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1150453:1785177567/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T17:01:54.756134+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b3d9c70b735781125033cf9561d38fc9",
-      "titulo": "Feira Pan-Amazônica lota Hangar no segundo dia e confirma força da literatura e da cultura em Belém",
-      "descricao": "Domingo é dedicado às Vozes da Literatura e Ancestralidade, com livros, debates, contação de histórias e show de Mariza Black e Gigi Furtado O segundo dia da 29ª Feira Pan-Amazônica do Livro e das Multivozes, em Belém, confirmou a força do evento com intensa movimentação de leitores e diversas atrações culturais. A edição segue até 6 de setembro. O post Feira Pan-Amazônica lota Hangar no segundo dia e confirma força da literatura e da cultura em Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/feira-pan-amazonica-lota-hangar-no-segundo-dia-e-confirma-forca-da-literatura-e-da-cultura-em-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "",
-      "data": "2026-08-30T16:56:53+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7b20c343c96b0ee457aedfbdcc9b8a20",
-      "titulo": "Fenômeno Azul esgota Lado A para Remo x Coritiba e prepara Mangueirão para “final” contra o Z-4",
-      "descricao": "Leão recebe o Coxa nesta segunda-feira (31), às 20h, e aposta na força do Mangueirão para buscar vitória que pode mudar sua situação na luta pela permanência. A torcida do Remo esgotou os ingressos do Lado A do Mangueirão para o confronto contra o Coritiba, nesta segunda-feira, pela 25ª rodada do Campeonato Brasileiro da Série A. A partida é vista como crucial na luta contra o rebaixamento. O post Fenômeno Azul esgota Lado A para Remo x Coritiba e prepara Mangueirão para “final” contra o Z-4 apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/fenomeno-azul-esgota-lado-a-para-remo-x-coritiba-e-prepara-mangueirao-para-final-contra-o-z-4/",
-      "fonte": "Diário do Pará",
-      "imagem": "",
-      "data": "2026-08-30T16:50:45+00:00",
       "categoria": "PARÁ"
     }
   ]
