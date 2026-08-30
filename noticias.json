@@ -1,6 +1,16 @@
 {
-  "atualizado": "2026-08-30T16:02:08.315369+00:00",
+  "atualizado": "2026-08-30T16:32:24.264324+00:00",
   "noticias": [
+    {
+      "id": "456222ed329bcd8c77d1cd64bb25b64c",
+      "titulo": "Flávio Bolsonaro não cita escolas e diz que vai 'criar mais meio milhão de vagas em presídios'",
+      "descricao": "Flávio Bolsonaro não cita escolas e diz que vai 'criar mais meio milhão de vagas em presídios'",
+      "link": "https://www.oliberal.com/politica/flavio-bolsonaro-nao-cita-escolas-e-diz-que-vai-criar-mais-meio-milhao-de-vagas-em-presidios-1.1162886",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1118948:1778271527/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T16:32:20.199561+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "7f35d10f4deae9500e5c7df93f8160c6",
       "titulo": "Trump: 'vamos encher as reservas estratégicas dos EUA com petróleo venezuelano'",
@@ -8,27 +18,17 @@
       "link": "https://www.oliberal.com/mundo/trump-vamos-encher-as-reservas-estrategicas-dos-eua-com-petroleo-venezuelano-1.1162888",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T16:02:05.061613+00:00",
+      "data": "2026-08-30T16:32:19.623764+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "9533210fb9f91e7427e02db8c4bd770b",
-      "titulo": "Círio 2026: atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
-      "descricao": "Círio 2026: atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
+      "id": "5f6a203fc79991eb22ab12156c1725da",
+      "titulo": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
+      "descricao": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
       "link": "https://www.oliberal.com/belem/cirio-2026-atendimento-a-romeiros-nas-estradas-deve-ter-27-pontos-de-apoio-1.1162890",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.871744:1728418406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T16:02:05.061394+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7b927f77375393ec6e646da455d0848b",
-      "titulo": "Belém é a 4ª cidade com aluguel mais caro do Brasil; corretores comentam",
-      "descricao": "Belém é a 4ª cidade com aluguel mais caro do Brasil; corretores comentam",
-      "link": "https://www.oliberal.com/economia/belem-e-a-4-cidade-com-aluguel-mais-caro-do-brasil-corretores-apontam-pouca-oferta-e-alta-demanda-1.1161004",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1151260:1787677784/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T16:02:04.639522+00:00",
+      "data": "2026-08-30T16:32:19.623453+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -38,7 +38,7 @@
       "link": "https://www.oliberal.com/esportes/remo/remo-cronistas-divergem-sobre-permanencia-de-leo-conde-no-comando-do-leao-1.1162384",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128784:1780354714/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T16:02:04.639318+00:00",
+      "data": "2026-08-30T16:32:19.623366+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -48,7 +48,7 @@
       "link": "https://www.oliberal.com/esportes/paysandu/junior-rocha-destaca-classificacao-do-paysandu-e-mira-quadrangular-e-outro-campeonato-1.1162841",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1112926:1776870162/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T16:02:04.639120+00:00",
+      "data": "2026-08-30T16:32:19.623271+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -58,27 +58,27 @@
       "link": "https://www.oliberal.com/esportes/paysandu/paysandu-nao-venceu-os-adversarios-do-quadrangular-decisivo-na-primeira-fase-da-serie-c-1.1162884",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1150453:1785177567/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T16:02:04.638949+00:00",
+      "data": "2026-08-30T16:32:19.623131+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "5032e341df1c514a7503205c7b264999",
-      "titulo": "Ensaios 2027: Anitta inicia em Belém turnê de pré-carnaval; saiba como comprar ingressos",
-      "descricao": "Milhares de pessoas participam do show 'Ensaios da Anitta' realizado no Mangueirão A cantora Anitta anunciou, neste domingo (30), as datas e locais da temporada de pré-carnaval para 2027. A novidade para os fãs do Norte do país é que Belém foi a cidade escolhida para abrir a turnê \"Ensaios da Anitta\", no dia 9 de janeiro. Em 2026, as apresentações também começaram na capital paraense. Ao todo, o projeto passará por oito cidades brasileiras ao longo do mês de janeiro. Além da capital paraense, a maratona de shows da \"Girl from Rio\" inclui apresentações em Recife, Belo Horizonte, Brasília, Campinas, Rio de Janeiro, Curitiba e São Paulo. Em 2026, Anitta levou pela primeira vez os Ensaios ao Pará, lotando o Estádio do Mangueirão. ✅ Receba notícias do g1 Pará direto no WhatsApp A cantora Anitta em seu evento particular de carnaval, chamado de 'Ensaios da Anitta', no Parque Villa Lobos, Zona Oeste de SP, com ingressos esgotados. TECA LAMBOGLIA/FOTOARENA/FOTOARENA/ESTADÃO CONTEÚDO Como comprar ingressos A venda de ingressos para os Ensaios da Anitta 2027 começa na terça-feira (1º). Veja o calendário de vendas: Pré-venda exclusiva: Começa nesta terça-feira, 1º de outubro, ao meio-dia, destinada exclusivamente a clientes dos cartões de crédito Mercado Pago. Venda geral: Terá início na quarta-feira, 2 de outubro, também ao meio-dia. Onde comprar: As entradas e informações sobre os locais dos shows estarão disponíveis no site oficial do evento (www.carnavaldaanitta.com.br). 'É Festa no Brasil!' Para a nova temporada, Anitta escolheu homenagear a própria cultura do país com o tema \"É Festa no Brasil!\". A proposta é celebrar as manifestações populares, celebrações regionais e a identidade cultural brasileira. \"Se o Carnaval é a maior festa popular do mundo, por que não aproveitar essa folia pra olhar um pouquinho pra nossa identidade cultural e redescobrir o Brasil pelas festas que o próprio Brasil criou?\", declarou a artista. A temática guia toda a identidade visual dos shows, influenciando desde a cenografia até os figurinos da cantora, que costumam ser um dos pontos altos das apresentações. O projeto mantém a estrutura que se tornou marca registrada dos Ensaios: o palco em formato 360º, que garante maior proximidade entre a artista e o público, além de um repertório que mistura os grandes hits da carreira de Anitta com clássicos do Carnaval de diferentes ritmos. Como de costume, cada apresentação contará com participações especiais de artistas convidados, cujos nomes serão revelados de surpresa. Mangueirão fica cheio de fãs para show de Anitta em Belém Taymã Carneiro/g1 Confira a agenda completa: 09/01: Belém (PA) 10/01: Recife (PE) 16/01: Belo Horizonte (MG) 17/01: Brasília (DF) 23/01: Campinas (SP) 24/01: Rio de Janeiro (RJ) 30/01: Curitiba (PR) 31/01: São Paulo (SP) Leia mais notícias do estado no g1 Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/30/ensaios-2027-anitta-inicia-em-belem-turne-de-pre-carnaval-saiba-como-comprar-ingressos.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/v4cu_ZCCDb8SG-v1CVDcl-lQgBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/z/iGgQV5QACbYbqgJTwWJA/fta20250223089.jpg",
-      "data": "2026-08-30T15:40:43+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5f22da417cc6b1e28b2e8ee63fed7d12",
-      "titulo": "Ator sul-coreano Lee Yong-joo, de “Princess Hours” e “Blue Tower”, morre aos 44 anos",
-      "descricao": "Lee Yong-joo, ator de “Princess Hours”, “Blue Tower” e “Ugly Miss Young-ae”. Foto: Reprodução Lee Yong-joo construiu uma carreira de mais de duas décadas na televisão e no cinema sul-coreanos; despedida está marcada para esta segunda-feira (31) O post Ator sul-coreano Lee Yong-joo, de “Princess Hours” e “Blue Tower”, morre aos 44 anos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/ator-sul-coreano-lee-yong-joo-de-princess-hours-e-blue-tower-morre-aos-44-anos/",
+      "id": "09b928290a699a67a933b5b421809a86",
+      "titulo": "Neném, da dupla com Pepê, quebra silêncio após separação com Thais Baptista",
+      "descricao": "Neném se pronunciou sobre o fim do relacionamento de 14 anos com Thais Baptista. Foto: Reprodução / Instagram Cantora Neném falou sobre o término com Thais Baptista, pediu respeito ao momento da família e disse que pretende preservar a filha O post Neném, da dupla com Pepê, quebra silêncio após separação com Thais Baptista apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/nenem-da-dupla-com-pepe-quebra-silencio-apos-separacao-com-thais-baptista/",
       "fonte": "Diário do Pará",
       "imagem": "",
-      "data": "2026-08-30T15:37:22+00:00",
+      "data": "2026-08-30T16:21:44+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c883122eaea97674cad1b377e932bea6",
+      "titulo": "Culinária paraense e memória: escritor lança livro com degustação gratuita na Feira do Livro de Belém",
+      "descricao": "Escritor Lairson Costa lança \"Sabores que Inspiram Histórias de Afetividade\" na Feira Pan-Amazônica do Livro e das Multivozes, em Belém. Divulgação A relação afetiva entre a gastronomia do Pará e as memórias de infância é o tema central do novo livro do escritor e professor paraense Lairson Costa. A obra \"Sabores que Inspiram Histórias de Afetividade\" será lançada neste domingo (30), a partir das 18h, durante a 29ª Feira Pan-Amazônica do Livro e das Multivozes, realizada no Hangar Convenções e Feiras da Amazônia, em Belém. O lançamento ocorre no estande do Instituto Federal do Pará (IFPA), no formato de bate-papo no podcast \"Sabores e Palavras — conversas que inspiram, sabores que conectam\", mediado pelo comunicólogo Mateus Costa. Para tornar a experiência ainda mais sensorial, o público que comparecer ao espaço poderá degustar pratos tradicionais citados na obra, como doce de jambo, mingau de milho, cuscuz, tapioca, sorvete de açaí e sucos regionais de cupuaçu e graviola. O evento gratuito também terá leitura dramatizada e pocket show musical. Memórias de infância e ancestralidade Composto por uma coletânea de crônicas, o livro nasceu da história \"Lembranças do Mingau da Vovó\", inspirada em Maria das Dores, avó do autor, que teve papel fundamental em sua formação. Segundo Lairson, a culinária da Amazônia vai muito além do ato de se alimentar: ela carrega a identidade de um povo. \"Quando pensamos em pratos como tacacá, maniçoba, pato no tucupi ou açaí, estamos diante de muito mais do que alimentos. Encontramos ingredientes do território, técnicas, conhecimentos ancestrais, histórias de migração, encontros culturais e formas próprias de preparar, servir e compartilhar a comida\", explica o escritor. O autor destaca que o preparo de pratos tradicionais, como a maniçoba, envolve saberes transmitidos por gerações, desde a escolha e cozimento da maniva até o momento de reunir a família ao redor da mesa. \"É um prato que carrega ancestralidade, território e identidade paraense\", define. 'Esquenta' na Ilha de Mosqueiro Como preparação para o lançamento na capital, a Ilha de Mosqueiro, distrito de Belém e reduto do autor, recebeu no sábado (29) o evento “II Saberes e Sabores”. A programação ocorre das 19h às 23h, no Solar Ariramba, com foco na valorização da gastronomia mosqueirense e paraense. Coordenado por Lairson Costa e pela gastróloga Cida Coimbra, o encontro contou com apresentações musicais de Magia das Cordas (Cizinho) e da dupla Lú Matos e Nelson (voz e violão), além de karaokê para o público. A ação funcionou como um evento preparatório para a V Festa Literária de Mosqueiro (FLIM), agendada para ocorrer de 17 a 21 de novembro na Praça da Vila. \"A proposta foi que as pessoas não apenas degustem os alimentos, mas vivenciem um momento de encontro e valorização da nossa cultura\", aponta o escritor. Serviço: Lançamento do livro \"Sabores que Inspiram Histórias de Afetividade\" Data: 30 de agosto Horário: das 18h às 20h Local: Estande do IFPA na 29ª Feira Pan-Amazônica do Livro e das Multivozes (Hangar - Av. Dr. Freitas, s/n - Marco, Belém) Entrada gratuita",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/08/30/culinaria-paraense-e-memoria-escritor-lanca-livro-com-degustacao-gratuita-na-feira-do-livro-de-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/-BqEF-vTHzENhzlzrhwbz4sB9HE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/S/UTAAcHRYy7Y7j52BNQGw/whatsapp-image-2026-08-27-at-08.54.17.jpeg",
+      "data": "2026-08-30T16:13:34+00:00",
       "categoria": "PARÁ"
     }
   ]
