@@ -1,6 +1,66 @@
 {
-  "atualizado": "2026-08-30T12:02:06.361590+00:00",
+  "atualizado": "2026-08-30T12:31:59.816904+00:00",
   "noticias": [
+    {
+      "id": "3036b716bfca7a0d82e544abb8dc64c7",
+      "titulo": "Dorival destaca peso da vitória do São Paulo após longo período de jejum: Para nós foi penoso",
+      "descricao": "Dorival destaca peso da vitória do São Paulo após longo período de jejum: Para nós foi penoso",
+      "link": "https://www.oliberal.com/esportes/dorival-destaca-peso-da-vitoria-do-sao-paulo-apos-longo-periodo-de-jejum-para-nos-foi-penoso-1.1162861",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.928522:1750518873/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T12:31:58.551271+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f374f6caa7b96083d5de44da4107d0c9",
+      "titulo": "Pará tem quase meio milhão de pequenos negócios ativos",
+      "descricao": "Pará tem quase meio milhão de pequenos negócios ativos",
+      "link": "https://www.oliberal.com/economia/para-tem-quase-meio-milhao-depequenos-negocios-ativos-e-25-esta-em-belem-124-mil-1.1162505",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162507:1787957997/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T12:31:58.249572+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7c81a26734d5427283a5cfe4dc0743fe",
+      "titulo": "Júnior Rocha mira quadrangular: 'é outro campeonato'",
+      "descricao": "Júnior Rocha mira quadrangular: 'é outro campeonato'",
+      "link": "https://www.oliberal.com/esportes/paysandu/junior-rocha-destaca-classificacao-do-paysandu-e-mira-quadrangular-e-outro-campeonato-1.1162841",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1112926:1776870162/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T12:31:58.249449+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7ec5c3f9b01cd24cf87321b3f4b1028c",
+      "titulo": "Cronistas divergem sobre Léo Condé no comando do Leão",
+      "descricao": "Cronistas divergem sobre Léo Condé no comando do Leão",
+      "link": "https://www.oliberal.com/esportes/remo/remo-cronistas-divergem-sobre-permanencia-de-leo-conde-no-comando-do-leao-1.1162384",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128784:1780354714/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T12:31:58.249317+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "cf0c87bcff05a446deda0d930091933d",
+      "titulo": "Inflação recua em Belém e Região Metropolitana registra deflação de 0,45% em julho",
+      "descricao": "Inflação recua em Belém e Região Metropolitana registra deflação de 0,45% em julho",
+      "link": "https://www.oliberal.com/economia/inflacao-recua-em-belem-e-regiao-metropolitana-registra-deflacao-de-0-45-em-julho-1.1155695",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1155699:1786456083/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T12:31:58.249200+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7b927f77375393ec6e646da455d0848b",
+      "titulo": "Belém é a 4ª cidade com aluguel mais caro do Brasil; corretores comentam",
+      "descricao": "Belém é a 4ª cidade com aluguel mais caro do Brasil; corretores comentam",
+      "link": "https://www.oliberal.com/economia/belem-e-a-4-cidade-com-aluguel-mais-caro-do-brasil-corretores-apontam-pouca-oferta-e-alta-demanda-1.1161004",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1151260:1787677784/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T12:31:58.248882+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "7dd40826e478f6ff30615acb9bc869e1",
       "titulo": "Arte Pará traz novos olhares para a arte contemporânea em Belém",
@@ -12,73 +72,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "f374f6caa7b96083d5de44da4107d0c9",
-      "titulo": "Pará tem quase meio milhão de pequenos negócios ativos",
-      "descricao": "Pará tem quase meio milhão de pequenos negócios ativos",
-      "link": "https://www.oliberal.com/economia/para-tem-quase-meio-milhao-depequenos-negocios-ativos-e-25-esta-em-belem-124-mil-1.1162505",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162507:1787957997/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T12:02:04.255883+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7c81a26734d5427283a5cfe4dc0743fe",
-      "titulo": "Júnior Rocha mira quadrangular: 'é outro campeonato'",
-      "descricao": "Júnior Rocha mira quadrangular: 'é outro campeonato'",
-      "link": "https://www.oliberal.com/esportes/paysandu/junior-rocha-destaca-classificacao-do-paysandu-e-mira-quadrangular-e-outro-campeonato-1.1162841",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1112926:1776870162/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T12:02:04.255655+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7ec5c3f9b01cd24cf87321b3f4b1028c",
-      "titulo": "Cronistas divergem sobre Léo Condé no comando do Leão",
-      "descricao": "Cronistas divergem sobre Léo Condé no comando do Leão",
-      "link": "https://www.oliberal.com/esportes/remo/remo-cronistas-divergem-sobre-permanencia-de-leo-conde-no-comando-do-leao-1.1162384",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128784:1780354714/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T12:02:04.255455+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "cf0c87bcff05a446deda0d930091933d",
-      "titulo": "Inflação recua em Belém e Região Metropolitana registra deflação de 0,45% em julho",
-      "descricao": "Inflação recua em Belém e Região Metropolitana registra deflação de 0,45% em julho",
-      "link": "https://www.oliberal.com/economia/inflacao-recua-em-belem-e-regiao-metropolitana-registra-deflacao-de-0-45-em-julho-1.1155695",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1155699:1786456083/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T12:02:04.255284+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7b927f77375393ec6e646da455d0848b",
-      "titulo": "Belém é a 4ª cidade com aluguel mais caro do Brasil; corretores comentam",
-      "descricao": "Belém é a 4ª cidade com aluguel mais caro do Brasil; corretores comentam",
-      "link": "https://www.oliberal.com/economia/belem-e-a-4-cidade-com-aluguel-mais-caro-do-brasil-corretores-apontam-pouca-oferta-e-alta-demanda-1.1161004",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1151260:1787677784/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T12:02:04.255006+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e0dd29d20df192f6fe1eed9a68ede1d7",
-      "titulo": "Myrian Rios: saiba como vive hoje uma das grandes paixões de Roberto Carlos",
-      "descricao": "Décadas após o fim do relacionamento, a história de Myrian Rios e Roberto Carlos ainda desperta curiosidade do público. Foto: Reprodução Atriz marcou novelas de sucesso, viveu nove anos com o Rei e, atualmente, mantém contato com o público principalmente pelas redes sociais O post Myrian Rios: saiba como vive hoje uma das grandes paixões de Roberto Carlos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/myrian-rios-saiba-como-vive-hoje-uma-das-grandes-paixoes-de-roberto-carlos/",
+      "id": "1ce81b9ecb3ec47305ac248ca9ba4ab5",
+      "titulo": "Círio se aproxima e maniva começa a dominar o Ver-o-Peso; veja preços e onde encontrar",
+      "descricao": "Círio chegando: maniva começa a aquecer as vendas no Ver-o-Peso. JANE SANTOS. Fotos: Celso Rodrigues/Diário do Pará. A temporada de maniçoba para o Círio de Nazaré já começou em Belém. Feirantes do Ver-o-Peso e restaurantes se preparam para o aumento da demanda, com a maniva sendo comercializada em diversas apresentações. O post Círio se aproxima e maniva começa a dominar o Ver-o-Peso; veja preços e onde encontrar apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/cirio-se-aproxima-e-maniva-comeca-a-dominar-o-ver-o-peso-veja-precos-e-onde-encontrar/",
       "fonte": "Diário do Pará",
       "imagem": "",
-      "data": "2026-08-30T11:34:48+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5017641e89b3cd7a065520389757995b",
-      "titulo": "Passageira de moto por aplicativo morre após cair e ser atingida por caminhão no elevado da Mário Covas",
-      "descricao": "Passageira de moto por aplicativo morre após cair e ser atingida por caminhão no elevado da Mário Covas",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/29/mulher-acidente-mario-covas.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/3yUbPoiI4NV4kqt6cAYRECXThWo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/01/38/14913801",
-      "data": "2026-08-30T11:32:09.289878+00:00",
+      "data": "2026-08-30T12:00:12+00:00",
       "categoria": "PARÁ"
     }
   ]
