@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-08-30T14:02:04.390843+00:00",
+  "atualizado": "2026-08-30T14:31:50.400002+00:00",
   "noticias": [
+    {
+      "id": "511acf7dcab9ee81199d24c9769db44a",
+      "titulo": "Santos de madeira e objetos de miriti: a fé por meio da arte",
+      "descricao": "Santos de madeira e objetos de miriti: a fé por meio da arte",
+      "link": "https://www.oliberal.com/belem/santos-de-madeira-e-objetos-de-miriti-artesaos-paraenses-expressam-fe-por-meio-da-arte-1.1161818",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162117:1787915235/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T14:31:48.521817+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8537bbfa879661849ede8269dfadd394",
+      "titulo": "Casemiro marca pela primeira vez no Inter Miami em noite de quatro gols de Messi",
+      "descricao": "Casemiro marca pela primeira vez no Inter Miami em noite de quatro gols de Messi",
+      "link": "https://www.oliberal.com/esportes/casemiro-marca-pela-primeira-vez-no-inter-miami-em-noite-de-quatro-gols-de-messi-1.1162877",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.928522:1750518873/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T14:31:48.117404+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "21ab0a31749b455378a6277ee410b94e",
       "titulo": "Homem é esfaqueado em bar após discussão política em Santa Catarina",
@@ -8,7 +28,7 @@
       "link": "https://www.oliberal.com/brasil/homem-e-esfaqueado-em-bar-apos-discussao-politica-em-santa-catarina-1.1162876",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.903766:1736025575/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T14:02:00.976482+00:00",
+      "data": "2026-08-30T14:31:47.703685+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +38,7 @@
       "link": "https://www.oliberal.com/economia/para-tem-quase-meio-milhao-depequenos-negocios-ativos-e-25-esta-em-belem-124-mil-1.1162505",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162507:1787957997/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T14:02:00.618428+00:00",
+      "data": "2026-08-30T14:31:47.703123+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +48,7 @@
       "link": "https://www.oliberal.com/esportes/paysandu/junior-rocha-destaca-classificacao-do-paysandu-e-mira-quadrangular-e-outro-campeonato-1.1162841",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1112926:1776870162/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T14:02:00.618265+00:00",
+      "data": "2026-08-30T14:31:47.702948+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -38,47 +58,27 @@
       "link": "https://www.oliberal.com/esportes/remo/remo-cronistas-divergem-sobre-permanencia-de-leo-conde-no-comando-do-leao-1.1162384",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128784:1780354714/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T14:02:00.618110+00:00",
+      "data": "2026-08-30T14:31:47.702762+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "cf0c87bcff05a446deda0d930091933d",
-      "titulo": "Inflação recua em Belém e Região Metropolitana registra deflação de 0,45% em julho",
-      "descricao": "Inflação recua em Belém e Região Metropolitana registra deflação de 0,45% em julho",
-      "link": "https://www.oliberal.com/economia/inflacao-recua-em-belem-e-regiao-metropolitana-registra-deflacao-de-0-45-em-julho-1.1155695",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1155699:1786456083/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T14:02:00.617919+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7b927f77375393ec6e646da455d0848b",
-      "titulo": "Belém é a 4ª cidade com aluguel mais caro do Brasil; corretores comentam",
-      "descricao": "Belém é a 4ª cidade com aluguel mais caro do Brasil; corretores comentam",
-      "link": "https://www.oliberal.com/economia/belem-e-a-4-cidade-com-aluguel-mais-caro-do-brasil-corretores-apontam-pouca-oferta-e-alta-demanda-1.1161004",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1151260:1787677784/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T14:02:00.617722+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a17da1c70f668748e5bb4d4e76564e3b",
-      "titulo": "Programação da Festividade de Nossa Senhora de Belém tem missas, procissão e shows até 6 de setembro",
-      "descricao": "Catedral Metropolitana de Belém Fábio Costa/O Liberal A Festividade de Nossa Senhora de Belém segue até 6 de setembro, na Catedral Metropolitana de Belém, no bairro da Cidade Velha. A programação reúne missas, procissão e noites temáticas no Arraial da Sé, com apresentações musicais. Neste domingo (30), as atividades continuam a partir das 18h, com missa e programação cultural. A festividade começou no sábado (29), com a missa de abertura e o retorno das imagens que participaram das peregrinações. A celebração foi presidida por Dom Alberto Taveira Corrêa, arcebispo emérito de Belém. Neste domingo, a missa da festividade está marcada para as 18h e será presidida por Dom Carlos Verzeletti, bispo emérito da Diocese de Castanhal. Depois, o Arraial da Sé terá a \"PorcoNight\", com apresentação de Willy Lima. Na segunda-feira (31), a programação religiosa continua às 19h, com missa presidida por Dom Ivanildo Oliveira Almeida, bispo da Diocese de Cametá. A noite será dedicada à temática texana e terá show da Banda Zona Rural. Dia de Nossa Senhora de Belém Na terça-feira (1º), data dedicada a Nossa Senhora de Belém, a programação começa às 9h, com uma sessão na Câmara Municipal de Belém. Às 18h30, haverá as II Vésperas, com o Cabido da Catedral. A missa solene está marcada para as 19h e será presidida por Dom Júlio Endi Akamine, arcebispo metropolitano de Belém. Após a celebração, haverá procissão pelas ruas do entorno da Catedral. O percurso informado pela organização passa pela Rua Dr. Assis, Avenida Almirante Tamandaré, Rua Dr. Malcher e Rua Padre Champagnat, com retorno à Catedral. No Arraial da Sé, a \"Noite do Marajó\" terá apresentações de Pinduca e Marcelo Mais. Veja a programação a partir deste domingo Domingo (30) 18h: Missa da Festividade, presidida por Dom Carlos Verzeletti, bispo emérito da Diocese de Castanhal; Arraial da Sé: PorcoNight; Atração: Willy Lima. Segunda-feira (31) 19h: Missa da Festividade, presidida por Dom Ivanildo Oliveira Almeida, bispo da Diocese de Cametá; Arraial da Sé: Noite Texana; Atração: Banda Zona Rural. Terça-feira (1º) 9h: sessão na Câmara Municipal pelo Dia de Nossa Senhora de Belém; 18h30: II Vésperas, com o Cabido da Catedral; 19h: missa solene, presidida por Dom Júlio Endi Akamine, arcebispo metropolitano de Belém; Procissão pelas ruas Dr. Assis, Almirante Tamandaré, Dr. Malcher e Padre Champagnat, com retorno à Catedral; Arraial da Sé: Noite do Marajó; Atrações: Pinduca e Marcelo Mais. Quarta-feira (2) 19h: Missa da Festividade e Missa da Unidade da Região Episcopal Santana, presidida por Dom José Maria Chaves, bispo da Diocese de Abaetetuba; Arraial da Sé: Noite Italiana; Atração: Markinho Duran. Quinta-feira (3) 19h: Missa da Festividade, presidida pelo padre Francisco Maria Chagas da Silva, reitor da Basílica Santuário de Nazaré; Arraial da Sé: Noite Libanesa; Atração: Banda GeoRock. Sexta-feira (4) 19h: Missa da Festividade, presidida pelo cônego Roberto Cavalli Junior, reitor do Seminário São Pio X; Arraial da Sé: Noite de Cametá; Atração: Banda Caferana e outras atrações. Sábado (5) 9h: missa pelos enfermos, presidida pelo padre Joseíldo Zeferino, vigário paroquial; 17h: missa na Igreja de São João, com o padre Joseildo Zeferino; 18h: Missa da Festividade, presidida por Dom Paolo Andreolli, bispo auxiliar da Arquidiocese de Belém; Arraial da Sé: Noite de Abaetetuba; Atrações: Banda FB Mania e Nandinho Pressão. Domingo (6) – Encerramento 7h: missa dominical com o padre Joseildo Zeferino; h: missa dominical com Mons. Agostinho Cruz; 17h30: Adoração ao Santíssimo Sacramento e Ofício da Imaculada; 8h: Missa da Festividade, presidida por Dom Raimundo Possidônio, bispo da Diocese de Bragança; Arraial da Sé: Noite da Cidade Velha; Atração: Fruta Quente. ✅ Clique e siga o canal do g1 Pará no WhatsApp Agora no g1 Leia todas as notícias do g1 Pará no WhatsApp",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/30/programacao-da-festividade-de-nossa-senhora-de-belem-tem-missas-procissao-e-shows-ate-6-de-setembro.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/Gsv9ePLHxPPLzo_j_3hUtz8zzsA=/s.glbimg.com/jo/g1/f/original/2016/08/04/catedral.jpg",
-      "data": "2026-08-30T13:51:31+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bcedfd58d7eb07ed1e9426608a3b99da",
-      "titulo": "Passageiro morre após mal súbito em voo da Azul entre Belém e Campinas",
-      "descricao": "Voo da Azul seguia de Belém para Campinas quando precisou desviar a rota; Henrique Ferreira de Andrade recebeu atendimento a bordo, mas não resistiu Um voo da Azul que partiu de Belém com destino a Campinas precisou ser desviado para Brasília após um passageiro sofrer um grave mal súbito. O empresário Henrique Ferreira de Andrade, de 34 anos, não resistiu. O post Passageiro morre após mal súbito em voo da Azul entre Belém e Campinas apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/passageiro-morre-apos-mal-subito-em-voo-da-azul-entre-belem-e-campinas/",
+      "id": "7076d05a5a65adec011e9b006757f2e7",
+      "titulo": "+Milionária hoje: resultado do concurso 385 e números sorteados",
+      "descricao": "+Milionária. Foto: Reprodução Resultado da +Milionária 385 de hoje (30/08); prêmio é de R$ 88 milhões O post +Milionária hoje: resultado do concurso 385 e números sorteados apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/milionaria-hoje-resultado-do-concurso-385-e-numeros-sorteados/",
       "fonte": "Diário do Pará",
       "imagem": "",
-      "data": "2026-08-30T13:36:10+00:00",
+      "data": "2026-08-30T14:27:02+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7ffa86e18c8a6f5ff632fdbf83db4020",
+      "titulo": "Timemania hoje: resultado do concurso 2435 e números sorteados",
+      "descricao": "Timemania. Foto: Reprodução/CAIXA Concurso 2435 da Timemania teve sete dezenas sorteadas e Cruzeiro-MG como Time do Coração; confira o resultado O post Timemania hoje: resultado do concurso 2435 e números sorteados apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/timemania-hoje-resultado-do-concurso-2435-e-numeros-sorteados/",
+      "fonte": "Diário do Pará",
+      "imagem": "",
+      "data": "2026-08-30T14:20:36+00:00",
       "categoria": "PARÁ"
     }
   ]
