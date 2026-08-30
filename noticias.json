@@ -1,6 +1,66 @@
 {
-  "atualizado": "2026-08-30T18:31:52.550434+00:00",
+  "atualizado": "2026-08-30T19:02:13.187343+00:00",
   "noticias": [
+    {
+      "id": "fdbf1f6b2dae40f1385f9104bdee46e8",
+      "titulo": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
+      "descricao": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
+      "link": "https://www.oliberal.com/esportes/remo/marlon-aposta-no-mangueirao-lotado-para-o-remo-reagir-na-serie-a-1.1162943",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162949:1788115303/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T19:02:09.608351+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9b822864b01262b377ad2688c8f09335",
+      "titulo": "Reitor da UFPA vai à África em busca de novas parcerias para ciência e educação",
+      "descricao": "Reitor da UFPA vai à África em busca de novas parcerias para ciência e educação",
+      "link": "https://www.oliberal.com/para/reitor-da-ufpa-vai-a-africa-em-busca-de-novas-parcerias-para-ciencia-e-educacao-1.1162950",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162951:1788115476/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T19:02:09.258890+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5f6a203fc79991eb22ab12156c1725da",
+      "titulo": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
+      "descricao": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
+      "link": "https://www.oliberal.com/belem/cirio-2026-atendimento-a-romeiros-nas-estradas-deve-ter-27-pontos-de-apoio-1.1162890",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.871744:1728418406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T19:02:08.895859+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7ec5c3f9b01cd24cf87321b3f4b1028c",
+      "titulo": "Cronistas divergem sobre Léo Condé no comando do Leão",
+      "descricao": "Cronistas divergem sobre Léo Condé no comando do Leão",
+      "link": "https://www.oliberal.com/esportes/remo/remo-cronistas-divergem-sobre-permanencia-de-leo-conde-no-comando-do-leao-1.1162384",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128784:1780354714/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T19:02:08.895766+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f9c4a04b038a1adf50babc5c0dfb6fbd",
+      "titulo": "Júnior Rocha destaca classificação do Paysandu e mira quadrangular: 'é outro campeonato'",
+      "descricao": "Júnior Rocha destaca classificação do Paysandu e mira quadrangular: 'é outro campeonato'",
+      "link": "https://www.oliberal.com/esportes/paysandu/junior-rocha-destaca-classificacao-do-paysandu-e-mira-quadrangular-e-outro-campeonato-1.1162841",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1112926:1776870162/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T19:02:08.895648+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "216d5be251a7c92665fc22aaa37e40b4",
+      "titulo": "Paysandu não venceu Brusque, Ferroviária e Inter na 1ª fase",
+      "descricao": "Paysandu não venceu Brusque, Ferroviária e Inter na 1ª fase",
+      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-nao-venceu-os-adversarios-do-quadrangular-decisivo-na-primeira-fase-da-serie-c-1.1162884",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1150453:1785177567/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-30T19:02:08.895530+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "6b51785e84a667c5c13aea97bdb27139",
       "titulo": "Benzema rescinde com Al-Hilal e pode encerrar carreira, diz jornalista",
@@ -19,66 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162945:1788114363/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-08-30T18:31:48.654230+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5f6a203fc79991eb22ab12156c1725da",
-      "titulo": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
-      "descricao": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
-      "link": "https://www.oliberal.com/belem/cirio-2026-atendimento-a-romeiros-nas-estradas-deve-ter-27-pontos-de-apoio-1.1162890",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.871744:1728418406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T18:31:48.279228+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7ec5c3f9b01cd24cf87321b3f4b1028c",
-      "titulo": "Cronistas divergem sobre Léo Condé no comando do Leão",
-      "descricao": "Cronistas divergem sobre Léo Condé no comando do Leão",
-      "link": "https://www.oliberal.com/esportes/remo/remo-cronistas-divergem-sobre-permanencia-de-leo-conde-no-comando-do-leao-1.1162384",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128784:1780354714/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T18:31:48.279056+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f9c4a04b038a1adf50babc5c0dfb6fbd",
-      "titulo": "Júnior Rocha destaca classificação do Paysandu e mira quadrangular: 'é outro campeonato'",
-      "descricao": "Júnior Rocha destaca classificação do Paysandu e mira quadrangular: 'é outro campeonato'",
-      "link": "https://www.oliberal.com/esportes/paysandu/junior-rocha-destaca-classificacao-do-paysandu-e-mira-quadrangular-e-outro-campeonato-1.1162841",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1112926:1776870162/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T18:31:48.278890+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "216d5be251a7c92665fc22aaa37e40b4",
-      "titulo": "Paysandu não venceu Brusque, Ferroviária e Inter na 1ª fase",
-      "descricao": "Paysandu não venceu Brusque, Ferroviária e Inter na 1ª fase",
-      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-nao-venceu-os-adversarios-do-quadrangular-decisivo-na-primeira-fase-da-serie-c-1.1162884",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1150453:1785177567/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T18:31:48.278718+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4928afc749cd06be8274e40a42d7cd70",
-      "titulo": "River Plate enfrenta Banfield sob pressão no Campeonato Argentino",
-      "descricao": "River estreia Leonardo Ponzio como técnico interino neste domingo (30), às 15h, diante do Banfield, no estádio Florencio Sola. O River Plate enfrenta o Banfield neste domingo (30) pelo Campeonato Argentino, em um jogo crucial para a equipe que busca se recuperar após a eliminação da Copa Sul-Americana e a mudança de comando técnico. O post River Plate enfrenta Banfield sob pressão no Campeonato Argentino apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/river-plate-enfrenta-banfield-sob-pressao-no-campeonato-argentino/",
-      "fonte": "Diário do Pará",
-      "imagem": "",
-      "data": "2026-08-30T18:02:11+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f9a572fcab2a968efaa36112311be41a",
-      "titulo": "3º Festival Amazônico de Gastronomia mistura sabores regionais e internacionais em Belém",
-      "descricao": "3º Festival Amazônico de Gastronomia mistura sabores regionais e internacionais em Belém",
-      "link": "https://www.oliberal.com/belem/3-festival-amazonico-de-gastronomia-mistura-sabores-regionais-e-internacionais-em-belem-1.1162923",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162924:1788111019/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-30T18:01:51.961565+00:00",
       "categoria": "PARÁ"
     }
   ]
