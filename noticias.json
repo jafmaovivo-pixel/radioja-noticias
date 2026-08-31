@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-08-31T19:02:16.802184+00:00",
+  "atualizado": "2026-08-31T19:31:57.118846+00:00",
   "noticias": [
     {
       "id": "f0f1d83a294d2cb008b0610598257723",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/belem/macacos-sao-flagrados-em-fios-de-energia-na-regiao-da-nova-rua-da-marinha-em-belem-1.1135896",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1135898:1781985336/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T19:02:14.649176+00:00",
+      "data": "2026-08-31T19:31:55.151027+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/belem/ponte-suspensa-para-travessia-de-animais-e-encontrada-rompida-na-rua-da-marinha-em-belem-1.1163061",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163080:1788185174/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T19:02:14.257794+00:00",
+      "data": "2026-08-31T19:31:55.150938+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/belem/rompimento-de-ponte-para-travessia-de-animais-na-rua-da-marinha-pode-ter-sido-vandalismo-diz-seop-1.1163241",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163242:1788199934/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T19:02:13.893773+00:00",
+      "data": "2026-08-31T19:31:55.150817+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "405633912adc2200f206d3b297e2a63d",
+      "titulo": "Rios correm lado a lado sem se misturar por 8 km perto de Alter do Chão",
+      "descricao": "Águas do Tapajós e do Amazonas mantêm cores distintas ao longo de aproximadamente oito quilômetros diante de Santarém. Foto: Agência Santarém/PMS Fenômeno entre o Tapajós e o Amazonas pode ser visto durante todo o ano, mas período da viagem define se o turista encontrará praias ou floresta alagada O post Rios correm lado a lado sem se misturar por 8 km perto de Alter do Chão apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/rios-correm-lado-a-lado-sem-se-misturar-por-8-km-perto-de-alter-do-chao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_Santarem_Foto_Agencia_Santarem-1.jpg",
+      "data": "2026-08-31T19:26:02+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "da27264e6a40dc16c4f0ef16f260a6f1",
+      "titulo": "Financiamento de litígios: nova fronteira do mercado jurídico em debate",
+      "descricao": "Terceira edição do encontro reuniu advogados, empresários e especialistas da Mesh Capital para discutir oportunidades e desafios de um mercado ainda em desenvolvimento no Brasil. A terceira edição do projeto Clodomir 360º, do escritório Clodomir Araujo Advogados, debateu o financiamento de litígios e as novas possibilidades de investimento em disputas judiciais no Brasil, reunindo profissionais do Direito e do mercado financeiro. O post Financiamento de litígios: nova fronteira do mercado jurídico em debate apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/financiamento-de-litigios-nova-fronteira-do-mercado-juridico-em-debate/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/WhatsApp-Image-2026-08-31-at-14.59.42.jpeg",
+      "data": "2026-08-31T19:21:17+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_Praca_Gabriel_Garcia_Marquez_-_Foto_-_Jumara_Nascimento.jpg",
       "data": "2026-08-31T18:32:52+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0b316dadf0aa14da5edfc908f5a9742b",
-      "titulo": "Avenida Marechal Hermes recebe jardim de chuva para reter e infiltrar água da chuva, em Belém",
-      "descricao": "Avenida Marechal Hermes recebe jardim de chuva para reter e infiltrar água da chuva, em Belém",
-      "link": "https://www.oliberal.com/belem/avenida-marechal-hermes-recebe-jardim-de-chuva-para-reter-e-infiltrar-agua-da-chuva-em-belem-1.1161438",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1161440:1787767496/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T18:32:05.861428+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "08e199388e806949ed0bffe552652303",
-      "titulo": "Cinema a R$ 10 em Belém: UCI participa da promoção; veja filmes em cartaz",
-      "descricao": "Promoção acontece entre os dias 10 e 16 de setembro; confira os filmes que chegam aos cinemas durante o período. Foto: Design Canva. A Semana do Cinema da UCI oferece ingressos a preços promocionais de 10 a 16 de setembro de 2026, incluindo sessões 2D, 3D, IMAX e XPLUS. Clientes UCI Unique têm valores ainda mais especiais. O post Cinema a R$ 10 em Belém: UCI participa da promoção; veja filmes em cartaz apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/cinema-a-r-10-em-belem-uci-participa-da-promocao-veja-filmes-em-cartaz/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_WhatsApp_Image_2026-08-31_at_14_54_25.jpg",
-      "data": "2026-08-31T18:26:50+00:00",
       "categoria": "PARÁ"
     },
     {
