@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-08-31T18:32:06.933085+00:00",
+  "atualizado": "2026-08-31T19:02:16.802184+00:00",
   "noticias": [
+    {
+      "id": "f0f1d83a294d2cb008b0610598257723",
+      "titulo": "Macacos são flagrados em fios de energia na região da Nova Rua da Marinha, em Belém",
+      "descricao": "Macacos são flagrados em fios de energia na região da Nova Rua da Marinha, em Belém",
+      "link": "https://www.oliberal.com/belem/macacos-sao-flagrados-em-fios-de-energia-na-regiao-da-nova-rua-da-marinha-em-belem-1.1135896",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1135898:1781985336/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T19:02:14.649176+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "61e93729fbb19758bf9f677023884219",
+      "titulo": "Ponte suspensa para travessia de animais é encontrada rompida na Rua da Marinha, em Belém",
+      "descricao": "Ponte suspensa para travessia de animais é encontrada rompida na Rua da Marinha, em Belém",
+      "link": "https://www.oliberal.com/belem/ponte-suspensa-para-travessia-de-animais-e-encontrada-rompida-na-rua-da-marinha-em-belem-1.1163061",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163080:1788185174/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T19:02:14.257794+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "24ed6ae7893742951374f281a6c7499a",
+      "titulo": "Rompimento de ponte Rua da Marinha pode ter sido vandalismo, diz Seop",
+      "descricao": "Rompimento de ponte Rua da Marinha pode ter sido vandalismo, diz Seop",
+      "link": "https://www.oliberal.com/belem/rompimento-de-ponte-para-travessia-de-animais-na-rua-da-marinha-pode-ter-sido-vandalismo-diz-seop-1.1163241",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163242:1788199934/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T19:02:13.893773+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f07810bfa96fc03dc91521daf323b0ce",
+      "titulo": "Paris, “Gabo” e o caminho de volta para casa",
+      "descricao": "Praça Gabriel García Marquez - Foto - Jumara Nascimento Uma viagem literária e afetiva por Paris, revisitando a memória de Gabriel García Márquez e seus personagens, enquanto o narrador e Jumara constroem sua própria história. O post Paris, “Gabo” e o caminho de volta para casa apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/paris-gabo-e-o-caminho-de-volta-para-casa/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_Praca_Gabriel_Garcia_Marquez_-_Foto_-_Jumara_Nascimento.jpg",
+      "data": "2026-08-31T18:32:52+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "0b316dadf0aa14da5edfc908f5a9742b",
       "titulo": "Avenida Marechal Hermes recebe jardim de chuva para reter e infiltrar água da chuva, em Belém",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "bcdc9694160f11e83531c6afb6b3bea7",
-      "titulo": "Trânsito de Belém terá mudanças em vias da região da Pedro Álvares Cabral; veja quais",
-      "descricao": "Trânsito de Belém terá mudanças em vias da região da Pedro Álvares Cabral; veja quais",
-      "link": "https://www.oliberal.com/belem/transito-de-belem-tera-mudancas-em-vias-da-regiao-da-pedro-alvares-cabral-veja-quais-1.1163053",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163056:1788176323/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T18:32:05.861269+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "46554bf0bbee64fbf512f0ca33021c11",
-      "titulo": "Tempestade de neve em Belém? Waze faz alerta inusitado para a capital",
-      "descricao": "Tempestade de neve em Belém? Waze faz alerta inusitado para a capital",
-      "link": "https://www.oliberal.com/belem/tempestade-de-neve-em-belem-waze-faz-alerta-inusitado-para-a-capital-paraense-veja-1.1163194",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163203:1788192554/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T18:32:05.861115+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "08e199388e806949ed0bffe552652303",
       "titulo": "Cinema a R$ 10 em Belém: UCI participa da promoção; veja filmes em cartaz",
       "descricao": "Promoção acontece entre os dias 10 e 16 de setembro; confira os filmes que chegam aos cinemas durante o período. Foto: Design Canva. A Semana do Cinema da UCI oferece ingressos a preços promocionais de 10 a 16 de setembro de 2026, incluindo sessões 2D, 3D, IMAX e XPLUS. Clientes UCI Unique têm valores ainda mais especiais. O post Cinema a R$ 10 em Belém: UCI participa da promoção; veja filmes em cartaz apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_WhatsApp_Image_2026-08-31_at_14_54_25.jpg",
       "data": "2026-08-31T18:26:50+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e883d7390edf20f7bacde5b81a208e5a",
-      "titulo": "9 pontos ou mais? A conta que pode colocar o Paysandu de volta na Série B",
-      "descricao": "Paysandu a 5 jogos da Série B: a pontuação que pode garantir o acesso Foto: Jorge Luís Totti/Paysandu O Paysandu inicia a fase decisiva em busca do acesso à Série B do Campeonato Brasileiro. Com cinco jogos e 15 pontos em disputa, o Papão está no \"grupo da morte\" e precisa de uma campanha consistente para garantir a vaga. O post 9 pontos ou mais? A conta que pode colocar o Paysandu de volta na Série B apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/9-pontos-ou-mais-a-conta-que-pode-colocar-o-paysandu-de-volta-na-serie-b/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/55497091527_8b41d7e9b9_k.jpg",
-      "data": "2026-08-31T18:23:05+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "902125bcc8df6f44daa3356798a642f1",
-      "titulo": "Renata Fan detona o Inter: “Não temos líderes, não temos um comando”; veja o vídeo",
-      "descricao": "Renata Fan fez um forte desabafo sobre o momento do Internacional - Foto reprodução Renata Fan lamentou a situação do Inter após a derrota para o Bahia. O post Renata Fan detona o Inter: “Não temos líderes, não temos um comando”; veja o vídeo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/renata-fan-detona-o-inter-nao-temos-lideres-nao-temos-um-comando-veja-o-video/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_Renata-Fan-1-aspect-ratio-512-320.jpg",
-      "data": "2026-08-31T17:34:12+00:00",
       "categoria": "PARÁ"
     },
     {
