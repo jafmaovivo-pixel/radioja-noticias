@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-08-31T16:02:11.875546+00:00",
+  "atualizado": "2026-08-31T16:32:00.767731+00:00",
   "noticias": [
+    {
+      "id": "0b316dadf0aa14da5edfc908f5a9742b",
+      "titulo": "Avenida Marechal Hermes recebe jardim de chuva para reter e infiltrar água da chuva, em Belém",
+      "descricao": "Avenida Marechal Hermes recebe jardim de chuva para reter e infiltrar água da chuva, em Belém",
+      "link": "https://www.oliberal.com/belem/avenida-marechal-hermes-recebe-jardim-de-chuva-para-reter-e-infiltrar-agua-da-chuva-em-belem-1.1161438",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1161440:1787767496/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T16:31:59.412823+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bcdc9694160f11e83531c6afb6b3bea7",
+      "titulo": "Trânsito de Belém terá mudanças em vias da região da Pedro Álvares Cabral; veja quais",
+      "descricao": "Trânsito de Belém terá mudanças em vias da região da Pedro Álvares Cabral; veja quais",
+      "link": "https://www.oliberal.com/belem/transito-de-belem-tera-mudancas-em-vias-da-regiao-da-pedro-alvares-cabral-veja-quais-1.1163053",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163056:1788176323/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T16:31:59.226569+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "46554bf0bbee64fbf512f0ca33021c11",
+      "titulo": "Tempestade de neve em Belém? Waze faz alerta inusitado para a capital",
+      "descricao": "Tempestade de neve em Belém? Waze faz alerta inusitado para a capital",
+      "link": "https://www.oliberal.com/belem/tempestade-de-neve-em-belem-waze-faz-alerta-inusitado-para-a-capital-paraense-veja-1.1163194",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163203:1788192554/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T16:31:59.226340+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "e3eed3099181cd6149d53409a0feb292",
       "titulo": "Feriado de 7 de setembro: viagens ficam mais caras em Belém",
@@ -9,26 +39,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1139875:1788187512/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-08-31T16:02:10.867125+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4456a0ccae0132c2a9db4eca00489dec",
-      "titulo": "VÍDEO: Motociclista quebra vidro de carro e rouba celular de motorista no trânsito",
-      "descricao": "VÍDEO: Motociclista quebra vidro de carro e rouba celular de motorista no trânsito",
-      "link": "https://www.oliberal.com/brasil/motociclista-quebra-vidro-de-carro-e-rouba-celular-de-motorista-no-transito-camera-registrou-crime-1.1163151",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163163:1788188300/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T16:02:10.582636+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bec54a1e2b96367eeab191c9729c98db",
-      "titulo": "Trânsito terá mudanças na região da Pedro Álvares Cabral; veja quais",
-      "descricao": "Trânsito terá mudanças na região da Pedro Álvares Cabral; veja quais",
-      "link": "https://www.oliberal.com/belem/transito-de-belem-tera-mudancas-em-vias-da-regiao-da-pedro-alvares-cabral-veja-quais-1.1163053",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163056:1788176323/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T16:02:10.302375+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/ilsonmateus8.jpeg",
       "data": "2026-08-31T15:37:33+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fdbf1f6b2dae40f1385f9104bdee46e8",
-      "titulo": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
-      "descricao": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
-      "link": "https://www.oliberal.com/esportes/remo/marlon-aposta-no-mangueirao-lotado-para-o-remo-reagir-na-serie-a-1.1162943",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162949:1788115303/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T15:32:04.261430+00:00",
       "categoria": "PARÁ"
     },
     {
