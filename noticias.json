@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-08-31T10:02:25.179302+00:00",
+  "atualizado": "2026-08-31T10:32:12.654757+00:00",
   "noticias": [
+    {
+      "id": "7efc23b8447fd4efc1e25c577a872854",
+      "titulo": "Disque Denúncia divulga foragidos por violência",
+      "descricao": "Disque Denúncia divulga foragidos por violência",
+      "link": "https://www.oliberal.com/brasil/disque-denuncia-divulga-cartazes-de-foragidos-por-violencia-contra-a-mulher-no-agosto-lilas-1.1163021",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163022:1788134167/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T10:32:09.334652+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c28398df83d5708b7f7c03ee258d5382",
+      "titulo": "3º Festival Amazônico de Gastronomia reúne sabores em Belém",
+      "descricao": "3º Festival Amazônico de Gastronomia reúne sabores em Belém",
+      "link": "https://www.oliberal.com/belem/3-festival-amazonico-de-gastronomia-mistura-sabores-regionais-e-internacionais-em-belem-1.1162923",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162924:1788111019/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T10:32:09.113665+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "48af01aee6cbadda573f8b92b34e345d",
+      "titulo": "Veja a agenda dos candidatos ao governo do Pará, nesta segunda-feira (31)",
+      "descricao": "Veja a agenda dos candidatos ao governo do Pará, nesta segunda-feira (31)",
+      "link": "https://www.oliberal.com/politica/veja-a-agenda-dos-candidatos-ao-governo-do-para-nesta-segunda-feira-31-1.1162987",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
+      "data": "2026-08-31T10:32:08.755762+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "5f6a203fc79991eb22ab12156c1725da",
       "titulo": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
@@ -8,17 +38,17 @@
       "link": "https://www.oliberal.com/belem/cirio-2026-atendimento-a-romeiros-nas-estradas-deve-ter-27-pontos-de-apoio-1.1162890",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.871744:1728418406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T10:02:21.710959+00:00",
+      "data": "2026-08-31T10:32:08.405476+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "fdbf1f6b2dae40f1385f9104bdee46e8",
-      "titulo": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
-      "descricao": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
-      "link": "https://www.oliberal.com/esportes/remo/marlon-aposta-no-mangueirao-lotado-para-o-remo-reagir-na-serie-a-1.1162943",
+      "id": "fc07d65a0bc8b9da5571a7fd86fae760",
+      "titulo": "Emendas parlamentares somam R$ 47,1 bi após salto de 315%",
+      "descricao": "Emendas parlamentares somam R$ 47,1 bi após salto de 315%",
+      "link": "https://www.oliberal.com/politica/emendas-parlamentares-somam-r-47-1-bilhoes-apos-salto-de-315-em-11-anos-aponta-ipea-1.1163039",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162949:1788115303/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T10:02:21.710823+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T10:32:08.405280+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,57 +58,27 @@
       "link": "https://www.oliberal.com/cultura/29-feira-do-livro-2-dia-inicia-com-movimento-tranquilo-obras-promocionais-e-canto-para-jabutigao-1.1162908",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162910:1788109137/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T10:02:21.710671+00:00",
+      "data": "2026-08-31T10:32:08.043288+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "01e5f9f1cf7004b7131205778f16776e",
-      "titulo": "'Homem-Peixe' é encontrado e resgatado vivo nadando em área portuária de Vila do Conde",
-      "descricao": "'Homem-Peixe' é encontrado e resgatado vivo nadando em área portuária de Vila do Conde",
-      "link": "https://www.oliberal.com/policia/homem-peixe-e-encontrado-e-resgatado-vivo-nadando-em-area-portuaria-de-vila-do-conde-1.1162423",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162434:1787953070/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T10:02:21.710584+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "84089d53eeb8cdd163f4641391cf4906",
-      "titulo": "Por que o 'Homem-Peixe' escolheu nadar pelos rios da Amazônia? Veja o objetivo da expedição",
-      "descricao": "Por que o 'Homem-Peixe' escolheu nadar pelos rios da Amazônia? Veja o objetivo da expedição",
-      "link": "https://www.oliberal.com/belem/por-que-o-homem-peixe-escolheu-nadar-pelos-rios-da-amazonia-veja-o-objetivo-da-expedicao-1.1162971",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162974:1788122370/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T10:02:21.710501+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a7996631521a120e2c5e1314c7d198e4",
-      "titulo": "'Homem-Peixe' chega a Belém após 360 dias nadando",
-      "descricao": "'Homem-Peixe' chega a Belém após 360 dias nadando",
-      "link": "https://www.oliberal.com/belem/homem-peixe-chega-a-belem-apos-360-dias-nadando-1.1162961",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162963:1788120657/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T10:02:21.710384+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "365a97586a58d2cf821ada848c22038c",
-      "titulo": "Horóscopo de hoje: alguns signos enfrentam cobranças e conflitos nesta segunda (31)",
-      "descricao": "Previsão dos signos para hoje, segunda-feira, 31 de agosto Confira as previsões astrológicas para todos os signos nesta segunda-feira (31), com desafios no trabalho, vida pessoal e relacionamentos. O dia exige paciência e organização. O post Horóscopo de hoje: alguns signos enfrentam cobranças e conflitos nesta segunda (31) apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/horoscopo-de-hoje-alguns-signos-enfrentam-cobrancas-e-conflitos-nesta-segunda-31/",
+      "id": "7df8af53a9308f812da72c2fe884f2d4",
+      "titulo": "Pé-de-Meia pode ter parcela bloqueada por faltas; veja frequência mínima exigida para receber R$ 200",
+      "descricao": "Beneficiário que ficar abaixo da frequência mínima pode deixar de receber a parcela do período, mas valor poderá ser liberado posteriormente se situação for regularizada Estudantes beneficiários do programa Pé-de-Meia devem ficar atentos à frequência escolar para não ter o benefício bloqueado. É preciso manter pelo menos 80% de presença nas aulas para garantir o recebimento das parcelas. O post Pé-de-Meia pode ter parcela bloqueada por faltas; veja frequência mínima exigida para receber R$ 200 apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/pe-de-meia-pode-ter-parcela-bloqueada-por-faltas-veja-frequencia-minima-exigida-para-receber-r-200/",
       "fonte": "Diário do Pará",
       "imagem": "",
-      "data": "2026-08-31T09:55:04+00:00",
+      "data": "2026-08-31T10:19:00+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "e13fac6691f7aadbead9a6c20a7b7337",
-      "titulo": "Pentacampeão Luizão é acusado de agredir companheira e afirma: “Também sou vítima”",
-      "descricao": "Acusado de agressão, Luizão afirma ter feito exame de corpo de delito O ex-jogador Luizão se manifestou após ser acusado de violência doméstica pela companheira Luana Corte de Sá. A ocorrência foi registrada na Delegacia de Defesa da Mulher (DDM), em São Paulo. O post Pentacampeão Luizão é acusado de agredir companheira e afirma: “Também sou vítima” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/pentacampeao-luizao-e-acusado-de-agredir-companheira-e-afirma-tambem-sou-vitima/",
+      "id": "a7d1118266543883c95189a887bad6c6",
+      "titulo": "Segunda-feira dá preguiça? 5 estratégias para recuperar a motivação e vencer o desânimo",
+      "descricao": "Uma boa noite de sono, metas claras e até uma mudança de carreira podem ajudar a transformar a relação com o trabalho. A segunda-feira pode ser um desafio, mas algumas estratégias simples podem ajudar a transformar o início da semana. Priorize o sono, reflita sobre o propósito do trabalho e defina objetivos claros para encarar a rotina com mais disposição. O post Segunda-feira dá preguiça? 5 estratégias para recuperar a motivação e vencer o desânimo apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/segunda-feira-da-preguica-5-estrategias-para-recuperar-a-motivacao-e-vencer-o-desanimo/",
       "fonte": "Diário do Pará",
       "imagem": "",
-      "data": "2026-08-31T02:38:09+00:00",
+      "data": "2026-08-31T10:09:01+00:00",
       "categoria": "PARÁ"
     }
   ]
