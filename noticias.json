@@ -1,24 +1,14 @@
 {
-  "atualizado": "2026-08-31T11:32:18.785422+00:00",
+  "atualizado": "2026-08-31T12:02:25.611160+00:00",
   "noticias": [
     {
-      "id": "004be968f694a172039e1b23355a4c6f",
-      "titulo": "Com Kikitos na prateleira, Francisco Gaspar celebra trajetória e projeta novos trabalhos",
-      "descricao": "Com Kikitos na prateleira, Francisco Gaspar celebra trajetória e projeta novos trabalhos",
-      "link": "https://www.oliberal.com/cultura/comkikitos-na-prateleira-francisco-gaspar-celebra-trajetoria-e-projeta-novos-trabalhos-1.1162238",
+      "id": "5095aae5eccc596396ffc818c9168ac2",
+      "titulo": "David Corrêa, jogador do Vasco, é alvo de operação contra tráfico de armas e drogas no RJ",
+      "descricao": "David Corrêa, jogador do Vasco, é alvo de operação contra tráfico de armas e drogas no RJ",
+      "link": "https://www.oliberal.com/esportes/david-correa-jogador-do-vasco-e-alvo-de-operacao-contra-trafico-de-armas-e-drogas-no-rj-1.1163058",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162249:1787931305/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:32:14.843597+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fc07d65a0bc8b9da5571a7fd86fae760",
-      "titulo": "Emendas parlamentares somam R$ 47,1 bi após salto de 315%",
-      "descricao": "Emendas parlamentares somam R$ 47,1 bi após salto de 315%",
-      "link": "https://www.oliberal.com/politica/emendas-parlamentares-somam-r-47-1-bilhoes-apos-salto-de-315-em-11-anos-aponta-ipea-1.1163039",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:32:14.513429+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.928522:1750518873/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T12:02:22.194121+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +18,17 @@
       "link": "https://www.oliberal.com/politica/btg-nexus-lula-tem-46-e-flavio-bolsonaro-45-no-2-turno-seguem-empatados-tecnicamente-1.1163045",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1119952:1778520493/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:32:14.513321+00:00",
+      "data": "2026-08-31T12:02:21.846448+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "51a00dc11ccf5d434928cb6f1a710983",
+      "titulo": "Trânsito terá mudanças em vias da região da Pedro Álvares Cabral",
+      "descricao": "Trânsito terá mudanças em vias da região da Pedro Álvares Cabral",
+      "link": "https://www.oliberal.com/belem/transito-de-belem-tera-mudancas-em-vias-da-regiao-da-pedro-alvares-cabral-veja-quais-1.1163053",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163056:1788176323/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T12:02:21.846199+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -38,7 +38,7 @@
       "link": "https://www.oliberal.com/esportes/remo/marlon-aposta-no-mangueirao-lotado-para-o-remo-reagir-na-serie-a-1.1162943",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162949:1788115303/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:32:14.513156+00:00",
+      "data": "2026-08-31T12:02:21.398697+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -48,7 +48,7 @@
       "link": "https://www.oliberal.com/esportes/remo/fenomeno-azul-esgota-setor-a-e-promete-mangueirao-lotado-contra-o-coritiba-1.1162956",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.856449:1725065062/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:32:14.007794+00:00",
+      "data": "2026-08-31T12:02:21.398569+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -58,27 +58,27 @@
       "link": "https://www.oliberal.com/esportes/remo/remo-encara-o-coritiba-no-mangueirao-em-busca-de-reacao-no-brasileirao-1.1162952",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1097155:1773615663/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:32:13.686743+00:00",
+      "data": "2026-08-31T12:02:21.398412+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "c0cdebec53e2b201a368c9292d77f2ca",
-      "titulo": "Marcelinho: Promessa no Clube do Remo é “lutar até o fim!”",
-      "descricao": "Lateral Marcelinho promete empenho da equipe para escapar do rebaixamento. Foto: Samara Miranda/Remo Marcelinho, lateral-direito do Remo, fala sobre sua melhor temporada na carreira, a nova posição em campo, as dificuldades do time na Série A e a importância da torcida na luta contra o rebaixamento. O post Marcelinho: Promessa no Clube do Remo é “lutar até o fim!” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/marcelinho-promessa-no-clube-do-remo-e-lutar-ate-o-fim/",
+      "id": "3e9ca4cf5ce1a901d5bcfc94d3d1059f",
+      "titulo": "Caixa conclui pagamento de agosto do Bolsa Família a beneficiários com NIS final",
+      "descricao": "Além do benefício mínimo, o Bolsa Família oferece pagamentos complementares para famílias com crianças, adolescentes e gestantes, ampliando o valor recebido. Foto: divulgação/reprodução Em agosto, o programa chegou a 19,3 milhões de famílias, com benefício médio de R$ 678,35 depositado na conta poupança social da Caixa Tem. O post Caixa conclui pagamento de agosto do Bolsa Família a beneficiários com NIS final apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/caixa-conclui-pagamento-de-agosto-do-bolsa-familia-a-beneficiarios-com-nis-final/",
       "fonte": "Diário do Pará",
       "imagem": "",
-      "data": "2026-08-31T11:30:00+00:00",
+      "data": "2026-08-31T11:51:37+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "8d080cf2ed6100d70494f892402d1d9f",
-      "titulo": "Garis podem ganhar R$ 3.036 por mês com jornada de 6 horas; entenda",
-      "descricao": "Proposta já aprovada pela Câmara também prevê aposentadoria especial e benefícios; impacto para os municípios é estimado em R$ 5,9 bilhões por ano. O Senado Federal iniciou a análise do Projeto de Lei 4.146/2020, que propõe um piso salarial de R$ 3.036 para garis, além de jornada de seis horas diárias e adicional de insalubridade. A medida, já aprovada pela Câmara, gera debate sobre o impacto financeiro para os municípios. O post Garis podem ganhar R$ 3.036 por mês com jornada de 6 horas; entenda apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/piso-para-garis-chega-ao-senado-veja-de-quanto-sera-a-remuneracao-e-como-sera-a-jornada/",
+      "id": "0d2ec57d59374d5d462d85dd99d225e8",
+      "titulo": "INSS retoma pagamentos de agosto nesta segunda-feira (31); veja quem recebe e o calendário",
+      "descricao": "Reprodução O Instituto Nacional do Seguro Social (INSS) retoma nesta segunda-feira (31) o calendário de pagamentos dos benefícios referentes à folha de agosto. Os pagamentos seguem até 8 de setembro. O post INSS retoma pagamentos de agosto nesta segunda-feira (31); veja quem recebe e o calendário apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/inss-retoma-pagamentos-de-agosto-nesta-segunda-feira-31-veja-quem-recebe-e-o-calendario/",
       "fonte": "Diário do Pará",
       "imagem": "",
-      "data": "2026-08-31T11:26:00+00:00",
+      "data": "2026-08-31T11:44:09+00:00",
       "categoria": "PARÁ"
     }
   ]
