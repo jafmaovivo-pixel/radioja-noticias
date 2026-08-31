@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-08-31T15:32:06.785138+00:00",
+  "atualizado": "2026-08-31T16:02:11.875546+00:00",
   "noticias": [
+    {
+      "id": "e3eed3099181cd6149d53409a0feb292",
+      "titulo": "Feriado de 7 de setembro: viagens ficam mais caras em Belém",
+      "descricao": "Feriado de 7 de setembro: viagens ficam mais caras em Belém",
+      "link": "https://www.oliberal.com/economia/feriado-de-7-de-setembro-passagens-aereas-sobem-31-95-na-capital-paraense-1.1163154",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1139875:1788187512/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T16:02:10.867125+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4456a0ccae0132c2a9db4eca00489dec",
+      "titulo": "VÍDEO: Motociclista quebra vidro de carro e rouba celular de motorista no trânsito",
+      "descricao": "VÍDEO: Motociclista quebra vidro de carro e rouba celular de motorista no trânsito",
+      "link": "https://www.oliberal.com/brasil/motociclista-quebra-vidro-de-carro-e-rouba-celular-de-motorista-no-transito-camera-registrou-crime-1.1163151",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163163:1788188300/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T16:02:10.582636+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bec54a1e2b96367eeab191c9729c98db",
+      "titulo": "Trânsito terá mudanças na região da Pedro Álvares Cabral; veja quais",
+      "descricao": "Trânsito terá mudanças na região da Pedro Álvares Cabral; veja quais",
+      "link": "https://www.oliberal.com/belem/transito-de-belem-tera-mudancas-em-vias-da-regiao-da-pedro-alvares-cabral-veja-quais-1.1163053",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163056:1788176323/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T16:02:10.302375+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ec1832cae72742545772308204771b8d",
+      "titulo": "Lionel Messi anuncia aposentadoria da seleção argentina; leia a carta",
+      "descricao": "Lionel Messi anunciou sua despedida da Argentina nesta segunda-feira (31) - Foto 1: Reprodução/Instagram/ Foto 2: Reprodução/Instagram Messi anunciou nesta segunda-feira (31) sua despedida da seleção argentina. O post Lionel Messi anuncia aposentadoria da seleção argentina; leia a carta apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/lionel-messi-anuncia-aposentadoria-da-selecao-argentina-leia-a-carta/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/social-lionel-messi-657786.jpg",
+      "data": "2026-08-31T15:41:51+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ad7f71f59de5b60e183ba236d5e4955a",
+      "titulo": "Dono do Grupo Mateus vê fortuna encolher R$ 4,2 bilhões em meio à reestruturação da empresa",
+      "descricao": "Fundador e principal acionista da gigante varejista despenca do 34º para o 107º lugar; companhia fechou 28 lojas e reduziu quadro em 6.673 trabalhadores O patrimônio de Ilson Mateus, fundador do Grupo Mateus, sofreu uma queda de R$ 4,2 bilhões em um ano, segundo a Forbes. A redução ocorre em meio a uma reestruturação da empresa, com fechamento de lojas e demissões. O post Dono do Grupo Mateus vê fortuna encolher R$ 4,2 bilhões em meio à reestruturação da empresa apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/dono-do-grupo-mateus-ve-fortuna-encolher-r-42-bilhoes-em-meio-a-reestruturacao-da-empresa/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/ilsonmateus8.jpeg",
+      "data": "2026-08-31T15:37:33+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "fdbf1f6b2dae40f1385f9104bdee46e8",
       "titulo": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
@@ -9,26 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162949:1788115303/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-08-31T15:32:04.261430+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "186fad79c8de772fb1ef7591f0f90612",
-      "titulo": "Fenômeno Azul esgota setor A e promete Mangueirão lotado contra o Coritiba",
-      "descricao": "Fenômeno Azul esgota setor A e promete Mangueirão lotado contra o Coritiba",
-      "link": "https://www.oliberal.com/esportes/remo/fenomeno-azul-esgota-setor-a-e-promete-mangueirao-lotado-contra-o-coritiba-1.1162956",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.856449:1725065062/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T15:32:04.261299+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8693b6395fef07f2ee9a7e7aedd57c6d",
-      "titulo": "Remo recebe o Coritiba em jogo que pode tirar o Leão do Z4 na Série A",
-      "descricao": "Remo recebe o Coritiba em jogo que pode tirar o Leão do Z4 na Série A",
-      "link": "https://www.oliberal.com/esportes/remo/remo-encara-o-coritiba-no-mangueirao-em-busca-de-reacao-no-brasileirao-1.1162952",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1097155:1773615663/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T15:32:04.261142+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,26 +72,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "ef5de8871f46ec29bed156438d9af39c",
-      "titulo": "Bayern de Munique x Mainz 05 (feminino): onde assistir, horário e escalações",
-      "descricao": "Bayern de Munique e Mainz 5 se enfrentam pela 2ª rodada do Alemão Feminino - Foto 1: redes sociais/ Foto 2: redes sociais Bayern e Mainz duelam pela 2ª rodada do Alemão Feminino. O post Bayern de Munique x Mainz 05 (feminino): onde assistir, horário e escalações apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/bayern-de-munique-x-mainz-05-feminino-onde-assistir-horario-e-escalacoes/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/Design-sem-nome-26-1.png",
-      "data": "2026-08-31T15:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "aa9ac78bd6c6c847f6f174397732db46",
-      "titulo": "Quem é Manu Freitas, do perfil “Égua Manu”? Paraense desabafa sobre depressão e preocupa seguidores",
-      "descricao": "Manu Freitas construiu carreira com humor, fofocas e identidade paraense; após mensagens de forte desânimo, seguidores tentam saber como está a influenciadora A influenciadora paraense Égua Manu preocupou seguidores e amigos com um desabafo sobre exaustão e dificuldades financeiras para cuidar da saúde. A publicação mobilizou as redes, mas não há informações confirmadas sobre seu estado atual. O post Quem é Manu Freitas, do perfil “Égua Manu”? Paraense desabafa sobre depressão e preocupa seguidores apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/quem-e-manu-freitas-do-perfil-egua-manu-paraense-desabafa-sobre-depressao-e-preocupa-seguidores/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/manu2.jpg",
-      "data": "2026-08-31T14:42:04+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "f9378b3c26a6fd9bda4850de08c719a3",
       "titulo": "Polícia investiga denúncias de chantagem e calúnia envolvendo contratos públicos em Conceição do Araguaia",
       "descricao": "PC investiga chantagem e calúnias ligadas a contratos municipais em Conceição do Araguaia A Polícia Civil (PC) investiga denúncias de chantagem e calúnia envolvendo contratos públicos em Conceição do Araguaia, no sudeste do Pará. As denúncias partiram da atual prefeitura e da gestão anterior. No registro de boletim de ocorrência constam as denúncias de chantagem e calúnia praticadas supostamente pelo empresário Ricardo José Nascimento e a esposa dele, representantes da empresa J.N Prestação de Serviços. De acordo com a Polícia Civil (PC), o ex-prefeito de Conceição do Araguaia, Jair Lopes Martins (Republicanos), e a atual chefe do Executivo, Elida Elena (MDB), afirmam que estariam sofrendo chantagem pelo empresário, com falsas denúncias relacionadas a uma suposta cobrança de vantagem indevida envolvendo recursos destinados à construção de pontes no município. A Câmara Municipal também apura a cobrança de pagamento de suposta propina e irregularidades em contratos. Conceição do Araguaia, sudeste do Pará. Divulgação ✅ Siga o canal do g1 Pará no WhatsApp No boletim de ocorrência, o ex-prefeito Jair Lopes declarou que houve a contratação de serviços para construção de pontes de concreto na PA-449, ligando Conceição do Araguaia aos municípios de Floresta do Araguaia e Santa Maria das Barreiras. No contrato de licitação, segundo o ex-gestor, a empresa recebeu mais de R$ 13 milhões para realizar os serviços. Durante as obras, a empresa responsável pediu mais recursos, no valor que soma R$ 6 milhões, para finalizar as contribuições. Mas, nesse período, houve demora na liberação dos recursos aditivos. A prefeita Elida Elena afirmou que o convênio aconteceu em 2022, para executar 12 pontes e fazer o encabeçamento delas, e que o empresário não fez. Segundo ela, na época, ele autorizou que outras empresas fizessem e, quando o recurso saísse, faria o pagamento. \"O recurso saiu no meu mandato. Quando eu o chamei para conversar, ele me disse que tinha conhecimento, que não fez parte da obra e que autorizou que outras empresas assim o fizessem, e que estava assumindo o compromisso de pagar. Foi feito um primeiro pagamento deste convênio e ele não repassou para a empresa\", disse Elida. Na sessão da última sexta-feira (28), a Câmara Municipal de Conceição do Araguaia iniciou a apuração sobre o caso. Nesta segunda-feira (31), seguindo o regimento interno da casa, uma nova sessão deve debater em plenário as supostas irregularidades de cobrança de pagamento de propinas e irregularidades em contratos. A defesa do empresário Ricardo Nascimento informou que pediu ao Ministério Público do Pará (MPPA) que instaure um inquérito para apurar as denúncias que a empresa tem contra a atual prefeita e o ex-prefeito de Conceição do Araguaia. O g1 solicitou um posicionamento ao MPPA, mas não obteve respostas até a publicação desta reportagem. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no Muncípio de Conceição do Araguaia, sudeste do Pará Divulgação .",
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/cn75VBgheBLtN1GCzEWPP9OmB4A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/r/zgAp65Tcu0XLZMTvbBTQ/geral-g1-2026-08-31t111847.470.png",
       "data": "2026-08-31T14:26:24+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "66b81610abe86454c7e1a2a89453b2bf",
-      "titulo": "Último dia: Desenrola Fies oferece descontos de até 99% para renegociar dívidas; confira",
-      "descricao": "Estudantes com contratos firmados até 2017 têm até esta segunda-feira (31) para aderir; negociação pode ser feita pelo Banco do Brasil ou Caixa. Estudantes com dívidas do Fies têm até esta segunda-feira (31) para aderir ao Desenrola Fies 2026 e renegociar seus contratos com condições especiais. Descontos podem chegar a 99% do valor consolidado da dívida. O post Último dia: Desenrola Fies oferece descontos de até 99% para renegociar dívidas; confira apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/ultimo-dia-desenrola-fies-oferece-descontos-de-ate-99-para-renegociar-dividas-confira/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/desenrola.jpeg",
-      "data": "2026-08-31T14:11:31+00:00",
       "categoria": "PARÁ"
     }
   ]
