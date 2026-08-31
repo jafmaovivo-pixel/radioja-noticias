@@ -1,6 +1,66 @@
 {
-  "atualizado": "2026-08-31T21:31:56.918299+00:00",
+  "atualizado": "2026-08-31T22:02:07.518983+00:00",
   "noticias": [
+    {
+      "id": "f4541b9fecaf0f54e81d5c1f383c4acc",
+      "titulo": "CBF divulga tabela detalhada do quadrangular de acesso da Série C; Paysandu estreia no Mangueirão",
+      "descricao": "CBF divulga tabela detalhada do quadrangular de acesso da Série C; Paysandu estreia no Mangueirão",
+      "link": "https://www.oliberal.com/esportes/paysandu/cbf-divulga-tabela-detalhada-do-quadrangular-de-acesso-da-serie-c-paysandu-estreia-no-mangueirao-1.1163236",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.981569:1750558763/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T22:02:05.252861+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7fc49620b9eb554636e681773db50d77",
+      "titulo": "Paysandu perdeu mais do que venceu em quadrangulares",
+      "descricao": "Paysandu perdeu mais do que venceu em quadrangulares",
+      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-acumula-mais-derrotas-do-que-vitorias-em-quadrangulares-da-serie-c-1.1163287",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1134161:1781624367/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T22:02:04.918567+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "458706217e85b864166b37b72c8cc319",
+      "titulo": "Remo encara o Coritiba no Mangueirão em busca de reação no Brasileirão",
+      "descricao": "Remo encara o Coritiba no Mangueirão em busca de reação no Brasileirão",
+      "link": "https://www.oliberal.com/esportes/remo/remo-encara-o-coritiba-no-mangueirao-em-busca-de-reacao-no-brasileirao-1.1162952",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1097155:1773615663/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T22:02:04.583905+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "65da2dbcce62e915db5c2bb71acb2c5c",
+      "titulo": "Clube do Remo x Coritiba ao vivo: acompanhe jogo direto do Mangueirão",
+      "descricao": "Remo e Coritiba se enfrentam nesta segunda-feira pela 25ª rodada do Brasileirão - Foto 1: Samara Miranda/ Foto 2: Redes sociais Remo e Coritiba duelam nesta segunda pela 25ª rodada do Brasileirão. O post Clube do Remo x Coritiba ao vivo: acompanhe jogo direto do Mangueirão apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/clube-do-remo-x-coritiba-ao-vivo-acompanhe-jogo-direto-do-mangueirao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/Design-sem-nome-25-1.png",
+      "data": "2026-08-31T22:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "20d446945b782301b883a91760e42f97",
+      "titulo": "Fortaleza x Operário-PR: onde assistir ao vivo e o que esperar do duelo pela Série B",
+      "descricao": "Fortaleza recebe o Operário-PR no Castelão em busca de mais uma vitória na Série B Foto: divulgação/reprodução Fortaleza recebe o Operário-PR nesta segunda-feira pela Série B, defendendo sequência invicta, enquanto os visitantes tentam encerrar fase negativa no returno. O post Fortaleza x Operário-PR: onde assistir ao vivo e o que esperar do duelo pela Série B apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/fortaleza-x-operario-pr-onde-assistir-ao-vivo-e-o-que-esperar-do-duelo-pela-serie-b/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_images_-_2026-08-31T183450_227.jpg",
+      "data": "2026-08-31T21:55:08+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "79f23a48646383206602cd828f36f1bd",
+      "titulo": "Confira a programação da Feira Pan-Amazônica do Livro 2026 em Belém",
+      "descricao": "Feira ocorre no Hangar, em Belém, até 6 de setembro, com entrada gratuita. Programação reúne apresentações culturais, rodas de conversa, bate-papos, contação de histórias e shows musicais.",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/08/31/confira-a-programacao-da-feira-pan-amazonica-do-livro-2026-em-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/W3fv8kBkHAlh_qh7W0m1QA-W3-8=/1119x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/g/yk0PjrSuqrrGpZbF5ZNQ/jabutigao1.jpg",
+      "data": "2026-08-31T21:52:37+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "f0f1d83a294d2cb008b0610598257723",
       "titulo": "Macacos são flagrados em fios de energia na região da Nova Rua da Marinha, em Belém",
@@ -12,73 +72,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "61e93729fbb19758bf9f677023884219",
-      "titulo": "Ponte suspensa para travessia de animais é encontrada rompida na Rua da Marinha, em Belém",
-      "descricao": "Ponte suspensa para travessia de animais é encontrada rompida na Rua da Marinha, em Belém",
-      "link": "https://www.oliberal.com/belem/ponte-suspensa-para-travessia-de-animais-e-encontrada-rompida-na-rua-da-marinha-em-belem-1.1163061",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163080:1788185174/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T21:31:53.623777+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "24ed6ae7893742951374f281a6c7499a",
-      "titulo": "Rompimento de ponte Rua da Marinha pode ter sido vandalismo, diz Seop",
-      "descricao": "Rompimento de ponte Rua da Marinha pode ter sido vandalismo, diz Seop",
-      "link": "https://www.oliberal.com/belem/rompimento-de-ponte-para-travessia-de-animais-na-rua-da-marinha-pode-ter-sido-vandalismo-diz-seop-1.1163241",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163242:1788199934/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T21:31:53.623620+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f80e00015f230cd71299cd6546110e53",
-      "titulo": "Candidato deixa corrida ao Governo do Pará por problema no domicílio eleitoral",
-      "descricao": "José Moita afirmou que voltou ao Pará há quatro anos e tentou comprovar seu vínculo com o estado. Foto: divulgação/reprodução Em vídeo, José Lucivaldo Moita afirma que está sendo afastado da disputa ao Governo do Pará por uma questão de domicílio eleitoral. Ata partidária, porém, mostra que o Democrata 35 decidiu substituí-lo após parecer do Ministério Público Eleitoral apontar impedimento ao registro. O post Candidato deixa corrida ao Governo do Pará por problema no domicílio eleitoral apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/candidato-deixa-corrida-ao-governo-do-para-por-problema-no-domicilio-eleitoral/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_Captura_de_tela_2026-08-31_170015.jpg",
-      "data": "2026-08-31T21:22:01+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0f1ba814b129de3198aade939fdf5b82",
-      "titulo": "Democrata muda chapa e lança Ruth Reis como candidata ao governo do Pará",
-      "descricao": "Democrata anunciou mudança no Pará: Ruth Reis é candidata a governadora e Márcia Carvalho, a vice. Reprodução O partido Democrata (Democrata) anunciou uma mudança na chapa para a disputa pelo governo do Pará nas eleições de 2026. Ruth Reis, que era candidata a vice-governadora, passa a concorrer ao cargo de governadora. O pedido foi feito ao Tribunal Regional Eleitoral do Pará (TRE-PA) e aguardava julgamento até esta segunda-feira (31). Com a mudança, o partido anunciou o nome de Márcia Carvalho como candidata a vice-governadora. Tanto Ruth quanto Márcia são advogadas. ✅ Receba no WhatsApp as notícias do g1 PA Segundo o partido, a susbtituição de candidatura ocorreu por causa de \"questões relacionadas ao domicílio eleitoral\" do então candidato do Democrata, José Lucivaldo Moita. Moita teria feito o pedido de mudança de título fora do prazo exigido, o que resultou em um parecer do Ministério Público Eleitoral pelo indeferimento da candidatura. Moita foi anunciado como candidato ao governo em 5 de agosto, dia que terminaram as convenções partidárias. Eleições 2026 Nas eleições deste ano, em 4 de outubro, os brasileiros vão votar para: Presidente; Governador; Senado (duas vagas por estado); Deputado federal; Deputado estadual. LEIA TAMBÉM: Quaest: Veja pesquisa eleitoral para o governo do Pará Quantos candidatos a governador, vice e senador pelo Pará em 2026 VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/31/democrata-muda-chapa-e-lanca-ruth-reis-como-candidata-ao-governo-do-para.ghtml",
+      "id": "a1e8b8c3072c539f5fc49892dc96581b",
+      "titulo": "Eleições 2026: veja todos os candidatos ao Senado pelo Pará",
+      "descricao": "Cargos Senador - PA O Pará (PA) tem 13 candidatos disputando duas vagas no Senado Federal nas Eleições 2026. A votação será realizada em 4 de outubro, em turno único, e os dois candidatos mais votados no estado são eleitos para mandatos de oito anos. Nas Eleições 2026, o Senado renova dois terços de suas 81 cadeiras, o que representa 54 vagas em disputa em todo o país — duas por estado e pelo Distrito Federal. Como cada estado elege dois senadores, cada eleitor vota em dois nomes para o cargo. As listas com os nomes, partidos e números de urna foram registradas pelos partidos políticos e federações junto ao Tribunal Superior Eleitoral (TSE). As candidaturas estão sujeitas a julgamento pela Justiça Eleitoral. Veja abaixo a lista completa de candidatos ao Senado pelo Pará, organizada em ordem alfabética. Clique no nome de cada candidato para ver o perfil completo na página Quem são os candidatos, do g1: Breno Guimarães (MOBILIZA) - 333 - Concorrendo - Aguardando julgamento Celso Sabino (PDT) - 123 - Concorrendo - Deferido Chicão (UNIÃO) - 444 - Concorrendo - Aguardando julgamento Conti (PSOL) - 500 - Concorrendo - Aguardando julgamento Coronel Jonildo (DC) - 277 - Concorrendo - Aguardando julgamento Delegado Éder Mauro (PL) - 222 - Concorrendo - Aguardando julgamento Edlaine Rodrigues (DEMOCRATA) - 355 - Concorrendo - Aguardando julgamento Fernanda Lopes (UP) - 800 - Concorrendo - Aguardando julgamento Gizelle Freitas (PSOL) - 505 - Concorrendo - Aguardando julgamento Helder (MDB) - 151 - Concorrendo - Aguardando julgamento Livia Noronha (SOLIDARIEDADE) - 777 - Concorrendo - Aguardando julgamento Willem da Silva (DC) - 277 - Inapto - Renúncia Zequinha Marinho (PODE) - 200 - Concorrendo - Aguardando julgamento Eleições 2026 O Brasil tem 158,7 milhões de eleitores aptos a votar neste ano, segundo dados do TSE. Os votos serão para presidente, governador, senador, deputado federal e deputado estadual (ou distrital, apenas no caso do Distrito Federal). Todos os cargos têm mandato de quatro anos, exceto o de senador, cujo mandato é de oito anos. O Senado vai renovar 54 das 81 cadeiras (dois terços do total). E cada eleitor deve votar em dois candidatos diferentes. Na lista do TSE, os candidatos são classificados em duas situações principais: concorrendo ou inapto. Concorrendo: Deferido; Deferido com recurso; Cassado com recurso, indeferido com recurso ou pedido não conhecido com recurso; Aguardando ou pendente de julgamento. Inapto: Cancelado, cassado ou indeferido; Falecido; Renúncia; Não conhecimento do pedido. Em algumas listas, o mesmo candidato aparece mais de uma vez. O TSE informa que manterá os nomes duplicados, mas apontará uma das opções como apta (\"concorrendo\") até o dia da eleição. Esta reportagem foi produzida de modo automático com dados fornecidos pelo Tribunal Superior Eleitoral (TSE) (clique aqui para saber mais) e pode ser atualizada em caso de mudança na lista de candidatos ao Senado pelo Pará. Caso você perceba algum erro, por favor nos informe por meio do formulário. Eleições 2026 no Pará",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-senado-pelo-para.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/CdVOzNhIBnUY4M9K2RUcuZq0D3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/p/DaoOlGQ5KJ4hCcqYo6rw/candidatas-democrata-gov-e-vice.jpg",
-      "data": "2026-08-31T21:19:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7312a6021b9041d6141e5ae10382c603",
-      "titulo": "Estes 5 itens não devem ser guardados no banheiro; veja onde armazená-los",
-      "descricao": "O banheiro, apesar de prático, pode comprometer a conservação de diversos produtos devido à umidade e às variações de temperatura. Saiba quais itens devem ser guardados em outros locais da casa para preservar sua qualidade e durabilidade. O post Estes 5 itens não devem ser guardados no banheiro; veja onde armazená-los apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/estes-5-itens-nao-devem-ser-guardados-no-banheiro-veja-onde-armazena-los/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_1788208183343214.jpg",
-      "data": "2026-08-31T21:14:46+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "81796bf503737e3c7d39bd725580fbba",
-      "titulo": "Eleições 2026: veja todos os candidatos ao governo do Pará",
-      "descricao": "Cargos Governador - PA O Pará (PA) tem 6 candidatos registrados para disputar o governo do Pará nas eleições de 2026, segundo dados do Tribunal Superior Eleitoral (TSE). O 1º turno da votação será realizado em 4 de outubro. Caso nenhum candidato alcance a maioria absoluta dos votos válidos, o 2º turno ocorrerá em 25 de outubro. A lista abaixo traz os nomes e os números de urna dos candidatos, enviados pelos partidos ao TSE, e também a situação de cada um: se estão concorrendo ou inaptos para concorrer, conforme decisão da Justiça Eleitoral. Clique sobre cada nome para ver mais informações da candidatura na página Quem são os candidatos, publicada pelo g1 e atualizada com dados fornecidos pelo TSE. Araceli (PSOL) - 50 - Concorrendo - Deferido Dr. Daniel (PODE) - 20 - Concorrendo - Aguardando julgamento Gal Leite (UP) - 80 - Concorrendo - Aguardando julgamento Hana Ghassan (MDB) - 15 - Concorrendo - Deferido José Moita (DEMOCRATA) - 35 - Concorrendo - Aguardando julgamento Well Macedo (PSTU) - 16 - Concorrendo - Aguardando julgamento Eleições 2026 O Brasil tem 158,7 milhões de eleitores aptos a votar neste ano, segundo dados do TSE. Os votos serão para presidente, governador, senador, deputado federal e deputado estadual (ou distrital, apenas no caso do Distrito Federal). Todos os cargos têm mandato de quatro anos, exceto o de senador, cujo mandato é de oito anos. O Senado vai renovar 54 das 81 cadeiras (dois terços do total). E cada eleitor deve votar em dois candidatos diferentes. Na lista do TSE, os candidatos são classificados em duas situações principais: concorrendo ou inapto. Concorrendo: Deferido; Deferido com recurso; Cassado com recurso, indeferido com recurso ou pedido não conhecido com recurso; Aguardando ou pendente de julgamento. Inapto: Cancelado, cassado ou indeferido; Falecido; Renúncia; Não conhecimento do pedido. Em algumas listas, o mesmo candidato aparece mais de uma vez. O TSE informa que manterá os nomes duplicados, mas apontará apenas uma das opções como apta (\"concorrendo\") até o dia da eleição. Esta reportagem foi produzida de modo automático com dados fornecidos pelo Tribunal Superior Eleitoral (TSE) (clique aqui para saber mais) e pode ser atualizada em caso de mudança na lista de candidatos. A última atualização ocorreu às 17h de 31 de agosto. Caso você perceba algum erro, por favor nos informe por meio do formulário. Eleições Pará 2026",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-do-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/bSWniToCpgDfBPaFtj1FdB2tOWc=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/27/85/14918527",
-      "data": "2026-08-31T20:59:01+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5633681ebd9f9bc916effd03457347d4",
-      "titulo": "Túlio Amâncio: “Repórter gato” deixa Globo e acerta com o SBT News",
-      "descricao": "Túlio Amâncio. Foto: Reprodução / Instagram Jornalista deixa a emissora meses após mudança na cobertura política e já tem estreia prevista em novo canal O post Túlio Amâncio: “Repórter gato” deixa Globo e acerta com o SBT News apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/reporter-gato-deixa-globo-e-acerta-com-o-sbt-news/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_SaveClip_App_662248798_18592770409056023_489639770443584406_n.jpg",
-      "data": "2026-08-31T20:48:51+00:00",
+      "imagem": "https://s2-g1.glbimg.com/QZ5eusK-0ijtkl3bGQ0Gbl2oFG0=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/14/11/14911114",
+      "data": "2026-08-31T21:26:13+00:00",
       "categoria": "PARÁ"
     }
   ]
