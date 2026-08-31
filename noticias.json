@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-08-31T12:02:25.611160+00:00",
+  "atualizado": "2026-08-31T12:11:58.856326+00:00",
   "noticias": [
+    {
+      "id": "fdbf1f6b2dae40f1385f9104bdee46e8",
+      "titulo": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
+      "descricao": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
+      "link": "https://www.oliberal.com/esportes/remo/marlon-aposta-no-mangueirao-lotado-para-o-remo-reagir-na-serie-a-1.1162943",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162949:1788115303/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T12:11:55.640377+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "186fad79c8de772fb1ef7591f0f90612",
+      "titulo": "Fenômeno Azul esgota setor A e promete Mangueirão lotado contra o Coritiba",
+      "descricao": "Fenômeno Azul esgota setor A e promete Mangueirão lotado contra o Coritiba",
+      "link": "https://www.oliberal.com/esportes/remo/fenomeno-azul-esgota-setor-a-e-promete-mangueirao-lotado-contra-o-coritiba-1.1162956",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.856449:1725065062/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T12:11:55.640297+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8693b6395fef07f2ee9a7e7aedd57c6d",
+      "titulo": "Remo recebe o Coritiba em jogo que pode tirar o Leão do Z4 na Série A",
+      "descricao": "Remo recebe o Coritiba em jogo que pode tirar o Leão do Z4 na Série A",
+      "link": "https://www.oliberal.com/esportes/remo/remo-encara-o-coritiba-no-mangueirao-em-busca-de-reacao-no-brasileirao-1.1162952",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1097155:1773615663/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T12:11:55.640173+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "5095aae5eccc596396ffc818c9168ac2",
       "titulo": "David Corrêa, jogador do Vasco, é alvo de operação contra tráfico de armas e drogas no RJ",
@@ -12,73 +42,43 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "80962b8ace328fccd9f82ba1b3a2f00e",
-      "titulo": "BTG/Nexus: Lula tem 46% e Flávio Bolsonaro 45% no 2º turno",
-      "descricao": "BTG/Nexus: Lula tem 46% e Flávio Bolsonaro 45% no 2º turno",
-      "link": "https://www.oliberal.com/politica/btg-nexus-lula-tem-46-e-flavio-bolsonaro-45-no-2-turno-seguem-empatados-tecnicamente-1.1163045",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1119952:1778520493/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T12:02:21.846448+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "51a00dc11ccf5d434928cb6f1a710983",
-      "titulo": "Trânsito terá mudanças em vias da região da Pedro Álvares Cabral",
-      "descricao": "Trânsito terá mudanças em vias da região da Pedro Álvares Cabral",
-      "link": "https://www.oliberal.com/belem/transito-de-belem-tera-mudancas-em-vias-da-regiao-da-pedro-alvares-cabral-veja-quais-1.1163053",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163056:1788176323/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T12:02:21.846199+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fdbf1f6b2dae40f1385f9104bdee46e8",
-      "titulo": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
-      "descricao": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
-      "link": "https://www.oliberal.com/esportes/remo/marlon-aposta-no-mangueirao-lotado-para-o-remo-reagir-na-serie-a-1.1162943",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162949:1788115303/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T12:02:21.398697+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "186fad79c8de772fb1ef7591f0f90612",
-      "titulo": "Fenômeno Azul esgota setor A e promete Mangueirão lotado contra o Coritiba",
-      "descricao": "Fenômeno Azul esgota setor A e promete Mangueirão lotado contra o Coritiba",
-      "link": "https://www.oliberal.com/esportes/remo/fenomeno-azul-esgota-setor-a-e-promete-mangueirao-lotado-contra-o-coritiba-1.1162956",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.856449:1725065062/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T12:02:21.398569+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8693b6395fef07f2ee9a7e7aedd57c6d",
-      "titulo": "Remo recebe o Coritiba em jogo que pode tirar o Leão do Z4 na Série A",
-      "descricao": "Remo recebe o Coritiba em jogo que pode tirar o Leão do Z4 na Série A",
-      "link": "https://www.oliberal.com/esportes/remo/remo-encara-o-coritiba-no-mangueirao-em-busca-de-reacao-no-brasileirao-1.1162952",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1097155:1773615663/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T12:02:21.398412+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3e9ca4cf5ce1a901d5bcfc94d3d1059f",
-      "titulo": "Caixa conclui pagamento de agosto do Bolsa Família a beneficiários com NIS final",
-      "descricao": "Além do benefício mínimo, o Bolsa Família oferece pagamentos complementares para famílias com crianças, adolescentes e gestantes, ampliando o valor recebido. Foto: divulgação/reprodução Em agosto, o programa chegou a 19,3 milhões de famílias, com benefício médio de R$ 678,35 depositado na conta poupança social da Caixa Tem. O post Caixa conclui pagamento de agosto do Bolsa Família a beneficiários com NIS final apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/caixa-conclui-pagamento-de-agosto-do-bolsa-familia-a-beneficiarios-com-nis-final/",
+      "id": "26249bd80364a68fa189574666f0d4ea",
+      "titulo": "Por que os gatos quase sempre caem de pé? A ciência explica o reflexo que impressiona humanos",
+      "descricao": "Flexibilidade da coluna ajuda os felinos a realizar a impressionante rotação no ar Foto: divulgação/reprodução Reflexo de endireitamento permite que os felinos girem o corpo no ar e ajustem a posição antes de tocar o chão, mas quedas ainda podem causar ferimentos. O post Por que os gatos quase sempre caem de pé? A ciência explica o reflexo que impressiona humanos apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/por-que-os-gatos-quase-sempre-caem-de-pe-a-ciencia-explica-o-reflexo-que-impressiona-humanos/",
       "fonte": "Diário do Pará",
-      "imagem": "",
-      "data": "2026-08-31T11:51:37+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_images_-_2026-08-29T162405_024.jpg",
+      "data": "2026-08-31T12:00:00+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "0d2ec57d59374d5d462d85dd99d225e8",
-      "titulo": "INSS retoma pagamentos de agosto nesta segunda-feira (31); veja quem recebe e o calendário",
-      "descricao": "Reprodução O Instituto Nacional do Seguro Social (INSS) retoma nesta segunda-feira (31) o calendário de pagamentos dos benefícios referentes à folha de agosto. Os pagamentos seguem até 8 de setembro. O post INSS retoma pagamentos de agosto nesta segunda-feira (31); veja quem recebe e o calendário apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/inss-retoma-pagamentos-de-agosto-nesta-segunda-feira-31-veja-quem-recebe-e-o-calendario/",
+      "id": "e2df2387694fc26ff3664ad00b9c071e",
+      "titulo": "Confiança do técnico Júnior Rocha é de dar inveja no Paysandu",
+      "descricao": "únior Rocha prometeu o time bicolor brigando de igual para igual. Foto: Mauro Ângelo/Diário do Pará O técnico Júnior Rocha defende o Paysandu após tropeços e projeta o quadrangular da Série C do Brasileiro, destacando a força do time em momentos decisivos. O post Confiança do técnico Júnior Rocha é de dar inveja no Paysandu apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/confianca-do-tecnico-junior-rocha-e-de-dar-inveja-no-paysandu/",
       "fonte": "Diário do Pará",
-      "imagem": "",
-      "data": "2026-08-31T11:44:09+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_DP20260829_MA_4615.jpg",
+      "data": "2026-08-31T12:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "16ef65c95ab644b3a435bd5794351491",
+      "titulo": "Mãe salva filha de atropelamento e acaba atingida por moto no Pará",
+      "descricao": "Mulher é atropelada por motocicleta em Floresta do Araguaia, no Pará Uma mulher foi atingida por uma motocicleta ao correr para retirar a filha da pista e evitar que a criança fosse atropelada, em Floresta do Araguaia, no sul do Pará. O acidente ocorreu na quarta-feira (26) e foi registrado por uma câmera de segurança. As imagens mostram a menina deixando a calçada e caminhando em direção à avenida. Ao perceber a aproximação da criança da área de circulação dos veículos, a mãe corre para alcançá-la. Durante a tentativa de retirar a filha da pista, a mulher é atingida de frente por uma motocicleta que trafegava pela via. Com o impacto, ela e o motociclista caem no asfalto. A menina consegue se afastar e não é atingida. Pessoas que estavam próximas ao local prestaram ajuda à mãe e ao motociclista após o acidente. Até a última atualização desta reportagem, não havia informações oficiais sobre o estado de saúde dos dois envolvidos. ✅ Clique e siga o canal do g1 Pará no WhatsApp Agora no g1 Leia todas as notícias do g1 Pará no WhatsApp",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/08/30/mae-salva-filha-de-atropelamento-e-acaba-atingida-por-moto-no-para.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/trgUU1V2g7-GBkcu3NPP-At82sY=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/93/17/14911793",
+      "data": "2026-08-30T17:57:15+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c883122eaea97674cad1b377e932bea6",
+      "titulo": "Culinária paraense e memória: escritor lança livro com degustação gratuita na Feira do Livro de Belém",
+      "descricao": "Escritor Lairson Costa lança \"Sabores que Inspiram Histórias de Afetividade\" na Feira Pan-Amazônica do Livro e das Multivozes, em Belém. Divulgação A relação afetiva entre a gastronomia do Pará e as memórias de infância é o tema central do novo livro do escritor e professor paraense Lairson Costa. A obra \"Sabores que Inspiram Histórias de Afetividade\" será lançada neste domingo (30), a partir das 18h, durante a 29ª Feira Pan-Amazônica do Livro e das Multivozes, realizada no Hangar Convenções e Feiras da Amazônia, em Belém. O lançamento ocorre no estande do Instituto Federal do Pará (IFPA), no formato de bate-papo no podcast \"Sabores e Palavras — conversas que inspiram, sabores que conectam\", mediado pelo comunicólogo Mateus Costa. ✅ Receba notícias do g1 Pará direto no WhatsApp Para tornar a experiência ainda mais sensorial, o público que comparecer ao espaço poderá degustar pratos tradicionais citados na obra, como doce de jambo, mingau de milho, cuscuz, tapioca, sorvete de açaí e sucos regionais de cupuaçu e graviola. O evento gratuito também terá leitura dramatizada e pocket show musical. LEIA TAMBÉM: Veja o que fazer em Belém: Renato e Seus Blue Caps, MC Meno K, Festival de Gastronomia e Feira do Livro Feira do livro e das Multivozes é realizada em Belém Memórias de infância e ancestralidade Composto por uma coletânea de crônicas, o livro nasceu da história \"Lembranças do Mingau da Vovó\", inspirada em Maria das Dores, avó do autor, que teve papel fundamental em sua formação. Segundo Lairson, a culinária da Amazônia vai muito além do ato de se alimentar: ela carrega a identidade de um povo. \"Quando pensamos em pratos como tacacá, maniçoba, pato no tucupi ou açaí, estamos diante de muito mais do que alimentos. Encontramos ingredientes do território, técnicas, conhecimentos ancestrais, histórias de migração, encontros culturais e formas próprias de preparar, servir e compartilhar a comida\", explica o escritor. O autor destaca que o preparo de pratos tradicionais, como a maniçoba, envolve saberes transmitidos por gerações, desde a escolha e cozimento da maniva até o momento de reunir a família ao redor da mesa. \"É um prato que carrega ancestralidade, território e identidade paraense\", define. 'Esquenta' na Ilha de Mosqueiro Como preparação para o lançamento na capital, a Ilha de Mosqueiro, distrito de Belém e reduto do autor, recebeu no sábado (29) o evento “II Saberes e Sabores”. A programação ocorre das 19h às 23h, no Solar Ariramba, com foco na valorização da gastronomia mosqueirense e paraense. Coordenado por Lairson Costa e pela gastróloga Cida Coimbra, o encontro contou com apresentações musicais de Magia das Cordas (Cizinho) e da dupla Lú Matos e Nelson (voz e violão), além de karaokê para o público. A ação funcionou como um evento preparatório para a V Festa Literária de Mosqueiro (FLIM), agendada para ocorrer de 17 a 21 de novembro na Praça da Vila. \"A proposta foi que as pessoas não apenas degustem os alimentos, mas vivenciem um momento de encontro e valorização da nossa cultura\", aponta o escritor. Serviço: Lançamento do livro \"Sabores que Inspiram Histórias de Afetividade\" Data: 30 de agosto Horário: das 18h às 20h Local: Estande do IFPA na 29ª Feira Pan-Amazônica do Livro e das Multivozes (Hangar - Av. Dr. Freitas, s/n - Marco, Belém) Entrada gratuita",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/08/30/culinaria-paraense-e-memoria-escritor-lanca-livro-com-degustacao-gratuita-na-feira-do-livro-de-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/-BqEF-vTHzENhzlzrhwbz4sB9HE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/S/UTAAcHRYy7Y7j52BNQGw/whatsapp-image-2026-08-27-at-08.54.17.jpeg",
+      "data": "2026-08-30T16:13:34+00:00",
       "categoria": "PARÁ"
     }
   ]
