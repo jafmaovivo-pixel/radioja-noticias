@@ -1,44 +1,14 @@
 {
-  "atualizado": "2026-08-31T11:02:06.238911+00:00",
+  "atualizado": "2026-08-31T11:32:18.785422+00:00",
   "noticias": [
     {
-      "id": "7654114ebf11730e4736554e9ad874f0",
-      "titulo": "BTG/Nexus: Lula e Flávio seguem empatados no 1º turno; Augusto Cury (Avante) assume 3º lugar",
-      "descricao": "BTG/Nexus: Lula e Flávio seguem empatados no 1º turno; Augusto Cury (Avante) assume 3º lugar",
-      "link": "https://www.oliberal.com/politica/btg-nexus-lula-e-flavio-seguem-empatados-no-1-turno-augusto-cury-avante-assume-3-lugar-1.1163046",
+      "id": "004be968f694a172039e1b23355a4c6f",
+      "titulo": "Com Kikitos na prateleira, Francisco Gaspar celebra trajetória e projeta novos trabalhos",
+      "descricao": "Com Kikitos na prateleira, Francisco Gaspar celebra trajetória e projeta novos trabalhos",
+      "link": "https://www.oliberal.com/cultura/comkikitos-na-prateleira-francisco-gaspar-celebra-trajetoria-e-projeta-novos-trabalhos-1.1162238",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:02:04.226864+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1a1473df39cf1d2123fc0c1edf779682",
-      "titulo": "BTG/Nexus: Flávio Bolsonaro e Lula seguem como mais rejeitados, com 50% e 49%, respectivamente",
-      "descricao": "BTG/Nexus: Flávio Bolsonaro e Lula seguem como mais rejeitados, com 50% e 49%, respectivamente",
-      "link": "https://www.oliberal.com/politica/btg-nexus-flavio-bolsonaro-e-lula-seguem-como-mais-rejeitados-com-50-e-49-respectivamente-1.1163047",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:02:03.942923+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b9ba220e7c550e27a9110b3742490c8f",
-      "titulo": "BTG/Nexus: Para 46%, governo Lula é ruim ou péssimo; 37% consideram ótimo ou bom e 18% regular",
-      "descricao": "BTG/Nexus: Para 46%, governo Lula é ruim ou péssimo; 37% consideram ótimo ou bom e 18% regular",
-      "link": "https://www.oliberal.com/politica/btg-nexus-para-46-governo-lula-e-ruim-ou-pessimo-37-consideram-otimo-ou-bom-e-18-regular-1.1163048",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:02:03.670862+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5f6a203fc79991eb22ab12156c1725da",
-      "titulo": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
-      "descricao": "Atendimento a romeiros nas estradas deve ter 27 pontos de apoio",
-      "link": "https://www.oliberal.com/belem/cirio-2026-atendimento-a-romeiros-nas-estradas-deve-ter-27-pontos-de-apoio-1.1162890",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.871744:1728418406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:02:03.397486+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162249:1787931305/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T11:32:14.843597+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -48,7 +18,7 @@
       "link": "https://www.oliberal.com/politica/emendas-parlamentares-somam-r-47-1-bilhoes-apos-salto-de-315-em-11-anos-aponta-ipea-1.1163039",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:02:03.397327+00:00",
+      "data": "2026-08-31T11:32:14.513429+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -58,27 +28,57 @@
       "link": "https://www.oliberal.com/politica/btg-nexus-lula-tem-46-e-flavio-bolsonaro-45-no-2-turno-seguem-empatados-tecnicamente-1.1163045",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1119952:1778520493/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-08-31T11:02:03.397083+00:00",
+      "data": "2026-08-31T11:32:14.513321+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "28a57c5e81a955efe5f5c90f4ba2ced1",
-      "titulo": "Piso para garis chega ao Senado; veja de quanto será a remuneração e como será a jornada",
-      "descricao": "Proposta já aprovada pela Câmara também prevê aposentadoria especial e benefícios; impacto para os municípios é estimado em R$ 5,9 bilhões por ano. O Senado Federal iniciou a análise do Projeto de Lei 4.146/2020, que propõe um piso salarial de R$ 3.036 para garis, além de jornada de seis horas diárias e adicional de insalubridade. A medida, já aprovada pela Câmara, gera debate sobre o impacto financeiro para os municípios. O post Piso para garis chega ao Senado; veja de quanto será a remuneração e como será a jornada apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/piso-para-garis-chega-ao-senado-veja-de-quanto-sera-a-remuneracao-e-como-sera-a-jornada/",
-      "fonte": "Diário do Pará",
-      "imagem": "",
-      "data": "2026-08-31T11:00:00+00:00",
+      "id": "fdbf1f6b2dae40f1385f9104bdee46e8",
+      "titulo": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
+      "descricao": "Marlon aposta no Mangueirão lotado para o Remo reagir na Série A",
+      "link": "https://www.oliberal.com/esportes/remo/marlon-aposta-no-mangueirao-lotado-para-o-remo-reagir-na-serie-a-1.1162943",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162949:1788115303/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T11:32:14.513156+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "da4d04bf644c23a27f2507297ba3b4a5",
-      "titulo": "“Desisti de continuar tentando”: desabafo de Égua Manu preocupa seguidores e acende alerta sobre saúde mental",
-      "descricao": "Publicações mobilizaram fãs e amigos da influenciadora; caso reforça importância de reconhecer sinais de sofrimento intenso e procurar ajuda imediatamente. A influenciadora paraense Égua Manu, conhecida nas redes sociais, preocupou seguidores e amigos com uma sequência de publicações em tom de forte desânimo, relatando dificuldades financeiras e a decisão de interromper tratamento de saúde. O post “Desisti de continuar tentando”: desabafo de Égua Manu preocupa seguidores e acende alerta sobre saúde mental apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/desisti-de-continuar-tentando-desabafo-de-egua-manu-preocupa-seguidores-e-acende-alerta-sobre-saude-mental/",
+      "id": "186fad79c8de772fb1ef7591f0f90612",
+      "titulo": "Fenômeno Azul esgota setor A e promete Mangueirão lotado contra o Coritiba",
+      "descricao": "Fenômeno Azul esgota setor A e promete Mangueirão lotado contra o Coritiba",
+      "link": "https://www.oliberal.com/esportes/remo/fenomeno-azul-esgota-setor-a-e-promete-mangueirao-lotado-contra-o-coritiba-1.1162956",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.856449:1725065062/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T11:32:14.007794+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8693b6395fef07f2ee9a7e7aedd57c6d",
+      "titulo": "Remo recebe o Coritiba em jogo que pode tirar o Leão do Z4 na Série A",
+      "descricao": "Remo recebe o Coritiba em jogo que pode tirar o Leão do Z4 na Série A",
+      "link": "https://www.oliberal.com/esportes/remo/remo-encara-o-coritiba-no-mangueirao-em-busca-de-reacao-no-brasileirao-1.1162952",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1097155:1773615663/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-08-31T11:32:13.686743+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c0cdebec53e2b201a368c9292d77f2ca",
+      "titulo": "Marcelinho: Promessa no Clube do Remo é “lutar até o fim!”",
+      "descricao": "Lateral Marcelinho promete empenho da equipe para escapar do rebaixamento. Foto: Samara Miranda/Remo Marcelinho, lateral-direito do Remo, fala sobre sua melhor temporada na carreira, a nova posição em campo, as dificuldades do time na Série A e a importância da torcida na luta contra o rebaixamento. O post Marcelinho: Promessa no Clube do Remo é “lutar até o fim!” apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/marcelinho-promessa-no-clube-do-remo-e-lutar-ate-o-fim/",
       "fonte": "Diário do Pará",
       "imagem": "",
-      "data": "2026-08-31T11:00:00+00:00",
+      "data": "2026-08-31T11:30:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8d080cf2ed6100d70494f892402d1d9f",
+      "titulo": "Garis podem ganhar R$ 3.036 por mês com jornada de 6 horas; entenda",
+      "descricao": "Proposta já aprovada pela Câmara também prevê aposentadoria especial e benefícios; impacto para os municípios é estimado em R$ 5,9 bilhões por ano. O Senado Federal iniciou a análise do Projeto de Lei 4.146/2020, que propõe um piso salarial de R$ 3.036 para garis, além de jornada de seis horas diárias e adicional de insalubridade. A medida, já aprovada pela Câmara, gera debate sobre o impacto financeiro para os municípios. O post Garis podem ganhar R$ 3.036 por mês com jornada de 6 horas; entenda apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/concursos-e-empregos/piso-para-garis-chega-ao-senado-veja-de-quanto-sera-a-remuneracao-e-como-sera-a-jornada/",
+      "fonte": "Diário do Pará",
+      "imagem": "",
+      "data": "2026-08-31T11:26:00+00:00",
       "categoria": "PARÁ"
     }
   ]
