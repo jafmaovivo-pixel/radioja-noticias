@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-01T14:03:22.092073+00:00",
+  "atualizado": "2026-09-01T14:36:47.057446+00:00",
   "noticias": [
     {
       "id": "532f21c4160f6fd793856f257dfb40c2",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/belem/apos-desabamento-de-piso-em-aniversario-de-15-anos-adolescente-ganha-nova-festa-em-belem-1.1158819",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1158821:1787154036/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T14:03:19.450602+00:00",
+      "data": "2026-09-01T14:36:45.689533+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/para/ponte-do-rio-maguari-em-ananindeua-e-reconstruida-e-transito-sera-liberado-em-ate-40-dias-1.1161596",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.867742:1727725325/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T14:03:19.450419+00:00",
+      "data": "2026-09-01T14:36:45.689398+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/para/ponte-do-trapiche-do-mercado-do-peixe-desaba-e-atinge-embarcacoes-em-abaetetuba-1.1163527",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163528:1788265877/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T14:03:19.450249+00:00",
+      "data": "2026-09-01T14:36:45.689231+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4692b02cced6612e030f01a8c8a1fdb3",
+      "titulo": "Projeto Nosso Patrimônio promove educação e história em Belém com maquetes",
+      "descricao": "Foto: Antonio Melo O projeto Nosso Patrimônio, em Belém, iniciou uma nova etapa de sua ação educativa, reunindo estudantes para a construção de maquetes de edificações históricas e valorização da memória da capital paraense. O post Projeto Nosso Patrimônio promove educação e história em Belém com maquetes apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/projeto-nosso-patrimonio-promove-educacao-e-historia-em-belem-com-maquetes/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_DP20260828_AM_553.jpg",
+      "data": "2026-09-01T14:30:34+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1184cdcb64756ebbf598ecdb6f4cf0bf",
+      "titulo": "Marcinho faz mea-culpa no Paysandu e dispara: “Nesses seis jogos é matar ou morrer”",
+      "descricao": "Marcinho reconhece má fase no Paysandu antes das seis decisões pelo acesso - Foto: Jorge Luis Totti/PSC O meio-campista Marcinho, do Paysandu, fez uma mea-culpa sincera sobre suas atuações recentes, admitindo que não conseguiu desenvolver todo o seu potencial em campo. Ele prometeu trabalhar duro para o mata-mata da Série B. O post Marcinho faz mea-culpa no Paysandu e dispara: “Nesses seis jogos é matar ou morrer” apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/marcinho-faz-mea-culpa-no-paysandu-e-dispara-nesses-seis-jogos-e-matar-ou-morrer/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/05/psc-8.jpg",
+      "data": "2026-09-01T14:17:25+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,16 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "0311a786e016877e190e0cfb1774f08b",
-      "titulo": "Padre paraense é apontado como “reforço’ do Coxa após vitória contra o Remo",
-      "descricao": "O padre paraense Alberto Mendes se encontrou com os jogadores do Coxa antes da partida que carimbou a derrota do Remo. O padre paraense Alberto Mendes se encontrou com os jogadores do Coxa antes da partida que carimbou a derrota do Remo. O post Padre paraense é apontado como “reforço’ do Coxa após vitória contra o Remo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/padre-paraense-e-apontado-como-reforco-do-coxa-apos-vitoria-contra-o-remo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_791738073_18057564992790411_376956885289645289_n.jpg",
-      "data": "2026-09-01T13:55:26+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "7167c9dda32d6102034ff42c99c97eda",
       "titulo": "Concurso da Seduc abre 2 mil vagas com salários de até R$ 6.590,47 no Pará",
       "descricao": "Seduc anuncia banca para concurso com 2 mil vagas em Belém Estão abertas as inscrições para o concurso público da Secretaria de Estado de Educação do Pará (Seduc) que vai preencher 2 mil vagas imediatas, além de formar cadastro de reserva, para cargos de diferentes escolaridades. A seleção é voltada para professores, especialistas em educação e profissionais que poderão ocupar o quadro administrativo da pasta. A banca responsável pela organização do concurso é a Fundação Getúlio Vargas (FGV). O maior salário oferecido é o de especialista em educação, de R$ 6.590,47. Os cargos de analista da área administrativa e pedagógica pagam R$ 5.907,63, enquanto os de professor classe I têm remuneração de R$ 4.393,64 (com exceção das especialidades de educação especial, que chegam a R$ 5.614,10 já com a gratificação de magistério inclusa). Já o cargo de assistente de gestão governamental e educacional, de nível médio, oferece R$ 1.864,29. As inscrições são feitas exclusivamente pela internet, no site da banca, até as 16h do dia 1º de outubro. Para validar a candidatura, é preciso pagar taxa de inscrição de R$ 85 para cargos de nível médio, R$ 135 para o nível superior da área administrativa e R$ 185 para professor e especialista. 📄 VEJA O EDITAL AQUI Secretaria de Estado de Educação do Pará (Seduc). Agência Pará A prova objetiva, com 60 questões de múltipla escolha, está marcada para o dia 29 de novembro. Dependendo do cargo, os candidatos ainda passam por outras etapas: prova discursiva, prova prática (defesa de plano de aula ou de gestão pedagógica) e avaliação de títulos, que concede pontos extras para especializações, mestrados e doutorados. Dúvidas sobre o concurso podem ser esclarecidas pelo telefone 0800 283 4628 ou pelo e-mail concurso.seducpa26@fgv.br. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/OLrFIwICeY3doCE5cB6fGYQDlGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/g/52fpbEQgCEBvDLCBhACQ/geral-g1-2026-09-01t104005.273.png",
       "data": "2026-09-01T13:42:31+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "191635ed65a0254d80bde177a9fa1d3f",
-      "titulo": "“Me excedi”, disse corintiano que matou esposa palmeirense; ele é condenado a 13 anos de prisão",
-      "descricao": "Leonardo era torcedor do Corinthians, enquanto Érica torcia pelo Palmeiras. O crime aconteceu após uma discussão relacionada ao futebol. Leonardo Souza Ceschini foi sentenciado pelo Tribunal do Júri de São Paulo pela morte da esposa, Érica Fernandes Alves Ceschini. O crime, que ocorreu em 2021, foi presenciado pelos filhos do casal. O post “Me excedi”, disse corintiano que matou esposa palmeirense; ele é condenado a 13 anos de prisão apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/me-excedi-disse-corintiano-que-matou-esposa-palmeirense-ele-e-condenado-a-13-anos-de-prisao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_casam.jpg",
-      "data": "2026-09-01T13:28:57+00:00",
       "categoria": "PARÁ"
     },
     {
