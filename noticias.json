@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-01T15:52:03.415124+00:00",
+  "atualizado": "2026-09-01T16:33:20.568143+00:00",
   "noticias": [
     {
       "id": "532f21c4160f6fd793856f257dfb40c2",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/belem/apos-desabamento-de-piso-em-aniversario-de-15-anos-adolescente-ganha-nova-festa-em-belem-1.1158819",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1158821:1787154036/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T15:52:01.785478+00:00",
+      "data": "2026-09-01T16:33:17.736852+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/para/ponte-do-rio-maguari-em-ananindeua-e-reconstruida-e-transito-sera-liberado-em-ate-40-dias-1.1161596",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.867742:1727725325/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T15:52:01.785307+00:00",
+      "data": "2026-09-01T16:33:17.736757+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/para/ponte-do-trapiche-do-mercado-do-peixe-desaba-e-atinge-embarcacoes-em-abaetetuba-1.1163527",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163528:1788265877/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T15:52:01.785118+00:00",
+      "data": "2026-09-01T16:33:17.736599+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "61ae08b6c8ab2891844651b8e6e5c8da",
+      "titulo": "Fies 2026: MEC realiza nova convocação da lista de espera; veja como acompanhar e prazos",
+      "descricao": "MEC ofertou 75,5 mil vagas em instituições privadas para o segundo semestre de 2026. Candidatos não selecionados na chamada regular do segundo semestre têm até 24 de setembro para serem convocados. O post Fies 2026: MEC realiza nova convocação da lista de espera; veja como acompanhar e prazos apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/fies-2026-mec-realiza-nova-convocacao-da-lista-de-espera-veja-como-acompanhar-e-prazos/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/fies3-1.jpg",
+      "data": "2026-09-01T16:08:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "07c05fff2f8a851c55371d1879a90258",
+      "titulo": "Frentista bebe cerveja no almoço, pega justa causa e Justiça manda indenizar; entenda",
+      "descricao": "Tribunal concluiu que consumo isolado de uma cerveja durante o intervalo, sem prova de embriaguez ou risco à segurança, não justificava punição máxima. A Justiça do Trabalho reverteu a demissão por justa causa de um frentista que consumiu cerveja durante o intervalo de refeição. A decisão do TRT-GO transformou a penalidade em dispensa sem justa causa e manteve indenização de R$ 5 mil por danos morais. O post Frentista bebe cerveja no almoço, pega justa causa e Justiça manda indenizar; entenda apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/frentista-bebe-cerveja-no-almoco-pega-justa-causa-e-justica-manda-indenizar-entenda/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/frentistabebe.png",
+      "data": "2026-09-01T16:01:00+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,33 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "26b4177cad8105b156b825d1be1dc4bd",
-      "titulo": "Golpe do amor no Pará: falso médico leva R$ 641 mil de mulher e acaba preso",
-      "descricao": "Falso médico usa romance para arrancar R$ 641 mil de mulher no Pará Um homem foi preso no Paraná acusado de aplicar o “golpe do amor” contra uma mulher no Pará, causando prejuízo de mais de R$ 641 mil. A investigação aponta que ele pode ter feito outras vítimas em diferentes estados. O post Golpe do amor no Pará: falso médico leva R$ 641 mil de mulher e acaba preso apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/golpe-do-amor-no-para-falso-medico-leva-r-641-mil-de-mulher-e-acaba-preso/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/casal-de-costas-usando-celular-aplicativo-encontros-tinder.jpg",
-      "data": "2026-09-01T15:29:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "083df89a32a499cef18eaf6786eecd66",
       "titulo": "Projeto abre vagas gratuitas em empreendedorismo digital no Pará",
-      "descricao": "Projeto abre vagas gratuitas em empreendedorismo digital para jovens e adultos no Pará Divulgação O projeto Jovens Empreendedores Digitais está com vagas abertas para novas turmas no Pará. A iniciativa oferece formação 100% gratuita para jovens e adultos de 16 a 59 anos, com o objetivo de ampliar oportunidades de geração de renda, fortalecer o empreendedorismo e estimular o uso de ferramentas digitais nos negócios. ✍️ Segundo a organização, há vagas em diversos municípios paraenses, o que permite o acesso de moradores de diferentes regiões do estado à capacitação. A proposta é oferecer conhecimentos práticos para quem já possui um negócio e também para pessoas que desejam começar a empreender. Durante a formação, os participantes terão contato com conteúdos sobre empreendedorismo, marketing, vendas, comunicação e uso de ferramentas digitais. Segundo o projeto, os recursos podem ajudar na divulgação de produtos e serviços e no desenvolvimento de estratégias comerciais. A iniciativa também busca incentivar a autonomia financeira e a inclusão produtiva, além de valorizar a economia solidária e as possibilidades de geração de renda a partir das atividades desenvolvidas ao longo do curso. O projeto atende pessoas de 16 a 59 anos, incluindo jovens em início de trajetória profissional e adultos que querem desenvolver uma nova atividade ou aprimorar um empreendimento. ✅ Siga o canal do g1 Pará no WhatsApp Entre os municípios participantes desta fase estão Paragominas, Rondon do Pará, Ulianópolis, Dom Eliseu, Marabá, Itupiranga, Parauapebas, Canaã dos Carajás, Xinguara, Tucumã, São Félix do Xingu, Conceição do Araguaia, Redenção, Tucuruí, Jacundá, Breu Branco, Novo Repartimento, Pacajá, Uruará, Altamira, Itaituba, Santarém, Alenquer, Oriximiná, Monte Alegre, Óbidos, Juruti e Terra Santa. Segundo a organização, os demais municípios do estado também poderão participar do curso de forma 100% online. Os participantes terão acesso ao conteúdo pela plataforma online Homero, onde poderão estudar de acordo com a própria disponibilidade. Além das aulas, a formação terá mentorias coletivas e individuais, orientações semanais, um tutor virtual com inteligência artificial disponível 24 horas por dia e dois encontros presenciais ao longo do curso. As inscrições devem ser feitas pela internet. A participação é gratuita, sem cobrança de matrícula ou mensalidade. O início das aulas está previsto para os dias 10 e 15 de setembro, de acordo com cada município. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
+      "descricao": "Projeto abre vagas gratuitas em empreendedorismo digital para jovens e adultos no Pará Divulgação O projeto Jovens Empreendedores Digitais está com vagas abertas para novas turmas no Pará. A iniciativa oferece formação 100% gratuita para jovens e adultos de 16 a 59 anos, com o objetivo de ampliar oportunidades de geração de renda, fortalecer o empreendedorismo e estimular o uso de ferramentas digitais nos negócios. ✍️ As inscrições devem ser feitas pela internet. Segundo a organização, há vagas em diversos municípios paraenses, o que permite o acesso de moradores de diferentes regiões do estado à capacitação. O projeto atende pessoas de 16 a 59 anos, incluindo jovens em início de trajetória profissional e adultos que querem desenvolver uma nova atividade ou aprimorar um empreendimento. A participação é gratuita, sem cobrança de matrícula ou mensalidade. O início das aulas está previsto para os dias 10 e 15 de setembro, de acordo com cada município. ✅ Siga o canal do g1 Pará no WhatsApp Formação A proposta é oferecer conhecimentos práticos para quem já possui um negócio e também para pessoas que desejam começar a empreender. Durante a formação, os participantes terão contato com conteúdos sobre empreendedorismo, marketing, vendas, comunicação e uso de ferramentas digitais. Segundo o projeto, os recursos podem ajudar na divulgação de produtos e serviços e no desenvolvimento de estratégias comerciais. A iniciativa também busca incentivar a autonomia financeira e a inclusão produtiva, além de valorizar a economia solidária e as possibilidades de geração de renda a partir das atividades desenvolvidas ao longo do curso. Cidades Entre os municípios participantes desta fase estão: Paragominas Rondon do Pará Ulianópolis Dom Eliseu Marabá Itupiranga Parauapebas Canaã dos Carajás Xinguara Tucumã São Félix do Xingu Conceição do Araguaia Redenção Tucuruí Jacundá Breu Branco Novo Repartimento Pacajá Uruará Altamira Itaituba Santarém Alenquer Oriximiná Monte Alegre Óbidos Juruti e Terra Santa. Segundo a organização, os demais municípios do estado também poderão participar do curso de forma 100% online. Além das aulas, a formação terá mentorias coletivas e individuais, orientações semanais, um tutor virtual com inteligência artificial disponível 24 horas por dia e dois encontros presenciais ao longo do curso. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
       "link": "https://g1.globo.com/pa/para/noticia/2026/09/01/projeto-abre-vagas-gratuitas-em-empreendedorismo-digital-no-para.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/hDSATH86f4pUoAFMrXBOJ8zDO8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/N/D/JpuziAQ6GhENBNyPqaZg/credito-nappy.jpg",
       "data": "2026-09-01T15:05:09+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d52453560043ad01faf758ca9b189f51",
-      "titulo": "Cíntia Chagas confirma namoro com Rubens Barrichello após viagem à Itália",
-      "descricao": "Cíntia Chagas confirma namoro com Rubens Barrichello A influenciadora Cíntia Chagas e o ex-piloto Rubens Barrichello confirmaram o namoro. Os rumores surgiram após uma viagem à Itália e foram confirmados pela professora de português. O post Cíntia Chagas confirma namoro com Rubens Barrichello após viagem à Itália apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/tdb/cintia-chagas-confirma-namoro-com-rubens-barrichello-apos-viagem-a-italia/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_788153448_18622967284042593_4805293760170653639_n.jpg",
-      "data": "2026-09-01T14:49:59+00:00",
       "categoria": "PARÁ"
     },
     {
