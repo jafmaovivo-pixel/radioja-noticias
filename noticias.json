@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-01T17:33:23.816013+00:00",
+  "atualizado": "2026-09-01T18:04:00.791830+00:00",
   "noticias": [
+    {
+      "id": "eb46d95cf373de77ffcebd8248c05d22",
+      "titulo": "Caso Giovanna: primo diz que laudo comprova suspeitas da família sobre morte após cirurgia",
+      "descricao": "Caso Giovanna: primo diz que laudo comprova suspeitas da família sobre morte após cirurgia",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-primo-diz-que-laudo-comprova-suspeitas-da-familia-sobre-morte-apos-cirurgia-1.1163468",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163473:1788225814/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-01T18:03:57.033645+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f6dcb7424bedc8010ff67324e4644561",
+      "titulo": "Caso Giovanna: ‘Sonho que virou pesadelo’, diz primo após laudo apontar causa da morte",
+      "descricao": "Caso Giovanna: ‘Sonho que virou pesadelo’, diz primo após laudo apontar causa da morte",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-sonho-que-virou-pesadelo-diz-primo-apos-laudo-apontar-causa-da-morte-1.1163479",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163481:1788227116/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-01T18:03:56.671691+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5dfef093a3ff1f68d3c2418bf0e9e4b5",
+      "titulo": "Caso Giovanna: investigação deve ser concluída nesta semana, diz advogado",
+      "descricao": "Caso Giovanna: investigação deve ser concluída nesta semana, diz advogado",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-investigacao-sobre-a-morte-da-jovem-deve-ser-concluida-nesta-semana-diz-advogado-1.1163671",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163481:1788227116/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-01T18:03:56.122687+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "02ca54a3c8f5d36c44ed00c87cb6d1de",
+      "titulo": "Belém é cidade-pêndulo e pode definir eleições de 2026; entenda!",
+      "descricao": "Eleições 2026: eleitor do Pará deve consultar local de votação antes de ir às urnas Estudo do INCT ReDem, da UFPR, revela que Belém e outros 34 municípios paraenses são \"cidades-pêndulo\", com eleitorado volátil capaz de mudar o cenário político em disputas presidenciais. O post Belém é cidade-pêndulo e pode definir eleições de 2026; entenda! apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/belem-e-cidade-pendulo-e-pode-definir-eleicoes-de-2026-entenda/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_images_-_2026-08-19T202605_507.jpg",
+      "data": "2026-09-01T18:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "61ee8f53e6512f94383789350b5971b6",
+      "titulo": "Motéis mudam e passam a oferecer suítes para três ou mais pessoas no Brasil",
+      "descricao": "Motéis mudam e passam a oferecer suítes para três ou mais pessoas no Brasil Setor de motéis no Brasil passa por transformação para atrair público que busca experiências personalizadas, incluindo práticas como ménage e swing. Novas suítes oferecem piscina, churrasqueira e pole dance. O post Motéis mudam e passam a oferecer suítes para três ou mais pessoas no Brasil apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/moteis-mudam-e-passam-a-oferecer-suites-para-tres-ou-mais-pessoas-no-brasil/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Trisal-o-que-e-e-como-funciona-o-sexo-em-uma-relacao-a-3-capa-1200x609_jpg.jpg",
+      "data": "2026-09-01T17:56:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "973599946859d005610506a91647158f",
       "titulo": "Golpe da dívida ativa: mensagem no WhatsApp cobra taxa via PIX; veja como identificar",
@@ -9,26 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1087403:1771589512/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-01T17:33:21.218623+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6d99bccf7e33257fa8a3e21c74e72020",
-      "titulo": "Cresce o número de idosos que usam a internet para operações bancárias; veja cuidados",
-      "descricao": "Cresce o número de idosos que usam a internet para operações bancárias; veja cuidados",
-      "link": "https://www.oliberal.com/economia/tecnologia-facilita-rotina-bancaria-de-pessoas-com-60-anos-ou-mais-1.1163550",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163574:1788271934/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T17:33:20.852516+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f3bb30593eb6c64c372107c5199428de",
-      "titulo": "Pix tem nova regra para combater golpes; veja o que muda na prática",
-      "descricao": "Pix tem nova regra para combater golpes; veja o que muda na prática",
-      "link": "https://www.oliberal.com/economia/pix-tem-nova-regra-para-combater-golpes-veja-o-que-muda-na-pratica-1.1163575",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.994144:1788273895/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T17:33:20.362394+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,36 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/z-uQekVrOtOiLfknhePQ5j0Y5Yw=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/66/81/14418166",
       "data": "2026-09-01T17:09:28+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "532f21c4160f6fd793856f257dfb40c2",
-      "titulo": "Após desabamento de piso em aniversário de 15 anos, adolescente ganha nova festa em Belém",
-      "descricao": "Após desabamento de piso em aniversário de 15 anos, adolescente ganha nova festa em Belém",
-      "link": "https://www.oliberal.com/belem/apos-desabamento-de-piso-em-aniversario-de-15-anos-adolescente-ganha-nova-festa-em-belem-1.1158819",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1158821:1787154036/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T17:03:39.934519+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4fd3eca022a32eb1a4677f8c449185ca",
-      "titulo": "Alerta no Remo: chances de rebaixamento pioram após derrota em Belém",
-      "descricao": "Remo recebe péssima notícia sobre chances de rebaixamento Foto: Oswaldo Forte O Remo enfrenta um risco de rebaixamento de 70% no Campeonato Brasileiro, sendo o segundo time com maior probabilidade de queda. A equipe paraense soma 23 pontos em 25 jogos e busca reação. O post Alerta no Remo: chances de rebaixamento pioram após derrota em Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/alerta-no-remo-chances-de-rebaixamento-pioram-apos-derrota-em-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/IMG-20260831-WA0046.webp",
-      "data": "2026-09-01T17:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "799c8f44b711aea3d81df4167fc58e7a",
-      "titulo": "Al-Hilal x Al-Ahli: onde assistir ao vivo, horário e canais",
-      "descricao": "Reprodução Equipes se enfrentam pelo Campeonato Saudita nesta terça-feira (1º); partida terá transmissão gratuita pela internet O post Al-Hilal x Al-Ahli: onde assistir ao vivo, horário e canais apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/al-hilal-x-al-ahli-onde-assistir-ao-vivo-horario-e-canais/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_sau.jpg",
-      "data": "2026-09-01T17:00:00+00:00",
       "categoria": "PARÁ"
     }
   ]
