@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-01T01:33:49.626765+00:00",
+  "atualizado": "2026-09-01T02:02:41.035040+00:00",
   "noticias": [
+    {
+      "id": "8b5bad960833f964d73a44d05d6160e7",
+      "titulo": "Caso Giovanna: Laudo revela morte de jovem por choque hemorrágico com sangramento",
+      "descricao": "Caso Giovanna: Laudo revela morte de jovem por choque hemorrágico com sangramento",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-laudo-revela-morte-de-jovem-por-choque-hemorragico-com-sangramento-1.1163376",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163382:1788219423/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-01T02:02:38.846776+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b02ac9ad1c9329b414e22b4a19f0bc8a",
+      "titulo": "'Sonho virou pesadelo’, diz primo após causa da morte ser confirmada",
+      "descricao": "'Sonho virou pesadelo’, diz primo após causa da morte ser confirmada",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-sonho-que-virou-pesadelo-diz-primo-apos-laudo-apontar-causa-da-morte-1.1163479",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163481:1788227116/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-01T02:02:38.846608+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4ae4f292d854c17e5028adf6afb34eb2",
+      "titulo": "Pedro Rocha aplica a 'lei do ex', vira para o Coritiba e Remo fica no Z4",
+      "descricao": "Pedro Rocha aplica a 'lei do ex', vira para o Coritiba e Remo fica no Z4",
+      "link": "https://www.oliberal.com/esportes/remo/pedro-rocha-aplica-a-lei-do-ex-vira-para-o-coritiba-e-mantem-o-remo-no-z4-1.1163338",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163459:1788224461/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-01T02:02:38.655029+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0666381f37f8a9ee41369c66dc6267ca",
+      "titulo": "Pressão aumenta no Remo, e Léo Condé manda recado sobre futuro: ‘Futebol não tem justiça’",
+      "descricao": "Léo Condé vê domínio do Remo, mas lamenta falta de eficácia Foto: Oswaldo Forte Após derrota para o Coritiba, Léo Condé defendeu o desempenho do Remo e afirmou ter convicção no trabalho. O time segue na zona de rebaixamento do Campeonato Brasileiro. O post Pressão aumenta no Remo, e Léo Condé manda recado sobre futuro: ‘Futebol não tem justiça’ apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/pressao-aumenta-no-remo-e-leo-conde-manda-recado-sobre-futuro-futebol-nao-tem-justica/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/IMG-20260831-WA0058.jpg",
+      "data": "2026-09-01T01:46:02+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "e4be4d34c9c6f516ada0a4649aecf9df",
       "titulo": "Caso Giovanna: família analisa prontuário médico e cita negligência de André Melo e mais 2 médicos",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "3549920a64a9800b03ae4cee0186cdeb",
-      "titulo": "Laudo mostra morte por choque hemorrágico com sangramento",
-      "descricao": "Laudo mostra morte por choque hemorrágico com sangramento",
-      "link": "https://www.oliberal.com/policia/caso-giovanna-laudo-revela-morte-de-jovem-por-choque-hemorragico-com-sangramento-1.1163376",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163382:1788219423/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T01:33:48.092113+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4ae4f292d854c17e5028adf6afb34eb2",
-      "titulo": "Pedro Rocha aplica a 'lei do ex', vira para o Coritiba e Remo fica no Z4",
-      "descricao": "Pedro Rocha aplica a 'lei do ex', vira para o Coritiba e Remo fica no Z4",
-      "link": "https://www.oliberal.com/esportes/remo/pedro-rocha-aplica-a-lei-do-ex-vira-para-o-coritiba-e-mantem-o-remo-no-z4-1.1163338",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163459:1788224461/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-01T01:33:48.091845+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "711b6840b07894562ba3cf1eb09ce796",
       "titulo": "O que matou Giovanna Coelho? Laudo do IML revela causa da morte após cirurgia plástica",
       "descricao": "Giovanna Coelho morreu aos 29 anos após cirurgia em Belém - Foto reprodução/ redes sociais Documento oficial aponta choque hemorrágico associado à síndrome compartimental abdominal após hemorragia pós-operatória em cirurgia plástica O post O que matou Giovanna Coelho? Laudo do IML revela causa da morte após cirurgia plástica apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/Design-sem-nome-3-1.png",
       "data": "2026-09-01T01:09:11+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "875ae93d6fac2dda5192a5283c74f22f",
-      "titulo": "Coritiba marca mais um e complica para o Clube do Remo; acompanhe",
-      "descricao": "Coritiba marca mais um e complica para o Clube do Remo; acompanhe",
-      "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/remo-x-coritiba-pr",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
-      "data": "2026-09-01T01:03:29.483480+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bf59ff07fb42ffae2f750cdcce24b366",
-      "titulo": "Remo perde jogo que tinha nas mãos, se afunda no Z4 e Léo Condé deve ser demitido",
-      "descricao": "Remo desperdiça vitória dentro de casa e continua afundado no Z4 Foto: Oswaldo Forte O Remo sofreu uma virada dolorosa para o Coritiba por 3 a 2 no Mangueirão, pela Série A do Campeonato Brasileiro. A derrota complica a situação do Leão na luta contra o rebaixamento, mantendo o time na 19ª posição. O post Remo perde jogo que tinha nas mãos, se afunda no Z4 e Léo Condé deve ser demitido apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/remo-perde-jogo-que-tinha-nas-maos-se-afunda-no-z4-e-leo-conde-deve-ser-demitido/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/IMG-20260831-WA0050.jpg",
-      "data": "2026-09-01T00:59:53+00:00",
       "categoria": "PARÁ"
     },
     {
