@@ -1,16 +1,6 @@
 {
-  "atualizado": "2026-09-02T14:36:27.770747+00:00",
+  "atualizado": "2026-09-02T15:38:50.960751+00:00",
   "noticias": [
-    {
-      "id": "a55e31b193eec218a615b3b5bec9f934",
-      "titulo": "Caiado diz acreditar que impeachment de Moraes terá de ser iniciado",
-      "descricao": "Caiado diz acreditar que impeachment de Moraes terá de ser iniciado",
-      "link": "https://www.oliberal.com/politica/caiado-diz-acreditar-que-impeachment-de-moraes-tera-de-ser-iniciado-1.1163970",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.137840:1780258250/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T14:36:26.297356+00:00",
-      "categoria": "PARÁ"
-    },
     {
       "id": "2f13242019ff6b8ae8007cea9a062ee8",
       "titulo": "Reunião com Vorcaro foi sobre ação que debatia precatórios de interesse do Master, diz Mendonça",
@@ -18,7 +8,17 @@
       "link": "https://www.oliberal.com/politica/reuniao-com-vorcaro-foi-sobre-acao-que-debatia-precatorios-de-interesse-do-master-diz-mendonca-1.1163966",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113182:1788353684/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T14:36:25.941952+00:00",
+      "data": "2026-09-02T15:38:49.480979+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "90bea0d76641ff516faee4351d424572",
+      "titulo": "Tarcísio diz que caso Master não afeta Flávio 'se não aparecer fato novo'",
+      "descricao": "Tarcísio diz que caso Master não afeta Flávio 'se não aparecer fato novo'",
+      "link": "https://www.oliberal.com/politica/tarcisio-diz-que-caso-master-nao-afeta-flavio-se-nao-aparecer-fato-novo-1.1164022",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.990595:1752260440/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-02T15:38:49.480756+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,57 +28,57 @@
       "link": "https://www.oliberal.com/politica/cargo-nao-confere-privilegio-mas-impoe-limite-diz-fachin-apos-relatorio-da-pf-sobre-moraes-1.1163984",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1076354:1769452664/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T14:36:25.588394+00:00",
+      "data": "2026-09-02T15:38:49.184853+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "73adb6ba90468f64fab86ac03b65d6bd",
-      "titulo": "Anvisa aprova Yluméc, nova caneta nacional de semaglutida contra diabetes tipo 2",
-      "descricao": "Medicamento similar ao Ozivy terá quatro opções de dosagem; preço e data de chegada às farmácias ainda não foram definidos. A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou o Yluméc, nova caneta injetável da farmacêutica brasileira EMS para o tratamento de adultos com diabetes mellitus tipo 2. O medicamento é uma versão nacional da semaglutida. O post Anvisa aprova Yluméc, nova caneta nacional de semaglutida contra diabetes tipo 2 apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/anvisa-aprova-ylumec-nova-caneta-nacional-de-semaglutida-contra-diabetes-tipo-2/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Ylumec.jpg",
-      "data": "2026-09-02T14:22:28+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "355a822122ae757f035a01b81f51b350",
-      "titulo": "Leilão no Pará oferece mansão de R$ 3,6 milhões no Lago Azul e apartamento em Nazaré",
-      "descricao": "Um lote da Norte Leilões oferta uma mansão de luxo no condomínio Lago Azul, na BR-316, em Ananindeua, avaliado em R$ 3,6 milhões. Um lote da Norte Leilões oferta uma mansão de luxo no condomínio Lago Azul, na BR-316, em Ananindeua, avaliado em R$ 3,6 milhões. O post Leilão no Pará oferece mansão de R$ 3,6 milhões no Lago Azul e apartamento em Nazaré apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/leilao-no-para-oferece-mansao-de-r-36-milhoes-no-lago-azul-e-apartamento-em-nazare/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_unnamed_1-3.jpg",
-      "data": "2026-09-02T14:19:31+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f13b6f8dfc5d425b23e22927b8b695e2",
-      "titulo": "Motorista é preso suspeito de usar placa clonada para fugir de pedágio na BR-163, em Itaituba",
-      "descricao": "Motorista é preso com placas clonadas escondidas em caminhão na BR-163, em Itaituba PRF Um motorista de 65 anos foi preso em flagrante por adulteração de sinal identificador de veículo na madrugada desta quarta-feira (2), no km 674 da BR-163, em Itaituba, no sudoeste do Pará. Segundo a Polícia Rodoviária Federal (PRF), os agentes receberam informações de que uma combinação de veículos de carga havia passado pela praça de pedágio do km 636 utilizando uma placa clonada e sem realizar o pagamento. Durante as buscas pela rodovia, os policiais localizaram e abordaram o caminhão. Na inspeção da cabine, foram encontradas duas placas escondidas. Uma delas, de acordo com a PRF, era a mesma utilizada minutos antes para passar pelo pedágio. ✅ Clique e siga o canal d g1 Pará no WhatsApp A polícia informou ainda que o proprietário verdadeiro da placa já havia registrado uma ocorrência relatando que era vítima de clonagem na região. Questionado pelos agentes, o motorista confessou que fazia a troca das placas para evitar a cobrança do pedágio e escapar da fiscalização. O homem foi preso e levado para a Seccional de Polícia Civil de Itaituba, onde o caso foi apresentado para os procedimentos cabíveis. Agora no g1 Leia todas as notícias do estado no g1 Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/02/motorista-e-preso-suspeito-de-usar-placa-clonada-para-fugir-de-pedagio-na-br-163-em-itaituba.ghtml",
+      "id": "b483c523af731da6af497837116385fc",
+      "titulo": "Polícia investiga agressões entre profissional da saúde e acompanhante de paciente em pronto-socorro de Belém",
+      "descricao": "Confusão e agressões é registrada em pronto-socorro de Belém A Polícia Civil (PC) investiga um caso envolvendo confusão e agressões entre uma profissional da saúde e uma acompanhante de paciente no Pronto-Socorro Dr. Roberto Macedo (PSRM), na avenida Augusto Montenegro, em Belém. A Secretaria de Estado de Saúde Pública do Pará (Sespa) confirmou o episódio nesta terça-feira (2). Vídeos que circulam nas redes sociais mostram quando a briga começou. A acompanhante de uma paciente se aproximou da profissional de saúde e avançou de forma agressiva. A funcionária puxou um objeto e golpeou a mulher. Ambas se agrediram, e outras pessoas precisaram intervir na confusão. As imagens registraram o momento de tumulto na recepção da unidade, com gritaria e xingamentos, o que assustou pacientes e outros profissionais. Mulheres se agrediram em pronto-socorro em Belém. Reprodução / Redes sociais ✅ Siga o canal do g1 Pará no WhatsApp A Sespa detalhou, em nota, que a acompanhante de paciente não concordou em aguardar o atendimento do hospital e que, após a briga, ela foi encaminhada para os procedimentos legais. A paciente foi atendida e recebeu alta após a assistência necessária, segundo o órgão. Ainda de acordo com a secretaria, a profissional agredida está recebendo assistência. As circunstâncias do episódio ainda devem ser esclarecidas pelas autoridades e pela administração da unidade. O caso está em investigação pela Polícia Civil (PC). VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/02/policia-investiga-agressoes-entre-profissional-da-saude-e-acompanhante-de-paciente-em-pronto-socorro-de-belem.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/4XI7vNCGVRRQhIRHHZaC7-w-1LE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/m/dFv8agTgak3ulPBPtRHw/whatsapp-image-2026-09-02-at-10.20.33.jpeg",
-      "data": "2026-09-02T14:08:40+00:00",
+      "imagem": "https://s2-g1.glbimg.com/UC08g9RxLYvnYr1Yuy0jhyLYTNo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/0/KfAXudSO6xBOz72C83Pw/geral-g1-2026-09-02t111613.144.png",
+      "data": "2026-09-02T15:20:37+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "4c9ba86bf62219235a1e0483b61cc39c",
-      "titulo": "Pará é um dos estados mais lembrados para comer bem no Norte, mas é um dos mais subestimados do país",
-      "descricao": "Pará é um dos estados mais lembrados para comer bem no Norte, mas é um dos mais subestimados do país",
-      "link": "https://www.oliberal.com/economia/para-e-um-dos-estados-mais-lembrados-para-comer-bem-no-norte-mas-e-um-dos-mais-subestimados-do-pais-1.1161351",
+      "id": "2eb7ad4b0a1a1db1a9ac6987566a5240",
+      "titulo": "Padres sao afastados por violarem ‘Disciplina moral’ no Maranhão; entenda",
+      "descricao": "Genivaldo Ribeiro e José Alberto Sousa Lima foram afastados por decretos do bispo de Balsas; documentos citam “fatos recentes”, mas não revelam quais episódios motivaram as medidas. A Diocese de Balsas, no Maranhão, anunciou o afastamento por tempo indeterminado dos padres Genivaldo Ribeiro e José Alberto Sousa Lima. Os decretos episcopais citam “fatos recentes” que ferem a disciplina moral eclesiástica. O post Padres sao afastados por violarem ‘Disciplina moral’ no Maranhão; entenda apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/padres-sao-afastados-por-violarem-disciplina-moral-no-maranhao-entenda/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/balsas1.png",
+      "data": "2026-09-02T15:14:21+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "44a00f8019ff74bbf47938223717fc09",
+      "titulo": "Relembre a trajetória de Paulo Gracindo, pai do ator e diretor Gracindo Jr., que faleceu nesta quarta-feira (2)",
+      "descricao": "Paulo Gracindo marcou a televisão brasileira como Odorico Paraguaçu, prefeito de Sucupira em “O Bem-Amado”. Foto: Acervo/Globo Ator começou no teatro amador, ganhou espaço no rádio e se consagrou na televisão; em “O Bem-Amado”, viveu o personagem que considerava o melhor da carreira. O post Relembre a trajetória de Paulo Gracindo, pai do ator e diretor Gracindo Jr., que faleceu nesta quarta-feira (2) apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/relembre-a-trajetoria-de-paulo-gracindo-pai-do-ator-e-diretor-gracindo-jr-que-faleceu-nesta-quarta-feira-2/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Paulo-Gracindo.jpg",
+      "data": "2026-09-02T15:02:05+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6a5e069d47ea2c98e0ec0b487ca709d0",
+      "titulo": "Polícia prende seis suspeitos de fraude contra concessionária de energia na Grande Belém",
+      "descricao": "Polícia Civil prende seis suspeitos de fraude contra concessionária de energia no Pará PCPA A Polícia Civil prendeu seis pessoas suspeitas de envolvimento em um esquema de fraude contra uma concessionária de energia. As prisões ocorreram nesta quarta-feira (2), durante a segunda fase da operação Lasgrael, que também cumpre mandados de busca e apreensão em Belém, Mosqueiro e Ananindeua. Ao todo, a operação cumpre dez mandados de prisão temporária e de busca e apreensão contra investigados de integrar o núcleo de uma associação criminosa suspeita de fraudar contratos de troca de titularidade junto à concessionária de energia. ✅ Clique e siga o canal d g1 Pará no WhatsApp A ação é coordenada pela Delegacia de Repressão a Crimes Contra Concessionárias de Serviço Público (DCCCSP), vinculada à Divisão de Investigações e Operações Especiais (DIOE). Segundo a Polícia Civil, as investigações identificaram outros dez envolvidos que teriam participação ativa no esquema de fraudes nos contratos. A operação ainda está em andamento. A polícia não divulgou, até o momento, detalhes sobre a identidade dos presos nem o valor do prejuízo causado pelo grupo. Agora no g1 Leia todas as notícias do estado no g1 Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/02/policia-prende-seis-suspeitos-de-fraude-contra-concessionaria-de-energia-na-grande-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/0rzO3mUEaiWAjDu9rVpm-Pl5V5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/S/CnrbGmSES6YchjO4esNg/captura-de-tela-2026-09-02-115314.png",
+      "data": "2026-09-02T14:57:32+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a55e31b193eec218a615b3b5bec9f934",
+      "titulo": "Caiado diz acreditar que impeachment de Moraes terá de ser iniciado",
+      "descricao": "Caiado diz acreditar que impeachment de Moraes terá de ser iniciado",
+      "link": "https://www.oliberal.com/politica/caiado-diz-acreditar-que-impeachment-de-moraes-tera-de-ser-iniciado-1.1163970",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.823825:1787755120/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T14:03:11.593491+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1ad420ad6dfbc59784fcbadbe304a3ba",
-      "titulo": "Belém Animal: ação itinerante atende cães e gatos de graça no Jurunas",
-      "descricao": "Belém Animal Itinerante oferece atendimento veterinário gratuito no Jurunas, em Belém 🐾 Quem tem cachorro ou gato e mora no Jurunas pode aproveitar o atendimento veterinário gratuito que ocorre no bairro até sexta-feira (4). O atendimento é no trailer do Belém Animal Itinerante, estacionado na paróquia Santo Antônio de Lisboa, na rua São Miguel, 943, entre as travessas Padre Eutíquio e Dr. Moraes. O horário é das 8h às 12h. São realizados até 50 atendimentos por dia. ✅ Siga o canal do g1 Pará no WhatsApp Serviços disponíveis: Cachorro e gato podem ser atendidos durante a ação Pixabay/Reprodução consulta de rotina; vacinação antirrábica; microchipagem; coleta de hemograma (para preparar a castração); cadastro para castração. O que o tutor deve levar: documento oficial com foto; comprovante de residência; comprovante do CadÚnico. Não tem CadÚnico? Sem problema. Basta comprovar renda familiar de até dois salários mínimos. O programa é da Prefeitura de Belém, realizado por meio da Secretaria Municipal de Proteção e Defesa Animal (Sepda). VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/02/belem-animal-acao-itinerante-atende-caes-e-gatos-de-graca-no-jurunas.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/r2EvKNXXqEcmNjybm5eZnESLRJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/n/u/YwRPOQSbCqQzMRJy30lw/andrew-s-ouo1hbizwwo-unsplash.jpg",
-      "data": "2026-09-02T13:09:25+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.137840:1780258250/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-02T14:36:26.297356+00:00",
       "categoria": "PARÁ"
     }
   ]
