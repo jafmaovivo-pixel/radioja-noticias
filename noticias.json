@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-02T10:03:26.770755+00:00",
+  "atualizado": "2026-09-02T10:35:47.712948+00:00",
   "noticias": [
+    {
+      "id": "4c9ba86bf62219235a1e0483b61cc39c",
+      "titulo": "Pará é um dos estados mais lembrados para comer bem no Norte, mas é um dos mais subestimados do país",
+      "descricao": "Pará é um dos estados mais lembrados para comer bem no Norte, mas é um dos mais subestimados do país",
+      "link": "https://www.oliberal.com/economia/para-e-um-dos-estados-mais-lembrados-para-comer-bem-no-norte-mas-e-um-dos-mais-subestimados-do-pais-1.1161351",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.823825:1787755120/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-02T10:35:46.331075+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bc5a588999f5ee0f68809c534333c480",
+      "titulo": "Turista gasta em média até R$ 2 mil em Belém e prioriza pratos típicos, peixes e objetos amazônicos",
+      "descricao": "Turista gasta em média até R$ 2 mil em Belém e prioriza pratos típicos, peixes e objetos amazônicos",
+      "link": "https://www.oliberal.com/economia/turista-gasta-em-media-ate-r-2-mil-em-belem-e-prioriza-pratos-tipicos-peixes-e-objetos-amazonicos-1.1150708",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1150710:1785254753/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-02T10:35:45.235012+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c576a7e71df3d06427c3a3e0f8b8802e",
+      "titulo": "Restaurantes variados incorporam sabores paraenses aos cardápios",
+      "descricao": "Restaurantes variados incorporam sabores paraenses aos cardápios",
+      "link": "https://www.oliberal.com/economia/restaurantes-de-perfis-variados-incorporam-sabores-paraenses-aos-cardapios-em-belem-1.1163680",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163681:1788285141/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-02T10:35:44.624301+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e18ed4e1cb1c3fa57ae7f65f0703d470",
+      "titulo": "“Bom dia” no WhatsApp: o que a psicologia diz sobre quem envia a mensagem todos os dias",
+      "descricao": "Enviar uma mensagem pela manhã pode ser uma forma de manter a proximidade e demonstrar que alguém está presente na rotina. Foto: Gerada com IA. O hábito de enviar \"bom dia\" no WhatsApp pode ir além da simples educação, representando afeto e interesse em manter a proximidade. O post “Bom dia” no WhatsApp: o que a psicologia diz sobre quem envia a mensagem todos os dias apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/bom-dia-no-whatsapp-o-que-a-psicologia-diz-sobre-quem-envia-a-mensagem-todos-os-dias/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-01_at_17_14_15.jpg",
+      "data": "2026-09-02T10:22:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "753c130446b91d79bcd5337d2734e45c",
+      "titulo": "Mudou tudo: veja como fica o trânsito na Pedro Álvares Cabral e 12 linhas de ônibus",
+      "descricao": "Pedro Álvares Cabral terá sentido único; veja como ficam 12 linhas de ônibus Avenida passa a operar em sentido único em trecho estratégico de Belém, enquanto novo sistema binário muda vias, ônibus e circulação na região. O post Mudou tudo: veja como fica o trânsito na Pedro Álvares Cabral e 12 linhas de ônibus apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/mudou-tudo-veja-como-fica-o-transito-na-pedro-alvares-cabral-e-12-linhas-de-onibus/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/transito-3.jpg",
+      "data": "2026-09-02T10:14:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "bcdc9694160f11e83531c6afb6b3bea7",
       "titulo": "Trânsito de Belém terá mudanças em vias da região da Pedro Álvares Cabral; veja quais",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163056:1788176323/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-02T10:03:25.589950+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "582dcec4adc509b1c7ec188e210c5010",
-      "titulo": "Doze linhas de ônibus terão itinerários alterados a partir desta quinta (3), em Belém; confira",
-      "descricao": "Doze linhas de ônibus terão itinerários alterados a partir desta quinta (3), em Belém; confira",
-      "link": "https://www.oliberal.com/belem/doze-linhas-de-onibus-terao-itinerarios-alterados-a-partir-desta-quinta-3-em-belem-confira-1.1163873",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163874:1788306732/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T10:03:25.589769+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "93955f0572a0dea8debef9a8f573ec40",
-      "titulo": "Avenida Pedro Álvares Cabral passa a ter sentido único a partir desta quinta",
-      "descricao": "Avenida Pedro Álvares Cabral passa a ter sentido único a partir desta quinta",
-      "link": "https://www.oliberal.com/belem/avenida-pedro-alvares-cabral-passa-a-ter-sentido-unico-a-partir-desta-quinta-3-em-belem-1.1163868",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163870:1788306302/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T10:03:25.589609+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e4c9ef60e9f4ae302b5bd030eeee68aa",
-      "titulo": "Horóscopo de hoje: dinheiro e decisões colocam os 12 signos em alerta",
-      "descricao": "Horóscopo do dia: dinheiro, trabalho e emoções movimentam os 12 signos Confira as previsões astrológicas para esta quarta-feira, com dicas para lidar com questões financeiras, emocionais e profissionais, além de conselhos para cada signo do zodíaco. O post Horóscopo de hoje: dinheiro e decisões colocam os 12 signos em alerta apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/horoscopo-de-hoje-dinheiro-e-decisoes-colocam-os-12-signos-em-alerta/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/aiartista-ai-generated-9103319.png",
-      "data": "2026-09-02T09:58:24+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fe31ca882161a010a61b98950abdfd45",
-      "titulo": "Imagens fortes! Executiva do Bank of America é morta a facadas na Times Square, em Nova York",
-      "descricao": "Executiva do Bank of America é morta a facadas na Times Square, em Nova York Uma mulher foi morta pela polícia na Times Square, em Nova York, após um ataque a facadas que resultou na morte de Erin Piacenti, vice-presidente do Bank of America. O post Imagens fortes! Executiva do Bank of America é morta a facadas na Times Square, em Nova York apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/mundo/imagens-fortes-executiva-do-bank-of-america-e-morta-a-facadas-na-times-square-em-nova-york/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Novo-Tamanho-Site-2026-09-01T152523_879-860x484-1.jpg",
-      "data": "2026-09-02T02:12:25+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "be31976539771c8e6a756f4cce4922ba",
-      "titulo": "Mega-Sena 3052 acumula e prêmio vai a R$ 41 milhões; veja como apostar",
-      "descricao": "Mega-Sena. Foto: Reprodução Confira o resultado, saiba como apostar, números mais sorteados, e as chances de ganhar na Mega-Sena com prêmio acumulado em R$ 41 milhões. O post Mega-Sena 3052 acumula e prêmio vai a R$ 41 milhões; veja como apostar apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/loterias/mega-sena-3052-acumula-e-premio-vai-a-r-41-milhoes-veja-como-apostar/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1200x628_Mega-Sena-loteria-6-novembro-2020-assessoria.jpg",
-      "data": "2026-09-02T01:55:58+00:00",
       "categoria": "PARÁ"
     },
     {
