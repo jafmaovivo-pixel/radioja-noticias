@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-02T17:02:56.259326+00:00",
+  "atualizado": "2026-09-02T17:33:35.929985+00:00",
   "noticias": [
+    {
+      "id": "81dd600474062b35ca0a6d4e3e910604",
+      "titulo": "Caiado, sobre Flávio Bolsonaro no caso Master: Não dá pra passar pano",
+      "descricao": "Caiado, sobre Flávio Bolsonaro no caso Master: Não dá pra passar pano",
+      "link": "https://www.oliberal.com/politica/caiado-sobre-flavio-bolsonaro-no-caso-master-nao-da-pra-passar-pano-1.1164081",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1149999:1785088751/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-02T17:33:32.954511+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "62671cc25f400d007c5d691e52f30d05",
+      "titulo": "'Cargo não confere privilégio, mas impõe limite', diz Fachin após relatório da PF sobre Moraes",
+      "descricao": "'Cargo não confere privilégio, mas impõe limite', diz Fachin após relatório da PF sobre Moraes",
+      "link": "https://www.oliberal.com/politica/cargo-nao-confere-privilegio-mas-impoe-limite-diz-fachin-apos-relatorio-da-pf-sobre-moraes-1.1163984",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1076354:1769452664/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-02T17:33:32.534593+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d8a3921b006bce4a8fe810eaa99fa6cd",
+      "titulo": "Vorcaro prestou depoimento a André Mendonça sem PF",
+      "descricao": "Vorcaro prestou depoimento a André Mendonça sem PF",
+      "link": "https://www.oliberal.com/politica/vorcaro-prestou-depoimento-a-andre-mendonca-sem-a-presenca-da-pf-que-investiga-caso-master-1.1164085",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164087:1788368326/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-02T17:33:32.534361+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f3965011c5a8ee4801dea24c76aedd19",
+      "titulo": "Do canteiro ao parque: veja nas fotos como ficou o novo “Boulevard Urbano” de Belém",
+      "descricao": "Nova etapa da avenida Romulo Maiorana marca avanço das obras e da implantação do Parque 25, no bairro do Marco, em Belém. Foto: divulgação/reprodução A Prefeitura de Belém entrega nova fase da requalificação da avenida Romulo Maiorana, no Marco, com avanços do Parque 25 e novos espaços urbanos. O post Do canteiro ao parque: veja nas fotos como ficou o novo “Boulevard Urbano” de Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/do-canteiro-ao-parque-veja-nas-fotos-como-ficou-o-novo-boulevard-urbano-de-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Image-2026-09-02-at-13.17.05-2.jpeg",
+      "data": "2026-09-02T17:28:13+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4994e1bc96c10f5a6cac2223ed668d8a",
+      "titulo": "Anitta em Belém: ingressos chegam a R$ 600; veja o que pode levar para o evento",
+      "descricao": "Anitta. Foto: Medios y Media/Getty Images Anitta confirmou que Belém será a primeira cidade a receber os Ensaios de 2027, no dia 9 de janeiro, no Mangueirão. A venda de ingressos já começou. O post Anitta em Belém: ingressos chegam a R$ 600; veja o que pode levar para o evento apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/anitta-em-belem-ingressos-chegam-a-r-600-veja-o-que-pode-levar-para-o-evento/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_anitta-mexico-e1719584094347.jpg",
+      "data": "2026-09-02T17:23:44+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "2f13242019ff6b8ae8007cea9a062ee8",
       "titulo": "Reunião com Vorcaro foi sobre ação que debatia precatórios de interesse do Master, diz Mendonça",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113182:1788353684/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-02T17:02:54.966137+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "90bea0d76641ff516faee4351d424572",
-      "titulo": "Tarcísio diz que caso Master não afeta Flávio 'se não aparecer fato novo'",
-      "descricao": "Tarcísio diz que caso Master não afeta Flávio 'se não aparecer fato novo'",
-      "link": "https://www.oliberal.com/politica/tarcisio-diz-que-caso-master-nao-afeta-flavio-se-nao-aparecer-fato-novo-1.1164022",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.990595:1752260440/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T17:02:54.965896+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "46dc0a6f2f58ac7296a437c0aa2d329d",
-      "titulo": "'Cargo não confere privilégio, mas impõe limite', diz Fachin sobre Moraes",
-      "descricao": "'Cargo não confere privilégio, mas impõe limite', diz Fachin sobre Moraes",
-      "link": "https://www.oliberal.com/politica/cargo-nao-confere-privilegio-mas-impoe-limite-diz-fachin-apos-relatorio-da-pf-sobre-moraes-1.1163984",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1076354:1769452664/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T17:02:54.965740+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8c922729088ac7678d74da8355bcdc48",
-      "titulo": "Lars Grael faz palestra gratuita em Belém e conta história de superação após grave acidente",
-      "descricao": "De medalhista olímpico a campeão mundial: Lars Grael faz palestra gratuita na Tuna Luso O velejador Lars Grael, medalhista olímpico e campeão mundial, fará uma palestra gratuita em Belém no dia 14 de setembro. Ele compartilhará experiências de superação e liderança. O post Lars Grael faz palestra gratuita em Belém e conta história de superação após grave acidente apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/lars-grael-faz-palestra-gratuita-em-belem-e-conta-historia-de-superacao-apos-grave-acidente/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_482204384_1178781497037816_724152465884946376_n.jpg",
-      "data": "2026-09-02T16:41:12+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f6a567d80b92b5c4ace89463c0f62846",
-      "titulo": "O que é bisque? Aprenda a fazer a sopa francesa que causou eliminação no MasterChef 2026",
-      "descricao": "Bisque é uma sopa francesa cremosa preparada a partir da extração de sabor de crustáceos. Foto: Reprodução/Band Preparada a partir de crustáceos, receita tem textura cremosa e aveludada e exige etapas como tostagem, redução, filtragem e emulsão O post O que é bisque? Aprenda a fazer a sopa francesa que causou eliminação no MasterChef 2026 apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/o-que-e-bisque-aprenda-a-fazer-a-sopa-francesa-que-causou-eliminacao-no-masterchef-2026/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/bisque-tem-origem-francesa-e-e-feita-com-crustaceos-16397.jpg",
-      "data": "2026-09-02T16:30:51+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7f56a93fffd966db49bd9c2e5ebf03c9",
-      "titulo": "Remo x Flamengo terá setores isolados e proibição de camisas rivais no Mangueirão; saiba as regras",
-      "descricao": "Torcedores deverão ocupar exclusivamente os setores destinados ao próprio clube; camisas de outras equipes serão barradas nos acessos. O Clube do Remo divulgou um esquema especial de segurança para a partida contra o Flamengo, neste domingo (6), no Mangueirão. As medidas incluem separação de torcidas, acessos exclusivos e proibição de camisas de outros clubes. O post Remo x Flamengo terá setores isolados e proibição de camisas rivais no Mangueirão; saiba as regras apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/remo-x-flamengo-tera-setores-isolados-e-proibicao-de-camisas-rivais-no-mangueirao-saiba-as-regras/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/RemoxFla.jpg",
-      "data": "2026-09-02T15:47:52+00:00",
       "categoria": "PARÁ"
     },
     {
