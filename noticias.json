@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-02T15:38:50.960751+00:00",
+  "atualizado": "2026-09-02T16:03:07.555311+00:00",
   "noticias": [
     {
       "id": "2f13242019ff6b8ae8007cea9a062ee8",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/politica/reuniao-com-vorcaro-foi-sobre-acao-que-debatia-precatorios-de-interesse-do-master-diz-mendonca-1.1163966",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113182:1788353684/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T15:38:49.480979+00:00",
+      "data": "2026-09-02T16:03:04.827100+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/politica/tarcisio-diz-que-caso-master-nao-afeta-flavio-se-nao-aparecer-fato-novo-1.1164022",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.990595:1752260440/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T15:38:49.480756+00:00",
+      "data": "2026-09-02T16:03:04.826858+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,17 @@
       "link": "https://www.oliberal.com/politica/cargo-nao-confere-privilegio-mas-impoe-limite-diz-fachin-apos-relatorio-da-pf-sobre-moraes-1.1163984",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1076354:1769452664/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T15:38:49.184853+00:00",
+      "data": "2026-09-02T16:03:04.826697+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7f56a93fffd966db49bd9c2e5ebf03c9",
+      "titulo": "Remo x Flamengo terá setores isolados e proibição de camisas rivais no Mangueirão; saiba as regras",
+      "descricao": "Torcedores deverão ocupar exclusivamente os setores destinados ao próprio clube; camisas de outras equipes serão barradas nos acessos. O Clube do Remo divulgou um esquema especial de segurança para a partida contra o Flamengo, neste domingo (6), no Mangueirão. As medidas incluem separação de torcidas, acessos exclusivos e proibição de camisas de outros clubes. O post Remo x Flamengo terá setores isolados e proibição de camisas rivais no Mangueirão; saiba as regras apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/remo-x-flamengo-tera-setores-isolados-e-proibicao-de-camisas-rivais-no-mangueirao-saiba-as-regras/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/RemoxFla.jpg",
+      "data": "2026-09-02T15:47:52+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/0rzO3mUEaiWAjDu9rVpm-Pl5V5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/S/CnrbGmSES6YchjO4esNg/captura-de-tela-2026-09-02-115314.png",
       "data": "2026-09-02T14:57:32+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a55e31b193eec218a615b3b5bec9f934",
-      "titulo": "Caiado diz acreditar que impeachment de Moraes terá de ser iniciado",
-      "descricao": "Caiado diz acreditar que impeachment de Moraes terá de ser iniciado",
-      "link": "https://www.oliberal.com/politica/caiado-diz-acreditar-que-impeachment-de-moraes-tera-de-ser-iniciado-1.1163970",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.137840:1780258250/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-02T14:36:26.297356+00:00",
       "categoria": "PARÁ"
     }
   ]
