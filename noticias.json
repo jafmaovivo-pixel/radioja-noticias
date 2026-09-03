@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-03T17:02:57.921795+00:00",
+  "atualizado": "2026-09-03T17:35:19.358105+00:00",
   "noticias": [
+    {
+      "id": "84606f849a4b8119171c9cddb0495682",
+      "titulo": "Adolescente de 15 anos é encontrada morta a facadas em cova rasa, em Marabá",
+      "descricao": "Adolescente de 15 anos é encontrada morta a facadas em cova rasa, em Marabá",
+      "link": "https://www.oliberal.com/policia/adolescente-de-15-anos-e-encontrada-morta-a-facadas-em-cova-rasa-em-maraba-1.1164332",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
+      "data": "2026-09-03T17:35:16.315045+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "38a2a6b3a71bc93423458d9b9eb7df4d",
+      "titulo": "Ativista 'Homem-Peixe' já foi preso acusado de abuso sexual contra menina de 13 anos",
+      "descricao": "Ativista 'Homem-Peixe' já foi preso acusado de abuso sexual contra menina de 13 anos",
+      "link": "https://www.oliberal.com/policia/ativista-homem-peixe-ja-foi-preso-acusado-de-abuso-sexual-contra-menina-de-13-anos-1.1164216",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164231:1788386205/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T17:35:16.112778+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "da6dcff936a7d9e63d24ec545df49619",
+      "titulo": "Flanelinha suspeito de esfaquear turista é preso em Belém",
+      "descricao": "Flanelinha suspeito de esfaquear turista é preso em Belém",
+      "link": "https://www.oliberal.com/policia/flanelinha-suspeito-de-esfaquear-turista-apos-cobranca-por-estacionamento-e-preso-em-belem-1.1164492",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164493:1788452138/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T17:35:15.765880+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "877f8e912c162a2bdaeda94195c930ab",
+      "titulo": "Gerente de casa de prostituição entra na Justiça por direitos trabalhistas",
+      "descricao": "Trabalhador buscava reconhecimento de vínculo e verbas trabalhistas, mas Justiça concluiu que suas próprias atividades estavam diretamente ligadas à intermediação da prostituição. Um homem que se identificou como gerente de uma casa de prostituição no Centro do Rio de Janeiro teve seus pedidos trabalhistas negados pela Justiça. Ele admitiu atuar na seleção e gerenciamento de mulheres, o que foi considerado rufianismo. O post Gerente de casa de prostituição entra na Justiça por direitos trabalhistas apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/gerente-de-casa-de-prostituicao-entra-na-justica-por-direitos-trabalhistas/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/rufianismo.jpg",
+      "data": "2026-09-03T17:11:38+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d481fd5d3290e456e405a50ead599df6",
+      "titulo": "Tentou usar o ChatGPT e não carregou? Entenda o apagão que afetou várias IAs",
+      "descricao": "ChatGPT, Claude e Grok apresentam falhas simultâneas; entenda o que aconteceu Ferramentas de inteligência artificial como ChatGPT, Claude e Grok, além de serviços como Gov.br e Banco do Brasil, enfrentaram instabilidades nesta quinta-feira (3). A suspeita aponta para uma falha na infraestrutura da Microsoft Azure. O post Tentou usar o ChatGPT e não carregou? Entenda o apagão que afetou várias IAs apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/brasil/tentou-usar-o-chatgpt-e-nao-carregou-entenda-o-apagao-que-afetou-varias-ias/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/chatdireitos.jpeg",
+      "data": "2026-09-03T17:06:55+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "adb0783de7c43abbe00085caa027fd39",
       "titulo": "Belém garante atividades públicas essenciais no 7 de setembro",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164238:1788388137/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-03T17:02:56.393071+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c0d9a51c9196c646941e4475eb777d4e",
-      "titulo": "Condutores aprovam mudança de sentido na avenida Pedro Álvares Cabral",
-      "descricao": "Condutores aprovam mudança de sentido na avenida Pedro Álvares Cabral",
-      "link": "https://www.oliberal.com/belem/condutores-aprovam-mudanca-de-sentido-na-avenida-pedro-alvares-cabral-1.1164404",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164409:1788442602/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-03T17:02:56.392899+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1f1f836be4c14c178ca0da60ef325416",
-      "titulo": "Desfile Cívico-Militar altera trânsito em 31 vias dia 07/09; veja mudanças",
-      "descricao": "Desfile Cívico-Militar altera trânsito em 31 vias dia 07/09; veja mudanças",
-      "link": "https://www.oliberal.com/belem/desfile-civico-militar-altera-transito-em-31-vias-no-feriado-desta-segunda-feira-7-veja-quais-1.1164456",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1017276:1788445927/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-03T17:02:56.392695+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7cebc2b753ef6615b21b19a9adf111fb",
-      "titulo": "IBGE prepara concurso com 27 mil vagas e salário de até R$ 3,1 mil e edital deve sair em breve",
-      "descricao": "Processo seletivo terá 27.279 vagas temporárias em todo o país para atuação no Censo Agropecuário, Florestal e Aquícola de 2027; prova deverá contar com 60 questões O Instituto Brasileiro de Geografia e Estatística (IBGE) prepara um novo concurso com mais de 27 mil vagas para recenseadores. O edital está previsto para outubro, com exigência de ensino médio completo. O post IBGE prepara concurso com 27 mil vagas e salário de até R$ 3,1 mil e edital deve sair em breve apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/ibge-prepara-concurso-com-27-mil-vagas-e-salario-de-ate-r-31-mil-e-edital-deve-sair-em-breve/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/ibge.jpg",
-      "data": "2026-09-03T16:57:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ac40ed081961c9bf21552b6ebbcea133",
-      "titulo": "Para entrar ligado no jogo? Arrascaeta aparece com óculos diferente no Maracanã e valor assusta",
-      "descricao": "Óculos usado por Arrascaeta viraliza e surpreende pelo preço O óculos AVA Circadian, usado por Arrascaeta do Flamengo, viralizou nas redes sociais. O dispositivo utiliza luz verde para estimular o organismo a entrar em estado de alerta, reduzindo a sonolência. O post Para entrar ligado no jogo? Arrascaeta aparece com óculos diferente no Maracanã e valor assusta apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/para-entrar-ligado-no-jogo-arrascaeta-aparece-com-oculos-diferente-no-maracana-e-valor-assusta/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_792910606_1547903737373533_4499415739863303478_n.jpg",
-      "data": "2026-09-03T16:47:31+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "98b78dcaa1509e86d33ea96d8f71e040",
-      "titulo": "7 de Setembro muda trânsito em Belém com 31 bloqueios; operação reúne 800 agentes",
-      "descricao": "Desfile Cívico-Militar deve reunir mais de 20 mil pessoas na Presidente Vargas, com 5,8 mil participantes; motoristas precisam ficar atentos às mudanças no trânsito. A capital paraense se prepara para o Desfile Cívico-Militar de 7 de Setembro com um esquema especial de segurança e trânsito, que inclui 31 pontos de interdição e a atuação de 800 agentes. O post 7 de Setembro muda trânsito em Belém com 31 bloqueios; operação reúne 800 agentes apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/7-de-setembro-muda-transito-em-belem-com-31-bloqueios-operacao-reune-800-agentes/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/7setembro.jpg",
-      "data": "2026-09-03T16:21:53+00:00",
       "categoria": "PARÁ"
     },
     {
