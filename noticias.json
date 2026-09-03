@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-03T18:03:31.078582+00:00",
+  "atualizado": "2026-09-03T18:38:14.385628+00:00",
   "noticias": [
+    {
+      "id": "54abe5814c8dc6afc544a005c4201fd3",
+      "titulo": "Desfile Cívico-Militar altera trânsito em 31 vias no feriado desta segunda-feira (7); veja quais",
+      "descricao": "Desfile Cívico-Militar altera trânsito em 31 vias no feriado desta segunda-feira (7); veja quais",
+      "link": "https://www.oliberal.com/belem/desfile-civico-militar-altera-transito-em-31-vias-no-feriado-desta-segunda-feira-7-veja-quais-1.1164456",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1017276:1788445927/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T18:38:11.387024+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "adb0783de7c43abbe00085caa027fd39",
+      "titulo": "Belém garante atividades públicas essenciais no 7 de setembro",
+      "descricao": "Belém garante atividades públicas essenciais no 7 de setembro",
+      "link": "https://www.oliberal.com/politica/belem-mantem-servicos-essenciais-no-feriado-de-7-de-setembro-1.1164235",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164238:1788388137/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T18:38:10.715844+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ad962d246b83250477cc055140259231",
+      "titulo": "PRF reforça fiscalização a partir de sexta-feira (4) no Pará",
+      "descricao": "PRF reforça fiscalização a partir de sexta-feira (4) no Pará",
+      "link": "https://www.oliberal.com/para/feriado-de-7-de-setembro-prf-reforca-fiscalizacao-a-partir-desta-sexta-feira-4-no-para-1.1164536",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164540:1788459526/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T18:38:10.176573+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1002a62f28b95a278ac5a70134bf9ba5",
+      "titulo": "Teve traição? Entenda a conversa do marido de Patrícia Abravanel e Daniel Vorcaro",
+      "descricao": "Marido de Patrícia Abravanel, Fábio Faria, fala de mulheres com Vorcaro, segundo mensagens obtidas pela PF. Foto: Reprodução Mensagens recuperadas pela Polícia Federal mostram o ex-ministro Fábio Faria articulando encontros e perguntando sobre a presença de mulheres chamadas de “suíças” O post Teve traição? Entenda a conversa do marido de Patrícia Abravanel e Daniel Vorcaro apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/teve-traicao-entenda-a-conversa-do-marido-de-patricia-abravanel-e-daniel-vorcaro/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/DIARIO-1320x768-9.png",
+      "data": "2026-09-03T18:10:58+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d64b1942d7a81235fba8d97ce0190279",
+      "titulo": "O Brasil está pagando uma conta silenciosa? Especialista alerta para o custo da falta de inclusão",
+      "descricao": "Falta de inclusão no Brasil gera impactos econômicos e sociais, alerta especialista. Saúde mental, deficiência, acessibilidade e envelhecimento entram no debate. Foto: gerada por IA Campanhas de setembro reforçam desafios ligados à saúde mental, deficiência, envelhecimento e acessibilidade, enquanto especialista alerta para os impactos sociais e econômicos da exclusão. O post O Brasil está pagando uma conta silenciosa? Especialista alerta para o custo da falta de inclusão apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/o-brasil-esta-pagando-uma-conta-silenciosa-especialista-alerta-para-o-custo-da-falta-de-inclusao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_ChatGPT_Image_3_de_set_de_2026_00_50_33.jpg",
+      "data": "2026-09-03T18:09:25+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "84606f849a4b8119171c9cddb0495682",
       "titulo": "Adolescente de 15 anos é encontrada morta a facadas em cova rasa, em Marabá",
@@ -12,26 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "38a2a6b3a71bc93423458d9b9eb7df4d",
-      "titulo": "Ativista 'Homem-Peixe' já foi preso acusado de abuso sexual contra menina de 13 anos",
-      "descricao": "Ativista 'Homem-Peixe' já foi preso acusado de abuso sexual contra menina de 13 anos",
-      "link": "https://www.oliberal.com/policia/ativista-homem-peixe-ja-foi-preso-acusado-de-abuso-sexual-contra-menina-de-13-anos-1.1164216",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164231:1788386205/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-03T18:03:29.391630+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "da6dcff936a7d9e63d24ec545df49619",
-      "titulo": "Flanelinha suspeito de esfaquear turista é preso em Belém",
-      "descricao": "Flanelinha suspeito de esfaquear turista é preso em Belém",
-      "link": "https://www.oliberal.com/policia/flanelinha-suspeito-de-esfaquear-turista-apos-cobranca-por-estacionamento-e-preso-em-belem-1.1164492",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164493:1788452138/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-03T18:03:29.391451+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "ce08e7b2d590d0c39e422c3e0cdd04ad",
       "titulo": "Jovem desaparecida é encontrada morta a tiros em Altamira",
       "descricao": "Jovem é encontrada morta em Altamira Uma jovem que estava desaparecida foi encontrada morta em Altamira, no sudoeste do Pará. O corpo foi achado na noite de quarta-feira (2). A Polícia Civil investiga o caso e prendeu um suspeito. A vítima foi identificada como Hotalicy de Amorim Oliveira, de 22 anos. Segundo a polícia, o corpo dela foi localizado na zona rural do município e apresentava sinais de tiros, o que pode indicar crime de execução. ✅ Siga o canal do g1 Pará no WhatsApp Familiares relataram que a jovem teria sido sequestrada na noite da última segunda-feira (31), em Vitória do Xingu, e levada em um carro. Segundo a apuração, esse mesmo veículo estaria circulando por Altamira na noite de quarta. Ao abordar o carro, os policiais prenderam um suspeito. De acordo com a polícia, ele confessou participação no assassinato da vítima e indicou a localização do corpo. Ainda segundo a apuração, o corpo estava em uma área de mata próxima à estrada da Cachoeirinha, a mais de sete quilômetros do centro da cidade. A polícia investiga a motivação do crime e o possível envolvimento de outras pessoas no caso. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
@@ -39,36 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/l-N7e7OHGDb6UMF8Sc3ixkdulNI=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/60/78/14927860",
       "data": "2026-09-03T17:41:07+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "18ce5eee6b25c9f3b7e969b6072bc61b",
-      "titulo": "Paraense que carregava pneus para ajudar a família vira titular de time na Espanha",
-      "descricao": "Paraense deixa trabalho pesado para trás e vira destaque no futebol da Espanha A trajetória do volante Fabrício, de Belém ao futebol espanhol, é marcada por superação. Ele enfrentou dificuldades e uma grave lesão, mas se tornou peça importante no Tenerife. O post Paraense que carregava pneus para ajudar a família vira titular de time na Espanha apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/paraense-que-carregava-pneus-para-ajudar-a-familia-vira-titular-de-time-na-espanha/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_472766101_18453839971068823_4673671012039155897_n.jpg",
-      "data": "2026-09-03T17:37:19+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "877f8e912c162a2bdaeda94195c930ab",
-      "titulo": "Gerente de casa de prostituição entra na Justiça por direitos trabalhistas",
-      "descricao": "Trabalhador buscava reconhecimento de vínculo e verbas trabalhistas, mas Justiça concluiu que suas próprias atividades estavam diretamente ligadas à intermediação da prostituição. Um homem que se identificou como gerente de uma casa de prostituição no Centro do Rio de Janeiro teve seus pedidos trabalhistas negados pela Justiça. Ele admitiu atuar na seleção e gerenciamento de mulheres, o que foi considerado rufianismo. O post Gerente de casa de prostituição entra na Justiça por direitos trabalhistas apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/gerente-de-casa-de-prostituicao-entra-na-justica-por-direitos-trabalhistas/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/rufianismo.jpg",
-      "data": "2026-09-03T17:11:38+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d481fd5d3290e456e405a50ead599df6",
-      "titulo": "Tentou usar o ChatGPT e não carregou? Entenda o apagão que afetou várias IAs",
-      "descricao": "ChatGPT, Claude e Grok apresentam falhas simultâneas; entenda o que aconteceu Ferramentas de inteligência artificial como ChatGPT, Claude e Grok, além de serviços como Gov.br e Banco do Brasil, enfrentaram instabilidades nesta quinta-feira (3). A suspeita aponta para uma falha na infraestrutura da Microsoft Azure. O post Tentou usar o ChatGPT e não carregou? Entenda o apagão que afetou várias IAs apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/tentou-usar-o-chatgpt-e-nao-carregou-entenda-o-apagao-que-afetou-varias-ias/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/chatdireitos.jpeg",
-      "data": "2026-09-03T17:06:55+00:00",
       "categoria": "PARÁ"
     },
     {
