@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-03T15:02:59.887535+00:00",
+  "atualizado": "2026-09-03T15:35:54.129269+00:00",
   "noticias": [
+    {
+      "id": "adb0783de7c43abbe00085caa027fd39",
+      "titulo": "Belém garante atividades públicas essenciais no 7 de setembro",
+      "descricao": "Belém garante atividades públicas essenciais no 7 de setembro",
+      "link": "https://www.oliberal.com/politica/belem-mantem-servicos-essenciais-no-feriado-de-7-de-setembro-1.1164235",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164238:1788388137/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T15:35:51.652665+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c0d9a51c9196c646941e4475eb777d4e",
+      "titulo": "Condutores aprovam mudança de sentido na avenida Pedro Álvares Cabral",
+      "descricao": "Condutores aprovam mudança de sentido na avenida Pedro Álvares Cabral",
+      "link": "https://www.oliberal.com/belem/condutores-aprovam-mudanca-de-sentido-na-avenida-pedro-alvares-cabral-1.1164404",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164409:1788442602/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T15:35:51.105727+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1f1f836be4c14c178ca0da60ef325416",
+      "titulo": "Desfile Cívico-Militar altera trânsito em 31 vias dia 07/09; veja mudanças",
+      "descricao": "Desfile Cívico-Militar altera trânsito em 31 vias dia 07/09; veja mudanças",
+      "link": "https://www.oliberal.com/belem/desfile-civico-militar-altera-transito-em-31-vias-no-feriado-desta-segunda-feira-7-veja-quais-1.1164456",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1017276:1788445927/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T15:35:50.911573+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8d2052e431343da2f218688cdc605d10",
+      "titulo": "Jesus Luz posta “aperitivo” nas redes e avisa que vem novo ensaio por aí",
+      "descricao": "Jesus Luz compartilhou uma prévia nas redes sociais e anunciou que um novo ensaio fotográfico será divulgado na próxima semana. Foto: Vinny Nunes/Reprodução/Instagram Modelo compartilhou uma prévia do próximo trabalho fotográfico e aumentou a expectativa ao avisar que as imagens são apenas “um pequeno aperitivo” do que será divulgado. O post Jesus Luz posta “aperitivo” nas redes e avisa que vem novo ensaio por aí apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/jesus-luz-posta-aperitivo-nas-redes-e-avisa-que-vem-novo-ensaio-por-ai/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Aperitivo-Jesus-Luz.jpg",
+      "data": "2026-09-03T15:32:37+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "42923e3b1e599daabe5b7d1b6ed380be",
+      "titulo": "Nem Naldo Benny: Jardel diz que ensinou Cristiano Ronaldo a cabecear",
+      "descricao": "Jardel revela conselho dado a Cristiano Ronaldo: “Cruza na minha cabeça” Mário Jardel, ídolo do futebol brasileiro, revelou uma história curiosa de seu convívio com Cristiano Ronaldo no Sporting. O ex-centroavante contou que ensinava o jovem CR7 a cabecear durante os treinos. O post Nem Naldo Benny: Jardel diz que ensinou Cristiano Ronaldo a cabecear apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/nem-naldo-benny-jardel-diz-que-ensinou-cristiano-ronaldo-a-cabecear/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_img_757x4982016_03_14_21_02_22_520662-1.jpg",
+      "data": "2026-09-03T15:16:44+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "30c904e44b0904fab936a9f159a44c7c",
       "titulo": "Comissão de Constituição e Justiça do Senado aprova PEC que acaba com jornada 6x1",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164146:1788376349/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-03T15:02:57.602634+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9feaca9e07288e2bf1686c7e9c23746c",
-      "titulo": "Senado: oposição obstrui e fim da escala 6x1 não vai a plenário",
-      "descricao": "Senado: oposição obstrui e fim da escala 6x1 não vai a plenário",
-      "link": "https://www.oliberal.com/politica/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-a-plenario-1.1164329",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164330:1788400315/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-03T15:02:57.602509+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "04fda23d9c611507f27248b20b38ae20",
-      "titulo": "Veja datas de pagamento do INSS, Bolsa Família e Pé-de-Meia e mais",
-      "descricao": "Veja datas de pagamento do INSS, Bolsa Família e Pé-de-Meia e mais",
-      "link": "https://www.oliberal.com/economia/calendario-setembro-2026-veja-datas-de-pagamento-do-inss-bolsa-familia-e-pe-de-meia-e-mais-1.1164383",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1083033:1788440106/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-03T15:02:57.602356+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8d39446ebfdf7a8111950610d469f5ee",
-      "titulo": "“Um abraço, lindão”: Nikolas pede ajuda a Daniel Vorcaro em áudio",
-      "descricao": "“Um abraço, lindão”: Nikolas pede ajuda a Daniel Vorcaro em áudio O deputado federal Nikolas Ferreira (PL-MG) pediu ajuda ao banqueiro Daniel Vorcaro para tratar de um ativo minerário ligado a seu advogado e ex-assessor de gabinete, Thiago Rodrigues de Faria. O post “Um abraço, lindão”: Nikolas pede ajuda a Daniel Vorcaro em áudio apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/um-abraco-lindao-nikolas-pede-ajuda-a-daniel-vorcaro-em-audio/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://diariodopara.com.br/wp-content/uploads/2026/01/crop_16_1769372365.jpg",
-      "data": "2026-09-03T14:54:37+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "11ee5a333e91429afbbfb80cc431947f",
-      "titulo": "Idoso é encontrado morto em motel; câmeras mostram mulher saindo antes da descoberta",
-      "descricao": "Ceará da Selva, de 61 anos, é encontrado morto em motel de São Miguel do Guamá. Câmeras registraram mulher entrando e deixando o local. A morte de José Ribamar Nogueira da Silva, conhecido como “Ceará da Selva”, em um motel de São Miguel do Guamá, mobiliza a Polícia Civil. Imagens de segurança mostram a movimentação de uma mulher no local antes de a vítima ser encontrada sem vida. A causa da morte ainda não foi determinada. O post Idoso é encontrado morto em motel; câmeras mostram mulher saindo antes da descoberta apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/idoso-e-encontrado-morto-em-motel-cameras-mostram-mulher-saindo-antes-da-descoberta/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/mortesaomiguel2.jpg",
-      "data": "2026-09-03T14:38:17+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1b3439448d5bb133237b44487021b976",
-      "titulo": "Luan, o “Menino Maluquinho” do Galo, vira treinador pela primeira vez",
-      "descricao": "Luan Madson, o \"Menino Maluquinho\" ídolo do Galo, foi anunciado como treinador do São Luís Futebol Clube, de Goiás. Foto: Bruno Cantini / Atlético Mineiro Luan Madson, o \"Menino Maluquinho\" ídolo do Galo, foi anunciado como treinador do São Luís Futebol Clube, de Goiás. O post Luan, o “Menino Maluquinho” do Galo, vira treinador pela primeira vez apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/luan-o-menino-maluquinho-do-galo-vira-treinador-pela-primeira-vez/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/luan-atletico-7-1.jpg",
-      "data": "2026-09-03T14:24:21+00:00",
       "categoria": "PARÁ"
     },
     {
