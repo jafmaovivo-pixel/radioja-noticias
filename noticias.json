@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-03T20:35:15.951764+00:00",
+  "atualizado": "2026-09-03T21:03:06.919385+00:00",
   "noticias": [
+    {
+      "id": "13a645ac938a17407fd69b5c8a430343",
+      "titulo": "Documentos mostram como Vorcaro enviou R$ 61 milhões aos EUA para bancar 'Dark Horse'",
+      "descricao": "Documentos mostram como Vorcaro enviou R$ 61 milhões aos EUA para bancar 'Dark Horse'",
+      "link": "https://www.oliberal.com/politica/documentos-mostram-como-vorcaro-enviou-r-61-milhoes-aos-eua-para-bancar-dark-horse-1.1131509",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1131524:1781038228/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T21:03:04.577742+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "90e645cd2f02e9ac2dffa29c8ff46c5a",
+      "titulo": "Vorcaro fez mais um pagamento para 'Dark Horse' além do que Flávio havia admitido, diz revista",
+      "descricao": "Vorcaro fez mais um pagamento para 'Dark Horse' além do que Flávio havia admitido, diz revista",
+      "link": "https://www.oliberal.com/politica/vorcaro-fez-mais-um-pagamento-para-dark-horse-alem-do-que-flavio-havia-admitido-diz-revista-1.1163572",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1123205:1784209949/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T21:03:03.994634+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f62ecb3222df40a75ccdff6d6aa94704",
+      "titulo": "Doações de R$ 5 milhões a Bolsonaro e Tarcísio teriam sido propina com Kassab",
+      "descricao": "Doações de R$ 5 milhões a Bolsonaro e Tarcísio teriam sido propina com Kassab",
+      "link": "https://www.oliberal.com/politica/doacoes-de-r-5-milhoes-a-bolsonaro-e-tarcisio-teriam-sido-propina-negociada-com-kassab-diz-portal-1.1164606",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.349950:1611917782/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T21:03:03.528651+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d3049f8d5ed6fdaba42fd4a0c46b6010",
+      "titulo": "Pará corre risco com suspensão da carne brasileira pela União Europeia? Setor explica",
+      "descricao": "UE suspende importações do Brasil: Pará fica de fora do mercado europeu, mas cenário chama atenção. Foto: divulgação/reprodução Exportações brasileiras de produtos de origem animal para a União Europeia foram suspensas nesta quinta-feira, 3; Daniel Freire explica por que o Pará não deve sofrer impacto direto e comenta exigências do bloco europeu. O post Pará corre risco com suspensão da carne brasileira pela União Europeia? Setor explica apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/para-corre-risco-com-suspensao-da-carne-brasileira-pela-uniao-europeia-setor-explica/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_ChatGPT_Image_3_de_set_de_2026_17_37_49.jpg",
+      "data": "2026-09-03T21:01:10+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "22283a31957750ee503a14706327c70b",
+      "titulo": "Ex-Vasco e Paysandu, Rossi sai do futebol amador e é anunciado por clube de Santarém",
+      "descricao": "Ex-Vasco e Paysandu, Rossi joga no futebol amador e é anunciado por clube uma semana depois O atacante paraense Rossi, o “Búfalo”, retorna ao São Raimundo de Santarém para disputar o Campeonato Santareno. Aos 33 anos, o jogador tem passagens por grandes clubes brasileiros e uma história de superação. O post Ex-Vasco e Paysandu, Rossi sai do futebol amador e é anunciado por clube de Santarém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/ex-vasco-e-paysandu-rossi-sai-do-futebol-amador-e-e-anunciado-por-clube-de-santarem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_792157959_18617741494023855_6214193110541802829_n.jpg",
+      "data": "2026-09-03T20:59:59+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "54abe5814c8dc6afc544a005c4201fd3",
       "titulo": "Desfile Cívico-Militar altera trânsito em 31 vias no feriado desta segunda-feira (7); veja quais",
@@ -12,46 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "adb0783de7c43abbe00085caa027fd39",
-      "titulo": "Belém garante atividades públicas essenciais no 7 de setembro",
-      "descricao": "Belém garante atividades públicas essenciais no 7 de setembro",
-      "link": "https://www.oliberal.com/politica/belem-mantem-servicos-essenciais-no-feriado-de-7-de-setembro-1.1164235",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164238:1788388137/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-03T20:35:13.948839+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ad962d246b83250477cc055140259231",
-      "titulo": "PRF reforça fiscalização a partir de sexta-feira (4) no Pará",
-      "descricao": "PRF reforça fiscalização a partir de sexta-feira (4) no Pará",
-      "link": "https://www.oliberal.com/para/feriado-de-7-de-setembro-prf-reforca-fiscalizacao-a-partir-desta-sexta-feira-4-no-para-1.1164536",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164540:1788459526/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-03T20:35:13.948632+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "43a21fc1eefb9065706e5203b2748510",
-      "titulo": "Paraísos escondidos no Pará: cachoeiras de Altamira e região têm quedas de até 40 metros",
-      "descricao": "Cachoeiras de Altamira e região revelam uma face menos conhecida do Xingu, marcada por quedas d'água, trilhas, cavernas e floresta amazônica. Foto: Reprodução/Instagram @gruta_da_katia_castelodesonhos Região do Xingu reúne quedas d'água, cavernas, trilhas e lagos próprios para banho; roteiro ainda passa por outros destinos naturais do Pará O post Paraísos escondidos no Pará: cachoeiras de Altamira e região têm quedas de até 40 metros apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/paraisos-escondidos-no-para-cachoeiras-de-altamira-e-regiao-tem-quedas-de-ate-40-metros/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Gruta-da-Katia.jpg",
-      "data": "2026-09-03T20:30:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e03a75c69411e92a7923f0b21bac6c21",
-      "titulo": "Campeão da Série C, lateral do Guarani reforça o Paysandu na busca pelo acesso",
-      "descricao": "Paysandu acerta com lateral do Guarani para o quadrangular da Série C O Paysandu anunciou a contratação do lateral-esquerdo Renan Castro, de 30 anos, por empréstimo do Guarani. O jogador chega para reforçar o Papão no quadrangular decisivo da Série C do Campeonato Brasileiro. O post Campeão da Série C, lateral do Guarani reforça o Paysandu na busca pelo acesso apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/campeao-da-serie-c-lateral-do-guarani-reforca-o-paysandu-na-busca-pelo-acesso/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_55498723292_e15286c5e1_k.jpg",
-      "data": "2026-09-03T20:24:57+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "f82bc8b7d921f5f4fd2e91188aec54dd",
       "titulo": "Vistoria do SUS encontra leitos de UTI vazios e pacientes graves à espera de vagas em hospital de Ananindeua, no Pará",
       "descricao": "Pronto Socorro Municipal de Anindeua Ascom/Sesau O Departamento Nacional de Auditoria do SUS (Denasus), órgão de fiscalização do Ministério da Saúde, identificou irregularidades nas condições de funcionamento de unidades públicas de saúde de Ananindeua, Região Metropolitana de Belém. A informação foi divulgada nesta quinta-feira (3). Entre os problemas apontados estão a falta de insumos básicos de higienização, estrutura física insuficiente e leitos de UTI prontos, mas sem utilização enquanto pacientes graves aguardavam vagas. O g1 procurou a prefeitura de Ananindeua, solicitando um posicionamento sobre o caso, mas ainda não havia obtido retorno até a última atualização da reportagem. As constatações foram feitas durante uma inspeção realizada em 5 de agosto no Hospital Municipal de Ananindeua e na Unidade de Pronto Atendimento (UPA) 24h Icuí Daniel Berg. As duas unidades integram a rede pública de saúde do município. Segundo o relatório, havia leitos de UTI desocupados mesmo com pacientes em estado grave aguardando internação. Em um dos casos citados, pacientes chegaram a permanecer por mais de um mês em macas de pronto atendimento à espera de uma vaga. A vistoria também apontou falta de itens considerados básicos para a higienização, como sabonete e álcool 70%. No Pronto Socorro, a estrutura física foi considerada insuficiente. ✅ Clique e siga o canal do g1 Pará no WhatsApp Auditoria foi instaurada Diante das irregularidades encontradas, o Denasus deflagrou uma auditoria para aprofundar a apuração. O procedimento terá caráter de conformidade, operacional e financeira, segundo o Ministério da Saúde. As conclusões da inspeção foram encaminhadas à Secretaria Municipal de Saúde de Ananindeua em 31 de agosto. O órgão solicitou à secretaria e às direções técnicas das unidades que adotem medidas imediatas para corrigir os problemas identificados. Entre as providências estão a adequação da infraestrutura, o abastecimento de insumos e a melhoria do fluxo de regulação de pacientes. Investigação vai apurar uso de recursos A auditoria também vai verificar como estão sendo utilizados os recursos federais repassados ao município diante da existência de leitos de UTI sem ocupação. Outra frente será a apuração da governança da regulação municipal de leitos, com o objetivo de entender como são administradas as vagas para pacientes que precisam de internação. O Denasus também informou que pretende verificar eventuais responsabilidades por divergências entre as informações declaradas no Cadastro Nacional de Estabelecimentos de Saúde (CNES) e a situação encontrada durante a inspeção nas unidades. Agora no g1 Leia todas as notícias do estado no g1 Pará",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/2ckwbW6kU7-IUZ-Qmmp34q1-r7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/r/pDbiM3TdmMdIWvQ7vLJg/up-ag-9308-a6d454dc-7e51-3b32-d1e0-5bbe399b63ae.jpg",
       "data": "2026-09-03T20:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9ae84e1fac333a95a5728884e6a25ce7",
-      "titulo": "“Luto do que poderia ter sido”: filho de Mingau desabafa no aniversário do músico",
-      "descricao": "No aniversário de 59 anos de Mingau, filho do baixista do Ultraje a Rigor faz desabafo emocionante, relembra atentado de 2023 e fala sobre a longa recuperação do músico. Foto: divulgação/reprodução No dia em que Mingau completa 59 anos, filho do baixista do Ultraje a Rigor relembra o atentado que mudou a vida da família, fala sobre as perdas provocadas pela tragédia e agradece à mãe pelos cuidados com o músico. O post “Luto do que poderia ter sido”: filho de Mingau desabafa no aniversário do músico apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/voce/luto-do-que-poderia-ter-sido-filho-de-mingau-desabafa-no-aniversario-do-musico/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/SaveClip.App_793478525_18550211254076870_2106377598704338700_n.jpg",
-      "data": "2026-09-03T19:40:06+00:00",
       "categoria": "PARÁ"
     },
     {
