@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-03T21:33:39.147456+00:00",
+  "atualizado": "2026-09-03T22:02:53.724611+00:00",
   "noticias": [
+    {
+      "id": "90e645cd2f02e9ac2dffa29c8ff46c5a",
+      "titulo": "Vorcaro fez mais um pagamento para 'Dark Horse' além do que Flávio havia admitido, diz revista",
+      "descricao": "Vorcaro fez mais um pagamento para 'Dark Horse' além do que Flávio havia admitido, diz revista",
+      "link": "https://www.oliberal.com/politica/vorcaro-fez-mais-um-pagamento-para-dark-horse-alem-do-que-flavio-havia-admitido-diz-revista-1.1163572",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1123205:1784209949/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T22:02:51.414167+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a5e229a50b295a1a3e3cc3eff4638741",
+      "titulo": "Mendonça pede bênção de Deus ao Judiciário após vazamentos que apontam nomes de ministros",
+      "descricao": "Mendonça pede bênção de Deus ao Judiciário após vazamentos que apontam nomes de ministros",
+      "link": "https://www.oliberal.com/brasil/mendonca-pede-bencao-de-deus-ao-judiciario-em-meio-a-crise-no-stf-1.1164647",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113182:1788353684/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T22:02:51.413909+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "747225792a0cb2c6428571b7530e1be7",
+      "titulo": "Doações de R$ 5 milhões a Bolsonaro e Tarcísio teriam sido propina",
+      "descricao": "Doações de R$ 5 milhões a Bolsonaro e Tarcísio teriam sido propina",
+      "link": "https://www.oliberal.com/politica/doacoes-de-r-5-milhoes-a-bolsonaro-e-tarcisio-teriam-sido-propina-negociada-com-kassab-diz-portal-1.1164606",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.349950:1611917782/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-03T22:02:51.006610+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "87fd8d924094c1e47989e54624106f47",
+      "titulo": "Influenciadora come até 50 ostras por semana e diz ter sentido diferença na libido",
+      "descricao": "Jennifer Fabri afirma consumir até 50 ostras por semana dentro da rotina alimentar que chama de “Afrofit”. Foto: @jennifer.fabriof | CO ASSESSORIA Jennifer Fabri, de 28 anos, também inclui cacau, pimenta e gengibre na alimentação que chama de “Afrofit” e segue há quase seis meses. O post Influenciadora come até 50 ostras por semana e diz ter sentido diferença na libido apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/influenciadora-come-ate-50-ostras-por-semana-e-diz-ter-sentido-diferenca-na-libido/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Ostras-6.jpg",
+      "data": "2026-09-03T22:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "687a814eda5cf6834ab9854a23a81e03",
+      "titulo": "Você mastiga sempre do mesmo lado? Hábito pode desgastar dentes e sobrecarregar a articulação",
+      "descricao": "O hábito de mastigar utilizando apenas um lado da boca, quando prolongado, pode favorecer o desgaste desigual dos dentes e a sobrecarga de músculos e articulações. Foto: Magnific Dor, sensibilidade, restaurações desajustadas e ausência de dentes estão entre os problemas que podem levar uma pessoa a evitar um dos lados da boca. O post Você mastiga sempre do mesmo lado? Hábito pode desgastar dentes e sobrecarregar a articulação apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/voce-mastiga-sempre-do-mesmo-lado-habito-pode-desgastar-dentes-e-sobrecarregar-a-articulacao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Alimentacao.jpg",
+      "data": "2026-09-03T22:00:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "13a645ac938a17407fd69b5c8a430343",
       "titulo": "Documentos mostram como Vorcaro enviou R$ 61 milhões aos EUA para bancar 'Dark Horse'",
@@ -12,46 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "90e645cd2f02e9ac2dffa29c8ff46c5a",
-      "titulo": "Vorcaro fez mais um pagamento para 'Dark Horse' além do que Flávio havia admitido, diz revista",
-      "descricao": "Vorcaro fez mais um pagamento para 'Dark Horse' além do que Flávio havia admitido, diz revista",
-      "link": "https://www.oliberal.com/politica/vorcaro-fez-mais-um-pagamento-para-dark-horse-alem-do-que-flavio-havia-admitido-diz-revista-1.1163572",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1123205:1784209949/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-03T21:33:38.041588+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "747225792a0cb2c6428571b7530e1be7",
-      "titulo": "Doações de R$ 5 milhões a Bolsonaro e Tarcísio teriam sido propina",
-      "descricao": "Doações de R$ 5 milhões a Bolsonaro e Tarcísio teriam sido propina",
-      "link": "https://www.oliberal.com/politica/doacoes-de-r-5-milhoes-a-bolsonaro-e-tarcisio-teriam-sido-propina-negociada-com-kassab-diz-portal-1.1164606",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.349950:1611917782/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-03T21:33:38.041406+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a0ad96877f44e1a1b5387e0e63629705",
-      "titulo": "Você pode ajudar? Jovem paraense faz campanha para continuar tratamento de saúde",
-      "descricao": "Doações e compartilhamentos podem ajudar Ana Laura a ter acesso ao tratamento necessário para enfrentar o quadro de saúde Foto: divulgação/reprodução Após uma grave complicação, Ana Laura Pimenta está na UTI e enfrenta um quadro crítico de dor neuropática. Família arrecada recursos para viabilizar tratamento especializado em São Paulo. O post Você pode ajudar? Jovem paraense faz campanha para continuar tratamento de saúde apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/voce-pode-ajudar-jovem-paraense-faz-campanha-para-continuar-tratamento-de-saude/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-03_at_16_53_52.jpg",
-      "data": "2026-09-03T21:21:28+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "78c8d09402d5d78668321fa2124cc131",
-      "titulo": "Homem é morto a tiros e acompanhante corre para farmácia após ataque em Belém",
-      "descricao": "Ataque a tiros deixa um morto e outro ferido na Pedreira, em Belém. Foto: Divulgação Um homem foi assassinado a tiros na Travessa Vileta, bairro da Pedreira, em Belém. Outra vítima foi atingida, mas conseguiu fugir. A Polícia Militar e a Polícia Civil investigam o caso. O post Homem é morto a tiros e acompanhante corre para farmácia após ataque em Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/homem-e-morto-a-tiros-e-acompanhante-corre-para-farmacia-apos-ataque-em-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Image-2026-09-03-at-18.00.35.jpeg",
-      "data": "2026-09-03T21:18:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "b9ecf700853b19fbf4f4f040bf321334",
       "titulo": "Caso Priscyla Soares: acusado de estrangular jovem e simular suicídio é julgado em Belém",
       "descricao": "Julgamento de Luis Felipe Magno Paraense da Costa TJPA O julgamento de Luis Felipe Magno Paraense da Costa, acusado de estrangular Priscyla Soares Gomes e alterar a cena do crime para simular um suicídio, começou na manhã desta quinta-feira (3), no Fórum Criminal de Belém, no bairro da Cidade Velha. A sessão é presidida pelo juiz Cláudio Hernandes Silva Lima. Priscyla tinha 29 anos e foi encontrada morta dentro do apartamento onde morava, no bairro do Mangueirão, em fevereiro de 2023. Segundo a acusação, o crime teria sido motivado por ciúmes e cometido com o uso de um cabo. Ainda de acordo com a denúncia, Luis Felipe teria modificado a cena após a morte para sustentar a versão de que Priscyla havia tirado a própria vida. As investigações, no entanto, apontaram que a vítima morreu por estrangulamento. Priscyla Soares TV Liberal O réu responde por homicídio qualificado, com as qualificadoras de motivo torpe, asfixia, uso de recurso que dificultou a defesa da vítima e feminicídio. Ele também é acusado de fraude processual pela suposta alteração da cena do crime. Luis Felipe foi preso em São Paulo em fevereiro de 2025 e permanece detido. Agora no g1 ✅ Clique e siga o canal do g1 Pará no WhatsApp Veja todas as notícias do estado no g1 Pará",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/1OLAcKNu2ds4ri8UByepqi0zj1c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/p/ItwyAXQk2ozNeCa9brsA/whatsapp-image-2026-09-03-at-09.53.08.jpeg",
       "data": "2026-09-03T21:11:46+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d3049f8d5ed6fdaba42fd4a0c46b6010",
-      "titulo": "Pará corre risco com suspensão da carne brasileira pela União Europeia? Setor explica",
-      "descricao": "UE suspende importações do Brasil: Pará fica de fora do mercado europeu, mas cenário chama atenção. Foto: divulgação/reprodução Exportações brasileiras de produtos de origem animal para a União Europeia foram suspensas nesta quinta-feira, 3; Daniel Freire explica por que o Pará não deve sofrer impacto direto e comenta exigências do bloco europeu. O post Pará corre risco com suspensão da carne brasileira pela União Europeia? Setor explica apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/para-corre-risco-com-suspensao-da-carne-brasileira-pela-uniao-europeia-setor-explica/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_ChatGPT_Image_3_de_set_de_2026_17_37_49.jpg",
-      "data": "2026-09-03T21:01:10+00:00",
       "categoria": "PARÁ"
     },
     {
