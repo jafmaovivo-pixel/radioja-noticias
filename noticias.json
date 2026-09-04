@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-04T14:03:13.160780+00:00",
+  "atualizado": "2026-09-04T14:35:27.013904+00:00",
   "noticias": [
     {
       "id": "0fb0d6ae2ca6220f6e8c001fc4e23eec",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/politica/vereadora-de-belem-sofre-acidente-de-transito-no-interior-do-estado-1.1164547",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.908211:1737126804/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T14:03:10.699753+00:00",
+      "data": "2026-09-04T14:35:25.419062+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/policia/vendedor-de-peixe-morre-apos-colisao-entre-quatro-veiculos-na-pa-279-em-tucuma-1.1164808",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164809:1788529732/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T14:03:10.125807+00:00",
+      "data": "2026-09-04T14:35:25.418919+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/policia/homem-morre-e-duas-pessoas-ficam-gravemente-feridas-em-acidente-com-motos-em-belem-1.1164764",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164765:1788523339/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T14:03:09.696965+00:00",
+      "data": "2026-09-04T14:35:25.418762+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "da1457af6b83d7e2a01f8f2805d509c6",
+      "titulo": "Noite de Safadão e Pablo promete lotar o Festival do Abacaxi em Barcarena",
+      "descricao": "Barcarena recebe Pablo e Wesley Safadão em noite de grandes shows A 44ª edição do Festival do Abacaxi em Barcarena oferece quatro noites de música e cultura, com shows gratuitos de artistas como Maria Marçal, Gabriela Rocha, Pablo, Wesley Safadão, Ana Castela, Ludmilla, Péricles e Matheus & Kauan. O post Noite de Safadão e Pablo promete lotar o Festival do Abacaxi em Barcarena apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/noite-de-safadao-e-pablo-promete-lotar-o-festival-do-abacaxi-em-barcarena/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://diariodopara.com.br/wp-content/uploads/2023/10/ws-divulgacao.jpg",
+      "data": "2026-09-04T14:31:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0f6cd83a3e9128244f95b58b25eb9fd6",
+      "titulo": "Tacacá e tucupi surgem entre os 10 pratos imperdíveis que todo turista deveria provar no Brasil",
+      "descricao": "Tacacá Uma pesquisa revela que a gastronomia local é parte fundamental da experiência turística no Brasil, com pratos como acarajé e tacacá dividindo opiniões entre viajantes. O post Tacacá e tucupi surgem entre os 10 pratos imperdíveis que todo turista deveria provar no Brasil apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/diario-de-bordo/tacaca-e-tucupi-surgem-entre-os-10-ptratos-imperdiveis-que-todo-turista-deveria-provar-no-brasil/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/social-tomaz-culinaria-do-para2-661415.jpg",
+      "data": "2026-09-04T14:03:38+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_793142299_18098033072528369_5279394335143349076_n.jpg",
       "data": "2026-09-04T13:59:19+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fa0f840e81d525230a97a66e425063ee",
-      "titulo": "Políticos repercutem pedido de Moraes para investigar Mendonça",
-      "descricao": "Políticos repercutem pedido de Moraes para investigar Mendonça",
-      "link": "https://www.oliberal.com/politica/crise-no-stf-veja-a-repercussao-politica-apos-moraes-pedir-investigacao-contra-mendonca-1.1164753",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163704:1788288370/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T13:35:56.152462+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9176e4b226c44c4ab82514c0f03051b9",
-      "titulo": "Mulher processa ex-jogador do Flamengo em R$ 300 mil e pede bloqueio do salário do atleta",
-      "descricao": "O ex-jogador do Flamengo e atual meio-campista do Cruzeiro, Gerson, foi processado em R$ 300 mil em uma ação de execução. Foto: Cruzeiro O ex-jogador do Flamengo e atual meio-campista do Cruzeiro, Gerson, foi processado em R$ 300 mil em uma ação de execução. O post Mulher processa ex-jogador do Flamengo em R$ 300 mil e pede bloqueio do salário do atleta apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/mulher-processa-ex-jogador-do-flamengo-em-r-300-mil-e-pede-bloqueio-do-salario-do-atleta/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/gerson-2-1.jpg",
-      "data": "2026-09-04T13:34:50+00:00",
       "categoria": "PARÁ"
     },
     {
