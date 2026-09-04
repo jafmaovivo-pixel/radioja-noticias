@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-04T12:03:50.306743+00:00",
+  "atualizado": "2026-09-04T12:39:52.258267+00:00",
   "noticias": [
+    {
+      "id": "fa0f840e81d525230a97a66e425063ee",
+      "titulo": "Políticos repercutem pedido de Moraes para investigar Mendonça",
+      "descricao": "Políticos repercutem pedido de Moraes para investigar Mendonça",
+      "link": "https://www.oliberal.com/politica/crise-no-stf-veja-a-repercussao-politica-apos-moraes-pedir-investigacao-contra-mendonca-1.1164753",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163704:1788288370/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T12:39:51.099442+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2458c586d8b4e6cabd4d22430c4ce1a4",
+      "titulo": "Flávio Bolsonaro virá ao Pará para campanha em Belém e Santarém",
+      "descricao": "Flávio Bolsonaro virá ao Pará para campanha em Belém e Santarém",
+      "link": "https://www.oliberal.com/politica/flavio-bolsonaro-vira-ao-para-para-campanha-em-belem-e-santarem-1.1164746",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1132490:1781217847/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T12:39:50.829247+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3ffbf693bf43f44d4cf3772497817150",
+      "titulo": "Homem morre e duas pessoas ficam gravemente feridas em acidente",
+      "descricao": "Homem morre e duas pessoas ficam gravemente feridas em acidente",
+      "link": "https://www.oliberal.com/policia/homem-morre-e-duas-pessoas-ficam-gravemente-feridas-em-acidente-com-motos-em-belem-1.1164764",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164765:1788523339/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T12:39:50.562699+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7354ea4f1e2b6042d96552c1b919bbd1",
+      "titulo": "Padre Fábio de Melo rompe o silêncio sobre foto polêmica na academia: “Infelizmente”",
+      "descricao": "Padre Fábio de Melo rebateu as críticas e cobranças em relação aos seus hábitos pessoais e à sua rotina. Foto: Reprodução/ Montagem Durante participação no \"Saia Justa\", o religioso rebateu cobranças sobre o seu estilo de vida e garantiu que seu compromisso é sacerdotal. O post Padre Fábio de Melo rompe o silêncio sobre foto polêmica na academia: “Infelizmente” apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/padre-fabio-de-melo-rompe-o-silencio-sobre-foto-polemica-na-academia-infelizmente/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_fabio-de-melo-e-abordado-em-academia-apos-denuncia-ao-vaticano.jpg",
+      "data": "2026-09-04T12:35:14+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "46a48f7a9bf0468e08e4f7b994cac792",
+      "titulo": "Quem é mais influente? Joelma, Fafá e Lia Mendonça estão na disputa do Prêmio iBest 2026",
+      "descricao": "Prêmio iBest 2026 vai premiar um influencer paraense. Foto: Divulgação Lista reúne grandes nomes da cultura, música, internet e esporte do estado; grupo dos 10 finalistas será revelado em outubro. O post Quem é mais influente? Joelma, Fafá e Lia Mendonça estão na disputa do Prêmio iBest 2026 apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/quem-e-mais-influente-joelma-fafa-e-lia-mendonca-estao-na-disputa-do-premio-ibest-2026/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_792069902_18115137620049237_4588552383717420606_n_1.jpg",
+      "data": "2026-09-04T12:30:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "74a4e420ab44c83213f357b0f1d92272",
       "titulo": "Doações de R$ 5 milhões a Bolsonaro e Tarcísio teriam sido propina negociada com Kassab, diz portal",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.349950:1611917782/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-04T12:03:47.888403+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "76fded24ec161046e089147de51374e9",
-      "titulo": "Flávio Bolsonaro: Espero que Vorcaro homologue sua delação e fale tudo",
-      "descricao": "Flávio Bolsonaro: Espero que Vorcaro homologue sua delação e fale tudo",
-      "link": "https://www.oliberal.com/politica/flavio-bolsonaro-espero-que-vorcaro-homologue-sua-delacao-e-fale-tudo-1.1164698",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1121617:1778795257/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T12:03:47.888289+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e97064bb640971fa57a33152a060ef97",
-      "titulo": "Lula defende investigação de \"todo mundo, doa a quem doer\".",
-      "descricao": "Lula defende investigação de \"todo mundo, doa a quem doer\".",
-      "link": "https://www.oliberal.com/politica/caso-master-lula-defende-investigacao-de-todo-mundo-doa-a-quem-doer-1.1164713",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1116515:1777660221/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T12:03:47.888146+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7c780e62374b21818fdad12127eb0133",
-      "titulo": "Hot Classics volta a Belém em outubro com Evi Goffin; ingressos já estão disponíveis",
-      "descricao": "Hot Classics volta a Belém em outubro com Evi Goffin. Veja a data do evento e como comprar os ingressos. Hot Classics volta a Belém em outubro com Evi Goffin. Veja a data do evento e como comprar os ingressos. O post Hot Classics volta a Belém em outubro com Evi Goffin; ingressos já estão disponíveis apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/hot-classics-volta-a-belem-em-outubro-com-evi-goffin-ingressos-ja-estao-disponiveis/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_hot.jpg",
-      "data": "2026-09-04T11:28:13+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "77d3979eb0fddf6d736ec71f57264847",
-      "titulo": "Cria da Tuna e ex-Paysandu, Juninho dá novo passo na carreira e chega à Série B",
-      "descricao": "Meia paraense com passagem pelo Paysandu acerta com clube da Série B- Foto: Jorge Luis Totti/PSC O meia Juninho, destaque do Anápolis, é o novo reforço do Londrina para a Série B do Campeonato Brasileiro. O jogador chega para defender o Tubarão até o fim da temporada. O post Cria da Tuna e ex-Paysandu, Juninho dá novo passo na carreira e chega à Série B apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/cria-da-tuna-e-ex-paysandu-juninho-da-novo-passo-na-carreira-e-chega-a-serie-b/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://diariodopara.com.br/wp-content/uploads/2025/03/juninho.jpg",
-      "data": "2026-09-04T11:17:11+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f142c310f11d46e696df120d41ba1bc2",
-      "titulo": "Acidente com motos deixa vítima fatal no bairro do Reduto em Belém, nesta sexta-feira",
-      "descricao": "Um acidente envolvendo duas motocicletas deixou uma pessoa morta no início da manhã desta sexta-feira (4), no bairro do reduto, em Belém. Um acidente envolvendo duas motocicletas deixou uma pessoa morta no início da manhã desta sexta-feira (4), no bairro do reduto, em Belém. O post Acidente com motos deixa vítima fatal no bairro do Reduto em Belém, nesta sexta-feira apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/acidente-com-motos-deixa-vitima-fatal-no-bairro-do-reduto-em-belem-nesta-sexta-feira/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/c787094c-c2d7-4ee2-8bad-d0b49b919cdf-1.png",
-      "data": "2026-09-04T10:39:30+00:00",
       "categoria": "PARÁ"
     },
     {
