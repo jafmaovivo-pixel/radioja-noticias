@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-04T19:02:44.668289+00:00",
+  "atualizado": "2026-09-04T19:32:12.455608+00:00",
   "noticias": [
+    {
+      "id": "511a6459b5a79bd31c4c14ce33f4696a",
+      "titulo": "Caso Giovanna: 4 médicos são indiciados pela morte da empresária após cirurgias plásticas em Belém",
+      "descricao": "Caso Giovanna: 4 médicos são indiciados pela morte da empresária após cirurgias plásticas em Belém",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-4-medicos-sao-indiciados-pela-morte-da-empresaria-apos-cirurgias-plasticas-em-belem-1.1164902",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163473:1788225814/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T19:32:11.149111+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0d108d7b677810c551b688f8b342f0b9",
+      "titulo": "Caso Giovanna: PC aponta contradições nos depoimentos dos médicos investigados",
+      "descricao": "Caso Giovanna: PC aponta contradições nos depoimentos dos médicos investigados",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-pc-aponta-contradicoes-nos-depoimentos-dos-medicos-investigados-1.1164943",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164946:1788544603/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T19:32:11.148938+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c9e2dbff02c9230fc82dde4dc85e2875",
+      "titulo": "Irmã da vítima afirma que a luta por justiça está ‘apenas começando’",
+      "descricao": "Irmã da vítima afirma que a luta por justiça está ‘apenas começando’",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-irma-da-vitima-afirma-que-a-luta-por-justica-esta-apenas-comecando-1.1164967",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164970:1788548509/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T19:32:11.148692+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7fe2fdf35b4b8e009fbe7e998bf9e996",
+      "titulo": "Cine Floresta Digital: mostra virtual reúne curtas da Amazônia",
+      "descricao": "Foto: Divulgação A mostra virtual Cine Floresta Digital exibe três curtas-metragens produzidos por jovens de comunidades tradicionais do Acre, Amapá e Pará, resultado de um curso de formação audiovisual. O post Cine Floresta Digital: mostra virtual reúne curtas da Amazônia apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/cine-floresta-digital-mostra-virtual-reune-curtas-da-amazonia/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_1000287735.jpg",
+      "data": "2026-09-04T19:19:36+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "405da88f0ccf3337341beea76c09990a",
+      "titulo": "Imagens aéreas mostram avanço das obras do novo CT do Remo, em Outeiro",
+      "descricao": "Obras começaram em julho e estão na fase inicial de preparação do terreno; projeto superior a R$ 15 milhões terá alojamento, academia, área médica, refeitório e três campos oficiais O Clube do Remo segue com as obras do CT Rei da Amazônia, em Outeiro, com investimento de R$ 15 milhões. A previsão é que o centro de treinamento esteja completamente pronto no primeiro trimestre de 2027. O post Imagens aéreas mostram avanço das obras do novo CT do Remo, em Outeiro apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/imagens-aereas-mostram-avanco-das-obras-do-novo-ct-do-remo-em-outeiro/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/CTRemo6-1.jpg",
+      "data": "2026-09-04T19:13:57+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "5e639af996ad0f6abfd55f8baf569e1d",
       "titulo": "Caso Giovanna: Advogado diz estar ‘perplexo’ com as investigações e espera condenação dos 4 médicos",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164957:1788546391/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-04T19:02:42.877061+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "511a6459b5a79bd31c4c14ce33f4696a",
-      "titulo": "Caso Giovanna: 4 médicos são indiciados pela morte da empresária após cirurgias plásticas em Belém",
-      "descricao": "Caso Giovanna: 4 médicos são indiciados pela morte da empresária após cirurgias plásticas em Belém",
-      "link": "https://www.oliberal.com/policia/caso-giovanna-4-medicos-sao-indiciados-pela-morte-da-empresaria-apos-cirurgias-plasticas-em-belem-1.1164902",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163473:1788225814/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T19:02:42.876935+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c31a2d5f0a29d950d13a26438e2fdd71",
-      "titulo": "PC aponta contradições nos depoimentos dos médicos investigados",
-      "descricao": "PC aponta contradições nos depoimentos dos médicos investigados",
-      "link": "https://www.oliberal.com/policia/caso-giovanna-pc-aponta-contradicoes-nos-depoimentos-dos-medicos-investigados-1.1164943",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164946:1788544603/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T19:02:42.876790+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4ec7a08e55bd5840c4668be664bc0ac3",
-      "titulo": "Veja as primeiras fotos de Renato Góes como filho desaparecido de Arthur em Quem Ama Cuida",
-      "descricao": "Renato Góes aparece caracterizado como Heitor, filho desaparecido de Arthur Brandão, nas primeiras imagens do personagem em Quem Ama Cuida. Foto: Globo/ Estevam Avellar Ator interpreta Heitor, personagem dado como morto até então e que terá o paradeiro revelado após o capítulo 100 da novela das 9 O post Veja as primeiras fotos de Renato Góes como filho desaparecido de Arthur em Quem Ama Cuida apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/veja-as-primeiras-fotos-de-renato-goes-como-filho-desaparecido-de-arthur-em-quem-ama-cuida/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Quem-Ama-Cuida-1.jpg",
-      "data": "2026-09-04T18:59:04+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "df8e4a7ff23fb892e3f4779d2557b73b",
-      "titulo": "Graça descobre crime de Mirinho e paga matador para sumir em A Nobreza do Amor",
-      "descricao": "Graça (Fabiana Karla) descobrirá o envolvimento de Mirinho (Nicolas Prattes) no atentado contra Casemiro e tentará proteger o filho em A Nobreza do Amor. Foto: Reprodução/TV Globo Após ouvir de Tonho que o filho estava por trás do atentado contra Casemiro, personagem de Fabiana Karla decide proteger o vilão O post Graça descobre crime de Mirinho e paga matador para sumir em A Nobreza do Amor apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/graca-descobre-crime-de-mirinho-e-paga-matador-para-sumir-em-a-nobreza-do-amor/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/A-Nobreza-do-Amor-1.jpg",
-      "data": "2026-09-04T18:55:49+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "181a9bd11f8d77776adf4e1cd33bc44b",
-      "titulo": "Caso Giovanna Coelho: Médico é indiciado após suposta alteração em prontuário de empresária morta",
-      "descricao": "Caso Giovanna: investigação aponta suposta informação falsa em prontuário Quatro médicos foram indiciados por homicídio culposo majorado e falsidade ideológica na investigação da morte da empresária Giovanna Coelho Gomes, em Belém. O post Caso Giovanna Coelho: Médico é indiciado após suposta alteração em prontuário de empresária morta apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/caso-giovanna-coelho-medico-e-indiciado-apos-suposta-alteracao-em-prontuario-de-empresaria-morta/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/giovanna-coelho10.jpg",
-      "data": "2026-09-04T18:21:06+00:00",
       "categoria": "PARÁ"
     },
     {
