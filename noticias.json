@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-04T18:03:23.239604+00:00",
+  "atualizado": "2026-09-04T18:35:40.800384+00:00",
   "noticias": [
+    {
+      "id": "5e639af996ad0f6abfd55f8baf569e1d",
+      "titulo": "Caso Giovanna: Advogado diz estar ‘perplexo’ com as investigações e espera condenação dos 4 médicos",
+      "descricao": "Caso Giovanna: Advogado diz estar ‘perplexo’ com as investigações e espera condenação dos 4 médicos",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-advogado-diz-estar-perplexo-com-as-investigacoes-e-espera-condenacao-dos-4medicos-1.1164955",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164957:1788546391/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T18:35:38.969617+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "511a6459b5a79bd31c4c14ce33f4696a",
+      "titulo": "Caso Giovanna: 4 médicos são indiciados pela morte da empresária após cirurgias plásticas em Belém",
+      "descricao": "Caso Giovanna: 4 médicos são indiciados pela morte da empresária após cirurgias plásticas em Belém",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-4-medicos-sao-indiciados-pela-morte-da-empresaria-apos-cirurgias-plasticas-em-belem-1.1164902",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163473:1788225814/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T18:35:38.690081+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c31a2d5f0a29d950d13a26438e2fdd71",
+      "titulo": "PC aponta contradições nos depoimentos dos médicos investigados",
+      "descricao": "PC aponta contradições nos depoimentos dos médicos investigados",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-pc-aponta-contradicoes-nos-depoimentos-dos-medicos-investigados-1.1164943",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164946:1788544603/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T18:35:38.689888+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "181a9bd11f8d77776adf4e1cd33bc44b",
+      "titulo": "Caso Giovanna Coelho: Médico é indiciado após suposta alteração em prontuário de empresária morta",
+      "descricao": "Caso Giovanna: investigação aponta suposta informação falsa em prontuário Quatro médicos foram indiciados por homicídio culposo majorado e falsidade ideológica na investigação da morte da empresária Giovanna Coelho Gomes, em Belém. O post Caso Giovanna Coelho: Médico é indiciado após suposta alteração em prontuário de empresária morta apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/policia/caso-giovanna-coelho-medico-e-indiciado-apos-suposta-alteracao-em-prontuario-de-empresaria-morta/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/giovanna-coelho10.jpg",
+      "data": "2026-09-04T18:21:06+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3e1a2475b91fe8eb17b4a17d6fc739a6",
+      "titulo": "7 de Setembro muda horários na Grande Belém; veja o que abre e fecha no feriado",
+      "descricao": "Comércio, shoppings, serviços de saúde e equipamentos públicos terão funcionamento específico no feriado de 7 de Setembro na Grande Belém. Foto: Arquivo/Diário do Pará Comércio poderá funcionar nesta segunda-feira (7), enquanto equipamentos municipais terão atendimento suspenso ou horários diferenciados. O post 7 de Setembro muda horários na Grande Belém; veja o que abre e fecha no feriado apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/7-de-setembro-muda-horarios-na-grande-belem-veja-o-que-abre-e-fecha-no-feriado/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Comercio-1.jpg",
+      "data": "2026-09-04T18:05:52+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "f6dcb7424bedc8010ff67324e4644561",
       "titulo": "Caso Giovanna: ‘Sonho que virou pesadelo’, diz primo após laudo apontar causa da morte",
@@ -9,46 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163481:1788227116/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-04T18:03:20.983673+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a5ecb189a6e5894e581619a01e634f0c",
-      "titulo": "Caso Giovanna: investigação sobre a morte da jovem deve ser concluída nesta semana, diz advogado",
-      "descricao": "Caso Giovanna: investigação sobre a morte da jovem deve ser concluída nesta semana, diz advogado",
-      "link": "https://www.oliberal.com/policia/caso-giovanna-investigacao-sobre-a-morte-da-jovem-deve-ser-concluida-nesta-semana-diz-advogado-1.1163671",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163481:1788227116/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T18:03:20.983549+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e6952f5cb1ac39a1d28a27ad4a1ecb81",
-      "titulo": "Caso Giovanna: quatro médicos são indiciados pela morte da empresária",
-      "descricao": "Caso Giovanna: quatro médicos são indiciados pela morte da empresária",
-      "link": "https://www.oliberal.com/policia/caso-giovanna-4-medicos-sao-indiciados-pela-morte-da-empresaria-apos-cirurgias-plasticas-em-belem-1.1164902",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163473:1788225814/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T18:03:20.983400+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d2503513ac208e9c17f2fdd956608f5c",
-      "titulo": "Monaco de Filipe Luís enfrenta PSG em primeiro grande teste na Ligue 1; veja onde assistir e escalações",
-      "descricao": "Líder e com 100% de aproveitamento, Monaco – treinado pelo brasileiro Filipe Luís - visita o atual campeão francês e europeu nesta sexta-feira (4), às 16h05; PSG ainda busca a primeira vitória na Ligue 1. O Monaco, comandado por Filipe Luís, terá seu primeiro grande desafio na temporada europeia ao enfrentar o Paris Saint-Germain pela terceira rodada do Campeonato Francês. A partida acontece nesta sexta-feira (4). O post Monaco de Filipe Luís enfrenta PSG em primeiro grande teste na Ligue 1; veja onde assistir e escalações apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/monaco-de-filipe-luis-enfrenta-psg-em-primeiro-grande-teste-na-ligue-1-veja-onde-assistir-e-escalacoes/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/PSGxMonaco.jpg",
-      "data": "2026-09-04T18:01:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "487f0889d92154d3549cc36eb546afa9",
-      "titulo": "Real Madrid visita o Betis em busca da 4ª vitória na LaLiga; onde assistir ao vivo",
-      "descricao": "Time de José Mourinho visita o Betis nesta sexta-feira (4), às 16h, no La Cartuja, tentando preservar campanha perfeita na LaLiga; Mbappé vive grande fase O Real Madrid busca a quarta vitória consecutiva na LaLiga ao visitar o Betis nesta sexta-feira. Com Mbappé em alta, o time de José Mourinho tenta manter o 100% de aproveitamento no Campeonato Espanhol. O post Real Madrid visita o Betis em busca da 4ª vitória na LaLiga; onde assistir ao vivo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/real-madrid-visita-o-betis-em-busca-da-4a-vitoria-na-laliga-onde-assistir-ao-vivo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/RealxBetis6.jpg",
-      "data": "2026-09-04T18:00:00+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/5G9SNqPjnnccIWeLUTbvZlzHs-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/z/ROL1hlS0q18dcBWLa6Fw/geral-g1-2026-03-28t155721.283.png",
       "data": "2026-09-04T17:12:39+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "77e96f89a1af13b6874032b53005a23b",
-      "titulo": "“Devagar, devagarinho”: por que música de Martinho da Vila rendeu bolada a bancário na Justiça?",
-      "descricao": "Música “Devagar, devagarinho”, de Martinho da Vila, era usada por colegas para debochar de bancário com problemas de saúde no ambiente de trabalho. Foto: divulgação/reprodução Bancário com LER/DORT era chamado de “lerdinho” e ouvia referências à música “Devagar, devagarinho”, de Martinho da Vila, como forma de deboche no ambiente de trabalho. O post “Devagar, devagarinho”: por que música de Martinho da Vila rendeu bolada a bancário na Justiça? apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/devagar-devagarinho-por-que-musica-de-martinho-da-vila-rendeu-bolada-a-bancario-na-justica/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_-_2026-09-03T175454_279.jpg",
-      "data": "2026-09-04T17:00:00+00:00",
       "categoria": "PARÁ"
     }
   ]
