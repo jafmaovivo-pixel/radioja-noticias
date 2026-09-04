@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-04T13:35:57.748426+00:00",
+  "atualizado": "2026-09-04T14:03:13.160780+00:00",
   "noticias": [
+    {
+      "id": "0fb0d6ae2ca6220f6e8c001fc4e23eec",
+      "titulo": "Vereadora de Belém sofre acidente de trânsito no interior do estado",
+      "descricao": "Vereadora de Belém sofre acidente de trânsito no interior do estado",
+      "link": "https://www.oliberal.com/politica/vereadora-de-belem-sofre-acidente-de-transito-no-interior-do-estado-1.1164547",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.908211:1737126804/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T14:03:10.699753+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "45cf3d6fc9c5b3705ee800eaadd58328",
+      "titulo": "Vendedor de peixe morre após colisão entre quatro veículos na PA-279, em Tucumã",
+      "descricao": "Vendedor de peixe morre após colisão entre quatro veículos na PA-279, em Tucumã",
+      "link": "https://www.oliberal.com/policia/vendedor-de-peixe-morre-apos-colisao-entre-quatro-veiculos-na-pa-279-em-tucuma-1.1164808",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164809:1788529732/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T14:03:10.125807+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3ffbf693bf43f44d4cf3772497817150",
+      "titulo": "Homem morre e duas pessoas ficam gravemente feridas em acidente",
+      "descricao": "Homem morre e duas pessoas ficam gravemente feridas em acidente",
+      "link": "https://www.oliberal.com/policia/homem-morre-e-duas-pessoas-ficam-gravemente-feridas-em-acidente-com-motos-em-belem-1.1164764",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164765:1788523339/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-04T14:03:09.696965+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "eddb252f7d6cdfcd1179af2c86b847d1",
+      "titulo": "“Fonte do Amor” surge em avenida de Belém e chama atenção de moradores",
+      "descricao": "A fonte luminosa (Chafariz) instalada na Avenida Rômulo Maiorana. Foto: Reprodução/ Redes Sociais Instalada na rotatória com a Barão do Triunfo, estrutura iluminada foi registrada por moradores e já movimenta comentários nas redes sociais. O post “Fonte do Amor” surge em avenida de Belém e chama atenção de moradores apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/fonte-do-amor-surge-em-avenida-de-belem-e-chama-atencao-de-moradores/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_793142299_18098033072528369_5279394335143349076_n.jpg",
+      "data": "2026-09-04T13:59:19+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "fa0f840e81d525230a97a66e425063ee",
       "titulo": "Políticos repercutem pedido de Moraes para investigar Mendonça",
@@ -12,43 +52,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "2458c586d8b4e6cabd4d22430c4ce1a4",
-      "titulo": "Flávio Bolsonaro virá ao Pará para campanha em Belém e Santarém",
-      "descricao": "Flávio Bolsonaro virá ao Pará para campanha em Belém e Santarém",
-      "link": "https://www.oliberal.com/politica/flavio-bolsonaro-vira-ao-para-para-campanha-em-belem-e-santarem-1.1164746",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1132490:1781217847/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T13:35:56.152233+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3ffbf693bf43f44d4cf3772497817150",
-      "titulo": "Homem morre e duas pessoas ficam gravemente feridas em acidente",
-      "descricao": "Homem morre e duas pessoas ficam gravemente feridas em acidente",
-      "link": "https://www.oliberal.com/policia/homem-morre-e-duas-pessoas-ficam-gravemente-feridas-em-acidente-com-motos-em-belem-1.1164764",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164765:1788523339/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-04T13:35:56.152012+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ba79a1b00c69a1d2783638d5c7def85f",
-      "titulo": "Por que 69% dos casos de câncer de ovário chegam aos hospitais em fase avançada?",
-      "descricao": "Setembro reforça a conscientização sobre os cânceres ginecológicos e a importância de reconhecer sinais que exigem investigação médica. Foto: divulgação/reprodução Levantamento da SBCO mostra que quase sete em cada dez casos de câncer de ovário com estadiamento conhecido estavam nos estágios III ou IV; setembro reforça alerta sobre prevenção, sintomas e diagnóstico. O post Por que 69% dos casos de câncer de ovário chegam aos hospitais em fase avançada? apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/dr-responde/por-que-69-dos-casos-de-cancer-de-ovario-chegam-aos-hospitais-em-fase-avancada/",
+      "id": "9176e4b226c44c4ab82514c0f03051b9",
+      "titulo": "Mulher processa ex-jogador do Flamengo em R$ 300 mil e pede bloqueio do salário do atleta",
+      "descricao": "O ex-jogador do Flamengo e atual meio-campista do Cruzeiro, Gerson, foi processado em R$ 300 mil em uma ação de execução. Foto: Cruzeiro O ex-jogador do Flamengo e atual meio-campista do Cruzeiro, Gerson, foi processado em R$ 300 mil em uma ação de execução. O post Mulher processa ex-jogador do Flamengo em R$ 300 mil e pede bloqueio do salário do atleta apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/mulher-processa-ex-jogador-do-flamengo-em-r-300-mil-e-pede-bloqueio-do-salario-do-atleta/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp-Image-2026-09-01-at-15_27_14.jpg",
-      "data": "2026-09-04T13:30:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "12e0bfc8d3708096b690b5f34fc38ff4",
-      "titulo": "Galã dos anos 80 e 90 surge dançando com a esposa aos 68 anos; veja como está Paulo César Grande",
-      "descricao": "Paulo César Grande aparece dançando ao lado da esposa, a atriz Cláudia Mauro, com quem mantém uma relação de mais de três décadas. Foto: Reprodução/João Paulo Freitas/Seriella Productions Um vídeo divertido de um casal dançando na sala de casa chamou a atenção nas redes sociais e trouxe de volta à cena Paulo César Grande, ator que marcou a teledramaturgia brasileira nas décadas de 1980 e 1990. Aos 68 anos, ele aparece ao lado da esposa, a atriz Cláudia Mauro. Os dois mantêm uma […] O post Galã dos anos 80 e 90 surge dançando com a esposa aos 68 anos; veja como está Paulo César Grande apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/gala-dos-anos-80-e-90-surge-dancando-com-a-esposa-aos-68-anos-veja-como-esta-paulo-cesar-grande/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Paulo-Cesar-Grande-3.jpg",
-      "data": "2026-09-04T13:18:00+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/gerson-2-1.jpg",
+      "data": "2026-09-04T13:34:50+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/5qfX8iJABWBD8WXy4xRqoUKra3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/s6H4xJR4izyZKBbybKqQ/captura-de-tela-2026-09-04-093642.png",
       "data": "2026-09-04T13:07:33+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7354ea4f1e2b6042d96552c1b919bbd1",
-      "titulo": "Padre Fábio de Melo rompe o silêncio sobre foto polêmica na academia: “Infelizmente”",
-      "descricao": "Padre Fábio de Melo rebateu as críticas e cobranças em relação aos seus hábitos pessoais e à sua rotina. Foto: Reprodução/ Montagem Durante participação no \"Saia Justa\", o religioso rebateu cobranças sobre o seu estilo de vida e garantiu que seu compromisso é sacerdotal. O post Padre Fábio de Melo rompe o silêncio sobre foto polêmica na academia: “Infelizmente” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/padre-fabio-de-melo-rompe-o-silencio-sobre-foto-polemica-na-academia-infelizmente/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_fabio-de-melo-e-abordado-em-academia-apos-denuncia-ao-vaticano.jpg",
-      "data": "2026-09-04T12:35:14+00:00",
       "categoria": "PARÁ"
     },
     {
