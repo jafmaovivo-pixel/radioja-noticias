@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-05T14:02:48.705346+00:00",
+  "atualizado": "2026-09-05T14:32:39.857292+00:00",
   "noticias": [
+    {
+      "id": "3846e1afe6056b05c233729834a90dcf",
+      "titulo": "Casal é morto dentro de residência no bairro do Jurunas, em Belém",
+      "descricao": "Casal é morto dentro de residência no bairro do Jurunas, em Belém",
+      "link": "https://www.oliberal.com/policia/casal-e-morto-dentro-de-residencia-no-bairro-do-jurunas-em-belem-1.1165275",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165278:1788610188/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-05T14:32:38.732003+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "765e8fb5b640c87e84f8ed86632f8db3",
+      "titulo": "Nova etapa da Romulo Maiorana e Parque 25 serão entregues neste sábado (5/9), em Belém",
+      "descricao": "Nova etapa da Romulo Maiorana e Parque 25 serão entregues neste sábado (5/9), em Belém",
+      "link": "https://www.oliberal.com/belem/nova-etapa-da-romulo-maiorana-e-parque-25-serao-entregues-neste-sabado-5-9-em-belem-1.1164100",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.884067:1730864128/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-05T14:32:38.583924+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "540db542bb04e2ea145fe263b854eb79",
+      "titulo": "Novo trecho da avenida Romulo Maiorana é entregue; veja detalhes",
+      "descricao": "Novo trecho da avenida Romulo Maiorana é entregue; veja detalhes",
+      "link": "https://www.oliberal.com/belem/novo-trecho-da-avenida-romulo-maiorana-e-entregue-com-ciclovia-parque-linear-e-areas-de-lazer-1.1165285",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165287:1788615688/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-05T14:32:38.433883+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0d70d73c1cbfa808587e9bf294212dfb",
+      "titulo": "Megaponte entre Belém e Ananindeua tem previsão de entrega e avança sobre o Maguari",
+      "descricao": "A megaponte sobre o rio Maguari avança e promete criar uma nova ligação entre Belém e Ananindeua. Foto: reprodução @adsdroneoficial Com 230 metros de extensão, a nova ligação entre Belém e Ananindeua avança sobre o rio Maguari e pode reduzir em até 12 quilômetros alguns trajetos na Grande Belém. O post Megaponte entre Belém e Ananindeua tem previsão de entrega e avança sobre o Maguari apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/para/megaponte-entre-belem-e-ananindeua-tem-previsao-de-entrega-e-avanca-sobre-o-maguari/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1200x628_WhatsApp_Image_2026-08-10_at_18_57_08.jpg",
+      "data": "2026-09-05T14:09:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "27858fb3e5c9456a323aea3ca0be1180",
       "titulo": "Lancha escolar naufraga em Santarém; 11 pessoas foram resgatadas",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "2e4469dbd997bd874bce0996d2447475",
-      "titulo": "Embarcação pesqueira naufraga e tripulantes são resgatados nas proximidades de Salinópolis",
-      "descricao": "Embarcação pesqueira naufraga e tripulantes são resgatados nas proximidades de Salinópolis",
-      "link": "https://www.oliberal.com/policia/embarcacao-pesqueiranaufraga-e-tripulantes-sao-resgatadosnas-proximidades-de-salinopolis-1.1158209",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1158210:1787012580/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-05T14:02:46.414574+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e84491a652102d94335b3c971a3b505d",
-      "titulo": "Balsa naufraga e deixa 60 gados mortos em Soure, no Marajó",
-      "descricao": "Balsa naufraga e deixa 60 gados mortos em Soure, no Marajó",
-      "link": "https://www.oliberal.com/para/balsa-naufraga-e-deixa-60-gados-mortos-em-soure-no-marajo-1.1165268",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165269:1788607978/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-05T14:02:46.414415+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "39aaeaab07947e9651b62d09fb49093c",
       "titulo": "Murilo Rosa mostra rancho com vista deslumbrante para as montanhas",
       "descricao": "Rancho de Murilo Rosa tem vista livre para as montanhas, a vegetação e o pôr do sol na região de Paraíba do Sul. Foto: Reprodução/Instagram Batizada de Rancho do Ipê Amarelo, propriedade fica na região de Paraíba do Sul e começou a ser construída em 2024 O post Murilo Rosa mostra rancho com vista deslumbrante para as montanhas apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Rancho-Murilo-Rosa.jpg",
       "data": "2026-09-05T13:37:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "87f49e4358a7619fd30cfe9c3edb9f6d",
-      "titulo": "Ex de Gian, da dupla com Giovani, teria traído o cantor com palhaço de circo",
-      "descricao": "Irmãos e parceiros de palco Gian & Giovani já tiveram relacionamentos amorosos conturbados. Foto: Reprodução Durante o \"Melhor da Tarde\", Janaína Nunes detalhou o histórico de relacionamentos do cantor e agitou as redes sociais. O post Ex de Gian, da dupla com Giovani, teria traído o cantor com palhaço de circo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/ex-de-gian-da-dupla-com-giovani-teria-traido-o-cantor-com-palhaco-de-circo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_gian-giovani1.jpg",
-      "data": "2026-09-05T13:15:13+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fca7c7f96402f5aab7ab919d2a4a683b",
-      "titulo": "Dinho Ouro Preto cantou “Que País é Esse” para exaltar Moro; agora, detonou STF e políticos",
-      "descricao": "Dinho Ouro Preto celebra democracia em show no 'Rock in Rio'. Foto: Júlio Cesar Guimarães / UOL Dinho Ouro Preto, vocalista do Capital Inicial, criticou o cenário político brasileiro durante show no Rock in Rio 2026. O músico citou o STF e políticos, e defendeu a democracia. O post Dinho Ouro Preto cantou “Que País é Esse” para exaltar Moro; agora, detonou STF e políticos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/dinho-ouro-preto-cantou-que-pais-e-esse-para-exaltar-moro-agora-detonou-stf-e-politicos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_dinho-ouro-preto-celebra-democracia-em-show-no-rock-in-rio-1662760012807_v2_900x506.jpg",
-      "data": "2026-09-05T13:13:47+00:00",
       "categoria": "PARÁ"
     },
     {
