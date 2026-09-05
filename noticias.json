@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-05T17:32:07.473798+00:00",
+  "atualizado": "2026-09-05T18:03:14.434911+00:00",
   "noticias": [
+    {
+      "id": "573a2e9eb2501f7e50d8f348f8415e88",
+      "titulo": "Ultramaratonista supera recorde mundial de corrida em esteira",
+      "descricao": "Ultramaratonista supera recorde mundial de corrida em esteira",
+      "link": "https://www.oliberal.com/esportes/maisesportes/ultramaratonista-supera-recorde-mundial-de-corrida-em-esteira-no-para-1.1165343",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165356:1788626986/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-05T18:03:12.629768+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3ba340d44bb13db9555d164594afbcac",
+      "titulo": "Caso Giovanna: Família vai pedir afastamento cautelar de médico ao CRM após conclusão de inquérito",
+      "descricao": "Caso Giovanna: Família vai pedir afastamento cautelar de médico ao CRM após conclusão de inquérito",
+      "link": "https://www.oliberal.com/policia/caso-giovanna-familia-vai-pedir-afastamento-cautelar-de-medico-ao-crm-apos-conclusao-de-inquerito-1.1164983",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164987:1788549593/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-05T18:03:12.397053+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "52edbb8a0fbe6c98efc44a386ef8cf74",
+      "titulo": "CRM-PA se manifesta após indiciamento de quatro médicos",
+      "descricao": "CRM-PA se manifesta após indiciamento de quatro médicos",
+      "link": "https://www.oliberal.com/policia/crm-pa-se-manifesta-apos-indiciamento-de-quatro-medicos-no-caso-giovanna-coelho-1.1165337",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163481:1788227116/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-05T18:03:12.002598+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "43e04d4f1c18f4b48ae4dce0759b15b1",
+      "titulo": "São Paulo x Grêmio: onde assistir, horário e escalações pela semifinal do Brasileirão Feminino",
+      "descricao": "Após empate sem gols no jogo de ida, Tricolores se enfrentam neste sábado, em Campinas, com entrada gratuita e classificação em aberto. São Paulo e Grêmio se enfrentam neste sábado (5) pelo jogo de volta das quartas de final do Campeonato Brasileiro Feminino A1. A partida, que vale vaga na semifinal, será disputada em Campinas e terá transmissão ao vivo pela TV Globo e SporTV. O post São Paulo x Grêmio: onde assistir, horário e escalações pela semifinal do Brasileirão Feminino apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/sao-paulo-x-gremio-onde-assistir-horario-e-escalacoes-pela-semifinal-do-brasileirao-feminino/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/GrexSP3.webp",
+      "data": "2026-09-05T18:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4d22d79d0be02eeff9418c48eec5ee22",
+      "titulo": "“Corpo de pai”: ex-gerente do Itaú e criadora de conteúdo adulto, Karol Rosalin surpreende ao revelar seu tipo de homem",
+      "descricao": "Eleita pela Playboy Austrália como dona do “corpo fitness perfeito”, influenciadora já foi gerente de banco antes de trocar o mercado financeiro pelas redes sociais e plataformas adultas. A influenciadora fitness Karol Rosalin, conhecida por sua rotina intensa de treinos, surpreende ao revelar que prefere homens com o chamado “corpo de pai” (dad bod), fugindo do padrão musculoso que ela própria mantém. O post “Corpo de pai”: ex-gerente do Itaú e criadora de conteúdo adulto, Karol Rosalin surpreende ao revelar seu tipo de homem apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/corpo-de-pai-ex-gerente-do-itau-e-criadora-de-conteudo-adulto-karol-rosalin-surpreende-ao-revelar-seu-tipo-de-homem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/karolRosalin14.jpeg",
+      "data": "2026-09-05T18:00:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "3846e1afe6056b05c233729834a90dcf",
       "titulo": "Casal é morto dentro de residência no bairro do Jurunas, em Belém",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165278:1788610188/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-05T17:32:05.798771+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "765e8fb5b640c87e84f8ed86632f8db3",
-      "titulo": "Nova etapa da Romulo Maiorana e Parque 25 serão entregues neste sábado (5/9), em Belém",
-      "descricao": "Nova etapa da Romulo Maiorana e Parque 25 serão entregues neste sábado (5/9), em Belém",
-      "link": "https://www.oliberal.com/belem/nova-etapa-da-romulo-maiorana-e-parque-25-serao-entregues-neste-sabado-5-9-em-belem-1.1164100",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.884067:1730864128/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-05T17:32:05.798585+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "540db542bb04e2ea145fe263b854eb79",
-      "titulo": "Novo trecho da avenida Romulo Maiorana é entregue; veja detalhes",
-      "descricao": "Novo trecho da avenida Romulo Maiorana é entregue; veja detalhes",
-      "link": "https://www.oliberal.com/belem/novo-trecho-da-avenida-romulo-maiorana-e-entregue-com-ciclovia-parque-linear-e-areas-de-lazer-1.1165285",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165287:1788615688/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-05T17:32:05.798385+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "59d981184b4280b9fbf71a0ba6e08774",
-      "titulo": "Dona de marcas como Tijuca e Nevada, Cerpa entra em Recuperação Judicial",
-      "descricao": "Cerpa entra com pedido de Recuperação Judicial A Cerpa, tradicional cervejaria da Amazônia, entrou com pedido de Recuperação Judicial. A empresa busca reorganizar suas atividades e dívidas para preservar a operação e empregos. O post Dona de marcas como Tijuca e Nevada, Cerpa entra em Recuperação Judicial apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/dona-de-marcas-como-tijuca-e-nevada-cerpa-entra-em-recuperacao-judicial/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://diariodopara.com.br/wp-content/uploads/2023/11/Chopp-Cerpa-Export-scaled-1.jpg",
-      "data": "2026-09-05T17:31:30+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9eabec6400930a2527f826f06210c06f",
-      "titulo": "Cristiano Ronaldo desafia Al-Ittihad de Richard Ríos em duelo pela liderança saudita; saiba onde assistir e escalações",
-      "descricao": "Al-Nassr de Cristiano Ronaldo visita o Al-Ittihad neste sábado, em Jeddah, em confronto direto pelas primeiras posições e que pode marcar a estreia de Richard Ríos pelo clube saudita. O Al-Nassr de Cristiano Ronaldo enfrenta o Al-Ittihad neste sábado (5) em um clássico decisivo pelo Campeonato Saudita. A partida pode marcar a estreia de Richard Ríos, ex-Palmeiras, pelo Al-Ittihad. O post Cristiano Ronaldo desafia Al-Ittihad de Richard Ríos em duelo pela liderança saudita; saiba onde assistir e escalações apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/cristiano-ronaldo-desafia-al-ittihad-de-richard-rios-em-duelo-pela-lideranca-saudita-saiba-onde-assistir-e-escalacoes/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/al-ittihad-al-nassr6.webp",
-      "data": "2026-09-05T17:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "62b1b3b29f6aa35a67b3727e5077e59c",
-      "titulo": "Nubank Parque disputa título de melhor instalação esportiva da América do Sul",
-      "descricao": "Nubank Parque é indicado como melhor arena da América do Sul O Nubank Parque recebeu três indicações ao Prêmio Confut Sudamericana by FutebolCard 2026, incluindo Melhor Instalação Esportiva e Profissional de Gestão e Operação de Arenas. O post Nubank Parque disputa título de melhor instalação esportiva da América do Sul apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/nubank-parque-disputa-titulo-de-melhor-instalacao-esportiva-da-america-do-sul/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_793867418_18623489854002685_3804999638614121603_n.jpg",
-      "data": "2026-09-05T16:55:16+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": "cc579f02ead7c02719c6321e2a284487",
       "titulo": "Caso José Arthur: PF aciona policial nos EUA para cruzar informações sobre desaparecimento de bebê",
-      "descricao": "Família de José Arthur quer saber se ele está entre crianças encontradas nos EUA A Polícia Federal (PF) acionou um policial federal adido nos Estados Unidos para cruzar informações e investigar o caso do bebê José Arthur, que desapareceu em Eldorado dos Carajás, no sudeste do Pará, em março deste ano. A informação foi confirmada ao g1 neste sábado (5). O adido é um policial federal que mora no exterior para atuar em assuntos internacionais, em conexão com o país em que está. Há adidos nos Estados Unidos, no Suriname, em países da Europa, da África, entre outros. Segundo a PF, a conexão com o adido nos EUA tem o objetivo de estabelecer contato direto com as autoridades do país sobre o assunto. A adidância da PF em Washington e o Consulado Geral do Brasil em Miami estão, também estão envolvidos na apuração do caso, como confirmou a polícia ao g1. A mobilização ocorre após a defesa da família acionar a PF para cruzar os dados da criança com informações sobre possíveis vítimas de redes de tráfico infantil. ✅ Siga o canal do g1 Pará no WhatsApp A família de José Arthur quer saber se ele está entre crianças encontradas nos Estados Unidos durante a operação 'Statewide Shield' (Escudo Estadual), realizada entre 17 e 21 de agosto. A ação resgatou 163 bebês, crianças e adolescentes na Flórida, com idades de dois meses a 17 anos. Segundo a PF, a corporação pediu para conferir se José Arthur está entre os identificados nos EUA, apesar de, inicialmente, não haver indícios de que o menino saiu do Brasil. Desaparecimento e prisões José Arthur Sousa Barros desapareceu poucos dias de completar dois anos de idade. Reprodução / Redes sociais José Arthur Sousa Barros desapareceu na noite do dia 26 de março, na Vila Peruana, área rural de Eldorado do Carajás, no sudeste do Pará. O menino, que na época tinha 1 ano e 11 meses, brincava com os primos no quintal da casa onde morava com a família quando sumiu. A investigação, que estava a cargo da Delegacia de Eldorado dos Carajás, foi transferida na quinta-feira (3) para a Delegacia de Homicídios de Marabá. Segundo a Polícia Civil(PC), a mudança ocorreu devido à estrutura especializada da unidade, que conta com mais recursos para dar continuidade às diligências. No decorrer do inquérito, a polícia ouviu mais de 25 depoimentos e apreendeu aparelhos celulares para perícia. Dois homens, amigos da família, chegaram a ser presos temporariamente em abril, mas foram colocados em liberdade em junho. Qualquer informação que possa ajudar a localizar o menino pode ser repassada de forma anônima pelo Disque Denúncia, no número 181. LEIA MAIS: Caso José Arthur: mãe de bebê desaparecido há mais de um mês no Pará lamenta: 'Ele sempre dormia comigo' VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
+      "descricao": "Família de José Arthur quer saber se ele está entre crianças encontradas nos EUA A Polícia Federal (PF) acionou um policial federal adido nos Estados Unidos para cruzar informações e investigar o caso do bebê José Arthur, que desapareceu em Eldorado dos Carajás, no sudeste do Pará, em março deste ano. A informação foi confirmada ao g1 neste sábado (5). O adido é um policial federal que mora no exterior para atuar em assuntos internacionais, em conexão com o país em que está. Há adidos nos Estados Unidos, no Suriname, em países da Europa, da África, entre outros. Segundo a PF, a conexão com o adido nos EUA tem o objetivo de estabelecer contato direto com as autoridades do país sobre o assunto. A adidância da PF em Washington e o Consulado Geral do Brasil em Miami estão, também estão envolvidos na apuração do caso, como confirmou a polícia ao g1. A mobilização ocorre após a defesa da família acionar a PF para cruzar os dados da criança com informações sobre possíveis vítimas de redes de tráfico infantil. ✅ Siga o canal do g1 Pará no WhatsApp A família de José Arthur quer saber se ele está entre crianças encontradas nos Estados Unidos durante a operação 'Statewide Shield' (Escudo Estadual), realizada entre 17 e 21 de agosto. A ação resgatou 163 bebês, crianças e adolescentes na Flórida, com idades de dois meses a 17 anos. Segundo a PF, a corporação pediu para conferir se José Arthur está entre os identificados nos EUA, apesar de, inicialmente, não haver indícios de que o menino saiu do Brasil. Desaparecimento e prisões José Arthur Sousa Barros desapareceu com um ano e seis meses. Reprodução / Redes sociais José Arthur Sousa Barros desapareceu na noite do dia 26 de março, na Vila Peruana, área rural de Eldorado do Carajás, no sudeste do Pará. O menino, que na época tinha um ano e seis meses, brincava com os primos no quintal da casa onde morava com a família quando sumiu. A investigação, que estava a cargo da Delegacia de Eldorado dos Carajás, foi transferida na quinta-feira (3) para a Delegacia de Homicídios de Marabá. Segundo a Polícia Civil(PC), a mudança ocorreu devido à estrutura especializada da unidade, que conta com mais recursos para dar continuidade às diligências. No decorrer do inquérito, a polícia ouviu mais de 25 depoimentos e apreendeu aparelhos celulares para perícia. Dois homens, amigos da família, chegaram a ser presos temporariamente em abril, mas foram colocados em liberdade em junho. Qualquer informação que possa ajudar a localizar o menino pode ser repassada de forma anônima pelo Disque Denúncia, no número 181. LEIA MAIS: Caso José Arthur: mãe de bebê desaparecido há mais de um mês no Pará lamenta: 'Ele sempre dormia comigo' VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
       "link": "https://g1.globo.com/pa/para/noticia/2026/09/05/caso-jose-arthur-pf-aciona-policial-nos-eua-para-cruzar-informacoes-sobre-desaparecimento-de-bebe.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/5G9SNqPjnnccIWeLUTbvZlzHs-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/z/ROL1hlS0q18dcBWLa6Fw/geral-g1-2026-03-28t155721.283.png",
