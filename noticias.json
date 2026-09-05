@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-05T16:03:04.773582+00:00",
+  "atualizado": "2026-09-05T16:34:29.535377+00:00",
   "noticias": [
     {
       "id": "3846e1afe6056b05c233729834a90dcf",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/policia/casal-e-morto-dentro-de-residencia-no-bairro-do-jurunas-em-belem-1.1165275",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165278:1788610188/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-05T16:03:03.133340+00:00",
+      "data": "2026-09-05T16:34:27.200830+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/belem/nova-etapa-da-romulo-maiorana-e-parque-25-serao-entregues-neste-sabado-5-9-em-belem-1.1164100",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.884067:1730864128/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-05T16:03:03.133238+00:00",
+      "data": "2026-09-05T16:34:27.200633+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,17 @@
       "link": "https://www.oliberal.com/belem/novo-trecho-da-avenida-romulo-maiorana-e-entregue-com-ciclovia-parque-linear-e-areas-de-lazer-1.1165285",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165287:1788615688/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-05T16:03:03.133117+00:00",
+      "data": "2026-09-05T16:34:27.200423+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "18574b1f15c1fbcc195d4bab7b49ea7b",
+      "titulo": "Governo derruba cobrança por uso de poço artesiano pela Águas do Pará",
+      "descricao": "A governadora do Pará, Hanna Ghassan, anunciou a proibição das cobranças da empresa Águas do Pará por uso de poço artesiano no estado. O post Governo derruba cobrança por uso de poço artesiano pela Águas do Pará apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/para/governo-derruba-cobranca-por-uso-de-poco-artesiano-pela-aguas-do-para/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_546609784_1181931203981502_3363285223628737268_n.jpg",
+      "data": "2026-09-05T16:20:39+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1200x628_WhatsApp_Image_2026-08-10_at_18_57_08.jpg",
       "data": "2026-09-05T14:09:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "27858fb3e5c9456a323aea3ca0be1180",
-      "titulo": "Lancha escolar naufraga em Santarém; 11 pessoas foram resgatadas",
-      "descricao": "Lancha escolar naufraga em Santarém; 11 pessoas foram resgatadas",
-      "link": "https://www.oliberal.com/policia/lancha-escolar-naufraga-em-santarem-11-pessoas-foram-resgatadas-1.1148636",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1148640:1784744202/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-05T14:02:46.414700+00:00",
       "categoria": "PARÁ"
     }
   ]
