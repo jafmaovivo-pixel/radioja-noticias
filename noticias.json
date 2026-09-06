@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-06T17:02:27.903086+00:00",
+  "atualizado": "2026-09-06T17:32:26.345069+00:00",
   "noticias": [
+    {
+      "id": "bf101be93164f625fcda487b9ed1663e",
+      "titulo": "Remo não deixa o Z4 do Brasileirão nesta rodada nem se vencer o Flamengo; veja cenário",
+      "descricao": "Remo não deixa o Z4 do Brasileirão nesta rodada nem se vencer o Flamengo; veja cenário",
+      "link": "https://www.oliberal.com/esportes/remo/remo-nao-deixa-o-z4-do-brasileirao-nesta-rodada-nem-se-vencer-o-flamengo-veja-cenario-1.1165527",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1115039:1777334260/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T17:32:24.793970+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4957d0fc484de7a73d6f9a4d1eb69614",
+      "titulo": "Galeria: torcida do Flamengo começa a lotar o Mangueirão para jogo contra o Remo",
+      "descricao": "Galeria: torcida do Flamengo começa a lotar o Mangueirão para jogo contra o Remo",
+      "link": "https://www.oliberal.com/esportes/galeria-torcida-do-flamengo-comeca-a-lotar-o-mangueirao-para-jogo-contra-o-remo-1.1165542",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165556:1788714955/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T17:32:24.793759+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ca341105c8ff1f3e4ec94f23046aa9d6",
+      "titulo": "Remo desafia o Flamengo no Mangueirão em confronto decisivo",
+      "descricao": "Remo desafia o Flamengo no Mangueirão em confronto decisivo",
+      "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/remo-x-flamengo#google_vignette",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
+      "data": "2026-09-06T17:32:24.515665+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "33ec67acb6bf1daf5732ad5ef08619a2",
+      "titulo": "Remo x Flamengo: Entre a glória e a desesperança",
+      "descricao": "Remo e Flamengo voltam a medir forças. Fotos: Gilvan de Souza/Flamengo Remo e Flamengo se enfrentam neste domingo no Mangueirão, em jogo com objetivos distintos. O Leão busca pontos para sair da zona de rebaixamento, enquanto o rubro-negro carioca disputa a liderança do Brasileirão. O post Remo x Flamengo: Entre a glória e a desesperança apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/remo-x-flamengo-entre-a-gloria-e-a-desesperanca/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/55157656369_fcab0ea815_k.jpg",
+      "data": "2026-09-06T17:14:28+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "32bac1842a4361d531f6fe68594f664c",
+      "titulo": "Irmã Uda vira fenômeno nas redes após marido sofrer AVC em motel com a amante",
+      "descricao": "Irmã Uda viralizou ao contar como descobriu a traição do marido. Foto: Reprodução/ Redes Sociais Aposentada conquistou mais de 1 milhão de seguidores nas redes sociais ao narrar a traição inusitada com leveza e bom humor. O post Irmã Uda vira fenômeno nas redes após marido sofrer AVC em motel com a amante apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/irma-uda-vira-fenomeno-nas-redes-apos-marido-sofrer-avc-em-motel-com-a-amante/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/SaveClip.App_AQPnkGzUTnb0EOzhmP0rYujM2SONTorjmgk7oISLBBS_EJRZ4PPgfDi6k0x0KNwk_xJJHBkvRnWVDBqAnoNlMbFcj5RvCH3MrxSxWfY.mp4",
+      "data": "2026-09-06T17:10:20+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "b0e887ed5c47efe80443f9e471a1a1d9",
       "titulo": "Mesquita e Ruffeil relembram bastidores da vitória do Remo contra o Flamengo: 'Histórico'",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165205:1788567410/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-06T17:02:26.637613+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bf101be93164f625fcda487b9ed1663e",
-      "titulo": "Remo não deixa o Z4 do Brasileirão nesta rodada nem se vencer o Flamengo; veja cenário",
-      "descricao": "Remo não deixa o Z4 do Brasileirão nesta rodada nem se vencer o Flamengo; veja cenário",
-      "link": "https://www.oliberal.com/esportes/remo/remo-nao-deixa-o-z4-do-brasileirao-nesta-rodada-nem-se-vencer-o-flamengo-veja-cenario-1.1165527",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1115039:1777334260/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T17:02:26.637385+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "cf7cd3b07f5e642903424ec93d2e5f2b",
-      "titulo": "Remo desafia o Flamengo no Mangueirão em confronto decisivo",
-      "descricao": "Remo desafia o Flamengo no Mangueirão em confronto decisivo",
-      "link": "https://www.oliberal.com/esportes/remo/em-meio-a-crise-remo-enfrentaflamengo-no-mangueirao-com-oportunidade-de-sair-do-z4-1.1165089",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1107507:1775687871/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T17:02:26.365213+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b39c6def4e90cf65dd016b4d7451eae9",
-      "titulo": "De Pernambuco a Belém: visitantes escolhem Outeiro para curtir o feriado",
-      "descricao": "Feriado leva famílias às praias de Outeiro em busca de diversão e tranquilidade. Foto: Wagner Almeida Moradores de Belém e visitantes aproveitaram o feriado da Independência nas praias de Outeiro. Famílias se reuniram na Praia Grande para desfrutar do dia à beira do rio. O post De Pernambuco a Belém: visitantes escolhem Outeiro para curtir o feriado apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/de-pernambuco-a-belem-visitantes-escolhem-outeiro-para-curtir-o-feriado/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/DP20260905_WA_9932.jpg",
-      "data": "2026-09-06T16:49:27+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f9b6668c0567a1ed6c6ccd4fa5512fc4",
-      "titulo": "Ex-jogadores de Remo e Flamengo relembram histórias de bastidores antes de duelo entre as equipes",
-      "descricao": "Ex-jogadores de Remo e Flamengo relembram histórias de bastidores antes de duelo entre as equipes",
-      "link": "https://www.oliberal.com/esportes/futebol/ex-jogadores-de-remo-e-flamengo-relembram-historias-de-bastidores-antes-de-duelo-entre-as-equipes-1.1165064",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165068:1788556932/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T16:34:47.413749+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "860a28bd3e3b5778fef1ac368426d871",
-      "titulo": "Nem milagre contra o Flamengo tira o Remo do Z-4 após vitória do Mirassol",
-      "descricao": "O Mirassol venceu o Coritiba por 2 a 1, de virada, e deixou a zona de rebaixamento do Campeonato Brasileiro. O resultado aumenta a pressão sobre o Remo, que precisa vencer para se afastar do Z-4. O post Nem milagre contra o Flamengo tira o Remo do Z-4 após vitória do Mirassol apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/nem-milagre-contra-o-flamengo-tira-o-remo-do-z-4-apos-vitoria-do-mirassol/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_791354977_1047991731550182_5967966394905602997_n.jpg",
-      "data": "2026-09-06T16:23:00+00:00",
       "categoria": "PARÁ"
     },
     {
