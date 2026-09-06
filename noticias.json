@@ -1,16 +1,6 @@
 {
-  "atualizado": "2026-09-06T18:03:08.524931+00:00",
+  "atualizado": "2026-09-06T18:35:49.138059+00:00",
   "noticias": [
-    {
-      "id": "5eb45b0a26c9b19816927eecf3323351",
-      "titulo": "Delegação do Flamengo chega ao Mangueirão para duelo contra o Remo",
-      "descricao": "Delegação do Flamengo chega ao Mangueirão para duelo contra o Remo",
-      "link": "https://www.oliberal.com/esportes/futebol/delegacao-do-flamengo-chega-ao-mangueirao-para-duelo-contra-o-remo-1.1165560",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165563:1788715336/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T18:03:05.571761+00:00",
-      "categoria": "PARÁ"
-    },
     {
       "id": "b8cf3b692f341812ffdad37833f4cf38",
       "titulo": "Vai chover durante o jogo Remo x Flamengo em Belém?",
@@ -18,7 +8,17 @@
       "link": "https://www.oliberal.com/esportes/vai-chover-durante-o-jogo-remo-x-flamengo-em-belem-1.1165562",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165572:1788716035/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T18:03:05.345526+00:00",
+      "data": "2026-09-06T18:35:47.110202+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "02dd61fc7b31de5e2979e2bf8c50ad83",
+      "titulo": "Confiança oposta toma conta do Mangueirão antes de Remo x Flamengo",
+      "descricao": "Confiança oposta toma conta do Mangueirão antes de Remo x Flamengo",
+      "link": "https://www.oliberal.com/esportes/remo/confianca-oposta-toma-conta-do-mangueirao-antes-de-remo-x-flamengo-1.1165592",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165594:1788718559/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T18:35:47.109985+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,17 @@
       "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/remo-x-flamengo#google_vignette",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/img/shared_image.jpg",
-      "data": "2026-09-06T18:03:04.985112+00:00",
+      "data": "2026-09-06T18:35:46.833156+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5eb45b0a26c9b19816927eecf3323351",
+      "titulo": "Delegação do Flamengo chega ao Mangueirão para duelo contra o Remo",
+      "descricao": "Delegação do Flamengo chega ao Mangueirão para duelo contra o Remo",
+      "link": "https://www.oliberal.com/esportes/futebol/delegacao-do-flamengo-chega-ao-mangueirao-para-duelo-contra-o-remo-1.1165560",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165563:1788715336/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T18:03:05.571761+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/convertida_1200x628_55323041730_f9c9b99454_c.jpg",
       "data": "2026-09-06T17:45:33+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bf101be93164f625fcda487b9ed1663e",
-      "titulo": "Remo não deixa o Z4 do Brasileirão nesta rodada nem se vencer o Flamengo; veja cenário",
-      "descricao": "Remo não deixa o Z4 do Brasileirão nesta rodada nem se vencer o Flamengo; veja cenário",
-      "link": "https://www.oliberal.com/esportes/remo/remo-nao-deixa-o-z4-do-brasileirao-nesta-rodada-nem-se-vencer-o-flamengo-veja-cenario-1.1165527",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1115039:1777334260/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T17:32:24.793970+00:00",
       "categoria": "PARÁ"
     },
     {
