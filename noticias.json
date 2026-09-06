@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-06T22:33:10.668264+00:00",
+  "atualizado": "2026-09-06T23:02:54.647985+00:00",
   "noticias": [
+    {
+      "id": "65724b55e1fe8eca6b751a0db40485e6",
+      "titulo": "Técnico do Flamengo exalta defesa do goleiro Marcelo Rangel, do Remo: 'uma das melhores do ano'",
+      "descricao": "Técnico do Flamengo exalta defesa do goleiro Marcelo Rangel, do Remo: 'uma das melhores do ano'",
+      "link": "https://www.oliberal.com/esportes/remo/tecnico-do-flamengo-exalta-defesa-do-goleiro-marcelo-rangel-do-remo-uma-das-melhores-do-ano-1.1165865",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1114135:1777070239/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T23:02:50.713123+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d568f40e3406095be521408aba2f4d45",
+      "titulo": "Picco avalia próximas rodadas como “finais” para o Remo e “cutuca” Condé",
+      "descricao": "Picco avalia próximas rodadas como “finais” para o Remo e “cutuca” Condé",
+      "link": "https://www.oliberal.com/esportes/remo/picco-avalia-proximas-rodadas-como-finais-para-o-remo-e-cutuca-conde-1.1165860",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165862:1788733524/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T23:02:50.316337+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7cd9ad77c2c896fc394af75b95c01d57",
+      "titulo": "Remo perde para o Flamengo e se complica na Série A",
+      "descricao": "Remo perde para o Flamengo e se complica na Série A",
+      "link": "https://www.oliberal.com/esportes/remo/remo-faz-jogo-duro-mas-flamengo-vence-e-complica-leao-na-tabela-da-serie-a-1.1165805",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165818:1788728579/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T23:02:49.937932+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "cb76f7e62acb2eaf40084f0f32a2f0cc",
+      "titulo": "Remo perde para o Flamengo, mas leva consolo milionário de R$ 4,7 milhões",
+      "descricao": "Flamengo vence Remo e assume liderança do Brasileirão. Foto: Irene Almeida O Remo obteve uma arrecadação histórica de R$ 4,7 milhões no confronto contra o Flamengo, apesar da derrota por 1 a 0. A partida no Mangueirão registrou um público total de 51.567 pessoas. O post Remo perde para o Flamengo, mas leva consolo milionário de R$ 4,7 milhões apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/remo-perde-para-o-flamengo-mas-leva-consolo-milionario-de-r-47-milhoes/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Image-2026-09-06-at-17.21.16-3.jpeg",
+      "data": "2026-09-06T22:40:01+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "abb7620593ddc13c75e8ba848dcba25e",
       "titulo": "Vídeo: Torcedores de Remo e Flamengo se envolvem em briga nos arredores do Mangueirão",
@@ -12,53 +52,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "206a3612bbe4d166c8689d4058e3ed8b",
-      "titulo": "Após a vitória sobre o Remo, técnico do Flamengo elogia torcida paraense: ‘espetacular’",
-      "descricao": "Após a vitória sobre o Remo, técnico do Flamengo elogia torcida paraense: ‘espetacular’",
-      "link": "https://www.oliberal.com/esportes/remo/apos-a-vitoria-sobre-o-remo-tecnico-do-flamengo-elogia-torcida-paraense-espetacular-1.1165855",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165861:1788733513/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T22:33:08.445751+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7cd9ad77c2c896fc394af75b95c01d57",
-      "titulo": "Remo perde para o Flamengo e se complica na Série A",
-      "descricao": "Remo perde para o Flamengo e se complica na Série A",
-      "link": "https://www.oliberal.com/esportes/remo/remo-faz-jogo-duro-mas-flamengo-vence-e-complica-leao-na-tabela-da-serie-a-1.1165805",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165818:1788728579/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T22:33:08.289311+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "47dec4ec09547f7b88e6cf31e16f440f",
-      "titulo": "O Remo perdeu para o Flamengo. E daí? É preciso olhar o jogo",
-      "descricao": "Remo e Flamengo protagonizaram um confronto que mobilizou milhares de torcedores no Mangueirão. Foto: Irene Almeida/Diário do Pará Após a derrota para o Flamengo, o Remo enfrenta críticas, mas o desempenho em campo mostrou que o time pode competir mesmo contra adversários de maior orçamento. O post O Remo perdeu para o Flamengo. E daí? É preciso olhar o jogo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/o-remo-perdeu-para-o-flamengo-e-dai-e-preciso-olhar-o-jogo/",
+      "id": "1852d4c535d4d615272161f2b50dc6d1",
+      "titulo": "Remo x Flamengo leva 46.542 pagantes e bate recorde no Mangueirão",
+      "descricao": "Dentro de campo e nas arquibancadas, a emoção tomou conta do duelo entre Remo e Flamengo. Foto: Irene Almeida/Diário do Pará Confronto chegou ao fim neste domingo, no Mangueirão, e número oficial de pagantes pode colocar a partida entre os maiores públicos do Remo na Série A de 2026. Renda ainda será divulgada. O post Remo x Flamengo leva 46.542 pagantes e bate recorde no Mangueirão apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/remo-x-flamengo-leva-46-542-pagantes-e-bate-recorde-no-mangueirao/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-06_at_18_28_52_2.jpg",
-      "data": "2026-09-06T22:20:16+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "77cce214f6cd78bc52fde94c603fd9b4",
-      "titulo": "Galeria: veja fotos da partida entre Remo e Flamengo",
-      "descricao": "Galeria: veja fotos da partida entre Remo e Flamengo",
-      "link": "https://www.oliberal.com/esportes/galeria-veja-fotos-da-partida-entre-remo-e-flamengo-1.1165622",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165641:1788720732/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T22:02:47.352088+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "985a3bf6c3cd9953141c36554a498c7b",
-      "titulo": "Fafá de Belém leva Varanda de Nazaré a Portugal e une tradições dos dois países",
-      "descricao": "Fafá de Belém levará o Encontro das Nazarés a Portugal nesta terça-feira (8), Dia de Nossa Senhora de Nazaré. Foto: Reprodução/Instagram Cantora paraense participará de uma celebração religiosa nesta terça-feira (8), ao lado de artistas portugueses O post Fafá de Belém leva Varanda de Nazaré a Portugal e une tradições dos dois países apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cirio-de-nazare/fafa-de-belem-leva-varanda-de-nazare-a-portugal-e-une-tradicoes-dos-dois-paises/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Varanda-de-Nazare.jpg",
-      "data": "2026-09-06T21:59:00+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-06_at_18_25_13.jpg",
+      "data": "2026-09-06T22:32:58+00:00",
       "categoria": "PARÁ"
     },
     {
