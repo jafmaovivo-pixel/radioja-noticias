@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-06T22:02:51.258015+00:00",
+  "atualizado": "2026-09-06T22:33:10.668264+00:00",
   "noticias": [
+    {
+      "id": "abb7620593ddc13c75e8ba848dcba25e",
+      "titulo": "Vídeo: Torcedores de Remo e Flamengo se envolvem em briga nos arredores do Mangueirão",
+      "descricao": "Vídeo: Torcedores de Remo e Flamengo se envolvem em briga nos arredores do Mangueirão",
+      "link": "https://www.oliberal.com/esportes/remo/torcedores-de-remo-e-flamengo-se-envolvem-em-briga-nos-arredores-do-mangueirao-1.1165647",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165660:1788720870/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T22:33:08.445954+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "206a3612bbe4d166c8689d4058e3ed8b",
+      "titulo": "Após a vitória sobre o Remo, técnico do Flamengo elogia torcida paraense: ‘espetacular’",
+      "descricao": "Após a vitória sobre o Remo, técnico do Flamengo elogia torcida paraense: ‘espetacular’",
+      "link": "https://www.oliberal.com/esportes/remo/apos-a-vitoria-sobre-o-remo-tecnico-do-flamengo-elogia-torcida-paraense-espetacular-1.1165855",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165861:1788733513/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T22:33:08.445751+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7cd9ad77c2c896fc394af75b95c01d57",
+      "titulo": "Remo perde para o Flamengo e se complica na Série A",
+      "descricao": "Remo perde para o Flamengo e se complica na Série A",
+      "link": "https://www.oliberal.com/esportes/remo/remo-faz-jogo-duro-mas-flamengo-vence-e-complica-leao-na-tabela-da-serie-a-1.1165805",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165818:1788728579/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T22:33:08.289311+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "47dec4ec09547f7b88e6cf31e16f440f",
+      "titulo": "O Remo perdeu para o Flamengo. E daí? É preciso olhar o jogo",
+      "descricao": "Remo e Flamengo protagonizaram um confronto que mobilizou milhares de torcedores no Mangueirão. Foto: Irene Almeida/Diário do Pará Após a derrota para o Flamengo, o Remo enfrenta críticas, mas o desempenho em campo mostrou que o time pode competir mesmo contra adversários de maior orçamento. O post O Remo perdeu para o Flamengo. E daí? É preciso olhar o jogo apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/o-remo-perdeu-para-o-flamengo-e-dai-e-preciso-olhar-o-jogo/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-06_at_18_28_52_2.jpg",
+      "data": "2026-09-06T22:20:16+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "77cce214f6cd78bc52fde94c603fd9b4",
       "titulo": "Galeria: veja fotos da partida entre Remo e Flamengo",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "abb7620593ddc13c75e8ba848dcba25e",
-      "titulo": "Vídeo: Torcedores de Remo e Flamengo se envolvem em briga nos arredores do Mangueirão",
-      "descricao": "Vídeo: Torcedores de Remo e Flamengo se envolvem em briga nos arredores do Mangueirão",
-      "link": "https://www.oliberal.com/esportes/remo/torcedores-de-remo-e-flamengo-se-envolvem-em-briga-nos-arredores-do-mangueirao-1.1165647",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165660:1788720870/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T22:02:47.351973+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d4bf4f2d61e8632a07fee0aebd2e115b",
-      "titulo": "Remo perde para o Flamengo e se complica na Série A",
-      "descricao": "Remo perde para o Flamengo e se complica na Série A",
-      "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/remo-x-flamengo#google_vignette",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
-      "data": "2026-09-06T22:02:47.351829+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "985a3bf6c3cd9953141c36554a498c7b",
       "titulo": "Fafá de Belém leva Varanda de Nazaré a Portugal e une tradições dos dois países",
       "descricao": "Fafá de Belém levará o Encontro das Nazarés a Portugal nesta terça-feira (8), Dia de Nossa Senhora de Nazaré. Foto: Reprodução/Instagram Cantora paraense participará de uma celebração religiosa nesta terça-feira (8), ao lado de artistas portugueses O post Fafá de Belém leva Varanda de Nazaré a Portugal e une tradições dos dois países apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Varanda-de-Nazare.jpg",
       "data": "2026-09-06T21:59:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a72b56b5260751c875932e987c2bef0f",
-      "titulo": "Remo x Flamengo: veja os melhores cliques do jogo no Mangueirão",
-      "descricao": "A torcida faz festa e acompanha de perto cada momento de Remo x Flamengo. Foto: Irene Almeida/Diário do Pará Duelo entre Remo e Flamengo movimentou o Mangueirão e rendeu imagens marcantes dentro e fora de campo. Confira a galeria de fotos do confronto. O post Remo x Flamengo: veja os melhores cliques do jogo no Mangueirão apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/remo-x-flamengo-veja-os-melhores-cliques-do-jogo-no-mangueirao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-06_at_17_21_18.jpg",
-      "data": "2026-09-06T21:06:01+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8d85cdc6e1b52245f3ec0b12c9b2679e",
-      "titulo": "Flamengo vence o Remo no Mangueirão, chega a 54 pontos e assume a liderança do Brasileirão",
-      "descricao": "Flamengo vence Remo e assume liderança do Brasileirão. Foto: Irene Almeida O Flamengo venceu o Remo por 1 a 0 e assumiu a liderança provisória do Campeonato Brasileiro da Série A. O Palmeiras ainda joga e pode retomar a ponta. O post Flamengo vence o Remo no Mangueirão, chega a 54 pontos e assume a liderança do Brasileirão apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/flamengo-vence-o-remo-no-mangueirao-chega-a-54-pontos-e-assume-a-lideranca-do-brasileirao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Image-2026-09-06-at-17.21.16.jpeg",
-      "data": "2026-09-06T21:01:18+00:00",
       "categoria": "PARÁ"
     },
     {
