@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-06T20:34:42.723061+00:00",
+  "atualizado": "2026-09-06T21:02:53.212619+00:00",
   "noticias": [
     {
       "id": "77cce214f6cd78bc52fde94c603fd9b4",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/esportes/galeria-veja-fotos-da-partida-entre-remo-e-flamengo-1.1165622",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165641:1788720732/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T20:34:39.567402+00:00",
+      "data": "2026-09-06T21:02:51.263476+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/esportes/remo/torcedores-de-remo-e-flamengo-se-envolvem-em-briga-nos-arredores-do-mangueirao-1.1165647",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165660:1788720870/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T20:34:39.567286+00:00",
+      "data": "2026-09-06T21:02:51.263351+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,16 +28,36 @@
       "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/remo-x-flamengo#google_vignette",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/img/shared_image.jpg",
-      "data": "2026-09-06T20:34:39.567157+00:00",
+      "data": "2026-09-06T21:02:51.263173+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "ff3d4771d2914d0c6c39956530c8a7ce",
-      "titulo": "PF encontra 2,9 mil pés de maconha e prende homem em plantação no Pará",
-      "descricao": "Cerca de 2,9 mil pés de maconha foram destruídos pela Polícia Federal durante uma operação realizada em duas áreas rurais de Concórdia do Pará, no nordeste do estado. Um homem foi preso em flagrante durante a ação. As plantações foram localizadas nos dias 3 e 4 de setembro, após um trabalho de investigação da PF. Os agentes identificaram duas áreas utilizadas para o cultivo da cannabis e fizeram a retirada e destruição das plantas. Além das lavouras, os policiais encontraram estruturas utilizadas para dar suporte ao cultivo e ao beneficiamento da maconha. Esses locais também foram inutilizados. O homem preso durante a operação foi levado para a delegacia do município e autuado em flagrante. A PF não informou, no material divulgado, qual seria a participação dele no esquema. ✅ Siga o canal do g1 Pará no WhatsApp Leia também: Caso José Arthur: PF aciona policial nos EUA para cruzar informações sobre desaparecimento de bebê Duas pessoas são mortas a tiros dentro da própria casa no Jurunas, em Belém",
+      "id": "8d85cdc6e1b52245f3ec0b12c9b2679e",
+      "titulo": "Flamengo vence o Remo no Mangueirão, chega a 54 pontos e assume a liderança do Brasileirão",
+      "descricao": "Flamengo vence Remo e assume liderança do Brasileirão. Foto: Irene Almeida O Flamengo venceu o Remo por 1 a 0 e assumiu a liderança provisória do Campeonato Brasileiro da Série A. O Palmeiras ainda joga e pode retomar a ponta. O post Flamengo vence o Remo no Mangueirão, chega a 54 pontos e assume a liderança do Brasileirão apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/flamengo-vence-o-remo-no-mangueirao-chega-a-54-pontos-e-assume-a-lideranca-do-brasileirao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Image-2026-09-06-at-17.21.16-1.jpeg",
+      "data": "2026-09-06T21:01:18+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "462158334b93e362ef6016586ad537eb",
+      "titulo": "Justiça multa Instituto Veritá em R$ 53,2 mil e barra divulgação de pesquisa no Pará",
+      "descricao": "Justiça Eleitoral acolheu parecer do MP Eleitoral, considerou pesquisa irregular e aplicou multa de R$ 53,2 mil ao Instituto Veritá. Foto: divulgação/reprodução Decisão acolheu parecer do MP Eleitoral, apontou inconsistências nas cotas de escolaridade e proibiu novas divulgações do levantamento. O post Justiça multa Instituto Veritá em R$ 53,2 mil e barra divulgação de pesquisa no Pará apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/justica-multa-instituto-verita-em-r-532-mil-e-barra-divulgacao-de-pesquisa-no-para/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_-_2026-09-06T170758_674.jpg",
+      "data": "2026-09-06T20:52:19+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "945bae6611c342152e725b0b32ea519a",
+      "titulo": "PF destrói 2,9 mil pés de maconha e prende homem em plantação no Pará",
+      "descricao": "PF encontra 2,9 mil pés de maconha e prende homem em plantação no Pará Ascom/PF Cerca de 2,9 mil pés de maconha foram destruídos pela Polícia Federal durante uma operação realizada em duas áreas rurais de Concórdia do Pará, no nordeste do estado. Um homem foi preso em flagrante durante a ação. As plantações foram localizadas nos dias 3 e 4 de setembro, após um trabalho de investigação da PF. Os agentes identificaram duas áreas utilizadas para o cultivo da cannabis e fizeram a retirada e destruição das plantas. Além das lavouras, os policiais encontraram estruturas utilizadas para dar suporte ao cultivo e ao beneficiamento da maconha. Esses locais também foram inutilizados. O homem preso durante a operação foi levado para a delegacia do município e autuado em flagrante. A PF não informou, no material divulgado, qual seria a participação dele no esquema. ✅ Siga o canal do g1 Pará no WhatsApp Leia também: Caso José Arthur: PF aciona policial nos EUA para cruzar informações sobre desaparecimento de bebê Duas pessoas são mortas a tiros dentro da própria casa no Jurunas, em Belém",
       "link": "https://g1.globo.com/pa/para/noticia/2026/09/06/pf-encontra-29-mil-pes-de-maconha-e-prende-homem-em-plantacao-no-para.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/wnjmaxFaxOMExhYPNVgLkbVTb6s=/576x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/6/vUmA3lTs6yB1BpDgzEWA/apreende.jpeg",
+      "imagem": "https://s2-g1.glbimg.com/XByWXFZtY3GlBWM7aPSdzBuvYWc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/6/vUmA3lTs6yB1BpDgzEWA/apreende.jpeg",
       "data": "2026-09-06T20:26:03+00:00",
       "categoria": "PARÁ"
     },
@@ -49,26 +69,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/IMG-20260627-WA0044.jpg",
       "data": "2026-09-06T20:13:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "50135e5bcff70bc14ce589d28767ca52",
-      "titulo": "“Vagabundos”: fala de Daniel Santos em delegacia revolta sindicato de delegados",
-      "descricao": "Flagrante de combustível para carreata termina com Daniel Santos chamando policiais de “vagabundos” O Sindicato dos Delegados de Polícia do Pará repudiou as declarações do candidato Daniel Santos (Podemos) durante uma confusão em Ananindeua. O candidato atacou verbalmente autoridades policiais. O post “Vagabundos”: fala de Daniel Santos em delegacia revolta sindicato de delegados apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/vagabundos-fala-de-daniel-santos-em-delegacia-revolta-sindicato-de-delegados/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Captura_de_tela_2026-09-06_130843.jpg",
-      "data": "2026-09-06T19:58:48+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "33c60441e919b993def661dac9d41b90",
-      "titulo": "O que se sabe sobre o incêndio que matou quatro pessoas da mesma família em Capanema",
-      "descricao": "Quatro pessoas de uma mesma família morreram no incêndio de grandes proporções que atingiu um prédio localizado em Capanema. Quatro pessoas da mesma família, incluindo duas crianças, morreram em um incêndio de grandes proporções que atingiu uma loja e residência em Capanema, no Pará. O post O que se sabe sobre o incêndio que matou quatro pessoas da mesma família em Capanema apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/o-que-se-sabe-sobre-o-incendio-que-matou-quatro-pessoas-da-mesma-familia-em-capanema/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Gemini_Generated_Image_efuqknefuqknefuq.jpg",
-      "data": "2026-09-06T19:49:24+00:00",
       "categoria": "PARÁ"
     },
     {
