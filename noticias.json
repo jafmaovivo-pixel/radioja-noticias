@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-06T20:03:07.782397+00:00",
+  "atualizado": "2026-09-06T20:34:42.723061+00:00",
   "noticias": [
     {
       "id": "77cce214f6cd78bc52fde94c603fd9b4",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/esportes/galeria-veja-fotos-da-partida-entre-remo-e-flamengo-1.1165622",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165641:1788720732/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T20:03:04.444250+00:00",
+      "data": "2026-09-06T20:34:39.567402+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,17 +18,37 @@
       "link": "https://www.oliberal.com/esportes/remo/torcedores-de-remo-e-flamengo-se-envolvem-em-briga-nos-arredores-do-mangueirao-1.1165647",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165660:1788720870/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T20:03:04.444113+00:00",
+      "data": "2026-09-06T20:34:39.567286+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "8fd5465877f71c4e78776f63b5cae276",
-      "titulo": "Remo busca vitória contra o Flamengo em duelo decisivo no Mangueirão",
-      "descricao": "Remo busca vitória contra o Flamengo em duelo decisivo no Mangueirão",
+      "id": "008957c3fff2a6d898e2b96f7130ba2e",
+      "titulo": "Flamengo marca e sai na frente do Remo no Mangueirão",
+      "descricao": "Flamengo marca e sai na frente do Remo no Mangueirão",
       "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/remo-x-flamengo#google_vignette",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/img/shared_image.jpg",
-      "data": "2026-09-06T20:03:04.443947+00:00",
+      "data": "2026-09-06T20:34:39.567157+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ff3d4771d2914d0c6c39956530c8a7ce",
+      "titulo": "PF encontra 2,9 mil pés de maconha e prende homem em plantação no Pará",
+      "descricao": "Cerca de 2,9 mil pés de maconha foram destruídos pela Polícia Federal durante uma operação realizada em duas áreas rurais de Concórdia do Pará, no nordeste do estado. Um homem foi preso em flagrante durante a ação. As plantações foram localizadas nos dias 3 e 4 de setembro, após um trabalho de investigação da PF. Os agentes identificaram duas áreas utilizadas para o cultivo da cannabis e fizeram a retirada e destruição das plantas. Além das lavouras, os policiais encontraram estruturas utilizadas para dar suporte ao cultivo e ao beneficiamento da maconha. Esses locais também foram inutilizados. O homem preso durante a operação foi levado para a delegacia do município e autuado em flagrante. A PF não informou, no material divulgado, qual seria a participação dele no esquema. ✅ Siga o canal do g1 Pará no WhatsApp Leia também: Caso José Arthur: PF aciona policial nos EUA para cruzar informações sobre desaparecimento de bebê Duas pessoas são mortas a tiros dentro da própria casa no Jurunas, em Belém",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/06/pf-encontra-29-mil-pes-de-maconha-e-prende-homem-em-plantacao-no-para.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/wnjmaxFaxOMExhYPNVgLkbVTb6s=/576x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/6/vUmA3lTs6yB1BpDgzEWA/apreende.jpeg",
+      "data": "2026-09-06T20:26:03+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d0d0d94a795590e9030a79baf09ffa6c",
+      "titulo": "Santa Cruz x Botafogo-PB: onde assistir e o que esperar da estreia no quadrangular da Série C",
+      "descricao": "O Santa estreia no quadrangular. Foto: Irene Almeida Santa Cruz recebe o Botafogo-PB na Arena de Pernambuco, com torcida única, reforços e disputa direta pelo acesso à Série B. O post Santa Cruz x Botafogo-PB: onde assistir e o que esperar da estreia no quadrangular da Série C apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/santa-cruz-x-botafogo-pb-onde-assistir-e-o-que-esperar-da-estreia-no-quadrangular-da-serie-c/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/IMG-20260627-WA0044.jpg",
+      "data": "2026-09-06T20:13:00+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -59,26 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/8cAEAJ3FtW1rRsLmSaZTIjSv0_I=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/25/48/14934825",
       "data": "2026-09-06T19:10:18+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "516ddebab8d338710d90f3d2bdb32420",
-      "titulo": "VÍDEO: Confusão entre PM e apoiadores de Dr. Daniel termina com spray de pimenta e xingamentos na delegacia no PA",
-      "descricao": "PM usa spray de pimenta contra apoiadores de Dr. Daniel, candidato ao governo do Pará Uma ação da Polícia Militar, na noite de sábado (6), terminou em confusão num posto de combustíveis em Ananindeua, na região metropolitana de Belém. Um policial usou spray de pimenta para dispersar apoiadores do candidato ao Governo Dr. Daniel (Podemos), que abasteciam veículos para participar de uma carreata. Duas pessoas foram levadas para a delegacia. No local, também houve confusão. Um vídeo que circula pelas redes sociais mostra o candidato Dr. Daniel chamando dois oficiais da polícia de \"vagabundos\" e exigindo explicações sobre o uso do spray - (assista acima). ✅ Receba as notícias do g1 Pará direto no WhatsApp Na Seccional da Cidade Nova, de Polícia Civil, o gerente e os frentistas prestarem esclarecimentos sobre o abastecimento de veículos que estava ocorrendo no estabelecimento. A Polícia não detalhou se havia mandado judicial para a fiscalização no local. Várias planilhas foram apreendidas pela polícia. Elas mostravam listas de veículos, com dados de nomes; contatos; modelos dos veículos, incluindo carros e motos das pessoas; além do nome de dois candidatos e um gestor público como responsáveis pelo serviço. O g1 não reproduziu as planilhas em proteção aos dados. PM usa spray de pimenta contra apoiadores de Dr. Daniel em Ananindeua, no Pará. Reprodução / Redes sociais Segundo a PM, ao chegarem no local da confusão, os agentes encontraram um \"princípio de tumulto e com a possível distribuição de combustível para fins de campanha política\". A Polícia Civil disse que recebeu todo o material apreendido e que \"irá encaminhá-lo à Justiça Eleitoral, responsável pela apuração dos fatos\". Sobre a situação, o candidato Dr Daniel publicou um vídeo na conta dele do Instagram afirmando que \"agrediram os apoiadores por estarem abastecendo em um posto de gasolina para uma carreata, totalmente legal e comunicada ao Tribunal Regional Eleitoral\". O candidato Daniel não responde a nenhuma suspeita envolvendo o caso. O g1 entrou em contato com os dois candidatos e o gestor público que aparecem nas planilhas apreendidas pela polícia, mas não havia obtido resposta até a última atualização da reportagem. A Justiça Eleitoral também foi procurada para esclarecer sobre o material que seria encaminhado pela Polícia Civil. A assessoria do candidato Daniel Santos foi acionada para esclarecer sobre o vídeo gravado dentro da delegacia, mas também ainda não havia dado retorno até a última atualização. Em nota, a Associação dos Delegados de Polícia do Pará (Adepol) repudiou \"expressões ofensivas dirigidas a delegado de polícia no exercício de suas funções\" e disse que \"fiscalização, averiguação e apuração de fatos possivelmente ilícitos constituem deveres funcionais dos agentes públicos competentes, e integram o regular exercício da atividade policial\". VÍDEOS: veja todas as notícias do Pará Leia mais notícias na página especial Eleições 2026 no Pará",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/06/video-confusao-entre-pm-e-apoiadores-termina-com-spray-de-pimenta-e-xingamentos-em-delegacia-no-pa.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/Qqiw7roYRcppIVjEWfE8ETNVcFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/i/0RIfWLTVuCOaob7EBw2Q/1788721725455426.jpg",
-      "data": "2026-09-06T19:06:45+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "17159e4c43d9ce1a3fc0797cc201a8c5",
-      "titulo": "ASA x Uberlândia: onde assistir à final da Série D e quem sai na frente pelo título",
-      "descricao": "ASA e Uberlândia começam em Arapiraca a disputa pelo título da Série D do Campeonato Brasileiro. Foto: divulgação/reprodução Times iniciam neste domingo, 6 de setembro, a disputa pelo título nacional; jogo de ida será em Arapiraca, com transmissão ao vivo. O post ASA x Uberlândia: onde assistir à final da Série D e quem sai na frente pelo título apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/asa-x-uberlandia-onde-assistir-a-final-da-serie-d-e-quem-sai-na-frente-pelo-titulo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_asa-uberlandia-foto-lucas-auditore-e-giovanni-mendes_widemd.jpg",
-      "data": "2026-09-06T19:03:00+00:00",
       "categoria": "PARÁ"
     }
   ]
