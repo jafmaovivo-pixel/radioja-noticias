@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-06T16:34:49.532066+00:00",
+  "atualizado": "2026-09-06T17:02:27.903086+00:00",
   "noticias": [
+    {
+      "id": "b0e887ed5c47efe80443f9e471a1a1d9",
+      "titulo": "Mesquita e Ruffeil relembram bastidores da vitória do Remo contra o Flamengo: 'Histórico'",
+      "descricao": "Mesquita e Ruffeil relembram bastidores da vitória do Remo contra o Flamengo: 'Histórico'",
+      "link": "https://www.oliberal.com/esportes/remo/mesquita-e-ruffeil-relembram-bastidores-da-vitoria-do-remo-contra-o-flamengo-historico-1.1165199",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165205:1788567410/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T17:02:26.637613+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bf101be93164f625fcda487b9ed1663e",
+      "titulo": "Remo não deixa o Z4 do Brasileirão nesta rodada nem se vencer o Flamengo; veja cenário",
+      "descricao": "Remo não deixa o Z4 do Brasileirão nesta rodada nem se vencer o Flamengo; veja cenário",
+      "link": "https://www.oliberal.com/esportes/remo/remo-nao-deixa-o-z4-do-brasileirao-nesta-rodada-nem-se-vencer-o-flamengo-veja-cenario-1.1165527",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1115039:1777334260/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T17:02:26.637385+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "cf7cd3b07f5e642903424ec93d2e5f2b",
+      "titulo": "Remo desafia o Flamengo no Mangueirão em confronto decisivo",
+      "descricao": "Remo desafia o Flamengo no Mangueirão em confronto decisivo",
+      "link": "https://www.oliberal.com/esportes/remo/em-meio-a-crise-remo-enfrentaflamengo-no-mangueirao-com-oportunidade-de-sair-do-z4-1.1165089",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1107507:1775687871/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T17:02:26.365213+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b39c6def4e90cf65dd016b4d7451eae9",
+      "titulo": "De Pernambuco a Belém: visitantes escolhem Outeiro para curtir o feriado",
+      "descricao": "Feriado leva famílias às praias de Outeiro em busca de diversão e tranquilidade. Foto: Wagner Almeida Moradores de Belém e visitantes aproveitaram o feriado da Independência nas praias de Outeiro. Famílias se reuniram na Praia Grande para desfrutar do dia à beira do rio. O post De Pernambuco a Belém: visitantes escolhem Outeiro para curtir o feriado apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/de-pernambuco-a-belem-visitantes-escolhem-outeiro-para-curtir-o-feriado/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/DP20260905_WA_9932.jpg",
+      "data": "2026-09-06T16:49:27+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "f9b6668c0567a1ed6c6ccd4fa5512fc4",
       "titulo": "Ex-jogadores de Remo e Flamengo relembram histórias de bastidores antes de duelo entre as equipes",
@@ -9,26 +49,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165068:1788556932/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-06T16:34:47.413749+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b0e887ed5c47efe80443f9e471a1a1d9",
-      "titulo": "Mesquita e Ruffeil relembram bastidores da vitória do Remo contra o Flamengo: 'Histórico'",
-      "descricao": "Mesquita e Ruffeil relembram bastidores da vitória do Remo contra o Flamengo: 'Histórico'",
-      "link": "https://www.oliberal.com/esportes/remo/mesquita-e-ruffeil-relembram-bastidores-da-vitoria-do-remo-contra-o-flamengo-historico-1.1165199",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165205:1788567410/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T16:34:47.413645+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3d8178bdf70a4cce8026230b3f458c14",
-      "titulo": "Série A: Remo desafia o Flamengo no Mangueirão em confronto decisivo",
-      "descricao": "Série A: Remo desafia o Flamengo no Mangueirão em confronto decisivo",
-      "link": "https://www.oliberal.com/esportes/remo/em-meio-a-crise-remo-enfrentaflamengo-no-mangueirao-com-oportunidade-de-sair-do-z4-1.1165089",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1107507:1775687871/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T16:34:47.413497+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,29 +62,9 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "d071aff7ede99e2c9bb60d5484af819d",
-      "titulo": "Após flagrante de combustível, Daniel Santos chama delegado e coronel de “vagabundos”",
-      "descricao": "Flagrante de combustível para carreata termina com Daniel Santos chamando policiais de “vagabundos” O candidato ao Governo do Pará, Daniel Santos, se envolveu em uma confusão na madrugada deste domingo (6) após uma operação policial que investigava um esquema de abastecimento de veículos para sua carreata. O post Após flagrante de combustível, Daniel Santos chama delegado e coronel de “vagabundos” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/apos-flagrante-de-combustivel-daniel-santos-chama-delegado-e-coronel-de-vagabundos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Video-2026-09-06-at-11.46.21.mp4",
-      "data": "2026-09-06T16:14:51+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fbc694224fb6cdc50b4a6e8efbaf68c7",
-      "titulo": "Quem é GH Rell? Streamer que chamou ator da Globo de “horroroso” em caso de homofobia e acusação de racismo",
-      "descricao": "O streamer GH Rell conhecido por suas lives de vida real. Foto: Reprodução/ Redes Sociais Streamer carioca acumulava mais de 100 mil seguidores, teve a conta derrubada de plataforma após o episódio e agora é investigado pela Polícia O post Quem é GH Rell? Streamer que chamou ator da Globo de “horroroso” em caso de homofobia e acusação de racismo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/quem-e-gh-rell-streamer-que-chamou-ator-da-globo-de-horroroso-em-caso-de-homofobia-e-acusacao-de-racismo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp-Image-2026-09-06-at-09_45_40-620x620-1.jpg",
-      "data": "2026-09-06T15:55:19+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "a14ba0a9a033774d5086cab4bfe07959",
       "titulo": "Duas pessoas morrem após carro capotar na Rua da Marinha, em Belém",
-      "descricao": "Acidente deixa dois pessoas mortas na Rua da Marinha, em Belém Reprodução Duas pessoas morreram em um acidente na madrugada deste domingo (6), na rotatória da Rua da Marinha, no bairro da Marambaia, em Belém. De acordo com a Polícia Civil, o condutor perdeu o controle do veículo e acabou colidindo com uma mureta da via. Com o impacto, o motorista e um passageiro foram lançados contra o painel do carro. Os dois morreram no local. A identidade das vítimas ainda não foi oficialmente divulgada. ✅ Siga o canal do g1 Pará no WhatsApp Equipes do Corpo de Bombeiros foram acionadas para atender à ocorrência. A Seccional da Marambaia instaurou um inquérito para apurar o caso. Leia também: Caso José Arthur: PF aciona policial nos EUA para cruzar informações sobre desaparecimento de bebê Duas pessoas são mortas a tiros dentro da própria casa no Jurunas, em Belém",
+      "descricao": "Acidente deixa dois pessoas mortas na Rua da Marinha, em Belém Reprodução Duas pessoas morreram em um acidente na madrugada deste domingo (6), na rotatória da Rua da Marinha, no bairro da Marambaia, em Belém. De acordo com a Polícia Civil, o condutor perdeu o controle do veículo e acabou colidindo com uma mureta da via. Com o impacto, o motorista e um passageiro foram lançados contra o painel do carro. Os dois morreram no local. ✅ Siga o canal do g1 Pará no WhatsApp A identidade das vítimas ainda não foi oficialmente divulgada. Equipes do Corpo de Bombeiros foram acionadas para atender à ocorrência. Ainda segundo informações da Polícia Civil , a Seccional da Marambaia instaurou um inquérito para apurar o caso. Leia também: Caso José Arthur: PF aciona policial nos EUA para cruzar informações sobre desaparecimento de bebê Duas pessoas são mortas a tiros dentro da própria casa no Jurunas, em Belém",
       "link": "https://g1.globo.com/pa/para/noticia/2026/09/06/duas-pessoas-morrem-apos-carro-capotar-na-rua-da-marinha-em-belem.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/LucV2hhXqMXpd7DsECygQOyZhqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/E/FQobBtSUak1FCmOu2ZBQ/acidente-rua-d-amarinha.jpg",
