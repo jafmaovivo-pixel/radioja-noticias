@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-06T18:35:49.138059+00:00",
+  "atualizado": "2026-09-06T19:02:32.844785+00:00",
   "noticias": [
+    {
+      "id": "02dd61fc7b31de5e2979e2bf8c50ad83",
+      "titulo": "Confiança oposta toma conta do Mangueirão antes de Remo x Flamengo",
+      "descricao": "Confiança oposta toma conta do Mangueirão antes de Remo x Flamengo",
+      "link": "https://www.oliberal.com/esportes/remo/confianca-oposta-toma-conta-do-mangueirao-antes-de-remo-x-flamengo-1.1165592",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165594:1788718559/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T19:02:30.480729+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "abb7620593ddc13c75e8ba848dcba25e",
+      "titulo": "Vídeo: Torcedores de Remo e Flamengo se envolvem em briga nos arredores do Mangueirão",
+      "descricao": "Vídeo: Torcedores de Remo e Flamengo se envolvem em briga nos arredores do Mangueirão",
+      "link": "https://www.oliberal.com/esportes/remo/torcedores-de-remo-e-flamengo-se-envolvem-em-briga-nos-arredores-do-mangueirao-1.1165647",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165660:1788720870/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-06T19:02:30.480545+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ca341105c8ff1f3e4ec94f23046aa9d6",
+      "titulo": "Remo desafia o Flamengo no Mangueirão em confronto decisivo",
+      "descricao": "Remo desafia o Flamengo no Mangueirão em confronto decisivo",
+      "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/remo-x-flamengo#google_vignette",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
+      "data": "2026-09-06T19:02:30.144027+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "781a01c1d81e3a502139844868e94fd4",
+      "titulo": "Nosso Tom transforma Aldeia Amazônica em FanFest após Remo x Flamengo",
+      "descricao": "Após Remo x Flamengo, Nosso Tom comanda festa de graça na Pedreira A Aldeia Amazônica, em Belém, será palco de uma FanFest gratuita neste domingo (6) após o clássico Remo x Flamengo. O evento Nosso Tom Pelas Ruas de Belém terá telão, shows e muita torcida. O post Nosso Tom transforma Aldeia Amazônica em FanFest após Remo x Flamengo apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/voce/nosso-tom-transforma-aldeia-amazonica-em-fanfest-apos-remo-x-flamengo/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/Nosso-Tom.jpg",
+      "data": "2026-09-06T18:54:21+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "b8cf3b692f341812ffdad37833f4cf38",
       "titulo": "Vai chover durante o jogo Remo x Flamengo em Belém?",
@@ -12,53 +52,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "02dd61fc7b31de5e2979e2bf8c50ad83",
-      "titulo": "Confiança oposta toma conta do Mangueirão antes de Remo x Flamengo",
-      "descricao": "Confiança oposta toma conta do Mangueirão antes de Remo x Flamengo",
-      "link": "https://www.oliberal.com/esportes/remo/confianca-oposta-toma-conta-do-mangueirao-antes-de-remo-x-flamengo-1.1165592",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165594:1788718559/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T18:35:47.109985+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ca341105c8ff1f3e4ec94f23046aa9d6",
-      "titulo": "Remo desafia o Flamengo no Mangueirão em confronto decisivo",
-      "descricao": "Remo desafia o Flamengo no Mangueirão em confronto decisivo",
-      "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/remo-x-flamengo#google_vignette",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
-      "data": "2026-09-06T18:35:46.833156+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5eb45b0a26c9b19816927eecf3323351",
-      "titulo": "Delegação do Flamengo chega ao Mangueirão para duelo contra o Remo",
-      "descricao": "Delegação do Flamengo chega ao Mangueirão para duelo contra o Remo",
-      "link": "https://www.oliberal.com/esportes/futebol/delegacao-do-flamengo-chega-ao-mangueirao-para-duelo-contra-o-remo-1.1165560",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165563:1788715336/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-06T18:03:05.571761+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "cc35b73d359582028891677fb56660f6",
-      "titulo": "Remo x Flamengo ao vivo: acompanhe jogo direto do Mangueirão",
-      "descricao": "Remo e Flamengo voltam a medir forças. Fotos: Gilvan de Souza/Flamengo O Clube do Remo enfrenta o Flamengo neste domingo (6) no Mangueirão, em Belém, em um jogo crucial pela Série A do Campeonato Brasileiro. Confira o serviço completo da partida. O post Remo x Flamengo ao vivo: acompanhe jogo direto do Mangueirão apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/remo-x-flamengo-ao-vivo-acompanhe-jogo-direto-do-mangueirao/",
+      "id": "8203f06f2a51aaa971024b0bee2b6030",
+      "titulo": "Prédio do antigo Ki Preço atravessa décadas fechado e expõe vazio urbano em Belém",
+      "descricao": "Prédio onde funcionou o supermercado Ki Preço acumula sinais de deterioração na travessa Humaitá, no bairro da Pedreira, em Belém. Foto: Clayton Matos Imagens do Google Maps registram a perda progressiva de partes da cobertura e da fachada do imóvel localizado na travessa Humaitá O post Prédio do antigo Ki Preço atravessa décadas fechado e expõe vazio urbano em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/predio-do-antigo-ki-preco-atravessa-decadas-fechado-e-expoe-vazio-urbano-em-belem/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/55157693503_e316c8ee58_5k.jpg",
-      "data": "2026-09-06T18:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "70a017529c2a267ff604cef583497adc",
-      "titulo": "Maior que Givanildo? Júnior Rocha busca marca histórica no Paysandu",
-      "descricao": "Mais um feito histórico? Júnior Rocha se aproxima de marca de Givanildo Jorge Luís Totti/Paysandu Júnior Rocha está perto de completar uma temporada inteira no comando do Paysandu, feito raro no futebol brasileiro e alcançado por poucos treinadores no século. O post Maior que Givanildo? Júnior Rocha busca marca histórica no Paysandu apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/maior-que-givanildo-junior-rocha-busca-marca-historica-no-paysandu/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/convertida_1200x628_55323041730_f9c9b99454_c.jpg",
-      "data": "2026-09-06T17:45:33+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Capa-Vazio-urbano-Ki-Preco.jpg",
+      "data": "2026-09-06T18:35:00+00:00",
       "categoria": "PARÁ"
     },
     {
