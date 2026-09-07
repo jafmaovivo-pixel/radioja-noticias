@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-07T11:03:02.184106+00:00",
+  "atualizado": "2026-09-07T11:37:10.586842+00:00",
   "noticias": [
+    {
+      "id": "2ca5c8ad4e1bfba4746543d19af7c9f8",
+      "titulo": "Carro cai de ponte e deixa homem ferido na zona rural de Augusto Corrêa",
+      "descricao": "Carro cai de ponte e deixa homem ferido na zona rural de Augusto Corrêa",
+      "link": "https://www.oliberal.com/policia/carro-cai-de-ponte-e-deixa-homem-ferido-na-zona-rural-de-augusto-correa-1.1164825",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164826:1788532068/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T11:37:08.192839+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "45cf3d6fc9c5b3705ee800eaadd58328",
+      "titulo": "Vendedor de peixe morre após colisão entre quatro veículos na PA-279, em Tucumã",
+      "descricao": "Vendedor de peixe morre após colisão entre quatro veículos na PA-279, em Tucumã",
+      "link": "https://www.oliberal.com/policia/vendedor-de-peixe-morre-apos-colisao-entre-quatro-veiculos-na-pa-279-em-tucuma-1.1164808",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164809:1788529732/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T11:37:08.031579+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2eff96a93ef2435255c67f20962a598d",
+      "titulo": "Acidente com motocicletas deixa um morto e dois feridos no Pará",
+      "descricao": "Acidente com motocicletas deixa um morto e dois feridos no Pará",
+      "link": "https://www.oliberal.com/policia/acidente-entre-duas-motocicletas-deixa-um-morto-e-dois-feridos-em-curuca-1.1165892",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165893:1788778194/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T11:37:07.589994+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "45896ff064a48d5970c8e9e2fdf00020",
+      "titulo": "Quem indicou cada ministro do STF e em que ano cada um deixa a Corte",
+      "descricao": "O plenário atual do Supremo Tribunal Federal reúne 10 ministros indicados por 5 presidentes diferentes. A composição do Supremo Tribunal Federal deve mudar nos próximos anos devido a aposentadorias compulsórias e antecipadas. Entenda as regras e o cronograma de saída dos ministros da Corte. O post Quem indicou cada ministro do STF e em que ano cada um deixa a Corte apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/brasil/quem-indicou-cada-ministro-do-stf-e-em-que-ano-cada-um-deixa-a-corte/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/stfconpulsoria5-1.png",
+      "data": "2026-09-07T11:29:50+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "82083e6ad10e845e5b593976fd9cdb59",
+      "titulo": "7 de Setembro muda horários na Grande Belém; veja o que abre e fecha",
+      "descricao": "Comércio, shoppings, serviços de saúde e equipamentos públicos terão funcionamento específico no feriado de 7 de Setembro na Grande Belém. Foto: Arquivo/Diário do Pará Comércio poderá funcionar nesta segunda-feira (7), enquanto equipamentos municipais terão atendimento suspenso ou horários diferenciados. O post 7 de Setembro muda horários na Grande Belém; veja o que abre e fecha apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/7-de-setembro-muda-horarios-na-grande-belem-veja-o-que-abre-e-fecha/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Comercio-1.jpg",
+      "data": "2026-09-07T11:05:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "65724b55e1fe8eca6b751a0db40485e6",
       "titulo": "Técnico do Flamengo exalta defesa do goleiro Marcelo Rangel, do Remo: 'uma das melhores do ano'",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1114135:1777070239/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-07T11:02:59.436630+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d568f40e3406095be521408aba2f4d45",
-      "titulo": "Picco avalia próximas rodadas como “finais” para o Remo e “cutuca” Condé",
-      "descricao": "Picco avalia próximas rodadas como “finais” para o Remo e “cutuca” Condé",
-      "link": "https://www.oliberal.com/esportes/remo/picco-avalia-proximas-rodadas-como-finais-para-o-remo-e-cutuca-conde-1.1165860",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165862:1788733524/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T11:02:59.436450+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7cd9ad77c2c896fc394af75b95c01d57",
-      "titulo": "Remo perde para o Flamengo e se complica na Série A",
-      "descricao": "Remo perde para o Flamengo e se complica na Série A",
-      "link": "https://www.oliberal.com/esportes/remo/remo-faz-jogo-duro-mas-flamengo-vence-e-complica-leao-na-tabela-da-serie-a-1.1165805",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165818:1788728579/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T11:02:59.436266+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7a2e6f0c85406ac968ad3aa587638fda",
-      "titulo": "O dia em que o Pará decidiu não seguir a Independência do Brasil",
-      "descricao": "Por que o Pará demorou quase um ano para aderir à Independência do Brasil A Adesão do Pará à Independência, em 15 de agosto de 1823, marcou a incorporação da província ao Brasil. O processo foi complexo, com revoltas e um blefe que mudou a história da região. O post O dia em que o Pará decidiu não seguir a Independência do Brasil apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/o-dia-em-que-o-para-decidiu-nao-seguir-a-independencia-do-brasil/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://diariodopara.com.br/wp-content/uploads/2025/08/823_486faf7d-a1d9-43c9-899e-dda7ff0e05d7.jpg",
-      "data": "2026-09-07T11:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1255896ee50990069b33becfffd5fc7a",
-      "titulo": "Horóscopo da semana de 7 a 13 de setembro destaca relações, trabalho e dinheiro",
-      "descricao": "Horóscopo da semana reúne as previsões para os 12 signos entre 7 e 13 de setembro. Previsões indicam novos acordos, planejamento financeiro, decisões pessoais e atenção aos gastos e diálogos no fim de semana. O post Horóscopo da semana de 7 a 13 de setembro destaca relações, trabalho e dinheiro apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/horoscopo-da-semana-de-7-a-13-de-setembro-destaca-relacoes-trabalho-e-dinheiro/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Horoscopo-da-Semana.png",
-      "data": "2026-09-07T10:45:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "cb63149c619b6702f59605b900f93e3c",
-      "titulo": "Horóscopo de hoje, 7 de setembro, traz ajustes nas relações e renovação",
-      "descricao": "Horóscopo desta segunda-feira (7) apresenta as previsões para os 12 signos. Foto: Canva Previsões para os signos destacam relações pessoais, rotina, trabalho, criatividade e valorização das redes de apoio nesta segunda-feira. O post Horóscopo de hoje, 7 de setembro, traz ajustes nas relações e renovação apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/horoscopo-de-hoje-7-de-setembro-traz-ajustes-nas-relacoes-e-renovacao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Horoscopo-13.jpg",
-      "data": "2026-09-07T09:31:57+00:00",
       "categoria": "PARÁ"
     },
     {
