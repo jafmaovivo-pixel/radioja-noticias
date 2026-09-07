@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-07T18:03:20.043784+00:00",
+  "atualizado": "2026-09-07T18:39:16.644736+00:00",
   "noticias": [
+    {
+      "id": "33072dd5dd2b71e0c7cd2659d5e15efd",
+      "titulo": "Grupo armado assalta joalheria e leva joias, relógios e R$ 4 mil em Castanhal",
+      "descricao": "Grupo armado assalta joalheria e leva joias, relógios e R$ 4 mil em Castanhal",
+      "link": "https://www.oliberal.com/policia/grupo-armado-assalta-joalheria-e-leva-joias-relogios-e-r-4-mil-em-castanhal-1.1165295",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165298:1788617645/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T18:39:13.738461+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "80b0a4375da4281094042662fd51e405",
+      "titulo": "Condenado por assalto em que cinco crianças foram amarradas e R$ 20 mil roubados é preso em Muaná",
+      "descricao": "Condenado por assalto em que cinco crianças foram amarradas e R$ 20 mil roubados é preso em Muaná",
+      "link": "https://www.oliberal.com/policia/condenado-por-assalto-em-que-cinco-criancas-foram-amarradas-e-r-20-mil-roubados-e-preso-em-muana-1.1164791",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164800:1788528186/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T18:39:13.385255+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3056de0df145b59c0fa158893ffef54b",
+      "titulo": "Falsos entregadores assaltam estabelecimento em Belém",
+      "descricao": "Falsos entregadores assaltam estabelecimento em Belém",
+      "link": "https://www.oliberal.com/policia/falsos-entregadores-assaltam-trabalhadores-em-estabelecimento-na-cremacao-em-belem-1.1166048",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166050:1788802981/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T18:39:13.036000+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f76a3fe32cb4a4d801f214006df7b7d7",
+      "titulo": "Corinthians x Cruzeiro hoje: onde assistir ao vivo e o que está em jogo?",
+      "descricao": "Corinthians recebe o Cruzeiro no Canindé com vantagem após vencer o primeiro duelo das quartas de final Foto: divulgação/reprodução Timão joga pelo empate após vencer o primeiro duelo, enquanto Cruzeiro precisa reagir para seguir vivo na competição. O post Corinthians x Cruzeiro hoje: onde assistir ao vivo e o que está em jogo? apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/corinthians-x-cruzeiro-hoje-onde-assistir-ao-vivo-e-o-que-esta-em-jogo/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_CANAL-CORINTHIANS-X-CRUZEIRO-BR-FEMININO-QUARTAS-2026.jpg",
+      "data": "2026-09-07T18:37:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "2707450e30139e96ed63229b613ac737",
       "titulo": "Governadora Hana Ghassan participa de desfile de 7 de Setembro em Belém",
@@ -9,26 +49,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165999:1788796124/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-07T18:03:17.209867+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "89c70603ffd5b0c38a8f4b3dffe3c672",
-      "titulo": "Desfile de 7 de Setembro reúne 70 mil pessoas em Brasília",
-      "descricao": "Desfile de 7 de Setembro reúne 70 mil pessoas em Brasília",
-      "link": "https://www.oliberal.com/politica/secom-diz-que-70-mil-estiveram-na-esplanada-em-desfile-do-7-de-setembro-1.1166016",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166029:1788801362/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T18:03:17.209805+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "87377f823faf83c64d432997b94eea30",
-      "titulo": "Desfile de 7 de setembro reúne 5,8 mil pessoas em Belém",
-      "descricao": "Desfile de 7 de setembro reúne 5,8 mil pessoas em Belém",
-      "link": "https://www.oliberal.com/belem/desfile-de-7-de-setembro-reune-5-8-mil-pessoas-em-belem-1.1165940",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165941:1788790174/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T18:03:17.209707+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,26 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/cFSarr_QAwJS1YAB45HDeKDzqsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/G/SBCBXzTTyCZJeLhpzDVA/naufragio-maraba.png",
       "data": "2026-09-07T17:22:12+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b55bf59e1f81fc35d5afc6f18ed22349",
-      "titulo": "7 de Setembro reúne multidão em Belém; imagens mostram desfile na Presidente Vargas",
-      "descricao": "Presidente Vargas vira palco de grande desfile pelos 204 anos da Independência; imagens. Foto: Irene Almeida Belém sediou o tradicional Desfile Cívico-Militar de 7 de Setembro, reunindo milhares de militares e civis para celebrar a Independência do Brasil. O evento contou com a presença de autoridades e participação internacional. O post 7 de Setembro reúne multidão em Belém; imagens mostram desfile na Presidente Vargas apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/7-de-setembro-reune-multidao-em-belem-imagens-mostram-desfile-na-presidente-vargas/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/IMG-20260907-WA0019.jpg",
-      "data": "2026-09-07T17:21:14+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "10dd69e193c7b04114c5740216f3f5ee",
-      "titulo": "O Remo perdeu o jogo, mas o Pará ganhou uma vitrine para o futebol brasileiro",
-      "descricao": "Remo e Flamengo protagonizaram um confronto que mobilizou milhares de torcedores no Mangueirão. Foto: Irene Almeida/Diário do Pará Apesar da derrota para o Flamengo, a torcida do Remo manteve o entusiasmo no Mangueirão. O jogo teve recorde de público e renda, valorizando o futebol paraense. O Paysandu, por sua vez, pode ter o retorno de Juninho para a estreia na Série C. O post O Remo perdeu o jogo, mas o Pará ganhou uma vitrine para o futebol brasileiro apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/o-remo-perdeu-o-jogo-mas-o-para-ganhou-uma-vitrine-para-o-futebol-brasileiro/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-06_at_18_28_52_2.jpg",
-      "data": "2026-09-07T17:17:33+00:00",
       "categoria": "PARÁ"
     },
     {
