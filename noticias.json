@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-07T12:03:52.387684+00:00",
+  "atualizado": "2026-09-07T12:41:22.436643+00:00",
   "noticias": [
+    {
+      "id": "61b564cfde22db7532bb340bbd4daab9",
+      "titulo": "Tragédia em Capanema: família morre presa em prédio de loja durante incêndio",
+      "descricao": "Tragédia em Capanema: família morre presa em prédio de loja durante incêndio",
+      "link": "https://www.oliberal.com/policia/tragedia-em-capanema-familia-morre-presa-em-predio-de-loja-durante-incendio-1.1165482",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165483:1788700598/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T12:41:19.337219+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "70f19792aff80885aaec35604772e0a8",
+      "titulo": "Tragédia com família morta em incêndio em Capanema ganha repercussão nacional",
+      "descricao": "Tragédia com família morta em incêndio em Capanema ganha repercussão nacional",
+      "link": "https://www.oliberal.com/policia/tragedia-com-familia-morta-em-incendio-em-capanema-ganha-repercussao-nacional-1.1165677",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165685:1788722469/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T12:41:18.789507+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2f1185565b1d14c907f0cc97ac3c2750",
+      "titulo": "Família morta em incêndio recebe homenagem no 7 de Setembro",
+      "descricao": "Família morta em incêndio recebe homenagem no 7 de Setembro",
+      "link": "https://www.oliberal.com/policia/familia-morta-em-incendio-e-homenageada-durante-desfile-de-7-de-setembro-em-capanema-1.1165915",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165719:1788723615/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T12:41:18.444005+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6d5b4533824f0758150d165a80207e49",
+      "titulo": "Ela guardou por décadas: Mízar Bonna revela foto ligada ao rosto da Imagem Peregrina",
+      "descricao": "Mízar Bonna revelou em depoimento qual fotografia ajudou a orientar a criação do rosto da Imagem Peregrina de Nossa Senhora de Nazaré. Foto: Frame/Vídeo \"Como nasceu a Senhora da Berlinda?\"/Mãos de Outubro Pesquisadora guardou a história por décadas e explicou que o retrato serviu como referência para um tipo de mulher, não como modelo para uma cópia O post Ela guardou por décadas: Mízar Bonna revela foto ligada ao rosto da Imagem Peregrina apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cirio-de-nazare/ela-guardou-por-decadas-mizar-bonna-revela-foto-ligada-ao-rosto-da-imagem-peregrina/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Mizar-Bonna-3.jpg",
+      "data": "2026-09-07T12:30:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "17e08c367535b112a74073da89b70e77",
+      "titulo": "Feliz 7 de Setembro: 30 frases para mandar no Dia da Independência",
+      "descricao": "Dia da Independência: 30 frases para enviar no 7 de Setembro. Foto: Roberto Stuckert Filho/PR. O 7 de Setembro, data que marca a Independência do Brasil, é um momento para celebrar a história e refletir sobre o futuro do país. Compartilhe mensagens de patriotismo e união com amigos e familiares. O post Feliz 7 de Setembro: 30 frases para mandar no Dia da Independência apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/feliz-7-de-setembro-30-frases-para-mandar-no-dia-da-independencia/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://diariodopara.com.br/wp-content/uploads/2023/09/6124070034_0bad3aba23_k.jpg",
+      "data": "2026-09-07T12:27:03+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "2ca5c8ad4e1bfba4746543d19af7c9f8",
       "titulo": "Carro cai de ponte e deixa homem ferido na zona rural de Augusto Corrêa",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164826:1788532068/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-07T12:03:49.822000+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "45cf3d6fc9c5b3705ee800eaadd58328",
-      "titulo": "Vendedor de peixe morre após colisão entre quatro veículos na PA-279, em Tucumã",
-      "descricao": "Vendedor de peixe morre após colisão entre quatro veículos na PA-279, em Tucumã",
-      "link": "https://www.oliberal.com/policia/vendedor-de-peixe-morre-apos-colisao-entre-quatro-veiculos-na-pa-279-em-tucuma-1.1164808",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164809:1788529732/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T12:03:49.821880+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2eff96a93ef2435255c67f20962a598d",
-      "titulo": "Acidente com motocicletas deixa um morto e dois feridos no Pará",
-      "descricao": "Acidente com motocicletas deixa um morto e dois feridos no Pará",
-      "link": "https://www.oliberal.com/policia/acidente-entre-duas-motocicletas-deixa-um-morto-e-dois-feridos-em-curuca-1.1165892",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165893:1788778194/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T12:03:49.821714+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9615867b2586abdad9a64df32816d61b",
-      "titulo": "Quer trabalhar na Transpetro? Seleção tem vagas e salários de até R$ 15 mil",
-      "descricao": "Com atuação estratégica no setor energético, a Transpetro conecta diferentes regiões por meio de operações marítimas e terrestres Foto: divulgação/reprodução Processos seletivos oferecem oportunidades para níveis médio, técnico e superior. Editais tiveram mudanças em requisitos e regras para candidatos. O post Quer trabalhar na Transpetro? Seleção tem vagas e salários de até R$ 15 mil apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/quer-trabalhar-na-transpetro-selecao-tem-vagas-e-salarios-de-ate-r-15-mil/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_-_2026-09-04T134413_440.jpg",
-      "data": "2026-09-07T11:53:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0b6a1b4829af88235d10a3ece28c9955",
-      "titulo": "Aos 12 anos, Maria Antônia vence torneio e já está entre as 10 melhores do Brasil",
-      "descricao": "Atleta paraense de 12 anos vence torneio e alcança top 10 do ranking nacional A atleta Maria Antônia Mendes, de 12 anos, se destacou no Açaí Bowl de tênis juvenil, conquistando o título na categoria feminina de 12 anos e o vice-campeonato nas duplas. Ela planeja conciliar estudos e esporte no exterior. O post Aos 12 anos, Maria Antônia vence torneio e já está entre as 10 melhores do Brasil apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/aos-12-anos-maria-antonia-vence-torneio-e-ja-esta-entre-as-10-melhores-do-brasil/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_maria.jpg",
-      "data": "2026-09-07T11:38:22+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "45896ff064a48d5970c8e9e2fdf00020",
-      "titulo": "Quem indicou cada ministro do STF e em que ano cada um deixa a Corte",
-      "descricao": "O plenário atual do Supremo Tribunal Federal reúne 10 ministros indicados por 5 presidentes diferentes. A composição do Supremo Tribunal Federal deve mudar nos próximos anos devido a aposentadorias compulsórias e antecipadas. Entenda as regras e o cronograma de saída dos ministros da Corte. O post Quem indicou cada ministro do STF e em que ano cada um deixa a Corte apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/quem-indicou-cada-ministro-do-stf-e-em-que-ano-cada-um-deixa-a-corte/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/stfconpulsoria5-1.png",
-      "data": "2026-09-07T11:29:50+00:00",
       "categoria": "PARÁ"
     },
     {
