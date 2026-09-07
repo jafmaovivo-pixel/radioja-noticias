@@ -1,16 +1,6 @@
 {
-  "atualizado": "2026-09-07T16:36:43.444247+00:00",
+  "atualizado": "2026-09-07T17:02:46.693983+00:00",
   "noticias": [
-    {
-      "id": "10683229a921a36b89a6a003e9acae97",
-      "titulo": "Atos da oposição protestam contra Lula e Moraes em Brasília durante 7 de Setembro",
-      "descricao": "Atos da oposição protestam contra Lula e Moraes em Brasília durante 7 de Setembro",
-      "link": "https://www.oliberal.com/brasil/atos-da-oposicao-protestam-contra-lula-e-moraes-em-brasilia-durante-7-de-setembro-1.1165947",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165951:1788791273/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T16:36:41.299759+00:00",
-      "categoria": "PARÁ"
-    },
     {
       "id": "0aa20987f8605a7c9fc2056adc7c8367",
       "titulo": "Desfile de 7 de Setembro em Brasília começa com Lula, Fachin e Alcolumbre",
@@ -18,7 +8,17 @@
       "link": "https://www.oliberal.com/politica/desfile-de-7-de-setembro-em-brasilia-comeca-com-lula-fachin-e-alcolumbre-1.1165917",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165918:1788784780/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T16:36:41.299615+00:00",
+      "data": "2026-09-07T17:02:44.034033+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2707450e30139e96ed63229b613ac737",
+      "titulo": "Governadora Hana Ghassan participa de desfile de 7 de Setembro em Belém",
+      "descricao": "Governadora Hana Ghassan participa de desfile de 7 de Setembro em Belém",
+      "link": "https://www.oliberal.com/belem/governadora-hana-ghassan-participa-de-desfile-de-7-de-setembro-em-belem-1.1165995",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165999:1788796124/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T17:02:44.033817+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,17 @@
       "link": "https://www.oliberal.com/belem/desfile-de-7-de-setembro-reune-5-8-mil-pessoas-em-belem-1.1165940",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165941:1788790174/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T16:36:41.299429+00:00",
+      "data": "2026-09-07T17:02:43.744272+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "10683229a921a36b89a6a003e9acae97",
+      "titulo": "Atos da oposição protestam contra Lula e Moraes em Brasília durante 7 de Setembro",
+      "descricao": "Atos da oposição protestam contra Lula e Moraes em Brasília durante 7 de Setembro",
+      "link": "https://www.oliberal.com/brasil/atos-da-oposicao-protestam-contra-lula-e-moraes-em-brasilia-durante-7-de-setembro-1.1165947",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165951:1788791273/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T16:36:41.299759+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/DIARIO-1320x768-20.png",
       "data": "2026-09-07T16:29:43+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "61b564cfde22db7532bb340bbd4daab9",
-      "titulo": "Tragédia em Capanema: família morre presa em prédio de loja durante incêndio",
-      "descricao": "Tragédia em Capanema: família morre presa em prédio de loja durante incêndio",
-      "link": "https://www.oliberal.com/policia/tragedia-em-capanema-familia-morre-presa-em-predio-de-loja-durante-incendio-1.1165482",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165483:1788700598/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T14:36:57.926324+00:00",
       "categoria": "PARÁ"
     },
     {
