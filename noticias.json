@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-07T20:03:03.868273+00:00",
+  "atualizado": "2026-09-07T20:36:11.647180+00:00",
   "noticias": [
     {
       "id": "33072dd5dd2b71e0c7cd2659d5e15efd",
@@ -8,7 +8,47 @@
       "link": "https://www.oliberal.com/policia/grupo-armado-assalta-joalheria-e-leva-joias-relogios-e-r-4-mil-em-castanhal-1.1165295",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165298:1788617645/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T20:03:00.672074+00:00",
+      "data": "2026-09-07T20:36:09.265295+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "134154a2f5b0f40292a61559b97d317e",
+      "titulo": "Falsos entregadores assaltam trabalhadores em estabelecimento na Cremação, em Belém",
+      "descricao": "Falsos entregadores assaltam trabalhadores em estabelecimento na Cremação, em Belém",
+      "link": "https://www.oliberal.com/policia/falsos-entregadores-assaltam-trabalhadores-em-estabelecimento-na-cremacao-em-belem-1.1166048",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166050:1788802981/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T20:36:09.265166+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e0fbe41a22b0235489640e6baab26b83",
+      "titulo": "Professor é denunciado por importunação sexual em desfile de escola",
+      "descricao": "Professor é denunciado por importunação sexual em desfile de escola",
+      "link": "https://www.oliberal.com/policia/professor-e-conduzido-a-delegacia-apos-denuncia-de-importunacao-sexual-em-desfile-de-escola-no-para-1.1166092",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166093:1788810390/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-07T20:36:09.264993+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ccff0bbfaa6104ca1ca0fa75d2bb8c5b",
+      "titulo": "Paysandu x Brusque ao vivo: acompanhe jogo direto do Mangueirão",
+      "descricao": "O Papão busca o acesso à Série B. Foto: Jorge Luís Totti/Paysandu Facundo Bonifazi - lateral-esquerdo Thalyson - extremo É um novo campeonato. É assim que o Paysandu encara o início da fase decisiva da Série C do Campeonato Brasileiro. O post Paysandu x Brusque ao vivo: acompanhe jogo direto do Mangueirão apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/paysandu-x-brusque-ao-vivo-acompanhe-jogo-direto-do-mangueirao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/55500913814_4f7480d3b9_h.jpg",
+      "data": "2026-09-07T20:31:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2de2545dc4ad9c0cb47837b02c8e2f54",
+      "titulo": "Jorge Kajuru anuncia afastamento da política após oito anos no Senado: “Quero distância de política”",
+      "descricao": "Senador Jorge Kajuru afirmou que questões de saúde influenciaram sua decisão sobre o futuro político. Foto: divulgação/reprodução Senador do PSB afirma que decisão envolve saúde e falta de reconhecimento, mas seguirá cumprindo o mandato em Brasília. O post Jorge Kajuru anuncia afastamento da política após oito anos no Senado: “Quero distância de política” apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/jorge-kajuru-anuncia-afastamento-da-politica-apos-oito-anos-no-senado-quero-distancia-de-politica/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_img-2191.jpg",
+      "data": "2026-09-07T20:30:24+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -19,46 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164800:1788528186/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-07T20:03:00.671777+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3056de0df145b59c0fa158893ffef54b",
-      "titulo": "Falsos entregadores assaltam estabelecimento em Belém",
-      "descricao": "Falsos entregadores assaltam estabelecimento em Belém",
-      "link": "https://www.oliberal.com/policia/falsos-entregadores-assaltam-trabalhadores-em-estabelecimento-na-cremacao-em-belem-1.1166048",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166050:1788802981/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T20:03:00.671579+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "36c17ba6fa1e566625e8414ba418b528",
-      "titulo": "“O que está acontecendo?” Legendários são vaiados durante desfile de 7 de Setembro em Belém",
-      "descricao": "Integrantes do movimento Legendários participaram do Desfile de 7 de Setembro em Belém e foram alvo de reações distintas do público durante a passagem pela Avenida Presidente Vargas. Foto: divulgação/reprodução Enquanto perfil do movimento destacou uma recepção positiva, vídeos que circulam nas redes mostram parte do público vaiando integrantes durante a passagem pela Avenida Presidente Vargas. O post “O que está acontecendo?” Legendários são vaiados durante desfile de 7 de Setembro em Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/o-que-esta-acontecendo-legendarios-sao-vaiados-durante-desfile-de-7-de-setembro-em-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_540510206_17934340929088281_2888495918829166995_n.jpg",
-      "data": "2026-09-07T19:44:34+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b4747c1112178955caf1aaa825043bfe",
-      "titulo": "Anitta e Virginia em climão? Entenda polêmica na Grande Rio",
-      "descricao": "Virginia Fonseca não deverá participar da passagem de coroa para Anitta. Foto: Reprodução Cantora foi anunciada como rainha de bateria para o Carnaval de 2027 e deverá ser coroada oficialmente em 20 de setembro O post Anitta e Virginia em climão? Entenda polêmica na Grande Rio apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/anitta-e-virginia-em-climao-entenda-polemica-na-grande-rio/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/DIARIO-1320x768-19.png",
-      "data": "2026-09-07T19:19:09+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6580285af630ec929920be0ee2a5927c",
-      "titulo": "Jhon Lenno é preso com 59 pedras de óxi em feira de Castanhal",
-      "descricao": "Jhon Lenno é preso com 59 pedras de óxi em feira de Castanhal Um homem foi preso em flagrante por suspeita de tráfico de drogas na Feira da Ceasa, em Castanhal, no nordeste do Pará. Com ele, foram encontradas 59 pedras de óxi. O post Jhon Lenno é preso com 59 pedras de óxi em feira de Castanhal apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/jhon-lenno-e-preso-com-59-pedras-de-oxi-em-feira-de-castanhal/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/IMG-20260907-WA0046.jpg",
-      "data": "2026-09-07T19:12:20+00:00",
       "categoria": "PARÁ"
     },
     {
