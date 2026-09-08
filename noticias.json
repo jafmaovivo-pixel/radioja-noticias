@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-08T15:38:13.701129+00:00",
+  "atualizado": "2026-09-08T16:03:45.529702+00:00",
   "noticias": [
+    {
+      "id": "b243e2e52216632669fe1340dc9477ef",
+      "titulo": "Círio 2026: carros de promessas passam por manutenção a partir desta quarta-feira",
+      "descricao": "Círio 2026: carros de promessas passam por manutenção a partir desta quarta-feira",
+      "link": "https://www.oliberal.com/belem/cirio-2026-carros-de-promessas-passam-por-manutencao-a-partir-desta-quarta-feira-1.1166339",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166340:1788872544/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T16:03:43.849059+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1bcb770ea064f89913a7ac669777df4d",
+      "titulo": "Ingressos para arquibancadas do Círio 2026 têm alta procura minutos após início das vendas",
+      "descricao": "Ingressos para arquibancadas do Círio 2026 têm alta procura minutos após início das vendas",
+      "link": "https://www.oliberal.com/belem/ingressos-para-arquibancadas-do-cirio-2026-tem-alta-procura-minutos-apos-inicio-das-vendas-1.1166311",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166314:1788869789/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T16:03:43.848899+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "57fc8c35325dcb8b6385e4f446cf0aa2",
+      "titulo": "Metade dos ingressos para arquibancadas do Círio já foi vendida",
+      "descricao": "Metade dos ingressos para arquibancadas do Círio já foi vendida",
+      "link": "https://www.oliberal.com/belem/metade-dos-ingressos-para-arquibancadas-do-cirio-ja-foi-vendida-nao-havera-2-lote-diz-dfn-1.1166420",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166423:1788882246/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T16:03:43.848671+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "efaa8a146702588265278ec1f75d04ea",
+      "titulo": "Leonardo DiCaprio critica garimpo ilegal e alerta para contaminação de peixes por mercúrio no Pará",
+      "descricao": "Leonardo DiCaprio denuncia impactos do garimpo ilegal no Xingu e cita comunidades do Pará Redes Sociais O ator Leonardo DiCaprio publicou nesta terça-feira (8) uma mensagem nas redes sociais sobre os impactos do garimpo ilegal na Amazônia. Na publicação, ele citou especificamente a região do Médio Xingu, localizada no Pará e que abrange áreas ao longo do curso médio do rio Xingu e de seus afluentes, como o rio Iriri, nas proximidades de municípios como Altamira e São Félix do Xingu. Na publicação, o ator disse que a destruição provocada pela atividade vai além da derrubada de árvores e também afirmou que a atividade provoca danos de longo prazo à saúde humana. \"A destruição causada pela mineração ilegal de ouro na Amazônia não se limita às árvores. As operações liberam mercúrio nos rios, contaminando os peixes que as pessoas comem e a água que bebem, causando danos permanentes à saúde humana\", relatou. ✅ Clique e siga o canal do g1 no Pará no WhatsApp Produtor do documentário brasileiro Yanuni, o ator também marcou Juma Xipaia, liderança indígena e ativista que atua na defesa dos povos e do território amazônico. O filme aborda a trajetória de Juma Xipaia e sua atuação na defesa da Amazônia e dos povos indígenas. \"Para a casa de Juma Xipaia e as comunidades do Médio Xingu, isso é um ataque à alimentação, à medicina e à sobrevivência de uma só vez\", escreveu o ator. Passagem pelo Pantanal DiCaprio passou seis dias no Brasil na última semana para cumprir uma agenda dedicada à causa ambiental. Ele e um grupo de amigos estiveram no Pantanal de Mato Grosso do Sul para conhecer iniciativas de conservação da fauna e da flora do bioma. A visita ocorreu na Fazenda Caiman, em Miranda, município localizado na região do Pantanal sul-mato-grossense. Além do ator, integraram o grupo a namorada dele, a modelo italiana Vittoria Ceretti, e os atores Laura Ruth Harrier e Weston Sechrest. Também participaram Hillel Nahmad, Todd Graves, Rodrigo Medeiros, Raul Guterres e Camila Klabin, segundo apuração do g1. Agora no g1 Leia todas as notícias do estado no g1 Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/08/leonardo-dicaprio-critica-garimpo-ilegal-e-alerta-para-contaminacao-de-peixes-por-mercurio-no-para.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/xyrdE6biPkexgrhN8fBHqlOn-sU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/v/PMLADqSBSU3t7NPNlzug/whatsapp-image-2026-09-08-at-12.37.11.jpeg",
+      "data": "2026-09-08T15:42:56+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "ff399351d3d9eda4c3c2180c676e00ab",
       "titulo": "48º Círio de Nossa Senhora do Bom Remédio reúne fiéis no bairro do Coqueiro em Belém",
@@ -9,26 +49,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165491:1788705164/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-08T15:38:12.071857+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b243e2e52216632669fe1340dc9477ef",
-      "titulo": "Círio 2026: carros de promessas passam por manutenção a partir desta quarta-feira",
-      "descricao": "Círio 2026: carros de promessas passam por manutenção a partir desta quarta-feira",
-      "link": "https://www.oliberal.com/belem/cirio-2026-carros-de-promessas-passam-por-manutencao-a-partir-desta-quarta-feira-1.1166339",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166340:1788872544/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T15:38:12.071753+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6c68834fdbeceac67e6fdef9ec8609e3",
-      "titulo": "Ingressos para arquibancadas do Círio têm alta procura em início das vendas",
-      "descricao": "Ingressos para arquibancadas do Círio têm alta procura em início das vendas",
-      "link": "https://www.oliberal.com/belem/ingressos-para-arquibancadas-do-cirio-2026-tem-alta-procura-minutos-apos-inicio-das-vendas-1.1166311",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166314:1788869789/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T15:38:12.071606+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -52,16 +72,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "5a46ced3f909397bb98995e0f395c426",
-      "titulo": "Caso Giovanna Coelho: “30 dias de o resto da vida sem você”, desabafa irmã um mês após morte",
-      "descricao": "A morte da empresária Giovanna Coelho Gomes, completou um mês nesta terça-feira, 8. A irmã dela desabafou sobre os 30 dias de ausência. A morte da empresária Giovanna Coelho Gomes, completou um mês nesta terça-feira, 8. A irmã dela desabafou sobre os 30 dias de ausência. O post Caso Giovanna Coelho: “30 dias de o resto da vida sem você”, desabafa irmã um mês após morte apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/caso-giovanna-coelho-30-dias-de-o-resto-da-vida-sem-voce-desabafa-irma-um-mes-apos-morte/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1200x628_SaveClip_App_655770961_18110866981775175_8422897660056597104_n.webp",
-      "data": "2026-09-08T14:29:39+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "509d8e6d3872d8b21456c4e41ad629be",
       "titulo": "Incêndio em Capanema: Vítimas são homenageadas em culto ecumênico",
       "descricao": "Moradores de Capanema fazem culto ecumênico em homenagem às vítimas de incêndio, no Pará Dezenas de pessoas se reuniram em frente aos escombros do prédio onde quatro pessoas da mesma família morreram em um incêndio em Capanema, no nordeste paraense. O ato foi marcado por um culto ecumênico com orações em solidariedade aos familiares e amigos das vítimas (veja no vídeo acima). Houve também uma carreata com buzinaço na noite de segunda-feira (7). Um casal e duas crianças morreram no incêndio na noite de sábado (5) no prédio onde a família morava. Devido à carbonização, a identificação dos corpos será feita por exames de DNA no IML de Castanhal, com previsão de liberação em até sete dias. Segundo testemunhas, as vítimas são José Ribeiro Soares, de 48 anos, a esposa dele, Charlene Dieli Damaceno de Araújo, de 35 anos, e os dois filhos, José Pietro, de 10 anos, e Maria Valentina, de 8 anos. ✅ Siga o canal do g1 Pará no WhatsApp Família é vítima de incêndio em Capanema, no Pará. Reprodução / TV Liberal Moradores tentaram ajudar O incêndio teria começado na parte de baixo do prédio, onde funcionava uma loja de peças e acessórios para veículos. O fogo se espalhou rapidamente pelos outros dois andares, onde a família vivia. Durante o incêndio, as quatro vítimas ficaram confinadas em um cômodo no terceiro andar. Pessoas próximas tentaram ajudar a família, sem sucesso. Vídeos gravados por testemunhas mostram a mobilização de moradores na tentativa de ajudar a família. \"Quando cheguei, a labareda estava muito alta. A gente viu o desespero, ele pedindo socorro, dói no nosso coração perder um amigo dessa maneira\", relembra Josimar Santos. Os bombeiros também tentaram resgatar a família por uma janela, mas a estrutura começou a colapsar. Parte dos escombros precisou ser demolido por equipes dos bombeiros para o resgate dos corpos. Além dos exames para confirmar as identidades das vítimas, uma perícia também é feita para apurar as possíveis causas do incêndio. Um incêndio de grandes proporções deixa mortos em Capanema-PA Reprodução Imóvel destruído em incêndio em Capanema, no Pará. Reprodução",
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/nPiVDMsrZk47hduwK-so2RB23zA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/i/MxktbgSf2Uq5FqW6zFAg/1788873094513954.jpg",
       "data": "2026-09-08T14:00:43+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "af134417c21558ea8c2b7b1eb493cfb9",
-      "titulo": "IFPA abre 23 vagas remanescentes para curso técnico em Agropecuária em Bragança",
-      "descricao": "IFPA abre 23 vagas remanescentes para curso de Agropecuária em Bragança, no Pará O Instituto Federal do Pará (IFPA), Campus Bragança, abriu nesta terça-feira (8), o processo seletivo para 23 vagas remanescentes do curso Técnico em Agropecuária, na modalidade subsequente. As oportunidades são destinadas a pessoas que já concluíram o ensino médio ou equivalente. As aulas serão realizadas no turno da manhã e têm previsã de início em outubro. Do total de vagas, parte é destinada à ampla concorrência e outra parcela é reservada conforme a política de ações afirmativas da instituição e a legislação vigente. A seleção será feita com base no desempenho escolar dos candidatos. Serão consideradas as médias das notas ou conceitos obtidos nas disciplinas de Língua Portuguesa e Matemática durante o 1º e o 2º anos do ensino médio ou equivalente. O processo também inclui uma etapa de heteroidentificação. A entrega correta da documentação exigida para a matrícula será considerada no processo seletivo e o descumprimento das regras poderá resultar na eliminação do candidato ✅ Clique e siga o canal do do g1 Pará no WhatsApp Campus IFPA Bragança Redes Sociais/Google Inscrições As inscrições devem ser feitas presencialmente até o dia 18 deste mês, na sala da Comissão de Processos Seletivos do Campus Bragança do IFPA. O campus fica na Avenida dos Bragançanos, s/n, no bairro Vila Sinhá, em Bragança, no nordeste do Pará. O atendimento ocorre de segunda a sexta-feira, exceto feriados, das 9h às 11h e das 15h às 17h. O IFPA informou que não serão aceitas inscrições por outras formas. Em caso de dúvidas, os interessados podem entrar em contato pelo e-mail compese.braganca@ifpa.edu.br. Leia todas as notícias do estado no g1 Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/08/ifpa-abre-23-vagas-remanescentes-para-curso-tecnico-em-agropecuaria-em-braganca.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/q1SQd9vJ1V2pIWChA3chBq5pSB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/s/aUgN9wSUanCV079wkNBQ/sem-titulo.png",
-      "data": "2026-09-08T14:00:27+00:00",
       "categoria": "PARÁ"
     }
   ]
