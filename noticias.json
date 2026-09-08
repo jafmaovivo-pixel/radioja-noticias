@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-09-08T00:04:44.040476+00:00",
+  "atualizado": "2026-09-08T00:44:23.587801+00:00",
   "noticias": [
+    {
+      "id": "145936736432076901868470367450d9",
+      "titulo": "Márcio Tuma critica arbitragem após derrota para o Brusque: 'Isso não é desculpa'",
+      "descricao": "Márcio Tuma critica arbitragem após derrota para o Brusque: 'Isso não é desculpa'",
+      "link": "https://www.oliberal.com/esportes/paysandu/marcio-tuma-critica-arbitragem-apos-derrota-para-o-brusque-isso-nao-e-desculpa-1.1166249",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1088113:1771789630/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T00:44:21.453284+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1055e37b0375c80e1e40a7f227c51f1b",
+      "titulo": "Junior Rocha: 'Não fomos efetivos para empatar o jogo'",
+      "descricao": "Junior Rocha: 'Não fomos efetivos para empatar o jogo'",
+      "link": "https://www.oliberal.com/esportes/paysandu/junior-rocha-nao-fomos-efetivos-para-empatar-o-jogo-1.1166259",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166261:1788827339/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T00:44:21.453070+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "93fa167919638793351b49c811b09969",
+      "titulo": "Paysandu perde para o Brusque na estreia do quadrangular",
+      "descricao": "Paysandu perde para o Brusque na estreia do quadrangular",
+      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-perde-para-o-brusque-na-estreia-do-quadrangular-da-serie-c-1.1166175",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166209:1788821145/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T00:44:21.268868+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "170dd63d2f7d78a09d62c83319cd91a0",
       "titulo": "Paysandu fecha janela com nove reforços e uma dispensa",
@@ -9,26 +39,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165165:1788564906/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-08T00:04:40.769571+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "145936736432076901868470367450d9",
-      "titulo": "Márcio Tuma critica arbitragem após derrota para o Brusque: 'Isso não é desculpa'",
-      "descricao": "Márcio Tuma critica arbitragem após derrota para o Brusque: 'Isso não é desculpa'",
-      "link": "https://www.oliberal.com/esportes/paysandu/marcio-tuma-critica-arbitragem-apos-derrota-para-o-brusque-isso-nao-e-desculpa-1.1166249",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1088113:1771789630/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T00:04:40.769328+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "71bef127b326267c7ebf91ca527c1132",
-      "titulo": "Paysandu perde para o Brusque na estreia do quadrangular; veja como foi",
-      "descricao": "Paysandu perde para o Brusque na estreia do quadrangular; veja como foi",
-      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-perde-para-o-brusque-na-estreia-do-quadrangular-da-serie-c-1.1166175",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166209:1788821145/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T00:04:40.350070+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/convertida_1200x628_sorteio-das-loterias-caixa-1.jpg",
       "data": "2026-09-07T23:50:56+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bf4beb5852efa3b9886283767291bbca",
-      "titulo": "Paysandu inicia caminhada no quadrangular da Série C contra o Brusque, no Mangueirão",
-      "descricao": "Paysandu inicia caminhada no quadrangular da Série C contra o Brusque, no Mangueirão",
-      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-inicia-caminhada-no-quadrangular-da-serie-c-contra-o-brusque-no-mangueirao-1.1165523",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164012:1788360266/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T23:32:55.543042+00:00",
       "categoria": "PARÁ"
     },
     {
