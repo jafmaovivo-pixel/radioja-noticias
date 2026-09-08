@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-08T13:04:14.498928+00:00",
+  "atualizado": "2026-09-08T13:38:21.147652+00:00",
   "noticias": [
+    {
+      "id": "ff399351d3d9eda4c3c2180c676e00ab",
+      "titulo": "48º Círio de Nossa Senhora do Bom Remédio reúne fiéis no bairro do Coqueiro em Belém",
+      "descricao": "48º Círio de Nossa Senhora do Bom Remédio reúne fiéis no bairro do Coqueiro em Belém",
+      "link": "https://www.oliberal.com/belem/48-cirio-de-nossa-senhora-do-bom-remedio-reune-fieis-no-bairro-do-coqueiro-em-belem-1.1165490",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165491:1788705164/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T13:38:19.533345+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b243e2e52216632669fe1340dc9477ef",
+      "titulo": "Círio 2026: carros de promessas passam por manutenção a partir desta quarta-feira",
+      "descricao": "Círio 2026: carros de promessas passam por manutenção a partir desta quarta-feira",
+      "link": "https://www.oliberal.com/belem/cirio-2026-carros-de-promessas-passam-por-manutencao-a-partir-desta-quarta-feira-1.1166339",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166340:1788872544/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T13:38:19.533085+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6c68834fdbeceac67e6fdef9ec8609e3",
+      "titulo": "Ingressos para arquibancadas do Círio têm alta procura em início das vendas",
+      "descricao": "Ingressos para arquibancadas do Círio têm alta procura em início das vendas",
+      "link": "https://www.oliberal.com/belem/ingressos-para-arquibancadas-do-cirio-2026-tem-alta-procura-minutos-apos-inicio-das-vendas-1.1166311",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166314:1788869789/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T13:38:19.116286+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4f6cc70cb66b922e984e2fefdcafeba5",
+      "titulo": "Suposta lista de A Fazenda 18 reúne 16 famosos, mas Record mantém elenco em sigilo",
+      "descricao": "A Fazenda 18 estreia em 14 de setembro, mas a Record ainda não revelou oficialmente os participantes da nova temporada. Foto: Reprodução/Instagram Relação divulgada nas redes sociais inclui ex-BBBs, atores, cantores, influenciadores e uma jornalista, mas ainda não foi confirmada pela emissora O post Suposta lista de A Fazenda 18 reúne 16 famosos, mas Record mantém elenco em sigilo apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/suposta-lista-de-a-fazenda-18-reune-16-famosos-mas-record-mantem-elenco-em-sigilo-2/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Adriane-Galisteu-A-Fazenda.jpg",
+      "data": "2026-09-08T13:23:02+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2280e0c20ec03b4b26c2c580981a4226",
+      "titulo": "Caso Norman: o professor assassinado e a trama que abalou Belém nos anos 90",
+      "descricao": "O Centro Educacional Hélio Norman funcionava na rua dos Pariquis, em Batista Campos, e foi cenário do assassinato do professor em 1997. Foto: Reprodução/Instagram @nilobelem Hélio Norman foi assassinado em 28 de janeiro de 1997, em Batista Campos; antigos sócios e outros envolvidos receberam penas de até 23 anos. O post Caso Norman: o professor assassinado e a trama que abalou Belém nos anos 90 apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/caso-norman-professor-assassinado-e-socios-acuados-no-crime-que-chocou-belem-nos-anos-90/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Helio-Norman.jpg",
+      "data": "2026-09-08T13:20:26+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "35353f94658a633bf4eae07d6c255e56",
       "titulo": "Remo, Paysandu, Tuna e Vasco lançam camisas especiais para o Círio de Nazaré 2026",
@@ -12,26 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "ff399351d3d9eda4c3c2180c676e00ab",
-      "titulo": "48º Círio de Nossa Senhora do Bom Remédio reúne fiéis no bairro do Coqueiro em Belém",
-      "descricao": "48º Círio de Nossa Senhora do Bom Remédio reúne fiéis no bairro do Coqueiro em Belém",
-      "link": "https://www.oliberal.com/belem/48-cirio-de-nossa-senhora-do-bom-remedio-reune-fieis-no-bairro-do-coqueiro-em-belem-1.1165490",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165491:1788705164/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T13:04:11.996491+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6c68834fdbeceac67e6fdef9ec8609e3",
-      "titulo": "Ingressos para arquibancadas do Círio têm alta procura em início das vendas",
-      "descricao": "Ingressos para arquibancadas do Círio têm alta procura em início das vendas",
-      "link": "https://www.oliberal.com/belem/ingressos-para-arquibancadas-do-cirio-2026-tem-alta-procura-minutos-apos-inicio-das-vendas-1.1166311",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166314:1788869789/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T13:04:11.996374+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "e3cbced3921d7a7ce9151ed8eae18ff0",
       "titulo": "Dona Lourdes II: Quatro anos após naufrágio que matou 23 pessoas no Pará, familiares fazem ato por justiça",
       "descricao": "Ato em Belém lembra quatro anos do naufrágio da lancha Dona Lourdes II As famílias das vítimas do naufrágio que matou 23 pessoas há quatro anos na Baía do Marajó realizam um ato nesta terça-feira (8) para lembrar as mortes e pedir por justiça. Com faixas e cartazes, eles se reúnem na escadinha da Estação das Docas, em Belém. Familiares e sobreviventes reclamam da demora no julgamento do comandante da lancha Dona Lourdes II. Ela naufragou próximo à Ilha de Cotijuba em Belém em 8 de setembro de 2022. \"Se passaram 4 anos e praticamente nada foi feito, o processo encontra-se parado\", reclamou uma das pessoas que perdeu amigos e familiares no naufrágio (veja relato no vídeo acima). A lancha saiu de um porto clandestino em Cachoeira do Arari e naufragou em frente à Ilha de Cotijuba, na Baía do Marajó, na manhã de 8 de setembro de 2022. Ao todo, 23 pessoas morreram. Moradores e pescadores em Cotijuba ajudaram a resgatar os sobreviventes. 📲 Acesse o canal do g1 Pará no WhatsApp O barco não tinha lista oficial de passageiros. Segundo informações divulgadas na época pela Secretaria de Segurança Pública do Pará (Segup), a embarcação transportava mais de 80 passageiros. \"Quando a lancha chegou, muita gente se jogou para dentro da lancha. Então, houve sim excesso de pessoas\", relembra um dos sobreviventes. Relatos de sobreviventes apontaram possíveis falhas durante a viagem: A embarcação Dona Lourdes II estava irregular, com salva-vidas sem condições de uso e saiu de um porto clandestino no Marajó. Lancha Dona Lourdes II que naufragou próximo à Cotijuba, na travessia do Marajó a Belém. Reprodução / TV Liberal Entre as denúncias estavam ainda a a demora para o acionamento do socorro após o início da emergência e a falta de distribuição de coletes salva-vidas aos passageiros. O único indiciado à época foi o condutor do barco, Marcos de Souza Oliveira, um dos mais de 60 sobreviventes. Ele chegou a ser preso por homicídio doloso e risco à navegação, mas foi liberado meses depois, sob medidas cautelares, incluindo suspensão da habilitação de pilotar qualquer veículo náutico, e também monitoramento eletrônico. A Justiça determinouem abril de 2025 que ele fosse a júri popular. A data ainda não foi definida e o processo segue em andamento. Mapa do Marajó G1/Reprodução Segundo os usuários de embarcações, as superlotações ou mesmo problemas mecânicos não são incomuns. Com os problemas e sem alternativa, há moradores que recorrem ao transporte clandestino. Após o naufrágio em setembro com 23 mortes, houve algumas melhorias no transporte regular entre Belém e Salvaterra, onde fica o principal porto do arquipélago com acesso ao continente. Mas houve também aumento nas tarifas, muitas vezes fora da realidade orçamentária das famílias marajoaras. Initial plugin text Confira outras notícias do estado no g1 Pará. MAIS VÍDEOS com notícias do Pará:",
@@ -39,36 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/NMY29uE_T9g9AVmA6icqFtVmCoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/n/G/Kdu907QC2R9xYlCjZVFQ/naufragio-cotijuba.jpeg",
       "data": "2026-09-08T12:48:39+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "22a0e1e7727671b5bbaabd04cf03cf6e",
-      "titulo": "Conheça a fazenda de Fernanda Rodrigues, que foi de fazenda abandonada a produtora de café",
-      "descricao": "Fazenda de Fernanda Rodrigues tem quase 200 hectares e renasceu com foco na preservação ambiental. Foto: Reprodução Atriz e o marido, Raoni Carneiro, reflorestaram a propriedade em Paty do Alferes com mais de 120 mil árvores e criaram refúgio sustentável. O post Conheça a fazenda de Fernanda Rodrigues, que foi de fazenda abandonada a produtora de café apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/conheca-a-fazenda-de-fernanda-rodrigues-que-foi-de-fazenda-abandonada-a-produtora-de-cafe/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_atriz-mostra-detalhes-de-fazenda-nas-redes-sociais-3394174-article.jpg",
-      "data": "2026-09-08T12:44:39+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9886382267e09baa7242fbc8deb9b556",
-      "titulo": "Guia do Jovem Aprendiz: Como funciona, requisitos e vagas abertas",
-      "descricao": "Confira o guia completo com os requisitos, como funciona e vagas abertas no programa Jovem Aprendiz, o pontapé na carreira profissional. Foto: Divulgação CIEE Confira o guia completo com os requisitos, como funciona e vagas abertas no programa Jovem Aprendiz, o pontapé na carreira profissional. O post Guia do Jovem Aprendiz: Como funciona, requisitos e vagas abertas apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/guia-do-jovem-aprendiz-como-funciona-requisitos-e-vagas-abertas/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_jospaulolacerdasenaibauru-1.jpg",
-      "data": "2026-09-08T12:35:32+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f26910fe9fb9b5a28d4a880228b3b143",
-      "titulo": "Mendonça afasta diretor-geral da PF e decisão será analisada pelo STF; entenda a decisão",
-      "descricao": "Ministro do STF afastou preventivamente Andrei Rodrigues; decisão será analisada pela Segunda Turma nesta terça-feira O post Mendonça afasta diretor-geral da PF e decisão será analisada pelo STF; entenda a decisão apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/mendonca-afasta-diretor-geral-da-pf-e-decisao-sera-analisada-pelo-stf-entenda-a-decisao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_amdrei.jpg",
-      "data": "2026-09-08T12:25:13+00:00",
       "categoria": "PARÁ"
     },
     {
