@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-08T19:03:46.403383+00:00",
+  "atualizado": "2026-09-08T19:34:25.073421+00:00",
   "noticias": [
+    {
+      "id": "45b147504759531df625491d913f8d31",
+      "titulo": "Metade dos ingressos para arquibancadas do Círio já foi vendida; não haverá 2º lote, diz DFN",
+      "descricao": "Metade dos ingressos para arquibancadas do Círio já foi vendida; não haverá 2º lote, diz DFN",
+      "link": "https://www.oliberal.com/belem/metade-dos-ingressos-para-arquibancadas-do-cirio-ja-foi-vendida-nao-havera-2-lote-diz-dfn-1.1166420",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166423:1788882246/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T19:34:23.825154+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "98225b9c9497916fd187f0c9fa9c1667",
+      "titulo": "Imagem Peregrina de Nazaré visita a sede do Grupo Liberal",
+      "descricao": "Imagem Peregrina de Nazaré visita a sede do Grupo Liberal",
+      "link": "https://www.oliberal.com/belem/imagem-peregrina-de-nossa-senhora-de-nazare-visita-a-sede-do-grupo-liberal-1.1166502",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166518:1788895015/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T19:34:23.468563+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d2b7d17b729b0bdab6f8474d21b869d2",
+      "titulo": "Eleições 2026: saiba quem são os candidatos a vice na disputa pelo Governo do Pará",
+      "descricao": "Eleições 2026: saiba quem são os candidatos a vice na disputa pelo Governo do Pará",
+      "link": "https://www.oliberal.com/politica/elei%C3%A7%C3%B5es-2026-saiba-quem-s%C3%A3o-os-candidatos-a-vice-na-disputa-pelo-governo-do-par%C3%A1-1.1164689",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.879822:1729896314/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T19:34:23.143979+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a5964fd66e58c3bfbc18315345cb202e",
+      "titulo": "Ancelotti anuncia convocação da Seleção para novo ciclo rumo à Copa de 2030",
+      "descricao": "Ancelotti convoca Seleção para amistosos nesta quarta. Foto: Reprodução O técnico Carlo Ancelotti anuncia nesta quarta-feira (9) a primeira convocação da Seleção Brasileira para o ciclo da Copa do Mundo de 2030. Os atletas disputarão amistosos contra Austrália e Índia. O post Ancelotti anuncia convocação da Seleção para novo ciclo rumo à Copa de 2030 apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/ancelotti-anuncia-convocacao-da-selecao-para-novo-ciclo-rumo-a-copa-de-2030/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/1-23.png",
+      "data": "2026-09-08T19:07:36+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "b5008057a0e953c83f450a027dc3e352",
       "titulo": "Motociclista morre após colisão com caminhonete na BR-308 em Tracuateua",
@@ -9,26 +49,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165956:1788791791/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-08T19:03:43.164688+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c7455081bfa981a893d34b6c6ea78e8a",
-      "titulo": "Jovem de 18 anos morre em acidente de trânsito registrado em Santarém",
-      "descricao": "Jovem de 18 anos morre em acidente de trânsito registrado em Santarém",
-      "link": "https://www.oliberal.com/policia/jovem-de-18-anos-morre-em-acidente-de-transito-registrado-em-santarem-1.1166080",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166084:1788809148/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T19:03:43.164592+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3a2402b0d884c1cb346d29d37e3d5d73",
-      "titulo": "PRF registra 20 acidentes e 1 morte nas rodovias federais no Pará",
-      "descricao": "PRF registra 20 acidentes e 1 morte nas rodovias federais no Pará",
-      "link": "https://www.oliberal.com/para/feriadao-da-independencia-prf-registra-20-acidentes-e-1-morte-nas-rodovias-federais-no-para-1.1166490",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166493:1788891531/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T19:03:43.164469+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,23 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "a7a1a61d9365b552a9f096add67d8773",
-      "titulo": "“Seus frouxos…Seus covardes…Bando de marica!” Hadbala detona time do Paysandu e dispara: “Subir é obrigação”!",
-      "descricao": "Ex-BBB e ex-jogador do Papão faz desabafo após derrota para o Brusque, critica postura do elenco e defende que partidas decisivas sejam transferidas para a Curuzu. Ex-jogador e participante do BBB 20, Hadson Nery não poupou críticas ao elenco do Paysandu após a derrota para o Brusque na Série C. Ele cobrou mais atitude e imposição dos atletas. O post “Seus frouxos…Seus covardes…Bando de marica!” Hadbala detona time do Paysandu e dispara: “Subir é obrigação”! apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/seus-frouxosseus-covardesbando-de-marica-hadbala-detona-time-do-paysandu-e-dispara-subir-e-obrigacao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/PayxBrusque8.jpg",
-      "data": "2026-09-08T18:56:45+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e9d1721fcd43e0f596aa8528a1b88549",
-      "titulo": "Dinheiro esquecido no banco: como saber se você tem valores a receber? Confira o passo a passo",
-      "descricao": "Consulta ao Sistema de Valores a Receber pode revelar dinheiro esquecido em nome de pessoas físicas e empresas. Foto: gerada por IA Sistema do Banco Central permite consultar gratuitamente valores esquecidos em bancos, consórcios e outras instituições; veja o que fazer para solicitar o dinheiro. O post Dinheiro esquecido no banco: como saber se você tem valores a receber? Confira o passo a passo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/dinheiro-esquecido-no-banco-como-saber-se-voce-tem-valores-a-receber-confira-o-passo-a-passo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Image-2026-09-08-at-13.46.38.jpeg",
-      "data": "2026-09-08T18:35:00+00:00",
+      "id": "bb03ef1338ae11b1516d7214a1aca852",
+      "titulo": "Museu do Círio de Nazaré, em Belém, passa por reforma para ampliação e acessibilidade",
+      "descricao": "Museu do Círio de Nazaré, em Belém, passa por reforma para ampliação e acessibilidade Divulgação O Museu do Círio, importante guardião da memória e da cultura da maior festividade religiosa do Pará, está passando por uma reformulação completa na estrutura. No ano em que celebra quatro décadas de fundação, o espaço, localizado no centro histórico de Belém, recebe um projeto de requalificação e modernização orçado em R$ 6 milhões. As obras, iniciadas no primeiro semestre deste ano, têm como foco principal a ampliação do espaço físico, a modernização das instalações e a implementação de recursos de acessibilidade para receber moradores e turistas de forma mais inclusiva. ✅ Receba as notícias do g1 Pará direto no WhatsApp Museu do Círio reúne peças e histórias sobre a maior festividade religiosa dos paraenses O que muda com a reforma? Após a conclusão das obras, o Museu do Círio passará a ter uma área total de 1.288 m². O projeto arquitetônico prevê uma redistribuição inteligente dos espaços para melhorar o fluxo de visitantes e a experiência cultural: Primeiro pavimento: A área de exposição de longa duração será ampliada de 304 m² para 808,61 m², permitindo uma exibição mais dinâmica do acervo. Segundo pavimento: Será totalmente reaberto ao público. O andar será dedicado a exposições temporárias, atividades educativas e culturais, além de abrigar uma nova reserva técnica para a conservação das peças. Jardim do Tempo: Localizado na parte posterior interna do casarão, o jardim será revitalizado e aberto à visitação pública, criando um novo espaço de convivência. Quatro décadas de preservação da fé e da cultura Fundado oficialmente em outubro de 1986 pelo Governo do Estado do Pará, o Museu do Círio nasceu a partir da idealização do jornalista Carlos Rocque. Desde o ano 2000, o equipamento integra o Sistema Integrado de Museus e Memoriais (SIMM) e funciona em um casarão histórico na Rua Padre Champagnat. Atualmente, o museu abriga um acervo de cerca de duas mil peças que narram a história de devoção à Nossa Senhora de Nazaré, incluindo promessas, ex-votos, mantos e objetos que traduzem a identidade cultural do povo paraense. Parcerias e investimentos A requalificação do Museu do Círio é realizada pelo Instituto Sotaques em parceria com a LP Arte Soluções Culturais, sob a supervisão do SIMM. O projeto é viabilizado pela Lei Rouanet, com o patrocínio da Hydro, copatrocínio da Equatorial Energia, e apoio institucional do Governo do Pará — por meio da Secretaria de Estado de Cultura (Secult) —, do Banco do Estado do Pará (Banpará), além das marcas Midea e Tintas Coral. Leia mais notícias do Círio de Nazaré no g1",
+      "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/08/museu-do-cirio-de-nazare-em-belem-passa-por-reforma-para-ampliacao-e-acessibilidade.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/WU_DsPJgURHwY_WVfOi-g_RtSRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Z/umH9BkTKACTHeGpwyjQA/sem-titulo.png",
+      "data": "2026-09-08T19:01:00+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/n6P10cRJiznu_wdW3n3gl0wUI9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/5/nWew1BTleAHwIDJBCdfQ/belo-9-.jpg",
       "data": "2026-09-08T18:34:29+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "42d232737cfa57a85418c86b9d2089b1",
-      "titulo": "Incêndio atinge escola municipal em Tucuruí",
-      "descricao": "Escola é atingida poir incêndio em Tucuruí Um incêndio em uma escola municipal assustou moradores em Tucuruí, no sudeste do Pará. Ninguém ficou ferido. O fogo atingiu a Escola Maestro João Leite, no bairro Vila Pioneira na noite de segunda-feira (7). Nesta terça (8), uma equipe da Secretaria Municipal de Educação esteve na unidade de ensino para manutenção. Segundo o Corpo de Bombeiros, a suspeita é que um curto-circuito em um aparelho de ar-condicionado dentro de uma sala de aula tenha provocado as chamas. Por ser feriado, não havia alunos na escola no momento do fogo. De acordo com a Secretaria Municipal de Educação, assim que notou a fumaça em uma das salas, a equipe de vigilância acionou os bombeiros. Acesse o canal do g1 Pará no WhatsApp Os brigadistas usaram um exaustor para retirar a fumaça da sala antes de combater o fogo. A central de ar-condicionado da escola foi danificada após o incêndio. A equipe dos bombeiros orientou que a área permanecesse sem energia até a manutenção do equipamento, o que deveria ocorrer ao longo desta terça-feira (8). Confira outras notícias do estado no g1 Pará. MAIS VÍDEOS com notícias do Pará:",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/08/incendio-atinge-escola-municipal-em-tucurui.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/tgY2WRwCXByhmYwo5XgiTAeCmzE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/35/19/14941935",
-      "data": "2026-09-08T17:04:54+00:00",
       "categoria": "PARÁ"
     }
   ]
