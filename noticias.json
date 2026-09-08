@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-08T21:33:42.073088+00:00",
+  "atualizado": "2026-09-08T22:03:41.576217+00:00",
   "noticias": [
+    {
+      "id": "7f05ed6cd029abf0421144f2f52c3c76",
+      "titulo": "Decisão de Mendonça é inédita; entenda o que isso representa",
+      "descricao": "Decisão de Mendonça é inédita; entenda o que isso representa",
+      "link": "https://www.oliberal.com/politica/decisao-de-mendonca-contra-diretor-da-pf-e-inedita-entenda-o-que-isso-representa-1.1166524",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166539:1788898197/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T22:03:39.780046+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "98225b9c9497916fd187f0c9fa9c1667",
+      "titulo": "Imagem Peregrina de Nazaré visita a sede do Grupo Liberal",
+      "descricao": "Imagem Peregrina de Nazaré visita a sede do Grupo Liberal",
+      "link": "https://www.oliberal.com/belem/imagem-peregrina-de-nossa-senhora-de-nazare-visita-a-sede-do-grupo-liberal-1.1166502",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166518:1788895015/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T22:03:39.460135+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3daca6b72f5ff0ef0a3dfa931409b84d",
+      "titulo": "Morre Zélia Amador de Deus, professora emérita da UFPA",
+      "descricao": "Morre Zélia Amador de Deus, professora emérita da UFPA",
+      "link": "https://www.oliberal.com/belem/morre-zelia-amador-de-deus-professora-emerita-da-ufpa-aos-74-anos-1.1166601",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166603:1788903603/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T22:03:39.459851+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1bea47b8c80bd32835c4d87efd8e3b04",
+      "titulo": "Padre vira compositor e chega à final de samba da Unidos da Tijuca",
+      "descricao": "Padre Felipe Calisto, pároco de Caridade / Foto: Fernanda Barros Pároco de Caridade ajudou a compor música inspirada em “A cabeça do santo”, obra que serve de base para o enredo da escola no Carnaval 2027 O post Padre vira compositor e chega à final de samba da Unidos da Tijuca apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/padre-vira-compositor-e-chega-a-final-de-samba-da-unidos-da-tijuca/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_1_estatua_santo_antonio_caridade_28-41533188.jpg",
+      "data": "2026-09-08T21:48:35+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "592e9eea700f54176b302b414036a5bc",
+      "titulo": "É só até amanhã: Serasa libera quase 200 mil dívidas com até 99% de desconto no Pará",
+      "descricao": "O Serasa Score é uma das ferramentas usadas para indicar o perfil de crédito do consumidor e pode influenciar análises feitas por empresas. Foto: divulgação/reprodução Campanha reúne quase 200 mil ofertas para mais de 37 mil consumidores paraenses e ainda oferece cupons de até R$ 500. O post É só até amanhã: Serasa libera quase 200 mil dívidas com até 99% de desconto no Pará apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/e-so-ate-amanha-serasa-libera-quase-200-mil-dividas-com-ate-99-de-desconto-no-para/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_32.jpg",
+      "data": "2026-09-08T21:37:36+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "9952ef3f781321c506aab0c5a46fbd98",
       "titulo": "Tchamba é o 1º do Remo a ser convocado para seleção principal",
@@ -12,46 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "98225b9c9497916fd187f0c9fa9c1667",
-      "titulo": "Imagem Peregrina de Nazaré visita a sede do Grupo Liberal",
-      "descricao": "Imagem Peregrina de Nazaré visita a sede do Grupo Liberal",
-      "link": "https://www.oliberal.com/belem/imagem-peregrina-de-nossa-senhora-de-nazare-visita-a-sede-do-grupo-liberal-1.1166502",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166518:1788895015/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T21:33:39.075287+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d2b7d17b729b0bdab6f8474d21b869d2",
-      "titulo": "Eleições 2026: saiba quem são os candidatos a vice na disputa pelo Governo do Pará",
-      "descricao": "Eleições 2026: saiba quem são os candidatos a vice na disputa pelo Governo do Pará",
-      "link": "https://www.oliberal.com/politica/elei%C3%A7%C3%B5es-2026-saiba-quem-s%C3%A3o-os-candidatos-a-vice-na-disputa-pelo-governo-do-par%C3%A1-1.1164689",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.879822:1729896314/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T21:33:39.075069+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c3ff446cc6d668d2525ed0be3d7dc67b",
-      "titulo": "Do futuro para o passado: IA transforma jogadores de Remo e Paysandu em ídolos dos anos 80",
-      "descricao": "Uma nova trend nas redes sociais está transformando fotos atuais em versões inspiradas nos anos 1980, com a ajuda da inteligência artificial. A brincadeira chegou ao futebol, com jogadores e técnicos ganhando versões \"oitentistas\". O post Do futuro para o passado: IA transforma jogadores de Remo e Paysandu em ídolos dos anos 80 apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/do-futuro-para-o-passado-ia-transforma-jogadores-de-remo-e-paysandu-em-idolos-dos-anos-80/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_edab8904-51bd-4678-a702-694811aff319.jpg",
-      "data": "2026-09-08T21:30:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4b3631d416e8545702a7b8da97a48df5",
-      "titulo": "Por Onde Anda Everaldo Lobato? O Ícone da TV Cidade na Antiga TV Guajará",
-      "descricao": "O programa TV Cidade foi um verdadeiro divisor de águas no entretenimento paraense. Foto; Reprodução Apresentador que marcou as tardes de sábado no Pará nos anos 1980 vive longe dos holofotes e mantém rotina reservada. O post Por Onde Anda Everaldo Lobato? O Ícone da TV Cidade na Antiga TV Guajará apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/por-onde-anda-everaldo-lobato-o-icone-da-tv-cidade-na-antiga-tv-guajara/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images-34.jpg",
-      "data": "2026-09-08T21:08:22+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "948447af78c57ed50c2a5b8b0ece7b79",
       "titulo": "Incêndio destrói área de vegetação em Paragominas, no Pará",
       "descricao": "Área de mata é destruída por incêndio em Paragominas Um incêndio de grandes proporções atingiu uma área de vegetação em Paragominas, no sudeste do Pará. O fogo se espalhou rapidamente no fim da tarde desta segunda-feira (7) e durou pouco mais de cinco horas até ser controlado pelo Corpo de Bombeiros. A área consumida pelas chamas fica nas proximidades do Residencial Canaã, no município de Paragominas. Apesar de o fogo não ter atingido diretamente às residências, a fumaça intensa e a fuligem preocuparam aos moradores do bairro. ✅ Siga o canal do g1 Pará no WhatsApp A dona de casa Geane, que mora na região, relatou os momentos de tensão vividos durante a noite. \"Teve gente que quase não dormiu. Preocupação, né? Com fogo ninguém brinca. E bem pertinho de casa logo. Quem tem idoso e criança dentro de casa fica difícil\", desabafou. Dona Geane relata que viveu momentos de tensão durante o incêndio em Paragominas Reprodução/ TV Liberal Alerta para o período de estiagem O Corpo de Bombeiros foi acionado e conseguiu controlar as chamas. No entanto, a corporação reforça o alerta para o período de estiagem na região, em que ocorre a diminuição ou ausência total de chuvas. A recomendação principal é evitar queimadas e não atear fogo em lixo ou matagal. De acordo com dados da Secretaria de Estado de Meio Ambiente, Clima e Sustentabilidade (Semas), o mês de julho registrou 640 focos de incêndio nas regiões sudeste e sudoeste do Pará, que concentram o maior número de ocorrências no estado. A Semas informou que mantém o monitoramento contínuo do território para acompanhar a evolução dos focos de calor e coordenar ações de prevenção e combate aos incêndios florestais durante o \"verão amazônico\". Leia também: Tragédia em Capanema: quem eram as quatro vítimas da mesma família que morreram em incêndio Leonardo DiCaprio critica garimpo ilegal e alerta para contaminação de peixes por mercúrio no Pará",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/3X9y7wx6z885uRjnQPPJw2zWfyc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/U/FgiiBeSHeUuGkwTH1NyA/moradores-relatam-medo-durante-incendio-.jpg",
       "data": "2026-09-08T21:07:02+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "45b147504759531df625491d913f8d31",
-      "titulo": "Metade dos ingressos para arquibancadas do Círio já foi vendida; não haverá 2º lote, diz DFN",
-      "descricao": "Metade dos ingressos para arquibancadas do Círio já foi vendida; não haverá 2º lote, diz DFN",
-      "link": "https://www.oliberal.com/belem/metade-dos-ingressos-para-arquibancadas-do-cirio-ja-foi-vendida-nao-havera-2-lote-diz-dfn-1.1166420",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166423:1788882246/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-08T21:02:41.430496+00:00",
       "categoria": "PARÁ"
     },
     {
