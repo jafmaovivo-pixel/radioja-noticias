@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-07T23:33:00.098514+00:00",
+  "atualizado": "2026-09-08T00:04:44.040476+00:00",
   "noticias": [
     {
       "id": "170dd63d2f7d78a09d62c83319cd91a0",
@@ -8,7 +8,47 @@
       "link": "https://www.oliberal.com/esportes/paysandu/paysandu-fecha-janela-com-nove-reforcos-e-uma-dispensa-1.1165138",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165165:1788564906/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T23:32:55.543185+00:00",
+      "data": "2026-09-08T00:04:40.769571+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "145936736432076901868470367450d9",
+      "titulo": "Márcio Tuma critica arbitragem após derrota para o Brusque: 'Isso não é desculpa'",
+      "descricao": "Márcio Tuma critica arbitragem após derrota para o Brusque: 'Isso não é desculpa'",
+      "link": "https://www.oliberal.com/esportes/paysandu/marcio-tuma-critica-arbitragem-apos-derrota-para-o-brusque-isso-nao-e-desculpa-1.1166249",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1088113:1771789630/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T00:04:40.769328+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "71bef127b326267c7ebf91ca527c1132",
+      "titulo": "Paysandu perde para o Brusque na estreia do quadrangular; veja como foi",
+      "descricao": "Paysandu perde para o Brusque na estreia do quadrangular; veja como foi",
+      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-perde-para-o-brusque-na-estreia-do-quadrangular-da-serie-c-1.1166175",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166209:1788821145/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-08T00:04:40.350070+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "86180bf2281153505071b81f1a3f2103",
+      "titulo": "Influenciador morre após cirurgia de aumento peniano na Tailândia; legista revela causa",
+      "descricao": "Igho ‘Tiny’ Ubiribo morre após procedimento de aumento peniano. Foto: Reprodução Igho ‘Tiny’ Ubiribo sofreu uma embolia pulmonar provocada por injeções de ácido hialurônico aplicadas em clínica estético-médica. O post Influenciador morre após cirurgia de aumento peniano na Tailândia; legista revela causa apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/mundo/influenciador-morre-apos-cirurgia-de-aumento-peniano-na-tailandia-legista-revela-causa/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Igho-Tiny-Ubiribo.jpg",
+      "data": "2026-09-07T23:58:16+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2d2b2d06c10f5f70f10eb36b6360c3a9",
+      "titulo": "Tem loteria nesta segunda (7)? Caixa muda calendário por causa do feriado",
+      "descricao": "Sorteios das loterias mudam nesta segunda por causa do feriado As loterias da Caixa não terão sorteios nesta segunda-feira (7) devido ao feriado. A programação será retomada na terça (8), com Mega-Sena acumulada em R$ 70 milhões e outros prêmios milionários. O post Tem loteria nesta segunda (7)? Caixa muda calendário por causa do feriado apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/tem-loteria-nesta-segunda-7-caixa-muda-calendario-por-causa-do-feriado/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/convertida_1200x628_sorteio-das-loterias-caixa-1.jpg",
+      "data": "2026-09-07T23:50:56+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -19,16 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164012:1788360266/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-07T23:32:55.543042+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "71bef127b326267c7ebf91ca527c1132",
-      "titulo": "Paysandu perde para o Brusque na estreia do quadrangular; veja como foi",
-      "descricao": "Paysandu perde para o Brusque na estreia do quadrangular; veja como foi",
-      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-perde-para-o-brusque-na-estreia-do-quadrangular-da-serie-c-1.1166175",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166209:1788821145/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-07T23:32:55.542822+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,36 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/PJ6UvkevWualBlq_zy-ah-p6Icg=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/58/97/14939758",
       "data": "2026-09-07T23:08:14+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7205a1e99476c8905097d1416038d809",
-      "titulo": "Paysandu busca empate, mas perde para o Brusque no Mangueirão",
-      "descricao": "Paysandu busca empate, mas perde para o Brusque no Mangueirão",
-      "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/paysandu-x-brusque#google_vignette",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
-      "data": "2026-09-07T23:03:35.553673+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "83ae0f88d25e8dbf75f6ef78082e50e9",
-      "titulo": "Paysandu perde para Brusque e estreia com derrota no quadrangular da Série C",
-      "descricao": "Paysandu larga mal no quadrangular e perde para o Brusque no Mangueirão. Foto: Mauro Ângelo O Paysandu estreou com derrota no quadrangular da Série C, perdendo por 2 a 1 para o Brusque no Mangueirão. O Papão agora ocupa a lanterna do grupo. O post Paysandu perde para Brusque e estreia com derrota no quadrangular da Série C apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/paysandu-perde-para-brusque-e-estreia-com-derrota-no-quadrangular-da-serie-c/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/IMG-20260907-WA0057.jpg",
-      "data": "2026-09-07T23:01:52+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f30a4ee1df110c2e596e72bdef512834",
-      "titulo": "Mangueirão: PF autua responsáveis pela segurança de Paysandu x Brusque",
-      "descricao": "Vigilantes irregulares geram autuação da PF em Paysandu x Brusque. Fonte: PF A Polícia Federal autuou o Paysandu e uma empresa de vigilância por irregularidades no plano de segurança de uma partida da Série C no Mangueirão, em Belém. Inconsistências e vigilantes sem curso foram identificados. O post Mangueirão: PF autua responsáveis pela segurança de Paysandu x Brusque apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/mangueirao-pf-autua-responsaveis-pela-seguranca-de-paysandu-x-brusque/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/IMG-20260907-WA0073.jpg",
-      "data": "2026-09-07T22:52:03+00:00",
       "categoria": "PARÁ"
     }
   ]
