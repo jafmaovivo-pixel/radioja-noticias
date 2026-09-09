@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-09T16:03:06.138430+00:00",
+  "atualizado": "2026-09-09T16:38:45.965507+00:00",
   "noticias": [
+    {
+      "id": "b3d2fe04c581d3532afcced42a1b727f",
+      "titulo": "Fachin cancela sessão plenária do STF desta quarta-feira, 9",
+      "descricao": "Fachin cancela sessão plenária do STF desta quarta-feira, 9",
+      "link": "https://www.oliberal.com/politica/fachin-cancela-sessao-plenaria-do-stf-desta-quarta-feira-9-1.1166769",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1040441:1761342038/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-09T16:38:44.133239+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6f996ecc464bd564ed96a8c955b138fa",
+      "titulo": "Dino determina reintegração de diretor-geral da PF, Andrei Rodrigues",
+      "descricao": "Dino determina reintegração de diretor-geral da PF, Andrei Rodrigues",
+      "link": "https://www.oliberal.com/politica/dino-determina-reintegracao-de-diretor-geral-da-pf-andrei-rodrigues-1.1166718",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1145935:1784580892/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-09T16:38:44.133055+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a812c3fc20deb85b315a2221bc0383d8",
+      "titulo": "Lula pede quebra completa do sigilo dos envolvidos no caso Master",
+      "descricao": "Lula pede quebra completa do sigilo dos envolvidos no caso Master",
+      "link": "https://www.oliberal.com/politica/lula-e-urgente-a-quebra-completa-do-sigilo-de-investigacoes-de-todos-envolvidos-no-caso-master-1.1166820",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1031495:1776254632/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-09T16:38:44.132848+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5e625373598cf184be0e5d46d104bd80",
+      "titulo": "Ultrassom abdominal gratuito em Belém: quem pode fazer e como agendar?",
+      "descricao": "Ação gratuita disponibiliza 120 vagas para exames de ultrassonografia abdominal em Belém durante o mês de setembro Foto: divulgação/reprodução Exames gratuitos de abdômen total e parede abdominal serão oferecidos em setembro, com vagas limitadas e prioridade para pessoas a partir de 45 anos. O post Ultrassom abdominal gratuito em Belém: quem pode fazer e como agendar? apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/dr-responde/ultrassom-abdominal-gratuito-em-belem-quem-pode-fazer-e-como-agendar/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Foto_ultrassom.jpg",
+      "data": "2026-09-09T16:11:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "9c61315fea61d47c5a6878b07a3ef23f",
       "titulo": "Dino afirma que Mendonça se sobrepôs a Fachin e cita reunião do ministro com Vorcaro",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "b3d2fe04c581d3532afcced42a1b727f",
-      "titulo": "Fachin cancela sessão plenária do STF desta quarta-feira, 9",
-      "descricao": "Fachin cancela sessão plenária do STF desta quarta-feira, 9",
-      "link": "https://www.oliberal.com/politica/fachin-cancela-sessao-plenaria-do-stf-desta-quarta-feira-9-1.1166769",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1040441:1761342038/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-09T16:03:04.555341+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6f996ecc464bd564ed96a8c955b138fa",
-      "titulo": "Dino determina reintegração de diretor-geral da PF, Andrei Rodrigues",
-      "descricao": "Dino determina reintegração de diretor-geral da PF, Andrei Rodrigues",
-      "link": "https://www.oliberal.com/politica/dino-determina-reintegracao-de-diretor-geral-da-pf-andrei-rodrigues-1.1166718",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1145935:1784580892/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-09T16:03:04.555174+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "504e8d1f574796d0f5ee4ff8e762f835",
       "titulo": "IFPA abre 30 vagas para curso gratuito que prepara para trabalhar com energia eólica",
       "descricao": "Curso gratuito de energia eólica tem 30 vagas e inscrições nesta sexta no Pará O Instituto Federal do Pará (IFPA) abriu inscrições para um curso gratuito de Formação Inicial e Continuada (FIC) em Energia Eólica, com 30 vagas. A capacitação tem 160 horas de duração e é voltada para o setor de energias renováveis. O post IFPA abre 30 vagas para curso gratuito que prepara para trabalhar com energia eólica apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/127071-wind-turbines-729493_1920.jpg",
       "data": "2026-09-09T15:52:03+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "781235574996012482db6c425a6f7d4c",
-      "titulo": "Calcinha Preta anuncia Belém na nova turnê “Mágica: O Espetáculo”",
-      "descricao": "Nova fase: Calcinha Preta anuncia show em Belém e turnê pelo Brasil A banda Calcinha Preta anunciou as cidades que vão receber a nova turnê “Mágica: O Espetáculo”, com estreia em dezembro. Belém está entre os destinos confirmados. O post Calcinha Preta anuncia Belém na nova turnê “Mágica: O Espetáculo” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/voce/calcinha-preta-anuncia-belem-na-nova-turne-magica-o-espetaculo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_789617608_1056510546960696_627431486636330598_n.jpg",
-      "data": "2026-09-09T15:41:57+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "639707b416e3c75aac8d2a0ca0923743",
-      "titulo": "Duas derrotas colocam Júnior Rocha sob pressão no Paysandu",
-      "descricao": "Defesa do Paysandu vira problema e aumenta pressão sobre Júnior Rocha- Foto: Irene Almeida/ Diário do Pará A derrota para o Brusque colocou o técnico Júnior Rocha, do Paysandu, em situação delicada. A insatisfação da torcida cresce devido aos resultados negativos e à teimosia tática do treinador. O post Duas derrotas colocam Júnior Rocha sob pressão no Paysandu apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/duas-derrotas-colocam-junior-rocha-sob-pressao-no-paysandu/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/crop_15_1783348882.jpg",
-      "data": "2026-09-09T15:22:47+00:00",
       "categoria": "PARÁ"
     },
     {
