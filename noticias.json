@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-09-09T10:03:01.652373+00:00",
+  "atualizado": "2026-09-09T10:37:33.200871+00:00",
   "noticias": [
+    {
+      "id": "9962471767a5f4e3bc415bc0487e6ea9",
+      "titulo": "Imóveis no Pará têm descontos que ultrapassam 60%",
+      "descricao": "Imóveis no Pará têm descontos que ultrapassam 60%",
+      "link": "https://www.oliberal.com/economia/imoveis-da-caixa-no-para-tem-descontos-que-ultrapassam-60-saiba-como-comprar-1.1166585",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.865471:1751063249/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-09T10:37:31.909737+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1bcb770ea064f89913a7ac669777df4d",
+      "titulo": "Ingressos para arquibancadas do Círio 2026 têm alta procura minutos após início das vendas",
+      "descricao": "Ingressos para arquibancadas do Círio 2026 têm alta procura minutos após início das vendas",
+      "link": "https://www.oliberal.com/belem/ingressos-para-arquibancadas-do-cirio-2026-tem-alta-procura-minutos-apos-inicio-das-vendas-1.1166311",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166314:1788869789/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-09T10:37:31.641713+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "66e80938a7c2bdcd77dd837e57ceb04a",
+      "titulo": "Mais de 80% das arquibancadas do Círio foram vendidas",
+      "descricao": "Mais de 80% das arquibancadas do Círio foram vendidas",
+      "link": "https://www.oliberal.com/belem/mais-de-80-das-arquibancadas-do-cirio-foram-vendidas-nesta-terca-feira-8-1.1166685",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166686:1788920997/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-09T10:37:31.208310+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "fbd118071656eb384bb2ad87988bf984",
       "titulo": "Zélia Amador já foi homenageada em enredo de escola de samba; relembre",
@@ -9,26 +39,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.642381:1675721361/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-09T10:02:59.401479+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "404c1f62f8b2781203819831fdd2949c",
-      "titulo": "UFPA publica homenagem a Zélia Amador após morte da professora",
-      "descricao": "UFPA publica homenagem a Zélia Amador após morte da professora",
-      "link": "https://www.oliberal.com/belem/ufpa-publica-zelia-amador-de-deus-apos-morte-da-professora-1.1166661",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166662:1788913492/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-09T10:02:59.401405+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1a117869197d747c9ceb54d67b57630a",
-      "titulo": "Velório de Zélia Amador de Deus é realizado em Belém; saiba onde",
-      "descricao": "Velório de Zélia Amador de Deus é realizado em Belém; saiba onde",
-      "link": "https://www.oliberal.com/politica/vel%C3%B3rio-de-z%C3%A9lia-amador-de-deus-ser%C3%A1-no-teatro-waldemar-henrique-em-bel%C3%A9m-1.1166594",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166602:1788903565/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-09T10:02:59.401258+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_46.jpg",
       "data": "2026-09-09T02:31:46+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8b3553170fd73cbc7540e5cc409717a1",
-      "titulo": "Mega-Sena 3055 acumula e eleva o prêmio para impressionantes R$ 76 milhões; confira os números",
-      "descricao": "Mega-Sena. Foto: Reprodução Confira o resultado, saiba como apostar, números mais sorteados, e as chances de ganhar na Mega-Sena com prêmio acumulado em R$ 76 milhões. O post Mega-Sena 3055 acumula e eleva o prêmio para impressionantes R$ 76 milhões; confira os números apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/loterias/mega-sena-3055-acumula-e-eleva-o-premio-para-impressionantes-r-76-milhoes-confira-os-numeros/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/convertida_1200x628_mega-sena-1.jpg",
-      "data": "2026-09-09T01:39:15+00:00",
       "categoria": "PARÁ"
     }
   ]
