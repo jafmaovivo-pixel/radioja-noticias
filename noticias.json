@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-09T22:34:41.837426+00:00",
+  "atualizado": "2026-09-09T23:02:45.540890+00:00",
   "noticias": [
     {
       "id": "4796b9eb84a5c083174e3eb29b010a5d",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/policia/motociclista-morre-apos-ser-atingido-por-onibus-em-belem-1.1157775",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1157776:1786970870/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-09T22:34:39.179582+00:00",
+      "data": "2026-09-09T23:02:43.386638+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,17 +18,47 @@
       "link": "https://www.oliberal.com/para/ministerio-publico-abre-inquerito-para-apurar-as-causas-de-acidente-com-onibus-em-rio-de-barcarena-1.1144691",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1144700:1784244029/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-09T22:34:38.853778+00:00",
+      "data": "2026-09-09T23:02:43.386558+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "227dc498d199669ef6d0134fb764ec4e",
-      "titulo": "Ônibus com pacientes do TFD de Cametá sofre grave acidente na PA-151",
-      "descricao": "Ônibus com pacientes do TFD de Cametá sofre grave acidente na PA-151",
+      "id": "f9fae5e5b526955203d4549f3b11b089",
+      "titulo": "Ônibus com pacientes de Cametá sofre grave acidente na PA-151",
+      "descricao": "Ônibus com pacientes de Cametá sofre grave acidente na PA-151",
       "link": "https://www.oliberal.com/policia/onibus-com-pacientes-do-tratamento-fora-de-domicilio-tfd-de-cameta-sofre-grave-acidente-na-pa-151-1.1166970",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166982:1788991898/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-09T22:34:38.527599+00:00",
+      "data": "2026-09-09T23:02:43.386432+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5cdbf54212b50ef52d3ce5ca8297d986",
+      "titulo": "Paysandu e Tuna avançam na Copa do Brasil sub-20",
+      "descricao": "Kukri deixou o dele logo na estreia - Foto: Welisson Vasconcelos/Paysandu O meia-atacante Kukri, ex-Águia de Marabá, foi a grande atração da goleada por 5 a 0 aplicada, hoje à tarde, pelo Paysandu, sobre o Macapá-AP. Foi a estreia das equipes na Copa do Brasil sub-20, na Curuzu. O jogador indígena, que esteve no recentemente no Coritiba-PR, retornando ao Azulão por não ter se adaptado à […] O post Paysandu e Tuna avançam na Copa do Brasil sub-20 apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/paysandu-e-tuna-avancam-na-copa-do-brasil-sub-20/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_IMG_4037_JPG.jpg",
+      "data": "2026-09-09T22:58:47+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f3db4b695c6e9bda084fd2f091206fe5",
+      "titulo": "Câmera registra assalto à mão armada em frente a comércio em Tucuruí, no PA",
+      "descricao": "Sirene de viatura da PM - 28/02/2021 G1 Um homem foi assaltado à mão armada no fim da manhã de terça-feira (8), em frente a um estabelecimento comercial próximo à rotatória da BR-422, em Tucuruí, no sudeste do Pará. Câmeras de segurança registraram a abordagem e a fuga dos dois suspeitos em uma motocicleta. As imagens mostram a dupla chegando ao local de moto. O passageiro desce do veículo, aproxima-se do homem e aponta uma arma para ele. Em seguida, o suspeito pega os pertences da vítima e retorna para a garupa da motocicleta. Os dois deixam o local logo depois. Até a última atualização desta reportagem, ninguém havia sido preso. A Polícia Civil informou que investiga o caso e analisa as imagens das câmeras de segurança para tentar identificar os suspeitos. Informações que possam ajudar nas investigações podem ser repassadas de forma anônima pelo Disque-Denúncia 181. ✅ Clique e siga o canal do g1 PA no WhatsApp Agora no g1 VÍDEOS com as principais notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/09/camera-registra-assalto-a-mao-armada-em-frente-a-comercio-em-tucurui-no-pa.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/p-VMjoQLqYq9eQYdCmYhpcbQhGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/d/4K2JZYRmKSFnXI6TfSSw/aaa.png",
+      "data": "2026-09-09T22:50:48+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "77e6de43eb1a0bfad33feb7229c8f4dd",
+      "titulo": "Justiça determina retirada de propaganda eleitoral irregular de ruas e avenidas de Paragominas",
+      "descricao": "Justiça etira material irregular de campanha eleitoral das ruas de Paragominas A Justiça Eleitoral determinou a retirada de propagandas eleitorais instaladas irregularmente em ruas e avenidas de Paragominas, no sudeste do Pará. A medida busca impedir que bandeiras e outros materiais de campanha prejudiquem a circulação e a visibilidade de motoristas em pontos de maior movimentação da cidade. A preocupação é principalmente com materiais colocados em locais onde a obstrução da visão pode comprometer a segurança no trânsito. A propaganda eleitoral não pode ser distribuída de forma que dificulte o deslocamento de pessoas e veículos. As regras eleitorais também estabelecem restrições para o uso de espaços públicos na divulgação de candidaturas. Entre elas está a proibição de propaganda em árvores e jardins localizados em áreas públicas. Os responsáveis pelas campanhas devem retirar os materiais considerados irregulares. A Justiça Eleitoral também pode fiscalizar o cumprimento das regras e adotar as medidas previstas na legislação eleitoral em caso de irregularidades. Eleitores também podem denunciar propaganda eleitoral irregular por meio do aplicativo Pardal, da Justiça Eleitoral. A ferramenta permite encaminhar informações sobre possíveis infrações para análise. ✅ Clique e siga o canal do g1 PA no WhatsApp VÍDEOS com as principais notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/09/justica-determina-retirada-de-propaganda-eleitoral-irregular-de-ruas-e-avenidas-de-paragominas.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/IRsax5eW54DDUcCnq8z5zQup8oE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/14/68/14946814",
+      "data": "2026-09-09T22:48:09+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,36 +79,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_5_ANmpDO2QmNlNmOt92YuwWah12ZAVTMz9Gdh12Y6YDN4kjMwgzNxozZlBnauc3bsJWZmdDM5ADZ0kjNkVDZhBjMiZjMwADZ3YjMlNGNyUTYGJTJyUTYGJTJ.jpg",
       "data": "2026-09-09T22:28:04+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3b2599c0a7da23c2be3e0c4f79895ada",
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo do Pará desta quarta-feira, 9",
-      "descricao": "Candidatos ao Governo do Pará nas Eleições 2026 Reprodução Os candidatos ao governo do Pará cumpriram compromissos de campanha nesta quarta-feira, 9 de setembro. Entre as atividades do dia, foram realizada entrevista a veículo de comunicação, gravação de conteúdo para redes sociais, reuniões de planejamento e comunicação, caminhada em comunidade, diálogo e encontros com apoiadores. Os eventos foram realizados em Belém e também em cidades do interior do estado O primeiro turno das eleições está marcado para o dia 4 de outubro de 2026. O segundo turno, caso seja necessário, ocorrerá no dia 25 do mesmo mês. LEIA TAMBÉM: Veja quem são os candidatos a vice-governador pelo Pará em 2026 Veja quem são os candidatos a Senador pelo Pará em 2026 Veja, abaixo, como foi o dia de campanha de cada candidato, em ordem alfabética: Araceli Lemos (PSOL) Pela manhã, a candidata assinou o pacto pela primeira infância. No início da tarde, Araceli concedeu entrevista a uma emissora de televisão local e, em seguida, gravou conteúdo para suas redes sociais. À noite, a candidata se reuniu com a equipe de programa de governo para detalhar a proposta de campanha. Daniel Santos (PODEMOS) Pela manhã, o candidato reuniu-se com motoristas, motociclistas e ciclistas de aplicativo em Ananindeua para debater demandas da categoria. Na sequência, participou de atos de movimentos nos municípios de Nova Esperança do Piriá, Garrafão do Norte e Santa Maria do Pará. À noite, o candidato cumpriu agenda no município de Castanhal. Gal Leite (UP) Até a última atualização desta matéria, a assessoria da candidata não enviou a agenda de compromissos. Hana Ghassan (MDB) Pela manhã, a candidata realizou uma caminhada na Comunidade Pinheirinho, no bairro do Tapanã, em Belém. No período da tarde, Hana cumpriu agenda de governo no município de São Félix do Xingu. À noite, ela participou de um encontro com representantes do setor produtivo no sindicato rural de Xinguara. Ruth Reis (Democrata) Até a última atualização desta matéria, a assessoria da candidata não enviou a agenda de compromissos. Well Macêdo (PSTU) Pela manhã, a candidata assinou o termo de compromisso \"Pacto pela Primeira Infância nas Eleições 2026\" junto ao Ministério Público do Estado do Pará. No fim da tarde, Well Macêdo conversou com operários da construção civil na saída de uma obra no bairro de Nazaré, em Belém. À noite, ela participou de uma reunião com a equipe de campanha. VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-para-desta-quarta-feira-9.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/yZMa8QFNABhGksevEO3V1N_0wgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/m/wTfiHXSzmf0yTWRpQNGA/candidatos-ao-governo-do-para-.jpg",
-      "data": "2026-09-09T22:20:25+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "52d58b33c2c2d2e4ab4483ef64affea9",
-      "titulo": "Menino resgatado nos EUA é uma das crianças desaparecidas no Maranhão? Entenda o que aconteceu!",
-      "descricao": "Menino resgatado nos EUA é uma das crianças desaparecidas no Maranhão? Entenda o que aconteceu!",
-      "link": "https://www.oliberal.com/brasil/menino-resgatado-nos-eua-e-uma-das-criancas-desaparecidas-no-maranhao-entenda-o-que-aconteceu-1.1166551",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1088853:1771932988/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-09T22:02:54.373227+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4f04865355f0cde82cd3973e58425fba",
-      "titulo": "Trabalhadores resgatados em fazenda dormiam em chão de terra e sem proteção contra animais no Pará",
-      "descricao": "Três trabalhadores foram encontrados em condições degradantes em uma fazenda de São Félix do Xingu. Fiscalização também constatou instalações sanitárias deterioradas e falta de local adequado para conservar alimentos. Três trabalhadores rurais submetidos a condições análogas à escravidão foram resgatados em uma fazenda na zona rural de São Félix do Xingu, no sul do Pará. A fiscalização, realizada entre os dias 17 e 26 de agosto, encontrou os trabalhadores dormindo do lado de fora da casa principal, em uma estrutura de madeira com chão de terra batida e sem proteção lateral contra a entrada de insetos e animais. Segundo os fiscais, o espaço onde os trabalhadores dormiam não oferecia proteção contra animais peçonhentos ou de grande porte. Também não havia armários adequados para guardar objetos pessoais e mantimentos nem refrigerador para conservar os alimentos. As instalações sanitárias estavam deterioradas e sem condições de uso. De acordo com a fiscalização, o conjunto de irregularidades comprometia condições mínimas de saúde, higiene e dignidade e caracterizou a submissão dos trabalhadores a condições degradantes de trabalho. A fiscalização fez parte da Operação Resgate VI, voltada ao combate ao trabalho análogo à escravidão e ao tráfico de pessoas. No Pará, a ação reuniu o Ministério Público do Trabalho no Pará e Amapá (MPT PA-AP), o Ministério do Trabalho e Emprego (MTE) e a Defensoria Pública da União (DPU). Após o resgate, os três trabalhadores foram acolhidos e atendidos pela rede de proteção socioassistencial de São Félix do Xingu. Depois do atendimento, eles retornaram às cidades de origem. A mesma operação também constatou violações trabalhistas em Conceição do Araguaia e São Geraldo do Araguaia. Segundo as informações divulgadas sobre a ação, empregadores firmaram Termos de Ajuste de Conduta (TACs) para regularizar as situações identificadas. ✅ Clique e siga o canal do g1 PA no WhatsApp Agora no g1 VÍDEOS com as principais notícias do Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/09/trabalhadores-resgatados-de-situacao-analoga-a-escravidao-dormiam-em-chao-de-terra-e-sem-protecao-contra-animais-no-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055",
-      "data": "2026-09-09T21:55:22+00:00",
       "categoria": "PARÁ"
     }
   ]
