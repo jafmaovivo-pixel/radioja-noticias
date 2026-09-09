@@ -1,6 +1,66 @@
 {
-  "atualizado": "2026-09-09T22:02:56.099012+00:00",
+  "atualizado": "2026-09-09T22:34:41.837426+00:00",
   "noticias": [
+    {
+      "id": "4796b9eb84a5c083174e3eb29b010a5d",
+      "titulo": "Motociclista morre após ser atingido por ônibus em Belém",
+      "descricao": "Motociclista morre após ser atingido por ônibus em Belém",
+      "link": "https://www.oliberal.com/policia/motociclista-morre-apos-ser-atingido-por-onibus-em-belem-1.1157775",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1157776:1786970870/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-09T22:34:39.179582+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3d57ded1061e2edfbb5e3ebfd5f17f58",
+      "titulo": "Ministério Público abre inquérito para apurar as causas de acidente com ônibus em rio de Barcarena",
+      "descricao": "Ministério Público abre inquérito para apurar as causas de acidente com ônibus em rio de Barcarena",
+      "link": "https://www.oliberal.com/para/ministerio-publico-abre-inquerito-para-apurar-as-causas-de-acidente-com-onibus-em-rio-de-barcarena-1.1144691",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1144700:1784244029/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-09T22:34:38.853778+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "227dc498d199669ef6d0134fb764ec4e",
+      "titulo": "Ônibus com pacientes do TFD de Cametá sofre grave acidente na PA-151",
+      "descricao": "Ônibus com pacientes do TFD de Cametá sofre grave acidente na PA-151",
+      "link": "https://www.oliberal.com/policia/onibus-com-pacientes-do-tratamento-fora-de-domicilio-tfd-de-cameta-sofre-grave-acidente-na-pa-151-1.1166970",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166982:1788991898/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-09T22:34:38.527599+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "12aaec92cb00d8cd1292894af2f25b91",
+      "titulo": "Mansão Wayne, cenário dos filmes do Batman, pode ser tomada do dono por causa de morcegos",
+      "descricao": "Mansão Mentmore Towers, localizada em Buckinghamshire, na Inglaterra e mundialmente. Foto: Reprodução Prefeitura exige reformas urgentes e inspeção na mansão Mentmore Towers; proprietário rebate e diz já ter 'seu próprio time do Batman' no caso O post Mansão Wayne, cenário dos filmes do Batman, pode ser tomada do dono por causa de morcegos apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/mansao-wayne-cenario-dos-filmes-do-batman-pode-ser-tomada-do-dono-por-causa-de-morcegos/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images-91-1.jpg",
+      "data": "2026-09-09T22:31:41+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2046d3f1637ca382951d1ce7ff7a233c",
+      "titulo": "“Quem vai entrar em campo?”: Miss Bumbum batiza vibradores com nomes de Neymar e Cristiano Ronaldo",
+      "descricao": "Miss Bumbum Kerolay Chaves batiza vibradores com nomes de Neymar e Cristiano Ronaldo. Foto: Reprodução @kerolay_chaves | CO Assessoria Kerolay Chaves revelou que criou uma “escalação” particular ao batizar os itens de sua coleção com nomes de jogadores de futebol O post “Quem vai entrar em campo?”: Miss Bumbum batiza vibradores com nomes de Neymar e Cristiano Ronaldo apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/quem-vai-entrar-em-campo-miss-bumbum-batiza-vibradores-com-nomes-de-neymar-e-cristiano-ronaldo/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_5_ANmpDO2QmNlNmOt92YuwWah12ZAVTMz9Gdh12Y6YDN4kjMwgzNxozZlBnauc3bsJWZmdDM5ADZ0kjNkVDZhBjMiZjMwADZ3YjMlNGNyUTYGJTJyUTYGJTJ.jpg",
+      "data": "2026-09-09T22:28:04+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3b2599c0a7da23c2be3e0c4f79895ada",
+      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo do Pará desta quarta-feira, 9",
+      "descricao": "Candidatos ao Governo do Pará nas Eleições 2026 Reprodução Os candidatos ao governo do Pará cumpriram compromissos de campanha nesta quarta-feira, 9 de setembro. Entre as atividades do dia, foram realizada entrevista a veículo de comunicação, gravação de conteúdo para redes sociais, reuniões de planejamento e comunicação, caminhada em comunidade, diálogo e encontros com apoiadores. Os eventos foram realizados em Belém e também em cidades do interior do estado O primeiro turno das eleições está marcado para o dia 4 de outubro de 2026. O segundo turno, caso seja necessário, ocorrerá no dia 25 do mesmo mês. LEIA TAMBÉM: Veja quem são os candidatos a vice-governador pelo Pará em 2026 Veja quem são os candidatos a Senador pelo Pará em 2026 Veja, abaixo, como foi o dia de campanha de cada candidato, em ordem alfabética: Araceli Lemos (PSOL) Pela manhã, a candidata assinou o pacto pela primeira infância. No início da tarde, Araceli concedeu entrevista a uma emissora de televisão local e, em seguida, gravou conteúdo para suas redes sociais. À noite, a candidata se reuniu com a equipe de programa de governo para detalhar a proposta de campanha. Daniel Santos (PODEMOS) Pela manhã, o candidato reuniu-se com motoristas, motociclistas e ciclistas de aplicativo em Ananindeua para debater demandas da categoria. Na sequência, participou de atos de movimentos nos municípios de Nova Esperança do Piriá, Garrafão do Norte e Santa Maria do Pará. À noite, o candidato cumpriu agenda no município de Castanhal. Gal Leite (UP) Até a última atualização desta matéria, a assessoria da candidata não enviou a agenda de compromissos. Hana Ghassan (MDB) Pela manhã, a candidata realizou uma caminhada na Comunidade Pinheirinho, no bairro do Tapanã, em Belém. No período da tarde, Hana cumpriu agenda de governo no município de São Félix do Xingu. À noite, ela participou de um encontro com representantes do setor produtivo no sindicato rural de Xinguara. Ruth Reis (Democrata) Até a última atualização desta matéria, a assessoria da candidata não enviou a agenda de compromissos. Well Macêdo (PSTU) Pela manhã, a candidata assinou o termo de compromisso \"Pacto pela Primeira Infância nas Eleições 2026\" junto ao Ministério Público do Estado do Pará. No fim da tarde, Well Macêdo conversou com operários da construção civil na saída de uma obra no bairro de Nazaré, em Belém. À noite, ela participou de uma reunião com a equipe de campanha. VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-para-desta-quarta-feira-9.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/yZMa8QFNABhGksevEO3V1N_0wgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/m/wTfiHXSzmf0yTWRpQNGA/candidatos-ao-governo-do-para-.jpg",
+      "data": "2026-09-09T22:20:25+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "52d58b33c2c2d2e4ab4483ef64affea9",
       "titulo": "Menino resgatado nos EUA é uma das crianças desaparecidas no Maranhão? Entenda o que aconteceu!",
@@ -12,73 +72,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "a56c99d22d909bdb723dfd08da9e9f87",
-      "titulo": "Caso José Artur: bebê desaparecido não está entre crianças encontradas nos EUA, diz advogado",
-      "descricao": "Caso José Artur: bebê desaparecido não está entre crianças encontradas nos EUA, diz advogado",
-      "link": "https://www.oliberal.com/policia/caso-jose-artur-bebe-desaparecido-nao-esta-entre-criancas-encontradas-nos-eua-diz-advogado-1.1166862",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1106717:1775522569/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-09T22:02:54.373050+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c15a63df92bf7d16a0523e17c187c437",
-      "titulo": "Nenhuma criança brasileira está entre as 163 resgatadas nos EUA",
-      "descricao": "Nenhuma criança brasileira está entre as 163 resgatadas nos EUA",
-      "link": "https://www.oliberal.com/policia/nenhuma-crianca-brasileira-esta-entre-as-163-resgatadas-nos-eua-confirma-pf-1.1166926",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.828871:1785272522/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-09T22:02:54.372879+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7f67f36847ca904508ab359ee594325b",
-      "titulo": "Guerra das Rosas hoje: Gulfem rouba exame e ameaça expor gravidez de Gulru",
-      "descricao": "Gulfem roubará o exame de Gulru e ameaçará revelar a gravidez da rival em Guerra das Rosas. Foto: Reprodução/Bandplay Yonca contará o segredo à estilista, mas Cihan protegerá a ex-mulher no capítulo desta quarta-feira (9) da novela turca O post Guerra das Rosas hoje: Gulfem rouba exame e ameaça expor gravidez de Gulru apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/guerra-das-rosas-hoje-gulfem-rouba-exame-e-ameaca-expor-gravidez-de-gulru/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Guerra-das-Rosas-Ep.127-2.jpg",
-      "data": "2026-09-09T21:43:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c4862227a538b5decceedf2cbfbb7333",
-      "titulo": "Ônibus de transporte de pacientes sofre acidente na PA-151, deixa feridos e uma pessoa presa às ferragens",
-      "descricao": "Ônibus de transporte de pacientes sofre acidente na PA-151, deixa feridos e uma pessoa presa às ferragens TV Liberal Um ônibus que transportava pacientes do Tratamento Fora de Domicílio (TFD) sofreu um acidente na tarde desta quarta-feira (9), na PA-151, nas proximidades do distrito de Curuçambaba, durante o retorno de Belém para Cametá, no nordeste do Pará. Segundo a Prefeitura de Cametá, cinco pacientes tiveram escoriações. Imagens feitas no local mostram ainda a mobilização para retirar uma pessoa que ficou presa às ferragens. O veículo transportava cerca de 25 passageiros que retornavam para Cametá após atendimentos de saúde realizados em Belém. Segundo a prefeitura, o motorista perdeu o controle do ônibus depois que um pneu estourou durante o trajeto. Com o impacto, o veículo saiu da pista e foi parar em uma ribanceira. ✅ Clique e siga o canal do g1 PA no WhatsApp Vídeos registrados logo após o acidente mostram passageiros do lado de fora do ônibus e pessoas tentando prestar socorro. Em uma das gravações, é possível ouvir um homem alertando que ainda havia uma vítima presa no veículo. Após ser informada sobre o acidente, a Secretaria Municipal de Saúde de Cametá mobilizou equipes para atender os passageiros. Cinco ambulâncias foram enviadas ao local. De acordo com a prefeitura, cinco pacientes apresentavam escoriações e foram encaminhados ao Hospital Municipal de Igarapé-Miri, onde passaram por avaliação e receberam atendimento médico. A gestão municipal não informou se a pessoa que ficou presa às ferragens está entre os cinco pacientes encaminhados ao hospital. Os demais passageiros foram acolhidos e seguiram para Cametá em um micro-ônibus também vinculado ao TFD e em transportes particulares disponibilizados para o retorno. A prefeitura informou que, ao chegarem ao município, todos os pacientes serão avaliados no Hospital Regional de Cametá como medida de precaução. Nas redes sociais, o prefeito de Cametá, Victor Cassiano, afirmou que equipes foram mobilizadas assim que a gestão recebeu a informação sobre o acidente. “A Prefeitura de Cametá, por meio da Secretaria Municipal de Saúde, já está no local, com ambulâncias e profissionais prestando atendimento e toda a assistência necessária às pessoas envolvidas”, afirmou. Agora no g1 VÍDEOS com as principais notícias do Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/09/onibus-de-transporte-de-pacientes-sofre-acidente-na-pa-151-deixa-feridos-e-uma-pessoa-presa-as-ferragens.ghtml",
+      "id": "4f04865355f0cde82cd3973e58425fba",
+      "titulo": "Trabalhadores resgatados em fazenda dormiam em chão de terra e sem proteção contra animais no Pará",
+      "descricao": "Três trabalhadores foram encontrados em condições degradantes em uma fazenda de São Félix do Xingu. Fiscalização também constatou instalações sanitárias deterioradas e falta de local adequado para conservar alimentos. Três trabalhadores rurais submetidos a condições análogas à escravidão foram resgatados em uma fazenda na zona rural de São Félix do Xingu, no sul do Pará. A fiscalização, realizada entre os dias 17 e 26 de agosto, encontrou os trabalhadores dormindo do lado de fora da casa principal, em uma estrutura de madeira com chão de terra batida e sem proteção lateral contra a entrada de insetos e animais. Segundo os fiscais, o espaço onde os trabalhadores dormiam não oferecia proteção contra animais peçonhentos ou de grande porte. Também não havia armários adequados para guardar objetos pessoais e mantimentos nem refrigerador para conservar os alimentos. As instalações sanitárias estavam deterioradas e sem condições de uso. De acordo com a fiscalização, o conjunto de irregularidades comprometia condições mínimas de saúde, higiene e dignidade e caracterizou a submissão dos trabalhadores a condições degradantes de trabalho. A fiscalização fez parte da Operação Resgate VI, voltada ao combate ao trabalho análogo à escravidão e ao tráfico de pessoas. No Pará, a ação reuniu o Ministério Público do Trabalho no Pará e Amapá (MPT PA-AP), o Ministério do Trabalho e Emprego (MTE) e a Defensoria Pública da União (DPU). Após o resgate, os três trabalhadores foram acolhidos e atendidos pela rede de proteção socioassistencial de São Félix do Xingu. Depois do atendimento, eles retornaram às cidades de origem. A mesma operação também constatou violações trabalhistas em Conceição do Araguaia e São Geraldo do Araguaia. Segundo as informações divulgadas sobre a ação, empregadores firmaram Termos de Ajuste de Conduta (TACs) para regularizar as situações identificadas. ✅ Clique e siga o canal do g1 PA no WhatsApp Agora no g1 VÍDEOS com as principais notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/09/trabalhadores-resgatados-de-situacao-analoga-a-escravidao-dormiam-em-chao-de-terra-e-sem-protecao-contra-animais-no-para.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/G9Eak8yrwQJbblKUZPYaRaBieIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/v/KUUZOgSC62VOL42MKfUA/cameta.png",
-      "data": "2026-09-09T21:36:47+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "afb0a2ddd5bbe913ed16b6ad727ae6a1",
-      "titulo": "Confira os preços do iPhone 18 pro e do iPhone Duo, primeiro celular dobrável da Apple",
-      "descricao": "iPhone Duo é o primeiro telefone dobrável da história da empresa. Foto: Apple/Divulgação Novo aparelho marca uma mudança importante na linha de celulares da Apple e aposta em recursos inéditos na marca O post Confira os preços do iPhone 18 pro e do iPhone Duo, primeiro celular dobrável da Apple apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/confira-os-precos-do-iphone-18-pro-e-do-iphone-duo-primeiro-celular-dobravel-da-apple/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Captura-de-tela-2026-09-09-153054.jpg",
-      "data": "2026-09-09T21:36:14+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f3502a87fe9a5da40fedb8e98e882acf",
-      "titulo": "Brasil x Peru no Pré-Olímpico Feminino de vôlei feminino: horário e onde assistir ao vivo",
-      "descricao": "A seleção brasileira volta ao Maracanãzinho buscando mais uma vitória na competição. Foto: Divulgação. A seleção brasileira de vôlei feminino enfrenta o Peru nesta quarta-feira (9) pelo Pré-Olímpico, buscando uma vaga direta nas Olimpíadas de Los Angeles de 2028. O post Brasil x Peru no Pré-Olímpico Feminino de vôlei feminino: horário e onde assistir ao vivo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/brasil-x-peru-no-pre-olimpico-feminino-de-volei-feminino-horario-e-onde-assistir-ao-vivo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_dsc01698.jpg",
-      "data": "2026-09-09T21:29:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5f53990c5af792e2332bf4740b78460e",
-      "titulo": "Caso José Arthur: PF descarta que bebê desaparecido no PA esteja entre crianças resgatadas nos EUA",
-      "descricao": "Família de José Arthur quer saber se ele está entre crianças encontradas nos EUA José Arthur Sousa Barros, que desapareceu há mais de 5 meses em Eldorado do Carajás, no sudeste do Pará, não está entre as crianças que foram resgatadas em uma operação nos Estados Unidos. A informação foi divulgada pelo advogado da família, Elisson de Sousa Araújo, que recebeu a confirmação da Polícia Federal (PF), nesta terça-feira (8). De acordo com a Polícia Federal, não foi identificada nenhuma vítima brasileira entre as crianças localizadas na operação. Na última semana, o advogado da família tinha acionado a PF para cruzar os dados da criança com informações sobre possíveis vítimas de tráfico infantil que tinham sido resgatadas nos Estados Unidos durante a operação 'Statewide Shield' (Escudo Estadual), realizada entre 17 e 21 de agosto. A ação resgatou 163 bebês, crianças e adolescentes na Flórida, com idades de dois meses a 17 anos. ✅ Clique e siga o canal do g1 PA no WhatsApp Alerta internacional Como nova medida para tentar localizar o bebê, o advogado Elisson Araújo informou que já oficializou um pedido à Polícia Federal para que o nome de José Arthur seja incluído no Aviso Amarelo (Yellow Notice) da Interpol. 🟡 O Aviso Amarelo (Yellow Notice) da Interpol é um alerta policial internacional emitido com objetivo de localizar pessoas desaparecidas ou identificar quem não consegue revelar a própia identidade. \"José Arthur, infelizmente, não estava entre essas crianças, mas nós não desistiremos dele. Meu amiguinho, onde você estiver, eu não vou desistir de você. O Brasil não desistirá de você.\", afirma o advogado. A investigação sobre o caso José Arthur foi transferida para a Delegacia de Homicídios de Marabá. O menino está desaparecido desde o dia 26 de março, quando foi visto pela última vez na localidade de Vila Peruana. José Arthur Sousa Barros. Reprodução / Redes sociais LEIA TAMBÉM: Caso José Arthur: após bebê completar 2 anos, audiência pública cobra respostas em Eldorado do Carajás Relembre o caso José Arthur Sousa Barros desapareceu na noite do dia 26 de março deste ano, na Vila Peruana, uma área rural de Eldorado do Carajás que fica próxima ao Assentamento Lourival Santana, no sudeste do Pará. O menino, que na época tinha um ano e seis meses, brincava com os primos no quintal da casa onde morava com a família quando sumiu sem deixar rastros. A região onde ocorreu o desaparecimento é de difícil acesso, cercada por áreas de mata densa, rios e cortada por uma rodovia federal. Forças de segurança e moradores da comunidade iniciaram uma intensa mobilização de buscas. A operação contou com o apoio de homens do Corpo de Bombeiros, equipes policiais especializadas, cães farejadores, além do uso de drones para mapeamento aéreo e mergulhadores para buscas nos rios da região. Apesar dos esforços, nenhum vestígio ou pista sobre o paradeiro do bebê foi encontrado no local. No decorrer do inquérito, a Polícia Civil ouviu mais de 25 depoimentos e apreendeu aparelhos celulares para perícia. Duas semanas após o desaparecimento, no dia 10 de abril, uma operação policial prendeu temporariamente dois homens: Roserlândio Castro de Almeida e Evandro Firmino da Silva. Segundo as investigações, os suspeitos eram amigos da família e frequentavam a residência de onde a criança sumiu. No entanto, em junho, ambos foram colocados em liberdade após o término do prazo das prisões temporárias. Dupla suspeita de envolvimento no sumiço de bebê no Pará. Reprodução / TV Liberal Em agosto, quando José Arthur completou dois anos de idade, o caso foi tema de uma audiência pública na Câmara Municipal de Eldorado do Carajás, que reuniu familiares, autoridades locais e representantes da Comissão de Direitos Humanos do Senado Federal. Durante a sessão, a mãe do menino, Geiciara Souza Gonçalves, emocionou os presentes ao relatar a dor da ausência do filho, reforçando que mantém a esperança de reencontrá-lo vivo. \"Ele fez dois anos de vida. Eu tenho certeza que meu filho está vivo, mas passou os dois aninhos dele longe de mim. Mas eu tenho muita fé em Deus que esse vai ser o primeiro e o último aniversário que ele vai passar longe de mim\", desabafou Geiciara. Na mesma audiência, a defesa da família propôs a instalação de câmeras de segurança na cidade, argumentando que a falta de tecnologia de monitoramento foi o principal obstáculo para solucionar o caso. Como desdobramento dessa mobilização, no dia 2 de setembro, a Comissão de Direitos Humanos do Senado Federal aprovou o relatório da diligência realizada no município. Com a aprovação do documento, o órgão federal passa a acompanhar o andamento das investigações de forma ainda mais próxima. Como ajudar nas investigações Qualquer informação que possa ajudar a localizar o menino José Arthur pode ser repassada de forma totalmente anônima por meio do Disque Denúncia, pelo número 181. Não é necessário se identificar. LEIA MAIS: Caso José Arthur: mãe de bebê desaparecido há mais de um mês no Pará lamenta: 'Ele sempre dormia comigo' José Arthur, bebê desaparece em Eldorado do Carajás, no PA: veja o que se sabe e o que falta saber",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/09/advogado-diz-que-jose-arthur-bebe-desaparecido-no-pa-nao-esta-entre-criancas-resgatadas-nos-eua.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/5G9SNqPjnnccIWeLUTbvZlzHs-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/z/ROL1hlS0q18dcBWLa6Fw/geral-g1-2026-03-28t155721.283.png",
-      "data": "2026-09-09T18:39:46+00:00",
+      "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055",
+      "data": "2026-09-09T21:55:22+00:00",
       "categoria": "PARÁ"
     }
   ]
