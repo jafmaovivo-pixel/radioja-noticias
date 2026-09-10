@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-10T22:34:09.340349+00:00",
+  "atualizado": "2026-09-10T23:02:21.198515+00:00",
   "noticias": [
     {
       "id": "e22a983bef2be74924e6aa5a35ffe513",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/esportes/remo/preco-medio-dos-ingressos-dos-jogos-do-remo-e-um-dos-mais-caros-da-serie-a-diz-site-1.1167245",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167247:1789061471/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T22:34:07.758892+00:00",
+      "data": "2026-09-10T23:02:19.079199+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/esportes/remo/remo-corre-contra-o-tempo-para-registrar-novos-jogadores-1.1167272",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.665460:1680788770/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T22:34:07.758757+00:00",
+      "data": "2026-09-10T23:02:19.079061+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,17 @@
       "link": "https://www.oliberal.com/policia/presos-quebram-vidro-de-janela-e-tentam-fugir-de-viatura-da-seap-na-cidade-velha-em-belem-1.1167352",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167366:1789077137/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T22:34:07.758596+00:00",
+      "data": "2026-09-10T23:02:19.078915+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "40d6c23375be9c92a23e554cf1acb2a6",
+      "titulo": "Coyote vs Acme: Do precipício ao topo",
+      "descricao": "Legenda: Coyote vc Acme é um dos bons filmes de animação com atores reais Após ser desengavetado, Coyote vs Acme chega aos cinemas trazendo os tradicionais personagens de Looney Tunes em uma história divertida O post Coyote vs Acme: Do precipício ao topo apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/coyote-vs-acme-do-precipicio-ao-topo/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/coyote-vs-acme-teaser-offers-a-super-fun-first-look.webp",
+      "data": "2026-09-10T22:50:30+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Guerra-das-Rosas-20.jpg",
       "data": "2026-09-10T22:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0625f1410c0d7dbbc5e294f3308cef59",
-      "titulo": "45,9% avaliam que pior para Brasil é eleição de Flávio Bolsonaro, aponta pesquisa",
-      "descricao": "45,9% avaliam que pior para Brasil é eleição de Flávio Bolsonaro, aponta pesquisa",
-      "link": "https://www.oliberal.com/politica/459-avaliam-que-pior-para-brasil-e-eleicao-de-flavio-bolsonaro-aponta-pesquisa-1.1167276",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1121194:1779388006/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T21:33:38.426604+00:00",
       "categoria": "PARÁ"
     }
   ]
