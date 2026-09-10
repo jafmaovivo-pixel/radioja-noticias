@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-10T12:04:12.900024+00:00",
+  "atualizado": "2026-09-10T12:41:47.055191+00:00",
   "noticias": [
+    {
+      "id": "c921aff0d3e28c93cbd83a9b52bf9120",
+      "titulo": "Decisão de Dino atende a pedido de diretor da PF, que apontou paralisação do caso Dark Horse",
+      "descricao": "Decisão de Dino atende a pedido de diretor da PF, que apontou paralisação do caso Dark Horse",
+      "link": "https://www.oliberal.com/politica/decisao-de-dino-atende-a-pedido-de-diretor-da-pf-que-apontou-paralisacao-do-caso-dark-horse-1.1166740",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1042338:1761762386/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-10T12:41:45.555168+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "782626fe9d8ffbdd6199f84c295e52b5",
+      "titulo": "Alexandre de Moraes cancela pronunciamento que havia marcado para 11h",
+      "descricao": "Alexandre de Moraes cancela pronunciamento que havia marcado para 11h",
+      "link": "https://www.oliberal.com/politica/alexandre-de-moraes-cancela-pronunciamento-que-havia-marcado-para-11h-1.1167068",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-10T12:41:45.554964+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c8ae9797926c1cba7e013fe45f850d88",
+      "titulo": "PF mira Mario Frias e produtora de filme sobre Bolsonaro em operação",
+      "descricao": "PF mira Mario Frias e produtora de filme sobre Bolsonaro em operação",
+      "link": "https://www.oliberal.com/politica/pf-mira-mario-frias-e-produtora-de-filme-sobre-bolsonaro-em-operacao-autorizada-por-dino-1.1167054",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.386648:1620863430/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-10T12:41:45.203579+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5ba66057bbf31b646dd20af068145262",
+      "titulo": "PL garante atendimento presencial a idosos em serviços públicos e privados",
+      "descricao": "Senador Jader Barbalho. Foto: Divulgação Um Projeto de Lei em tramitação no Senado busca garantir que pessoas idosas tenham acesso a atendimento presencial em serviços públicos e privados, evitando a exclusividade de canais digitais. A proposta visa proteger a autonomia e a segurança dos idosos. O post PL garante atendimento presencial a idosos em serviços públicos e privados apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/brasil/pl-garante-atendimento-presencial-a-idosos-em-servicos-publicos-e-privados/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://diariodopara.com.br/wp-content/uploads/2025/11/Em-evento-no-Senado.jpg",
+      "data": "2026-09-10T12:35:58+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4318d386119d2fecc29f66f76bb3ce98",
+      "titulo": "Giuliana Morrone, ex-jornalista da Globo vive em mansão de R$ 8 milhões integrada à natureza",
+      "descricao": "Giuliana Morrone, de 59 anos, encontrou no Distrito Federal o seu verdadeiro refúgio ecológico. Foto: Reprodução Residência de Giuliana Morrone foi projetada em torno de um pé de pequi, com banheira ao ar livre e técnicas ecológicas. O post Giuliana Morrone, ex-jornalista da Globo vive em mansão de R$ 8 milhões integrada à natureza apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/giuliana-morrone-ex-jornalista-da-globo-vive-em-mansao-de-r-8-milhoes-integrada-a-natureza/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_convertida_1320x768_Giuliana-Morrone-abre-casa-sustentavel-em-Brasilia-ex-jornalista-globo-9.jpg",
+      "data": "2026-09-10T12:30:35+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "90bea0d76641ff516faee4351d424572",
       "titulo": "Tarcísio diz que caso Master não afeta Flávio 'se não aparecer fato novo'",
@@ -12,46 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "c921aff0d3e28c93cbd83a9b52bf9120",
-      "titulo": "Decisão de Dino atende a pedido de diretor da PF, que apontou paralisação do caso Dark Horse",
-      "descricao": "Decisão de Dino atende a pedido de diretor da PF, que apontou paralisação do caso Dark Horse",
-      "link": "https://www.oliberal.com/politica/decisao-de-dino-atende-a-pedido-de-diretor-da-pf-que-apontou-paralisacao-do-caso-dark-horse-1.1166740",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1042338:1761762386/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T12:04:09.781888+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c8ae9797926c1cba7e013fe45f850d88",
-      "titulo": "PF mira Mario Frias e produtora de filme sobre Bolsonaro em operação",
-      "descricao": "PF mira Mario Frias e produtora de filme sobre Bolsonaro em operação",
-      "link": "https://www.oliberal.com/politica/pf-mira-mario-frias-e-produtora-de-filme-sobre-bolsonaro-em-operacao-autorizada-por-dino-1.1167054",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.386648:1620863430/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T12:04:09.781789+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "490bffb4bfbbe53c0f332afe1bc294e1",
-      "titulo": "Círio 2026: Ingressos das gratuidades nas arquibancadas acaba em 20 minutos",
-      "descricao": "Procura dos ingressos para as gratuidades nas arquibancadas do Círio 2026 foi alta. Foto: Mauro Ângelo / Diário do Pará Os ingressos das gratuidades nas arquibancadas da Trasladação e do Círio de Nazaré 2026 esgotaram em 20 minutos. O post Círio 2026: Ingressos das gratuidades nas arquibancadas acaba em 20 minutos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cirio-de-nazare/cirio-2026-ingressos-das-gratuidades-nas-arquibancadas-acaba-em-20-minutos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_convertida_1320x768_DP20221009_MA_5818-768x512-1-1000x582_1.jpg",
-      "data": "2026-09-10T11:59:42+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4d7c01a5949cd706dd87cd9ccaf9918d",
-      "titulo": "Vereador “Nivaldo da Batata” morre após ser atingido por uma tonelada de batata",
-      "descricao": "O vereador conhecido como \"Nivaldo da Batata\", morreu nesta quarta-feira (9), após ser atingido por cerca de uma tonelada de batatas. O post Vereador “Nivaldo da Batata” morre após ser atingido por uma tonelada de batata apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/vereador-nivaldo-da-batata-morre-apos-ser-atingido-por-uma-tonelada-de-batata/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_6bc4cd43-b1e6-4245-9a81-77d703c5292c.jpg",
-      "data": "2026-09-10T11:55:22+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "80c9356f5cf87aec589efc5e943ac05a",
       "titulo": "Círio 2026: aberto o cadastro para ingressos gratuitos das arquibancadas em Belém",
       "descricao": "Arquibancadas do Círio 2026: venda de ingressos começa em 8 de setembro; gratuidade no dia 10. A Diretoria da Festa de Nazaré (DFN) abriu na manhã desta quinta-feira (10) o cadastro para os ingressos gratuitos das arquibancadas da Trasladação e do Círio 2026. Ao todo, foram disponibilizados 900 ingressos gratuitos para pessoas com direito à gratuidade: idosos a partir de 60 anos e pessoas com deficiência. A distribuição foi dividida entre os dois dias: 600 ingressos para a Trasladação e 300 para o Círio. Os ingressos para o Círio esgotaram nos primeiros 20 minutos. O cadastro deve ser feito no mesmo site de vendas dos ingressos pagos, disponível neste link. A retirada dos ingressos ocorrerá exclusivamente na Casa de Plácido, localizada no Centro Social Nazaré, na área do estacionamento da Basílica Santuário, no dia 15 de setembro, das 8h às 14h, mediante comprovação do direito à gratuidade e apresentação de documento com foto. Crianças de até dois anos têm entrada gratuita e não precisam de cadastro. Arquibancadas lotadas durante o Círio em Belém. Igor Mota / Amazônia Jornal LEIA TAMBÉM Arquibancadas do Círio 2026: Começa venda de ingressos ✅ Receba as notícias do g1 Pará direto no WhatsApp VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/vWEi2ecZtuecAZ5C-fiYr9wXKjI=/s.glbimg.com/jo/g1/f/original/2012/10/03/cirio.jpg",
       "data": "2026-09-10T11:41:17+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a69bdd05ebf9bfbb70c91717e5a9694a",
-      "titulo": "Caso Bacabal: Família ainda aguarda resposta da PF sobre crianças achadas nos EUA",
-      "descricao": "A família dos irmãos desaparecidos em Bacaba não recebeu nenhum comunicado sobre as crianças brasileiras entre as resgatadas nos EUA. A família dos irmãos desaparecidos em Bacaba não recebeu nenhum comunicado sobre as crianças brasileiras entre as resgatadas nos EUA. O post Caso Bacabal: Família ainda aguarda resposta da PF sobre crianças achadas nos EUA apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/caso-bacabal-familia-ainda-aguarda-resposta-da-pf-sobre-criancas-achadas-nos-eua/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/bacabal-2-1.jpg",
-      "data": "2026-09-10T11:11:30+00:00",
       "categoria": "PARÁ"
     },
     {
