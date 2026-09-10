@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-10T12:41:47.055191+00:00",
+  "atualizado": "2026-09-10T13:03:16.751111+00:00",
   "noticias": [
+    {
+      "id": "782626fe9d8ffbdd6199f84c295e52b5",
+      "titulo": "Alexandre de Moraes cancela pronunciamento que havia marcado para 11h",
+      "descricao": "Alexandre de Moraes cancela pronunciamento que havia marcado para 11h",
+      "link": "https://www.oliberal.com/politica/alexandre-de-moraes-cancela-pronunciamento-que-havia-marcado-para-11h-1.1167068",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-10T13:03:15.104294+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "afaecef748728300a6f91f89d7669179",
+      "titulo": "PF mira Mario Frias e produtora de filme sobre Bolsonaro em operação autorizada por Dino",
+      "descricao": "PF mira Mario Frias e produtora de filme sobre Bolsonaro em operação autorizada por Dino",
+      "link": "https://www.oliberal.com/politica/pf-mira-mario-frias-e-produtora-de-filme-sobre-bolsonaro-em-operacao-autorizada-por-dino-1.1167054",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.386648:1620863430/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-10T13:03:15.104101+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b7d968c5db0bd9eb439405aa4800e799",
+      "titulo": "Mario Frias teria destinado R$ 2 milhões em emendas para filme",
+      "descricao": "Mario Frias teria destinado R$ 2 milhões em emendas para filme",
+      "link": "https://www.oliberal.com/politica/pf-deflagra-operacao-para-rastrear-emendas-do-filme-dark-horse-1.1167073",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.290176:1596124572/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-10T13:03:15.103880+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5e0f14a2bd925904a9aab23381683695",
+      "titulo": "Festa de San Gennaro leva cultura italiana à sede campestre da AP",
+      "descricao": "A rica cultura italiana, com suas tradicionais músicas, dança e a deliciosa gastronomia, será atração na Assembleia Paraense nesta sexta-feira, 11, quando o clube realiza a festa de San Gennaro, a partir das 18h, no Boulevard AP (sede Campestre), com animação musical da cantora Lanna Bastos e do DJ Ivan Davis. A soprano paraense Lanna Bastos apresentará […] O post Festa de San Gennaro leva cultura italiana à sede campestre da AP apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/toda/atualidades/festa-de-san-gennaro-leva-cultura-italiana-a-sede-campestre-da-ap/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/grupo-de-danca-Ballare.png",
+      "data": "2026-09-10T12:58:03+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "02251d2ad3376f26cd3b49b93dcaa9ba",
+      "titulo": "Jornalista e comentarista Claudio Carsughi morre aos 93 anos",
+      "descricao": "Jornalista ítalo-brasileiro estava internado havia 27 dias após ser diagnosticado com uma infecção respiratória; morte foi comunicada pela filha. O jornalista e comentarista esportivo Claudio Carsughi, um dos nomes mais conhecidos do jornalismo automobilístico e esportivo brasileiro, morreu nesta quinta-feira (10), aos 93 anos. O post Jornalista e comentarista Claudio Carsughi morre aos 93 anos apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/jornalista-e-comentarista-claudio-carsughi-morre-aos-93-anos/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_claudi3.jpg",
+      "data": "2026-09-10T12:48:18+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "c921aff0d3e28c93cbd83a9b52bf9120",
       "titulo": "Decisão de Dino atende a pedido de diretor da PF, que apontou paralisação do caso Dark Horse",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1042338:1761762386/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-10T12:41:45.555168+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "782626fe9d8ffbdd6199f84c295e52b5",
-      "titulo": "Alexandre de Moraes cancela pronunciamento que havia marcado para 11h",
-      "descricao": "Alexandre de Moraes cancela pronunciamento que havia marcado para 11h",
-      "link": "https://www.oliberal.com/politica/alexandre-de-moraes-cancela-pronunciamento-que-havia-marcado-para-11h-1.1167068",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T12:41:45.554964+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c8ae9797926c1cba7e013fe45f850d88",
-      "titulo": "PF mira Mario Frias e produtora de filme sobre Bolsonaro em operação",
-      "descricao": "PF mira Mario Frias e produtora de filme sobre Bolsonaro em operação",
-      "link": "https://www.oliberal.com/politica/pf-mira-mario-frias-e-produtora-de-filme-sobre-bolsonaro-em-operacao-autorizada-por-dino-1.1167054",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.386648:1620863430/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T12:41:45.203579+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5ba66057bbf31b646dd20af068145262",
-      "titulo": "PL garante atendimento presencial a idosos em serviços públicos e privados",
-      "descricao": "Senador Jader Barbalho. Foto: Divulgação Um Projeto de Lei em tramitação no Senado busca garantir que pessoas idosas tenham acesso a atendimento presencial em serviços públicos e privados, evitando a exclusividade de canais digitais. A proposta visa proteger a autonomia e a segurança dos idosos. O post PL garante atendimento presencial a idosos em serviços públicos e privados apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/pl-garante-atendimento-presencial-a-idosos-em-servicos-publicos-e-privados/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://diariodopara.com.br/wp-content/uploads/2025/11/Em-evento-no-Senado.jpg",
-      "data": "2026-09-10T12:35:58+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4318d386119d2fecc29f66f76bb3ce98",
-      "titulo": "Giuliana Morrone, ex-jornalista da Globo vive em mansão de R$ 8 milhões integrada à natureza",
-      "descricao": "Giuliana Morrone, de 59 anos, encontrou no Distrito Federal o seu verdadeiro refúgio ecológico. Foto: Reprodução Residência de Giuliana Morrone foi projetada em torno de um pé de pequi, com banheira ao ar livre e técnicas ecológicas. O post Giuliana Morrone, ex-jornalista da Globo vive em mansão de R$ 8 milhões integrada à natureza apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/giuliana-morrone-ex-jornalista-da-globo-vive-em-mansao-de-r-8-milhoes-integrada-a-natureza/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_convertida_1320x768_Giuliana-Morrone-abre-casa-sustentavel-em-Brasilia-ex-jornalista-globo-9.jpg",
-      "data": "2026-09-10T12:30:35+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "90bea0d76641ff516faee4351d424572",
-      "titulo": "Tarcísio diz que caso Master não afeta Flávio 'se não aparecer fato novo'",
-      "descricao": "Tarcísio diz que caso Master não afeta Flávio 'se não aparecer fato novo'",
-      "link": "https://www.oliberal.com/politica/tarcisio-diz-que-caso-master-nao-afeta-flavio-se-nao-aparecer-fato-novo-1.1164022",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.990595:1752260440/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T12:04:09.781941+00:00",
       "categoria": "PARÁ"
     },
     {
