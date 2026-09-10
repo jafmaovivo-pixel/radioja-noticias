@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-10T17:02:47.788952+00:00",
+  "atualizado": "2026-09-10T17:34:31.933013+00:00",
   "noticias": [
     {
       "id": "72ff09baaad1d84d025e8f9869dc4cf8",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/esportes/remo/remo-torcida-protesta-em-frente-a-sede-social-e-chama-tonhao-de-omisso-e-conde-de-burro-1.1161357",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1161360:1787756475/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T17:02:46.294558+00:00",
+      "data": "2026-09-10T17:34:30.319032+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,17 @@
       "link": "https://www.oliberal.com/policia/motorista-acusado-de-matar-torcedores-atropelados-em-belem-vai-a-juri-popular-1.1158948",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1158952:1787170154/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T17:02:46.294397+00:00",
+      "data": "2026-09-10T17:34:30.318833+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1b6c7499abf2353a6249f1ec0d6e74ec",
+      "titulo": "Torcidas organizadas entram em confronto e assustam moradores",
+      "descricao": "Torcidas organizadas entram em confronto e assustam moradores",
+      "link": "https://www.oliberal.com/policia/video-torcidas-organizadas-entram-em-confronto-e-assustam-moradores-em-ananindeua-1.1167159",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167172:1789055096/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-10T17:34:30.318615+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_image_41.jpg",
       "data": "2026-09-10T16:51:54+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9546c983e7e37182ab13d2a1cb9894b3",
-      "titulo": "Eleições 2026: Celular poderá ser usado para identificação, mas não na urna",
-      "descricao": "e-Título com fotografia vale como documento para identificação, mas telefone deve ser desligado e deixado com os pertences antes da votação Nas Eleições 2026, o celular poderá ser usado para apresentar documentos digitais e comprovar a identidade do eleitor, mas o aparelho continua proibido dentro da cabine de votação, mesmo desligado. O post Eleições 2026: Celular poderá ser usado para identificação, mas não na urna apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/eleicoes-2026-celular-podera-ser-usado-para-identificacao-mas-nao-na-urna/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/celularvota8-1.jpg",
-      "data": "2026-09-10T16:31:00+00:00",
       "categoria": "PARÁ"
     },
     {
