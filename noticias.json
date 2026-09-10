@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-10T11:03:21.326937+00:00",
+  "atualizado": "2026-09-10T11:36:17.268646+00:00",
   "noticias": [
+    {
+      "id": "90bea0d76641ff516faee4351d424572",
+      "titulo": "Tarcísio diz que caso Master não afeta Flávio 'se não aparecer fato novo'",
+      "descricao": "Tarcísio diz que caso Master não afeta Flávio 'se não aparecer fato novo'",
+      "link": "https://www.oliberal.com/politica/tarcisio-diz-que-caso-master-nao-afeta-flavio-se-nao-aparecer-fato-novo-1.1164022",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.990595:1752260440/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-10T11:36:15.693308+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c921aff0d3e28c93cbd83a9b52bf9120",
+      "titulo": "Decisão de Dino atende a pedido de diretor da PF, que apontou paralisação do caso Dark Horse",
+      "descricao": "Decisão de Dino atende a pedido de diretor da PF, que apontou paralisação do caso Dark Horse",
+      "link": "https://www.oliberal.com/politica/decisao-de-dino-atende-a-pedido-de-diretor-da-pf-que-apontou-paralisacao-do-caso-dark-horse-1.1166740",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1042338:1761762386/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-10T11:36:15.463359+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c8ae9797926c1cba7e013fe45f850d88",
+      "titulo": "PF mira Mario Frias e produtora de filme sobre Bolsonaro em operação",
+      "descricao": "PF mira Mario Frias e produtora de filme sobre Bolsonaro em operação",
+      "link": "https://www.oliberal.com/politica/pf-mira-mario-frias-e-produtora-de-filme-sobre-bolsonaro-em-operacao-autorizada-por-dino-1.1167054",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.386648:1620863430/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-10T11:36:15.055249+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a69bdd05ebf9bfbb70c91717e5a9694a",
+      "titulo": "Caso Bacabal: Família ainda aguarda resposta da PF sobre crianças achadas nos EUA",
+      "descricao": "A família dos irmãos desaparecidos em Bacaba não recebeu nenhum comunicado sobre as crianças brasileiras entre as resgatadas nos EUA. A família dos irmãos desaparecidos em Bacaba não recebeu nenhum comunicado sobre as crianças brasileiras entre as resgatadas nos EUA. O post Caso Bacabal: Família ainda aguarda resposta da PF sobre crianças achadas nos EUA apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/brasil/caso-bacabal-familia-ainda-aguarda-resposta-da-pf-sobre-criancas-achadas-nos-eua/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/bacabal-2-1.jpg",
+      "data": "2026-09-10T11:11:30+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "4796b9eb84a5c083174e3eb29b010a5d",
       "titulo": "Motociclista morre após ser atingido por ônibus em Belém",
@@ -12,43 +52,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "3d57ded1061e2edfbb5e3ebfd5f17f58",
-      "titulo": "Ministério Público abre inquérito para apurar as causas de acidente com ônibus em rio de Barcarena",
-      "descricao": "Ministério Público abre inquérito para apurar as causas de acidente com ônibus em rio de Barcarena",
-      "link": "https://www.oliberal.com/para/ministerio-publico-abre-inquerito-para-apurar-as-causas-de-acidente-com-onibus-em-rio-de-barcarena-1.1144691",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1144700:1784244029/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T11:03:18.937516+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f9fae5e5b526955203d4549f3b11b089",
-      "titulo": "Ônibus com pacientes de Cametá sofre grave acidente na PA-151",
-      "descricao": "Ônibus com pacientes de Cametá sofre grave acidente na PA-151",
-      "link": "https://www.oliberal.com/policia/onibus-com-pacientes-do-tratamento-fora-de-domicilio-tfd-de-cameta-sofre-grave-acidente-na-pa-151-1.1166970",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166982:1788991898/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-10T11:03:18.937349+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e19d1b72bbf9df7d9531edf717cf375f",
-      "titulo": "Um dos destinos mais belos do Brasil tem concurso de até R$ 12,5 mil",
-      "descricao": "Praia de Santa Tereza, uma das 42 que compõem o município–arquipélago de Ilhabela (turismoilhabela.com) As inscrições para o concurso da Prefeitura de Ilhabela (SP) terminam nesta quinta-feira, 10 de setembro. A seleção oferece vagas para níveis fundamental, médio e superior, com salários de até R$ 12.579,96. O post Um dos destinos mais belos do Brasil tem concurso de até R$ 12,5 mil apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/um-dos-destinos-mais-belos-do-brasil-tem-concurso-de-ate-r-125-mil/",
+      "id": "ee034e14fbd29807f2b56009133e4bdd",
+      "titulo": "Vídeo: Ônibus com pacientes do tratamento fora do domicílio tomba em Cametá",
+      "descricao": "Um ônibus que transportava pacientes de Cametá pelo Tratamento Fora de Domicílio se envolveu em um acidente na manhã desta quarta-feira (9), Um ônibus que transportava pacientes de Cametá pelo Tratamento Fora de Domicílio se envolveu em um acidente na manhã desta quarta-feira (9), O post Vídeo: Ônibus com pacientes do tratamento fora do domicílio tomba em Cametá apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/para/video-onibus-com-pacientes-do-tratamento-fora-do-domicilio-tomba-em-cameta/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/santa-tereza-4-praia-de-santa-tereza-turismoilhabela.jpg",
-      "data": "2026-09-10T11:01:22+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7b128787da29c7008759f72121d75f3c",
-      "titulo": "Sem banco, moradores precisam viajar até outra cidade para sacar dinheiro",
-      "descricao": "MP cobra solução urgente após agência do Banco do Brasil ser fechada O Ministério Público do Maranhão acionou a Justiça para que o Banco do Brasil retome os serviços bancários em Alcântara, após a única agência da cidade ter o atendimento comprometido desde maio. O post Sem banco, moradores precisam viajar até outra cidade para sacar dinheiro apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/sem-banco-moradores-precisam-viajar-ate-outra-cidade-para-sacar-dinheiro/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1200x628_images_-_2026-08-18T132910_132.jpg",
-      "data": "2026-09-10T10:54:00+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/acidente-cameta.jpg",
+      "data": "2026-09-10T11:02:55+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/eIuqhKY0ROJ5uqkq3SGu5jirdQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/p/smy0MnSeCiqfneYDocoA/whatsapp-image-2026-09-10-at-07.10.49.jpeg",
       "data": "2026-09-10T10:43:14+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "803fbd57b2212401b006ddbbe4ac65cc",
-      "titulo": "Dono do Grupo Mateus perde R$ 4,2 bilhões em ano de fechamento de lojas e demissões",
-      "descricao": "Fundador e principal acionista da gigante varejista despenca do 34º para o 107º lugar; companhia fechou 28 lojas e reduziu quadro em 6.673 trabalhadores O patrimônio de Ilson Mateus Rodrigues, fundador do Grupo Mateus, caiu R$ 4,2 bilhões em um ano, segundo a Forbes. Ele despencou 73 posições no ranking de bilionários brasileiros, em meio à reestruturação da empresa. O post Dono do Grupo Mateus perde R$ 4,2 bilhões em ano de fechamento de lojas e demissões apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/dono-do-grupo-mateus-perde-r-42-bilhoes-em-ano-de-fechamento-de-lojas-e-demissoes/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/ilsonmateus8.jpeg",
-      "data": "2026-09-10T10:23:00+00:00",
       "categoria": "PARÁ"
     },
     {
