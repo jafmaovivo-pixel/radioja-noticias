@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-11T13:02:50.065220+00:00",
+  "atualizado": "2026-09-11T13:36:22.244537+00:00",
   "noticias": [
     {
       "id": "9aa934d7a8bfac3e732f653c779d4289",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/policia/bombeiros-apontam-possivel-vazamento-de-gas-apos-explosao-que-destruiu-predio-no-umarizal-1.1167488",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167490:1789130053/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T13:02:48.944080+00:00",
+      "data": "2026-09-11T13:36:18.626831+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/policia/testemunha-fala-em-pelo-menos-20-pessoas-feridas-apos-explosao-em-restaurante-no-umarizal-1.1167469",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167478:1789128832/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T13:02:48.943905+00:00",
+      "data": "2026-09-11T13:36:18.626704+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/policia/explosao-deixa-rastros-de-destruicao-em-restaurante-no-umarizal-em-belem-veja-1.1167473",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167476:1789128419/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T13:02:48.943685+00:00",
+      "data": "2026-09-11T13:36:18.626498+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ac527477f07b40adbc87d99315becb64",
+      "titulo": "Internet pelos rios? Norte Conectado já alcança 40 municípios da Amazônia",
+      "descricao": "Fibra óptica subfluvial instalada nos rios amazônicos amplia a capacidade de conexão em municípios da região. Foto: divulgação/reprodução Programa já levou fibra óptica subfluvial a 40 municípios de quatro estados e prevê ampliar a conexão para 7,5 milhões de brasileiros. O post Internet pelos rios? Norte Conectado já alcança 40 municípios da Amazônia apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/para/internet-pelos-rios-norte-conectado-ja-alcanca-40-municipios-da-amazonia/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_unnamed-2.jpg",
+      "data": "2026-09-11T13:32:32+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4774a5ec113460203d7443277782f6a0",
+      "titulo": "Paraense lidera votação pela 3ª vez e quatro participantes deixam o Estrelas da Casa; veja quem saiu",
+      "descricao": "A paraense Julliana Franco recebeu a preferência do público pela terceira vez consecutiva e permaneceu no Estrelas da Casa. Foto: Reprodução/TV Globo Tori e Bruno Gadiol foram os mais votados no time Pop, enquanto Julliana Franco e Uel receberam a preferência do público no Pagode. O post Paraense lidera votação pela 3ª vez e quatro participantes deixam o Estrelas da Casa; veja quem saiu apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/paraense-lidera-votacao-pela-3a-vez-e-quatro-participantes-deixam-o-estrelas-da-casa-veja-quem-saiu/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Anitta-Estrelas-da-Casa-1.jpg",
+      "data": "2026-09-11T13:21:59+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/mosaico_explosao_belem-1.jpg",
       "data": "2026-09-11T12:41:49+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2ea2aa45bde18e798236535b954056cd",
-      "titulo": "Comerciante relata explosão de botijão de gás em restaurante no Umarizal",
-      "descricao": "Comerciante relata explosão de botijão de gás em restaurante no Umarizal",
-      "link": "https://www.oliberal.com/policia/comerciante-relata-explosao-de-botijao-de-gas-em-restaurante-no-umarizal-1.1167479",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167487:1789129370/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T12:40:20.510446+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "91ae3797cebafe1caa93963bce4fbd84",
-      "titulo": "Eleição renovará dois terços do Senado com troca de 22 titulares",
-      "descricao": "O terceiro voto será para senador, referente à primeira das duas vagas que estarão em disputa nas Eleições 2026. Foto: divulgação/reprodução As eleições de 4 de outubro prometem uma grande renovação no Senado Federal, com 54 das 81 cadeiras em disputa. Pelo menos 22 senadores atuais não permanecerão como titulares em 2027. O post Eleição renovará dois terços do Senado com troca de 22 titulares apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/eleicao-renovara-dois-tercos-do-senado-com-troca-de-22-titulares/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_images_-_2026-08-31T201934_615.jpg",
-      "data": "2026-09-11T12:36:33+00:00",
       "categoria": "PARÁ"
     },
     {
