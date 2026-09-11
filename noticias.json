@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-11T14:36:49.584063+00:00",
+  "atualizado": "2026-09-11T15:03:11.037402+00:00",
   "noticias": [
+    {
+      "id": "c284f9b45a7324bfb883d175879575b5",
+      "titulo": "Testemunha fala em pelo menos 20 pessoas feridas após explosão em restaurante no Umarizal",
+      "descricao": "Testemunha fala em pelo menos 20 pessoas feridas após explosão em restaurante no Umarizal",
+      "link": "https://www.oliberal.com/policia/testemunha-fala-em-pelo-menos-20-pessoas-feridas-apos-explosao-em-restaurante-no-umarizal-1.1167469",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167478:1789128832/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T15:03:09.260090+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "57ca4a9fbec97a3354296c40b94d27a5",
+      "titulo": "Explosão deixa rastros de destruição em restaurante no Umarizal, em Belém; veja",
+      "descricao": "Explosão deixa rastros de destruição em restaurante no Umarizal, em Belém; veja",
+      "link": "https://www.oliberal.com/policia/explosao-deixa-rastros-de-destruicao-em-restaurante-no-umarizal-em-belem-veja-1.1167473",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167476:1789128419/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T15:03:09.259964+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "78d707c6536369114f9d0c6ec18cf71b",
+      "titulo": "Veja o momento da explosão em restaurante no Umarizal, em Belém",
+      "descricao": "Veja o momento da explosão em restaurante no Umarizal, em Belém",
+      "link": "https://www.oliberal.com/policia/veja-o-momento-da-explosao-em-restaurante-no-umarizal-em-belem-registrado-por-cameras-de-seguranca-1.1167542",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167543:1789137334/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T15:03:09.259771+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2acaf6abf3759fcae99b2f2f5cd1b205",
+      "titulo": "“Ia destruir todo o prédio”: explosão no Botecagem do Porco assusta moradores em Belém; veja o antes e depois",
+      "descricao": "Foto: Irene Almeida - Diário do Pará Restaurante fica na esquina da 14 de Março com a Diogo Móia, em Belém; Corpo de Bombeiros aponta vazamento de gás como hipótese inicial e diz que perícia vai investigar o caso. O post “Ia destruir todo o prédio”: explosão no Botecagem do Porco assusta moradores em Belém; veja o antes e depois apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/ia-destruir-todo-o-predio-explosao-no-botecagem-do-porco-assusta-moradores-em-belem-veja-o-antes-e-depois/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/MODELO-IMAGEM-SITE-DIARIO-2026-09-11T113745.257.jpg",
+      "data": "2026-09-11T14:58:49+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8cebb75b01959e9c7216a0aa685d009c",
+      "titulo": "Portugal fecha brecha para brasileiros sem visto e endurece caminho para residência; entenda as regras",
+      "descricao": "Mudanças na legislação migratória portuguesa consolidam exigência de visto adequado antes da viagem para quem pretende morar e trabalhar no país. Brasileiros que planejam morar e trabalhar em Portugal precisam se atentar às novas regras migratórias. O país encerrou o modelo que permitia a regularização após a entrada como turista e revogou a manifestação de interesse, exigindo agora visto adequado ainda no Brasil. O post Portugal fecha brecha para brasileiros sem visto e endurece caminho para residência; entenda as regras apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/portugal-fecha-brecha-para-brasileiros-sem-visto-e-endurece-caminho-para-residencia-entenda-as-regras/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Portugal7.png",
+      "data": "2026-09-11T14:40:41+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "9aa934d7a8bfac3e732f653c779d4289",
       "titulo": "Bombeiros apontam possível vazamento de gás após explosão que destruiu prédio no Umarizal",
@@ -12,36 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "c284f9b45a7324bfb883d175879575b5",
-      "titulo": "Testemunha fala em pelo menos 20 pessoas feridas após explosão em restaurante no Umarizal",
-      "descricao": "Testemunha fala em pelo menos 20 pessoas feridas após explosão em restaurante no Umarizal",
-      "link": "https://www.oliberal.com/policia/testemunha-fala-em-pelo-menos-20-pessoas-feridas-apos-explosao-em-restaurante-no-umarizal-1.1167469",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167478:1789128832/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T14:36:46.487752+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "87e418d496119accb5e01be113f8e5cb",
-      "titulo": "Explosão deixa rastros de destruição em restaurante no Umarizal",
-      "descricao": "Explosão deixa rastros de destruição em restaurante no Umarizal",
-      "link": "https://www.oliberal.com/policia/explosao-deixa-rastros-de-destruicao-em-restaurante-no-umarizal-em-belem-veja-1.1167473",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167476:1789128419/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T14:36:46.487607+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "509321207d9cbff14de26cda8dbc6425",
-      "titulo": "Com homenagem a Nossa Senhora de Nazaré, Beija-Flor define samba sobre pajé paraense",
-      "descricao": "Imagem de Nossa Senhora de Nazaré participou da homenagem que antecedeu a escolha do samba da Beija-Flor para o Carnaval 2027. Fotos: Reprodução/Instagram Samba da parceria de Marquinhos Beija-Flor venceu a disputa; composição da paraense Bole-Bole chegou à final. O post Com homenagem a Nossa Senhora de Nazaré, Beija-Flor define samba sobre pajé paraense apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/com-homenagem-a-nossa-senhora-de-nazare-beija-flor-define-samba-sobre-paje-paraense/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Nossa-Senhora-de-Nazare-Beija-Flor.jpg",
-      "data": "2026-09-11T14:32:57+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "2d5bb5dd2b98e9fc59d6a8a750afc5f9",
       "titulo": "'Entrei em pânico', diz trabalhador ferido após explosões em restaurante de Belém",
       "descricao": "Explosão é registrada em restaurante no Umarizal, em Belém Um homem relatou momentos de pânico ao presenciar uma série de explosões em um restaurante na rua Diogo Móia, bairro do Umarizal, em Belém, nesta sexta-feira (11). A vítima, identificada como Fledson Ribeiro, foi atingido por um pedaço de um objeto enquanto passava pela rua. Ele ficou ferido na perna e precisou receber os primeiros socorros do Corpo de Bombeiros, que foi ao local para controlar a situação. Não havia pessoas dentro do prédio onde fica o restaurante no momento das explosões. \"Eu entrei em pânico, mas graças a Deus já está tudo resolvido\", desabafou Fledson, que estava do outro lado da rua e, mesmo assim, foi atingido por um pedaço de metal. O objeto, de acordo com ele, seria parte de um dos botijões. Fledson, que trabalha próximo ao restaurante, ainda relatou que outras pessoas ficaram feridas, mas o número exato de atingidos não foi informado pelas autoridades. Segundo os agentes, \"o incêndio teria começado após a explosão de um recipiente de gás de cozinha com capacidade para 45 litros\". Após a primeira explosão, ao menos mais duas foram ouvidas por moradores. A causa e a dinâmica da ocorrência só serão confirmadas após a perícia técnica, que deverá analisar o local, os equipamentos, as instalações e os vestígios remanescentes. O local está isolado para os procedimentos necessários. Trabalhador ficou ferido na perna e precisou receber atendimento do Corpo de Bombeiros após explosões em restaurante em Belém. Reprodução / Wilk Dias / TV Liberal ✅ Siga o canal do g1 Pará no WhatsApp Os bombeiros continuam na área para o trabalho de rescaldo. O prédio também abriga apartamentos residenciais, que estavam sem moradores. Um dos apartamentos precisou ser interditado para análise técnica, de acordo com o proprietário. A força das explosões foi tão intensa que destruiu diversos eletrodomésticos do restaurante. Pedaços de objetos, estilhaços de vidro e destroços foram arremessados para o outro lado da rua. O impacto acabou atingindo veículos que estavam estacionados próximos ao local e fachadas de outros estabelecimentos comerciais vizinhos. O trânsito na área permaneceu liberado e foi organizado por agentes do próprio Corpo de Bombeiros. Restaurante explode no Umarizal, em Belém. Wilk Dias / TV Liberal VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará.",
@@ -49,26 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/NXsCQ3GR37mAbo2GK9ILpfXAu3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/w/jDBArIQ4AmyBCNu9f8AQ/geral-g1-23-.png",
       "data": "2026-09-11T14:19:02+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "70512f45cdce82a2c9dc46dcba98adbc",
-      "titulo": "Ferroviária apela para ingressos grátis antes de enfrentar o Paysandu",
-      "descricao": "Ferroviária dá ingressos de graça para tentar lotar estádio contra o Paysandu A Ferroviária-SP distribuirá ingressos gratuitos e fará troca por alimentos para o jogo contra o Paysandu, buscando atrair mais torcedores à Fonte Luminosa. O post Ferroviária apela para ingressos grátis antes de enfrentar o Paysandu apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/ferroviaria-apela-para-ingressos-gratis-antes-de-enfrentar-o-paysandu/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/FerroviariaxPaysandu2-Jorge-Luis-Totti-Paysandu.jpg",
-      "data": "2026-09-11T14:01:55+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c4058c57039cd9d275229e4bcfa40e1d",
-      "titulo": "Voando pra Goiânia! Joelma vive em mansão com 10 banheiros e 7 suítes",
-      "descricao": "Mansão de Joelma em Goiânia tem 10 banheiros e 7 suítes. Foto: Reprodução Imóvel de alto padrão escolhido pela cantora fica em condomínio valorizado de Goiânia e chama atenção pela estrutura e área de lazer O post Voando pra Goiânia! Joelma vive em mansão com 10 banheiros e 7 suítes apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/voando-pra-goiania-joelma-vive-em-mansao-com-10-banheiros-e-7-suites/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Joelma-mansao.jpg",
-      "data": "2026-09-11T13:54:19+00:00",
       "categoria": "PARÁ"
     },
     {
