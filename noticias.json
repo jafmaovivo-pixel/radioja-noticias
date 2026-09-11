@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-11T12:40:21.604747+00:00",
+  "atualizado": "2026-09-11T13:02:50.065220+00:00",
   "noticias": [
+    {
+      "id": "9aa934d7a8bfac3e732f653c779d4289",
+      "titulo": "Bombeiros apontam possível vazamento de gás após explosão que destruiu prédio no Umarizal",
+      "descricao": "Bombeiros apontam possível vazamento de gás após explosão que destruiu prédio no Umarizal",
+      "link": "https://www.oliberal.com/policia/bombeiros-apontam-possivel-vazamento-de-gas-apos-explosao-que-destruiu-predio-no-umarizal-1.1167488",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167490:1789130053/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T13:02:48.944080+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c284f9b45a7324bfb883d175879575b5",
+      "titulo": "Testemunha fala em pelo menos 20 pessoas feridas após explosão em restaurante no Umarizal",
+      "descricao": "Testemunha fala em pelo menos 20 pessoas feridas após explosão em restaurante no Umarizal",
+      "link": "https://www.oliberal.com/policia/testemunha-fala-em-pelo-menos-20-pessoas-feridas-apos-explosao-em-restaurante-no-umarizal-1.1167469",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167478:1789128832/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T13:02:48.943905+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "87e418d496119accb5e01be113f8e5cb",
+      "titulo": "Explosão deixa rastros de destruição em restaurante no Umarizal",
+      "descricao": "Explosão deixa rastros de destruição em restaurante no Umarizal",
+      "link": "https://www.oliberal.com/policia/explosao-deixa-rastros-de-destruicao-em-restaurante-no-umarizal-em-belem-veja-1.1167473",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167476:1789128419/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T13:02:48.943685+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9953c8a2d68752093dd1b3b1830d8c33",
+      "titulo": "Veja como ficou restaurante após explosão que deixou cerca de 20 feridos no Umarizal",
+      "descricao": "Acidente ocorreu na manhã desta sexta-feira (11), na rua Diogo Móia, em Belém; Bombeiros trabalham inicialmente com a hipótese de vazamento de gás. Uma explosão em um restaurante no bairro do Umarizal, em Belém, deixou cerca de 20 pessoas feridas na manhã desta sexta-feira (11). A suspeita inicial é de vazamento de gás. O post Veja como ficou restaurante após explosão que deixou cerca de 20 feridos no Umarizal apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/veja-como-ficou-restaurante-apos-explosao-que-deixou-cerca-de-20-feridos-no-umarizal/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/mosaico_explosao_belem-1.jpg",
+      "data": "2026-09-11T12:41:49+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "2ea2aa45bde18e798236535b954056cd",
       "titulo": "Comerciante relata explosão de botijão de gás em restaurante no Umarizal",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "9aa934d7a8bfac3e732f653c779d4289",
-      "titulo": "Bombeiros apontam possível vazamento de gás após explosão que destruiu prédio no Umarizal",
-      "descricao": "Bombeiros apontam possível vazamento de gás após explosão que destruiu prédio no Umarizal",
-      "link": "https://www.oliberal.com/policia/bombeiros-apontam-possivel-vazamento-de-gas-apos-explosao-que-destruiu-predio-no-umarizal-1.1167488",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167490:1789130053/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T12:40:20.208868+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5b5371a00f7a7e14fbc67ef7ac765f94",
-      "titulo": "Pelo menos 20 pessoas ficam feridas em explosão de restaurante",
-      "descricao": "Pelo menos 20 pessoas ficam feridas em explosão de restaurante",
-      "link": "https://www.oliberal.com/policia/testemunha-fala-em-pelo-menos-20-pessoas-feridas-apos-explosao-em-restaurante-no-umarizal-1.1167469",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167478:1789128832/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T12:40:19.727289+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "91ae3797cebafe1caa93963bce4fbd84",
       "titulo": "Eleição renovará dois terços do Senado com troca de 22 titulares",
       "descricao": "O terceiro voto será para senador, referente à primeira das duas vagas que estarão em disputa nas Eleições 2026. Foto: divulgação/reprodução As eleições de 4 de outubro prometem uma grande renovação no Senado Federal, com 54 das 81 cadeiras em disputa. Pelo menos 22 senadores atuais não permanecerão como titulares em 2027. O post Eleição renovará dois terços do Senado com troca de 22 titulares apareceu primeiro em Diário do Pará .",
@@ -39,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_images_-_2026-08-31T201934_615.jpg",
       "data": "2026-09-11T12:36:33+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c5b346be687cc1dfb5cbc8afb15ec679",
-      "titulo": "3ª edição da +B Run reunirá mais de 6 mil participantes neste domingo, 13, em Belém com foco em esporte e lazer",
-      "descricao": "Belém se prepara para vivenciar um dos grandes fins de semana voltados ao esporte, à saúde e à integração coletiva. A terceira edição da +B Run chegou à sua reta final com lotação máxima e inscrições totalmente esgotadas, reunindo uma multidão de 6 mil pessoas confirmadas na programação. A movimentação segue nesta sexta-feira (11), das […] O post 3ª edição da +B Run reunirá mais de 6 mil participantes neste domingo, 13, em Belém com foco em esporte e lazer apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/toda/atualidades/3a-edicao-da-b-run-reunira-mais-de-6-mil-participantes-neste-domingo-13-em-belem-com-foco-em-esporte-e-lazer/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/IMG_0179.jpg",
-      "data": "2026-09-11T12:32:36+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/ZE4yaJtNt_V09P8e7umq1aKUlJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/A/pAw9caQAmCs31RJPAKaA/whatsapp-image-2026-09-11-at-09.02.29.jpeg",
       "data": "2026-09-11T12:13:48+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "422010929b71e9f7cf7af374319ac626",
-      "titulo": "Contrato de mulher de Alexandre de Moraes com Banco Master é revelado",
-      "descricao": "Contrato de mulher de Alexandre de Moraes com Banco Master é revelado",
-      "link": "https://www.oliberal.com/politica/contrato-de-mulher-de-alexandre-de-moraes-com-banco-master-e-revelado-1.1167440",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1094421:1773057715/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T12:03:31.201937+00:00",
       "categoria": "PARÁ"
     }
   ]
