@@ -1,16 +1,6 @@
 {
-  "atualizado": "2026-09-11T22:03:06.936511+00:00",
+  "atualizado": "2026-09-11T22:34:03.675213+00:00",
   "noticias": [
-    {
-      "id": "0324b427a1e7cda121a4d3957b0ed771",
-      "titulo": "PF diz que Eduardo Bolsonaro orientou gestão de verba de Vorcaro para 'Dark Horse' nos EUA",
-      "descricao": "PF diz que Eduardo Bolsonaro orientou gestão de verba de Vorcaro para 'Dark Horse' nos EUA",
-      "link": "https://www.oliberal.com/politica/pf-diz-que-eduardo-bolsonaro-orientou-gestao-de-verba-de-vorcaro-para-dark-horse-nos-eua-1.1167700",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1122612:1779059670/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T22:03:03.348091+00:00",
-      "categoria": "PARÁ"
-    },
     {
       "id": "60aaccd2702aa470a5bca3694e2496a8",
       "titulo": "Presidente do PT pergunta sobre Flávio Bolsonaro: 'O que mais ele esconde?'",
@@ -18,7 +8,17 @@
       "link": "https://www.oliberal.com/politica/presidente-do-pt-pergunta-sobre-flavio-bolsonaro-o-que-mais-ele-esconde-1.1167739",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1121617:1778795257/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T22:03:03.347994+00:00",
+      "data": "2026-09-11T22:34:01.976116+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a2e8e37bbc763e56abb6fd6db900cf17",
+      "titulo": "André Mendonça rebate Moraes sobre sigilo seletivo no caso Banco Master",
+      "descricao": "André Mendonça rebate Moraes sobre sigilo seletivo no caso Banco Master",
+      "link": "https://www.oliberal.com/politica/mendonca-rebate-moraes-e-nega-liberacao-seletiva-de-dados-do-caso-master-1.1167813",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167819:1789164913/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T22:34:01.975884+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/brasil/fachin-manda-mendonca-liberar-documentos-do-caso-master-em-24-horas-1.1167688",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1130447:1781284808/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T22:03:03.347875+00:00",
+      "data": "2026-09-11T22:34:01.672677+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c9dfe3d580f6b218384be94edc9d1297",
+      "titulo": "Já pode se preparar: confira os rolês confirmados para a semana do Círio em Belém",
+      "descricao": "Programação cultural e de festas que movimenta a cidade durante o Círio de Nazaré. Foto: Reprodução Programação reúne MPB, festa tradicional, arroxa, brega, reggae e muito samba na semana mais aguardada do ano na capital paraense. O post Já pode se preparar: confira os rolês confirmados para a semana do Círio em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/ja-pode-se-preparar-confira-os-roles-confirmados-para-a-semana-do-cirio-em-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_fogos_tarsosarraf.jpg",
+      "data": "2026-09-11T22:25:28+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0324b427a1e7cda121a4d3957b0ed771",
+      "titulo": "PF diz que Eduardo Bolsonaro orientou gestão de verba de Vorcaro para 'Dark Horse' nos EUA",
+      "descricao": "PF diz que Eduardo Bolsonaro orientou gestão de verba de Vorcaro para 'Dark Horse' nos EUA",
+      "link": "https://www.oliberal.com/politica/pf-diz-que-eduardo-bolsonaro-orientou-gestao-de-verba-de-vorcaro-para-dark-horse-nos-eua-1.1167700",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1122612:1779059670/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T22:03:03.348091+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -59,26 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/KPNzMxd2SWD0KNN21g1hkh1_h_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/B/dZpYAMTdiFUtYNBrZLog/padrasto.jpg",
       "data": "2026-09-11T21:31:09+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2c1ec255da860f60c7f2e7ed4f839495",
-      "titulo": "Omer recorre à Justiça por teste de paternidade em “Guerra das Rosas”",
-      "descricao": "Omer recorrerá à Justiça para solicitar um teste de paternidade após questionar Gulfem sobre o bebê de Gulru em “Guerra das Rosas”. Foto: Reprodução/Bandplay Entre 14 e 18 de setembro, Omer pedirá um exame e entrará em confronto com Cihan. O post Omer recorre à Justiça por teste de paternidade em “Guerra das Rosas” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/omer-recorre-a-justica-por-teste-de-paternidade-em-guerra-das-rosas/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Guerra-das-Rosas-23.jpg",
-      "data": "2026-09-11T21:30:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a54ee4b9da398e9ffe0c47f94980857b",
-      "titulo": "MC Livinho sobre reembolso de show cancelado em Belém: “Parem de encher o saco”",
-      "descricao": "Cantor explicou aos fãs quem é responsável pela devolução dos valores dos ingressos. Foto: Reprodução/MC Livinho. MC Livinho se pronunciou nas redes sociais sobre o reembolso de ingressos de show em Belém e explicou que não é responsável pelas negociações. O cantor também revelou que está focado na recuperação de uma inflamação nas cordas vocais. O post MC Livinho sobre reembolso de show cancelado em Belém: “Parem de encher o saco” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/mc-livinho-fala-sobre-reembolso-de-show-cancelado-em-belem-parem-de-encher-o-saco/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Video-2026-09-11-at-16.35.39.mp4",
-      "data": "2026-09-11T21:21:39+00:00",
       "categoria": "PARÁ"
     }
   ]
