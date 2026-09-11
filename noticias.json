@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-09-11T10:36:17.860239+00:00",
+  "atualizado": "2026-09-11T11:02:57.665381+00:00",
   "noticias": [
+    {
+      "id": "58df54e1b7d31c554f7c8301ec57bd40",
+      "titulo": "Lula diz que Moraes e Mendonça devem ser punidos se forem culpados",
+      "descricao": "Lula diz que Moraes e Mendonça devem ser punidos se forem culpados",
+      "link": "https://www.oliberal.com/politica/lula-se-alexandre-de-moraes-e-andre-mendonca-forem-culpados-eles-tem-de-pagar-1.1167408",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1006126:1755134755/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T11:02:56.010552+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b7d000bbe32c4500994d06cdb211a710",
+      "titulo": "AGU: Jorge Messias enaltece iniciativa de Fachin de pedir retirada de sigilo do caso Master",
+      "descricao": "AGU: Jorge Messias enaltece iniciativa de Fachin de pedir retirada de sigilo do caso Master",
+      "link": "https://www.oliberal.com/politica/agu-jorge-messias-enaltece-iniciativa-de-fachin-de-pedir-retirada-de-sigilo-do-caso-master-1.1167443",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.999448:1753905515/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T11:02:55.736422+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "422010929b71e9f7cf7af374319ac626",
+      "titulo": "Contrato de mulher de Alexandre de Moraes com Banco Master é revelado",
+      "descricao": "Contrato de mulher de Alexandre de Moraes com Banco Master é revelado",
+      "link": "https://www.oliberal.com/politica/contrato-de-mulher-de-alexandre-de-moraes-com-banco-master-e-revelado-1.1167440",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1094421:1773057715/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-11T11:02:55.464922+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "6af3ffa7fce2f44e104d3a178704e71b",
       "titulo": "Ataque de abelhas deixa um homem morto e outro gravemente ferido em Ulianópolis",
@@ -9,26 +39,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.849620:1723503417/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-11T10:36:15.631980+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9c22b18c4030cdf2a3f80164e1a2f236",
-      "titulo": "Mulher e duas crianças são atacadas por enxame de abelhas",
-      "descricao": "Mulher e duas crianças são atacadas por enxame de abelhas",
-      "link": "https://www.oliberal.com/belem/mulher-e-duas-criancas-sao-atacadas-por-enxame-de-abelhas-em-ananindeua-1.1167329",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.850955:1723827336/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T10:36:15.631821+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7148af9d5370e886270d3d7d930b6f76",
-      "titulo": "Cavalos são vistos soltos e desorientados pelas ruas do Jurunas",
-      "descricao": "Cavalos são vistos soltos e desorientados pelas ruas do Jurunas",
-      "link": "https://www.oliberal.com/belem/cavalos-sao-vistos-soltos-e-desorientados-pelas-ruas-do-jurunas-1.1167402",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167403:1789085521/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T10:36:15.631560+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/rXdrIs7kYlByLn7B18YbHijPDx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/G/1SLEm2Tw6eh7rBBkG0vw/foto-felix-okok.jpg",
       "data": "2026-09-11T08:30:37+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ad1b93fa772315f2716d840435649f2e",
-      "titulo": "Donas de pequenos negócios recebem Prêmio Sebrae Mulher de Negócios",
-      "descricao": "A premiação integra as estratégias do Sebrae para fortalecer o empreendedorismo feminino, que em pouco mais de 10 anos apresentou crescimento de 21% no Pará. Crédito da foto: Carlos Borges Treze mulheres empreendedoras paraenses foram premiadas na etapa estadual do Prêmio Sebrae Mulher de Negócios, em cerimônia realizada em Belém. O evento destacou o protagonismo feminino e o impacto na economia local. O post Donas de pequenos negócios recebem Prêmio Sebrae Mulher de Negócios apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/donas-de-pequenos-negocios-recebem-premio-sebrae-mulher-de-negocios/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/1000305198.jpg",
-      "data": "2026-09-11T01:35:59+00:00",
       "categoria": "PARÁ"
     },
     {
