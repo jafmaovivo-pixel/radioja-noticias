@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-11T23:32:54.830170+00:00",
+  "atualizado": "2026-09-12T00:03:52.480223+00:00",
   "noticias": [
+    {
+      "id": "78c54247d39da164ddb550ae7ef3c65d",
+      "titulo": "LibTalks discute o poder da gamificação na motivação de hábitos sustentáveis na educação",
+      "descricao": "LibTalks discute o poder da gamificação na motivação de hábitos sustentáveis na educação",
+      "link": "https://www.oliberal.com/economia/libtalks-discute-poder-da-gamificacaona-motivacao-dehabitos-sustentaveis-na-educacao-1.1167850",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167854:1789168663/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T00:03:48.983553+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c7a4ba7e0be23bcaca45871ee08e0241",
+      "titulo": "LibTalks debate gamificação na educação sustentável",
+      "descricao": "LibTalks debate gamificação na educação sustentável",
+      "link": "https://www.oliberal.com/belem/libtalks-debate-uso-da-gamificacao-para-estimular-habitos-sustentaveis-na-educacao-1.1167230",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167239:1789059596/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T00:03:48.740278+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5f5d4b0d1cad870442221e55574d2cfd",
+      "titulo": "Hana tem 48,5% e Dr. Daniel 41,7% na disputa pelo governo do Pará",
+      "descricao": "Hana tem 48,5% e Dr. Daniel 41,7% na disputa pelo governo do Pará",
+      "link": "https://www.oliberal.com/para/hana-tem-48-5-e-dr-daniel-41-7-na-disputa-pelo-governo-do-para-aponta-pesquisa-atlasintel-1.1167856",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1150296:1785160026/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T00:03:48.403307+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "18621027ad3ee6f4ad98e57550693fcf",
+      "titulo": "Conheça os 12 candidatos que seguem na disputa pela Presidência em 2026",
+      "descricao": "Quem disputa a Presidência em 2026? Conheça as 12 chapas aprovadas pelo TSE O TSE concluiu o julgamento dos registros de candidaturas à Presidência em 2026. A chapa de Augusto Cury foi aprovada, enquanto a de Pablo Marçal foi rejeitada por unanimidade. O post Conheça os 12 candidatos que seguem na disputa pela Presidência em 2026 apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/conheca-os-12-candidatos-que-seguem-na-disputa-pela-presidencia-em-2026/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_PR-1024x591-1.jpg",
+      "data": "2026-09-11T23:52:15+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "60aaccd2702aa470a5bca3694e2496a8",
       "titulo": "Presidente do PT pergunta sobre Flávio Bolsonaro: 'O que mais ele esconde?'",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "a2e8e37bbc763e56abb6fd6db900cf17",
-      "titulo": "André Mendonça rebate Moraes sobre sigilo seletivo no caso Banco Master",
-      "descricao": "André Mendonça rebate Moraes sobre sigilo seletivo no caso Banco Master",
-      "link": "https://www.oliberal.com/politica/mendonca-rebate-moraes-e-nega-liberacao-seletiva-de-dados-do-caso-master-1.1167813",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167819:1789164913/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T23:32:52.063476+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fe512198b1916578d828fa7385d19449",
-      "titulo": "Fachin manda Mendonça liberar documentos em 24 horas",
-      "descricao": "Fachin manda Mendonça liberar documentos em 24 horas",
-      "link": "https://www.oliberal.com/brasil/fachin-manda-mendonca-liberar-documentos-do-caso-master-em-24-horas-1.1167688",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1130447:1781284808/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-11T23:32:52.063335+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "61b51e52e7f045d41be780ad83aeb401",
       "titulo": "Atriz de Elvira, a Rainha das Trevas volta aos cinemas aos 74 anos em novo filme de terror",
       "descricao": "Elvira, a Rainha das Trevas. Foto: Reprodução Cassandra Peterson será uma bruxa em 'Pumpkinhead 2', longa baseado nos livros de R.L. Stine que estreia em outubro no streaming Tubi. O post Atriz de Elvira, a Rainha das Trevas volta aos cinemas aos 74 anos em novo filme de terror apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_atriz-1.jpg",
       "data": "2026-09-11T23:29:16+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "cae4828dc12f98b2293f93444e266370",
-      "titulo": "“Ozempic Natural”: Anvisa manda apreender produtos à base de berberina",
-      "descricao": "“Ozempic Natural” é alvo de apreensão da Anvisa; veja o motivo A Anvisa determinou a apreensão de produtos à base de berberina vendidos irregularmente como “Ozempic Natural”. A medida atinge itens sem registro, notificação ou cadastro na Agência. O post “Ozempic Natural”: Anvisa manda apreender produtos à base de berberina apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/dr-responde/ozempic-natural-anvisa-manda-apreender-produtos-a-base-de-berberina/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/soll-q-75.jpg",
-      "data": "2026-09-11T23:21:59+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "efd872f6728d0679100f093aeeae0c39",
-      "titulo": "Paysandu registra Nico Schiappacasse no BID e confirma novo reforço",
-      "descricao": "Nico Schiappacasse no BID: Paysandu ganha novo reforço para a Série C O atacante uruguaio Nico Schiappacasse teve seu nome publicado no BID da CBF, confirmando seu registro como novo reforço do Paysandu. Ele poderá estrear contra a Ferroviária pela Série C. O post Paysandu registra Nico Schiappacasse no BID e confirma novo reforço apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/paysandu-registra-nico-schiappacasse-no-bid-e-confirma-novo-reforco/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Captura_de_tela_2026-09-11_195602.jpg",
-      "data": "2026-09-11T22:58:36+00:00",
       "categoria": "PARÁ"
     },
     {
