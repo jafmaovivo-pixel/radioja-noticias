@@ -1,6 +1,16 @@
 {
-  "atualizado": "2026-09-12T11:33:37.137360+00:00",
+  "atualizado": "2026-09-12T12:03:27.603830+00:00",
   "noticias": [
+    {
+      "id": "649b18f41db24586fc38725635ab4546",
+      "titulo": "Lula tem 46% no segundo turno contra 44% de Flávio Bolsonaro, diz Datafolha",
+      "descricao": "Lula tem 46% no segundo turno contra 44% de Flávio Bolsonaro, diz Datafolha",
+      "link": "https://www.oliberal.com/politica/lula-tem-46-no-segundo-turno-contra-44-de-flavio-bolsonaro-diz-datafolha-1.1167815",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1124834:1779478590/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T12:03:24.472168+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "0ab82dfa47148c7bee799b60eb6158cb",
       "titulo": "Professora é esfaqueada por aluna em escola do Pará",
@@ -8,7 +18,37 @@
       "link": "https://www.oliberal.com/policia/professora-e-esfaqueada-nas-costas-por-aluna-em-escola-estadual-de-cameta-1.1167855",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167862:1789170673/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-12T11:33:34.047974+00:00",
+      "data": "2026-09-12T12:03:24.245746+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f1b2ff36bf843649091ff4b68e1b9832",
+      "titulo": "Com 30 anos de carreira, Joelma estreia no Rock in Rio",
+      "descricao": "Com 30 anos de carreira, Joelma estreia no Rock in Rio",
+      "link": "https://www.oliberal.com/cultura/com-30-anos-de-carreira-joelma-estreia-no-rock-in-rio-com-participacao-de-viviane-batidao-1.1167764",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167767:1789160191/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T12:03:24.245496+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "728564125be4437874cc1862025f95b3",
+      "titulo": "CNH do Brasil impulsiona procura no Norte e amplia acesso à habilitação no Pará, veja como tirar a sua até 80% mais barato",
+      "descricao": "Região Norte registra avanço de 31,9% nos processos iniciados; novo sistema permite curso teórico gratuito e reduz despesas para tirar a carteira. O programa CNH do Brasil ampliou o acesso à primeira habilitação, registrando um crescimento de 31,9% nos processos iniciados na Região Norte. O novo modelo permite começar o procedimento digitalmente e oferece curso teórico gratuito, além de flexibilizar a preparação para as avaliações obrigatórias. O post CNH do Brasil impulsiona procura no Norte e amplia acesso à habilitação no Pará, veja como tirar a sua até 80% mais barato apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/cnh-do-brasil-impulsiona-procura-no-norte-e-amplia-acesso-a-habilitacao-no-para-veja-como-tirar-a-sua-ate-80-mais-barato/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/CNHdoBR5.jpeg",
+      "data": "2026-09-12T12:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "16759646eba0cd7df2177daa6f124789",
+      "titulo": "“Jornada nas estrelas” e o futuro que ainda não conseguimos construir",
+      "descricao": "A série é cultuada pelos fãs e expandiu seu universo nas mais diversas mídias - Foto: Divulgação Seis décadas depois, a missão de “Jornada nas Estrelas” continua sendo uma utopia. Série atravessa gerações como um fenômeno da cultura pop. O post “Jornada nas estrelas” e o futuro que ainda não conseguimos construir apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/videolocadora/jornada-nas-estrelas-e-o-futuro-que-ainda-nao-conseguimos-construir/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Star_Trek.jpg",
+      "data": "2026-09-12T12:00:00+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -19,46 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167854:1789168663/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-12T11:33:34.047807+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c7a4ba7e0be23bcaca45871ee08e0241",
-      "titulo": "LibTalks debate gamificação na educação sustentável",
-      "descricao": "LibTalks debate gamificação na educação sustentável",
-      "link": "https://www.oliberal.com/belem/libtalks-debate-uso-da-gamificacao-para-estimular-habitos-sustentaveis-na-educacao-1.1167230",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167239:1789059596/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-12T11:33:34.047652+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3ff93272f31d4458f70ca08dc1eea956",
-      "titulo": "Horóscopo de hoje, 12 de setembro, favorece diálogos e vínculos",
-      "descricao": "Horóscopo do dia. Foto: Reprodução Previsões para este sábado indicam atenção aos relacionamentos, finanças e planos futuros; confira o que o horóscopo reserva para cada signo O post Horóscopo de hoje, 12 de setembro, favorece diálogos e vínculos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/horoscopo-de-hoje-12-de-setembro-favorece-dialogos-e-vinculos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1200x628_horoscopo-previsoes-do-dia.jpg",
-      "data": "2026-09-12T11:29:26+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6025c706cb8150557a9bcf640ed4cc32",
-      "titulo": "Por que 47% dos brasileiros preferem esconder o voto dentro de casa? Pesquisa revela",
-      "descricao": "Pesquisa aponta que 47% dos brasileiros evitam comentar o voto em casa para fugir de conflitos durante as eleições. Foto: gerada por IA Pesquisa com 1.449 eleitores mostra diferenças entre homens e mulheres sobre machismo, voto e influência política dentro de casa. O post Por que 47% dos brasileiros preferem esconder o voto dentro de casa? Pesquisa revela apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/por-que-47-dos-brasileiros-preferem-esconder-o-voto-dentro-de-casa-pesquisa-revela/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_ChatGPT_Image_10_de_set_de_2026_23_10_46.jpg",
-      "data": "2026-09-12T11:20:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "46c6b1e3d6bca88cf40d096ded50152e",
-      "titulo": "Conheça o aplicativo alternativo ao Google Maps que permite navegar sem gastar internet",
-      "descricao": "Aplicativo permite baixar mapas para uso offline, oferece rotas para diferentes meios de transporte e aposta na privacidade como diferencial. O Magic Earth se destaca como uma alternativa ao Google Maps, oferecendo navegação offline e priorizando a privacidade dos usuários. O aplicativo permite baixar mapas antecipadamente, ideal para áreas sem sinal ou para economizar dados móveis. O post Conheça o aplicativo alternativo ao Google Maps que permite navegar sem gastar internet apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/toda/atualidades/conheca-o-aplicativo-alternativo-ao-google-maps-que-permite-navegar-sem-gastar-internet/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/google.jpg",
-      "data": "2026-09-12T11:00:00+00:00",
       "categoria": "PARÁ"
     },
     {
