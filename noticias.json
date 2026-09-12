@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-12T22:03:06.725296+00:00",
+  "atualizado": "2026-09-12T22:33:07.432800+00:00",
   "noticias": [
+    {
+      "id": "a2407f3ce9786c6bc6f9b0cba7a19369",
+      "titulo": "Gilmar Mendes pede a Fachin acesso ao celular de Vorcaro antes de reunião no STF",
+      "descricao": "Gilmar Mendes pede a Fachin acesso ao celular de Vorcaro antes de reunião no STF",
+      "link": "https://www.oliberal.com/politica/gilmar-mendes-pede-a-fachin-acesso-ao-celular-de-vorcaro-antes-de-reuniao-no-stf-1.1167923",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.893015:1732935777/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T22:33:04.813708+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "26ef70a18bf607552b0ed3ca992f7688",
+      "titulo": "Fachin decide que plenário do STF julgue na terça (15) apenas Alexandre de Moraes",
+      "descricao": "Fachin decide que plenário do STF julgue na terça (15) apenas Alexandre de Moraes",
+      "link": "https://www.oliberal.com/politica/fachin-decide-que-plenario-do-stf-julgue-na-terca-15-apenas-alexandre-de-moraes-1.1167954",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1130447:1781284808/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T22:33:04.813552+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "16dbbd383a68d71b4e75bb548750b8a3",
+      "titulo": "PGR pede a Mendonça acesso integral a mensagens de Vorcaro",
+      "descricao": "PGR pede a Mendonça acesso integral a mensagens de Vorcaro",
+      "link": "https://www.oliberal.com/politica/gonet-reitera-pedido-para-que-mendonca-libere-todo-conteudo-de-celular-de-vorcaro-1.1167999",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1014901:1756824717/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T22:33:04.813305+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b45981e70d46c22a80762c8562db471f",
+      "titulo": "Climão ou reencontro em Curitiba? Fiuk e Fábio Jr. farão shows no mesmo dia",
+      "descricao": "Fiuk fui deserdado pelo pai Fábio Jr. Foto: Reprodução Pai e filho, que vivem uma relação distante e sem contato segundo Fiuk, têm apresentações anunciadas para 24 de outubro na capital paranaense O post Climão ou reencontro em Curitiba? Fiuk e Fábio Jr. farão shows no mesmo dia apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/climao-ou-reencontro-em-curitiba-fiuk-e-fabio-jr-farao-shows-no-mesmo-dia/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_fiuk-desabafa-invalidado-por-fabio-jr.jpg",
+      "data": "2026-09-12T22:28:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "75e19e4fcedc253f1d70f7925b10f178",
+      "titulo": "Estudante de Nutrição é morta a facadas após reagir a tentativa de estupro",
+      "descricao": "Thaissa Gabriely de Oliveira Marques, de 21 anos, trabalhava distribuindo panfletos em frente a uma academia em Londrina; suspeito foi preso e caso é investigado pela Polícia Civil. Thaissa Gabriely de Oliveira Marques, estudante de Nutrição de 21 anos, foi assassinada a facadas em Londrina, no norte do Paraná. Um homem foi preso e confessou à polícia que pretendia cometer violência sexual contra a jovem. O post Estudante de Nutrição é morta a facadas após reagir a tentativa de estupro apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/policia/estudante-de-nutricao-e-morta-a-facadas-apos-reagir-a-tentativa-de-estupro/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/estrupro-1.jpg",
+      "data": "2026-09-12T22:19:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "4f209bcf44d2f3611a51f00f206b42cc",
       "titulo": "Mendonça diz que celular de Vorcaro segue com PF e cópia de dados está lacrada em seu gabinete",
@@ -12,46 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "a2407f3ce9786c6bc6f9b0cba7a19369",
-      "titulo": "Gilmar Mendes pede a Fachin acesso ao celular de Vorcaro antes de reunião no STF",
-      "descricao": "Gilmar Mendes pede a Fachin acesso ao celular de Vorcaro antes de reunião no STF",
-      "link": "https://www.oliberal.com/politica/gilmar-mendes-pede-a-fachin-acesso-ao-celular-de-vorcaro-antes-de-reuniao-no-stf-1.1167923",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.893015:1732935777/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-12T22:03:05.626260+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8e32f75a13229f3830421850bcb11833",
-      "titulo": "Fachin decide que plenário do STF julgue na terça (15) apenas Moraes",
-      "descricao": "Fachin decide que plenário do STF julgue na terça (15) apenas Moraes",
-      "link": "https://www.oliberal.com/politica/fachin-decide-que-plenario-do-stf-julgue-na-terca-15-apenas-alexandre-de-moraes-1.1167954",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1130447:1781284808/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-12T22:03:05.626119+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ea0d9ce191745d441b869094d6860fbd",
-      "titulo": "Explosão no Botecagem do Porco: veja como identificar vazamento de gás e agir com segurança",
-      "descricao": "Vazamento de gás é uma das principais situações de risco envolvendo botijões de GLP. Foto: divulgação O acidente no restaurante no bairro do Umarizal levantou um alerta sobre os riscos do GLP; saiba como prevenir vazamentos e agir sem provocar faíscas. O post Explosão no Botecagem do Porco: veja como identificar vazamento de gás e agir com segurança apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/explosao-no-botecagem-do-porco-veja-como-identificar-vazamento-de-gas-e-agir-com-seguranca/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_mosaico_explosao_belem-1-750x280-1.jpg",
-      "data": "2026-09-12T22:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "60b9a030227ff416198c3a33c0ca9440",
-      "titulo": "Bela assume hospital e Vanessa arma para tirá-la do poder em Por Você; resumo da semana",
-      "descricao": "Bela aceita o pedido de Pérola e assume a presidência do Hospital Luz, provocando a revolta de Vanessa em Por Você. Foto: Reprodução/TV Globo Pérola entrega o comando da instituição à obstetra após descobrir uma tentativa de golpe; os rivais se beijam e planejam afastá-la do cargo. O post Bela assume hospital e Vanessa arma para tirá-la do poder em Por Você; resumo da semana apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/bela-assume-hospital-e-vanessa-arma-para-tira-la-do-poder-em-por-voce-resumo-da-semana/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Bela-Por-Voce-2.jpg",
-      "data": "2026-09-12T21:40:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "efc189360823c9dba76ab43a67c42384",
       "titulo": "Polícia encontra droga enterrada em sítio em São Miguel do Guamá, no Pará",
       "descricao": "Droga e equipamentos usados para o tráfico foram apreendidos pela Polícia Civil (PC). PC PA A Polícia Civil (PC) encontrou tabletes de maconha enterrados no terreno de um sítio em São Miguel do Guamá, nordeste do Pará, durante uma operação nesta sexta-feira (11). Equipamentos usados para o tráfico também foram encontrados no imóvel. A ação ocorreu após uma notificação repassada pelo Setor de Inteligência do Comando de Policiamento da Capital (CPC II), da Polícia Militar (PM), a qual apontava que o sítio era usado como depósito de armas e drogas por uma organização criminosa do Rio de Janeiro. Segundo os agentes, dois homens foram presos no local, que está situado em uma vicinal a aproximadamente 70 metros da BR-010, no km 335. Os agentes informaram que a dupla atuava como vigilante. Durante as buscas no interior do sítio, foram apreendidos 93 tabletes de maconha. De acordo com a PC, grande parte da droga estava enterrada no terreno, o que aponta para a tentativa de ocultação do material. Polícia prende dois homens e apreende 93 toneladas de drogas em São Miguel do Guamá ✅ Clique e siga o canal do g1 Pará no WhatsApp Também foram apreendidos uma pistola, um carregador e 16 cartuchos intactos, além de uma prensa hidráulica, um triturador e uma balança de precisão, equipamentos usados para o processamento e fracionamento de drogas. Os dois presos foram conduzidos à Departamento Estadual de Investigações sobre Entorpecentes (Denarc) para a adoção dos procedimentos legais cabíveis. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/rDspEucv8OW86Lb5mITWbp6GXKE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/4/uKkXvxQky2dTi81QrlXA/geral-g1-2026-09-12t182733.390.png",
       "data": "2026-09-12T21:34:29+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "848d2446a55ba969e9b85ced7ba433b3",
-      "titulo": "Ela transformou sacolas plásticas em um vestido digno de festa",
-      "descricao": "Aluna de Belém faz vestido de sacolas e viraliza nas redes. Foto: Mauro Ângelo Evelyn Caroline Moraes, de 18 anos, viralizou nas redes sociais ao criar um vestido de sacolas plásticas para uma gincana escolar. A peça, inspirada em modelos de festa, chamou atenção pelo contraste entre o material e a estética. O post Ela transformou sacolas plásticas em um vestido digno de festa apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/ela-transformou-sacolas-plasticas-em-um-vestido-digno-de-festa/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_DP20260908_MA_5179B.jpg",
-      "data": "2026-09-12T21:28:00+00:00",
       "categoria": "PARÁ"
     },
     {
