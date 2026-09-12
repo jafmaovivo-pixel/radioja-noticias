@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-09-12T20:37:55.756523+00:00",
+  "atualizado": "2026-09-12T21:02:32.688227+00:00",
   "noticias": [
+    {
+      "id": "4f209bcf44d2f3611a51f00f206b42cc",
+      "titulo": "Mendonça diz que celular de Vorcaro segue com PF e cópia de dados está lacrada em seu gabinete",
+      "descricao": "Mendonça diz que celular de Vorcaro segue com PF e cópia de dados está lacrada em seu gabinete",
+      "link": "https://www.oliberal.com/politica/mendonca-diz-que-celular-de-vorcaro-segue-com-pf-e-copia-de-dados-esta-lacrada-em-seu-gabinete-1.1167797",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164087:1788368326/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T21:02:30.866327+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a2407f3ce9786c6bc6f9b0cba7a19369",
+      "titulo": "Gilmar Mendes pede a Fachin acesso ao celular de Vorcaro antes de reunião no STF",
+      "descricao": "Gilmar Mendes pede a Fachin acesso ao celular de Vorcaro antes de reunião no STF",
+      "link": "https://www.oliberal.com/politica/gilmar-mendes-pede-a-fachin-acesso-ao-celular-de-vorcaro-antes-de-reuniao-no-stf-1.1167923",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.893015:1732935777/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T21:02:30.866154+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8e32f75a13229f3830421850bcb11833",
+      "titulo": "Fachin decide que plenário do STF julgue na terça (15) apenas Moraes",
+      "descricao": "Fachin decide que plenário do STF julgue na terça (15) apenas Moraes",
+      "link": "https://www.oliberal.com/politica/fachin-decide-que-plenario-do-stf-julgue-na-terca-15-apenas-alexandre-de-moraes-1.1167954",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1130447:1781284808/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-12T21:02:30.865931+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "799b65e602864cee3b7ccd420ec4bb42",
       "titulo": "Mendonça nega pedido de Moraes para abrir tudo do caso Master: 'Investigações em andamento'",
@@ -9,26 +39,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164087:1788368326/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-12T20:37:53.093851+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4f209bcf44d2f3611a51f00f206b42cc",
-      "titulo": "Mendonça diz que celular de Vorcaro segue com PF e cópia de dados está lacrada em seu gabinete",
-      "descricao": "Mendonça diz que celular de Vorcaro segue com PF e cópia de dados está lacrada em seu gabinete",
-      "link": "https://www.oliberal.com/politica/mendonca-diz-que-celular-de-vorcaro-segue-com-pf-e-copia-de-dados-esta-lacrada-em-seu-gabinete-1.1167797",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164087:1788368326/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-12T20:37:53.093659+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5c52ac5f1369731ed1b57c09a66d40f7",
-      "titulo": "Gilmar Mendes pede acesso ao celular de Vorcaro antes de reunião no STF",
-      "descricao": "Gilmar Mendes pede acesso ao celular de Vorcaro antes de reunião no STF",
-      "link": "https://www.oliberal.com/politica/gilmar-mendes-pede-a-fachin-acesso-ao-celular-de-vorcaro-antes-de-reuniao-no-stf-1.1167923",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.893015:1732935777/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-12T20:37:53.093388+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/DP20260912_AM_082.jpg",
       "data": "2026-09-12T20:25:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7263a97cb1c0e0e0e7f866ea4cfe321c",
-      "titulo": "Jendal deixa o trono e parte para o Brasil atrás de Alika: a semana em A Nobreza do Amor",
-      "descricao": "Jendal se afastará temporariamente do trono de Batanga e partirá para o Brasil ao encontro de Alika em A Nobreza do Amor. Foto: Globo Enquanto o príncipe tenta reencontrar Alika, Binta aproveita a ausência dele para castigar Kênia; confira o resumo de 14 a 19 de setembro O post Jendal deixa o trono e parte para o Brasil atrás de Alika: a semana em A Nobreza do Amor apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/jendal-deixa-o-trono-e-parte-para-o-brasil-atras-de-alika-em-a-nobreza-do-amor/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Bella-Campos-e-Gloria-Pires-1.jpg",
-      "data": "2026-09-12T20:00:00+00:00",
       "categoria": "PARÁ"
     },
     {
