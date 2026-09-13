@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-13T12:03:29.336730+00:00",
+  "atualizado": "2026-09-13T12:38:28.068496+00:00",
   "noticias": [
+    {
+      "id": "4925e1a348c4a3804315a05386581af2",
+      "titulo": "De Macapá ao Baenão: conheça a história do Leão de pedra do Remo",
+      "descricao": "De Macapá ao Baenão: conheça a história do Leão de pedra do Remo",
+      "link": "https://www.oliberal.com/esportes/remo/de-macapa-ao-baenao-conheca-a-historia-do-leao-de-pedra-do-remo-1.1167769",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167785:1789161300/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-13T12:38:25.555529+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e5871aea1a7b1a071740316b978d6ce7",
+      "titulo": "Paysandu busca reação fora de casa contra a Ferroviária na Série C",
+      "descricao": "Paysandu busca reação fora de casa contra a Ferroviária na Série C",
+      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-busca-reacao-fora-de-casa-contra-a-ferroviaria-na-serie-c-1.1167732",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1158233:1787013891/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-13T12:38:24.956963+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "15bc08fa5504da944afbe95d3848aefd",
+      "titulo": "Círio de Vigia é realizado neste domingo com tema sobre Maria e a fé",
+      "descricao": "Círio de Vigia é realizado neste domingo com tema sobre Maria e a fé",
+      "link": "https://www.oliberal.com/belem/o-mais-antigo-do-para-ciro-de-vigia-e-realizado-neste-domingo-com-tema-sobre-maria-e-a-fe-1.1168067",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168073:1789301147/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-13T12:38:24.759840+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "39417cf5b1296b45cc69f90ec198933c",
+      "titulo": "Dia Nacional da Cachaça: 5 lugares para apreciar a bebida em Belém",
+      "descricao": "13 de setembro celebra uma das bebidas mais tradicionais do Brasil; em Belém, bares e restaurantes apresentam versões que vão do jambu ao milho verde. Foto: Reprodução. Neste domingo, 13 de setembro, é celebrado o Dia Nacional da Cachaça, bebida que tem um lugar especial na cultura brasileira. Em Belém, a cachaça ganhou identidade regional ao ser combinada com ingredientes típicos da Amazônia. O post Dia Nacional da Cachaça: 5 lugares para apreciar a bebida em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/dia-nacional-da-cachaca-5-lugares-para-apreciar-a-bebida-em-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_cachaca-scaled-1.jpg",
+      "data": "2026-09-13T12:30:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "41450e031e4de070c53da8fa4af878d4",
+      "titulo": "Há 83 anos, o Pará “perdia” o Amapá em meio à Segunda Guerra Mundial",
+      "descricao": "O motivo que fez o Pará “perder” o Amapá há 83 anos O Amapá celebra 83 anos de sua criação como Território Federal, marcando um momento decisivo em sua formação política e territorial. A data é comemorada com programação especial em Macapá. O post Há 83 anos, o Pará “perdia” o Amapá em meio à Segunda Guerra Mundial apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/ha-83-anos-o-para-perdia-o-amapa-em-meio-a-segunda-guerra-mundial/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/607927552_1242350431275189_122988148178785004_n.jpg",
+      "data": "2026-09-13T12:07:08+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "a2407f3ce9786c6bc6f9b0cba7a19369",
       "titulo": "Gilmar Mendes pede a Fachin acesso ao celular de Vorcaro antes de reunião no STF",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.893015:1732935777/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-13T12:03:28.179991+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "26ef70a18bf607552b0ed3ca992f7688",
-      "titulo": "Fachin decide que plenário do STF julgue na terça (15) apenas Alexandre de Moraes",
-      "descricao": "Fachin decide que plenário do STF julgue na terça (15) apenas Alexandre de Moraes",
-      "link": "https://www.oliberal.com/politica/fachin-decide-que-plenario-do-stf-julgue-na-terca-15-apenas-alexandre-de-moraes-1.1167954",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1130447:1781284808/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-13T12:03:28.179779+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "16dbbd383a68d71b4e75bb548750b8a3",
-      "titulo": "PGR pede a Mendonça acesso integral a mensagens de Vorcaro",
-      "descricao": "PGR pede a Mendonça acesso integral a mensagens de Vorcaro",
-      "link": "https://www.oliberal.com/politica/gonet-reitera-pedido-para-que-mendonca-libere-todo-conteudo-de-celular-de-vorcaro-1.1167999",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1014901:1756824717/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-13T12:03:28.179615+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6901ed0b8d2ba891ec2f121b846c651d",
-      "titulo": "O apartamento rosa de Nany People tem peças que chamam atenção",
-      "descricao": "Nany People é atriz, humorista, apresentadora e uma das personalidades mais marcantes do entretenimento brasileiro. Foto: Reprodução Atriz mantém um apartamento personalizado em São Paulo, com paredes rosa-choque, coleções e móveis diferentes O post O apartamento rosa de Nany People tem peças que chamam atenção apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/o-apartamento-rosa-de-nany-people-tem-pecas-que-chamam-atencao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/DIARIO-1320x768-31.png",
-      "data": "2026-09-13T11:51:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "aaf337f6142f3f042f3b7ddfbe088189",
-      "titulo": "Paraense Ênio é anunciado por clube da Arábia Saudita após deixar a Chape",
-      "descricao": "Atacante paraense Ênio é novo reforço do Al Jabalain O atacante Ênio, ex-Chapecoense, foi anunciado como reforço do Al Jabalain, da segunda divisão da Arábia Saudita. O jogador é réu em processo de manipulação de apostas. O post Paraense Ênio é anunciado por clube da Arábia Saudita após deixar a Chape apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/paraense-enio-e-anunciado-por-clube-da-arabia-saudita-apos-deixar-a-chape/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_806235318_18623908660029119_7327520651541960977_n.jpg",
-      "data": "2026-09-13T11:44:27+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2f248180fb42c539f900e2262bacfa5c",
-      "titulo": "Bet ligada a Vorcaro patrocinou o Flamengo; mensagens da PF levantam suspeita",
-      "descricao": "Bet ligada a Vorcaro patrocinou o Flamengo; mensagens da PF levantam suspeita Mensagens apreendidas pela Polícia Federal apontam Daniel Vorcaro, ex-presidente do Banco Master, como possível dono da Pixbet, casa de apostas que patrocinou Flamengo e Corinthians. O post Bet ligada a Vorcaro patrocinou o Flamengo; mensagens da PF levantam suspeita apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/bet-ligada-a-vorcaro-patrocinou-o-flamengo-mensagens-da-pf-levantam-suspeita/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_pixbet-flamengo-1024x700-1.jpg",
-      "data": "2026-09-13T11:28:12+00:00",
       "categoria": "PARÁ"
     },
     {
