@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-13T14:33:57.922984+00:00",
+  "atualizado": "2026-09-13T15:02:36.341830+00:00",
   "noticias": [
+    {
+      "id": "6994b133c01f0e922e7449fdf3d805a8",
+      "titulo": "Morre Coronel Nunes: 'Uma perda irreparável', diz Ricardo Gluck Paul",
+      "descricao": "Morre Coronel Nunes: 'Uma perda irreparável', diz Ricardo Gluck Paul",
+      "link": "https://www.oliberal.com/esportes/morre-coronel-nunes-uma-perda-irreparavel-diz-ricardo-gluck-paul-1.1168115",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168117:1789307344/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-13T15:02:35.402109+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9fc1180835f0e0e913c225d149124c44",
+      "titulo": "Paysandu lamenta morte do Coronel Nunes e pede minuto de silêncio antes de jogo contra Ferroviária",
+      "descricao": "Paysandu lamenta morte do Coronel Nunes e pede minuto de silêncio antes de jogo contra Ferroviária",
+      "link": "https://www.oliberal.com/esportes/paysandu-lamenta-morte-do-coronel-nunes-e-pede-minuto-de-silencio-antes-de-jogo-contra-ferroviaria-1.1168131",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168136:1789311138/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-13T15:02:35.401893+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1648f64be0e4290152d2bd64b27acd02",
+      "titulo": "Morre Coronel Nunes, ex-presidente da CBF e dirigente paraense",
+      "descricao": "Morre Coronel Nunes, ex-presidente da CBF e dirigente paraense",
+      "link": "https://www.oliberal.com/esportes/morre-coronel-nunes-ex-presidente-da-cbf-e-dirigente-do-futebol-paraense-1.1168104",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168108:1789303522/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-13T15:02:35.128726+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "71d4b4a5bdc473bb4a114d0ebea144a7",
+      "titulo": "Loteria Federal: resultado do concurso 6100 e números sorteados",
+      "descricao": "Resultado da Loteria Federal hoje. Foto: Divulgação A Caixa realizou, neste domingo (13), o sorteio do concurso 6100 da Loteria Federal. O prêmio principal é de R$ 500 mil. O post Loteria Federal: resultado do concurso 6100 e números sorteados apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/loteria-federal-resultado-do-concurso-6100-e-numeros-sorteados/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_loteria-federal-3379914-article.jpg",
+      "data": "2026-09-13T14:56:14+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "fa3d69a371829f944ae80e1cb639aa92",
       "titulo": "Coronel Nunes: relembre polêmica na escolha da Copa de 2026",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "6994b133c01f0e922e7449fdf3d805a8",
-      "titulo": "Morre Coronel Nunes: 'Uma perda irreparável', diz Ricardo Gluck Paul",
-      "descricao": "Morre Coronel Nunes: 'Uma perda irreparável', diz Ricardo Gluck Paul",
-      "link": "https://www.oliberal.com/esportes/morre-coronel-nunes-uma-perda-irreparavel-diz-ricardo-gluck-paul-1.1168115",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168117:1789307344/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-13T14:33:56.402823+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1648f64be0e4290152d2bd64b27acd02",
-      "titulo": "Morre Coronel Nunes, ex-presidente da CBF e dirigente paraense",
-      "descricao": "Morre Coronel Nunes, ex-presidente da CBF e dirigente paraense",
-      "link": "https://www.oliberal.com/esportes/morre-coronel-nunes-ex-presidente-da-cbf-e-dirigente-do-futebol-paraense-1.1168104",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168108:1789303522/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-13T14:33:56.402663+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "1c41b01b75c7a8d9cd3dec01a5ffe204",
       "titulo": "Dérbi de Manchester: United e City se enfrentam em Old Trafford pela Premier League; horário e onde assistir",
       "descricao": "United chega fortalecido após goleada na Champions, enquanto City de Haaland defende campanha perfeita na Premier League; dérbi será neste domingo, às 12h30. O aguardado Dérbi de Manchester acontece neste domingo (13) em Old Trafford, colocando frente a frente Manchester United e Manchester City pela Premier League. O clássico marca a estreia de uma nova era para os clubes, com os técnicos Enzo Maresca e Michael Carrick buscando consolidar suas equipes. O post Dérbi de Manchester: United e City se enfrentam em Old Trafford pela Premier League; horário e onde assistir apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/ManxMan7-1.jpg",
       "data": "2026-09-13T14:24:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "02df510061a1e69738706cf7c3b37645",
-      "titulo": "Dia de Sorte: resultado do concurso 1296 e números sorteados",
-      "descricao": "Dia de Sorte. Foto: Divulgação/ CAIXA Concurso 1296 foi realizado neste domingo (13) com prêmio estimado em R$ 1 milhão na faixa principal O post Dia de Sorte: resultado do concurso 1296 e números sorteados apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/loterias/resultado-dia-de-sorte-concurso-1296-tem-premio-de-r-1-milhao-confira/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/convertida_1200x628_loteria-diadesorte-762x429_jpg_optimal.jpg",
-      "data": "2026-09-13T14:23:31+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b57fe555521f37cf8f8943dbc482111c",
-      "titulo": "Coluna Justiça em Fatos (13/09)",
-      "descricao": "O cenário jurídico paraense e nacional em destaque: posse de novo desembargador no TJPA, nova sala de audiências do TRE-PA, OAB-PA em Brasília, lançamento de livro sobre reforma tributária, integração do PJe ao eSocial e transporte para eleitores com deficiência. O post Coluna Justiça em Fatos (13/09) apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/justica-em-fatos-luiz-flavio/coluna-justica-em-fatos-13-09/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Miguel-Lima-dos-Reis-Junior-toma-posse-como-desembargador-do-Tribunal-de-Justica-do-Para-1.jpg",
-      "data": "2026-09-13T13:47:45+00:00",
       "categoria": "PARÁ"
     },
     {
