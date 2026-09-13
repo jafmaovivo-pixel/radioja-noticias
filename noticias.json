@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-13T18:36:46.440324+00:00",
+  "atualizado": "2026-09-13T19:02:19.217822+00:00",
   "noticias": [
+    {
+      "id": "b30442b8d76d5271b108aa2f99344834",
+      "titulo": "Carrerette vê duelo com a Ferroviária como uma das cinco finais do Paysandu",
+      "descricao": "Carrerette vê duelo com a Ferroviária como uma das cinco finais do Paysandu",
+      "link": "https://www.oliberal.com/esportes/paysandu/carrerette-ve-duelo-com-a-ferroviaria-como-uma-das-cinco-finais-do-paysandu-1.1167369",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167378:1789078620/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-13T19:02:17.988234+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "667ddc03818db64a38aa4c7eba9c991e",
+      "titulo": "Série C: Contra o Paysandu, Ferroviária distribui e realiza troca de ingressos por alimentos",
+      "descricao": "Série C: Contra o Paysandu, Ferroviária distribui e realiza troca de ingressos por alimentos",
+      "link": "https://www.oliberal.com/esportes/paysandu/serie-c-contra-o-paysandu-ferroviaria-distribui-e-realiza-troca-de-ingressos-por-alimentos-1.1167567",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167571:1789140492/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-13T19:02:17.591620+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5239bdc464eb6ebc608e2abfcf4762a3",
+      "titulo": "Papão visita a Ferroviária em busca da primeira vitória na Série C",
+      "descricao": "Papão visita a Ferroviária em busca da primeira vitória na Série C",
+      "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/s%C3%A9rie-c/ferrovi%C3%A1ria-x-paysandu",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
+      "data": "2026-09-13T19:02:17.218451+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f991d632456ca9cbcdfe0ce00895edf3",
+      "titulo": "Ferroviária x Paysandu ao vivo: acompanhe jogo decisivo da Série C",
+      "descricao": "Lanterna do Grupo B após derrota em casa para o Brusque, Papão encara a Locomotiva neste domingo, às 16h, na Fonte Luminosa, precisando pontuar na luta pelo acesso O Paysandu busca a reabilitação na Série C do Campeonato Brasileiro neste domingo, enfrentando a Ferroviária-SP em Araraquara. Após a derrota na primeira rodada dos quadrangulares, o Papão precisa de um resultado positivo para seguir na briga pelo acesso à Série B. O post Ferroviária x Paysandu ao vivo: acompanhe jogo decisivo da Série C apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/ferroviaria-x-paysandu-ao-vivo-acompanhe-jogo-decisivo-da-serie-c/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/PayxFerr4.webp",
+      "data": "2026-09-13T18:50:09+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e33af96b50ddab17091ae27de2676cbd",
+      "titulo": "Ferroviária x Paysandu ao vivo e com imagens",
+      "descricao": "Lanterna do Grupo B após derrota em casa para o Brusque, Papão encara a Locomotiva neste domingo, às 16h, na Fonte Luminosa, precisando pontuar na luta pelo acesso O Paysandu busca a reabilitação na Série C do Campeonato Brasileiro neste domingo, enfrentando a Ferroviária-SP em Araraquara. Após a derrota na primeira rodada dos quadrangulares, o Papão precisa de um resultado positivo para seguir na briga pelo acesso à Série B. O post Ferroviária x Paysandu ao vivo e com imagens apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/ferroviaria-x-paysandu-ao-vivo-e-com-imagens/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/PayxFerr4.webp",
+      "data": "2026-09-13T18:48:56+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "6994b133c01f0e922e7449fdf3d805a8",
       "titulo": "Morre Coronel Nunes: 'Uma perda irreparável', diz Ricardo Gluck Paul",
@@ -12,26 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "9fc1180835f0e0e913c225d149124c44",
-      "titulo": "Paysandu lamenta morte do Coronel Nunes e pede minuto de silêncio antes de jogo contra Ferroviária",
-      "descricao": "Paysandu lamenta morte do Coronel Nunes e pede minuto de silêncio antes de jogo contra Ferroviária",
-      "link": "https://www.oliberal.com/esportes/paysandu-lamenta-morte-do-coronel-nunes-e-pede-minuto-de-silencio-antes-de-jogo-contra-ferroviaria-1.1168131",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168136:1789311138/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-13T18:36:44.127157+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1648f64be0e4290152d2bd64b27acd02",
-      "titulo": "Morre Coronel Nunes, ex-presidente da CBF e dirigente paraense",
-      "descricao": "Morre Coronel Nunes, ex-presidente da CBF e dirigente paraense",
-      "link": "https://www.oliberal.com/esportes/morre-coronel-nunes-ex-presidente-da-cbf-e-dirigente-do-futebol-paraense-1.1168104",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168108:1789303522/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-13T18:36:44.126979+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "6d4192aa316c98070474835f096415ad",
       "titulo": "Eleições 2026: veja como foi a agenda dos candidatos ao governo do Pará no sábado, 12, e domingo, 13",
       "descricao": "Candidatos ao Governo do Pará nas Eleições 2026 Reprodução Os candidatos ao governo do Pará cumpriram compromissos de campanha neste sábado (12) e domingo (13). Entre as atividades do fim de semana, os candidatos realizaram caminhadas, reuniões com apoiadores, carreatas, comício, inauguração de comitês eleitorais, rodas de conversa e panfletagem. Os eventos foram realizados em Belém e também em cidades do interior do estado. O primeiro turno das eleições está marcado para o dia 4 de outubro de 2026. O segundo turno, caso seja necessário, ocorrerá no dia 25 do mesmo mês. LEIA TAMBÉM: Veja quem são os candidatos a vice-governador pelo Pará em 2026 Veja quem são os candidatos a Senador pelo Pará em 2026 Veja, abaixo, como foi o dia de campanha de cada candidato, em ordem alfabética: Araceli Lemos (PSOL) No sábado (12), a candidata iniciou a manhã com uma caminhada no Complexo do Ver-o-Peso, em Belém, seguida de uma reunião plenária com apoiadores de sua candidatura. Araceli também participou da inauguração do comitê de campanha de candidatos a deputado federal e estadual. No domingo (13) pela manhã, a candidata participou de uma caminhada em apoio à candidatura presidencial de sua coligação, com concentração na Escadinha do Cais do Porto, em Belém. Daniel Santos (PODEMOS) Pela manhã, o candidato Daniel Santos cumpriu agenda no município de Barcarena, onde realizou mobilização com concentração na Praia do Caripi. À tarde, o candidato seguiu para Abaetetuba, cumprindo agenda de campanha com concentração na Rua Frei José de Manaus. No domingo (13), o candidato realizou uma caminhada pela manhã no distrito de Icoaraci, em Belém, com concentração no cruzamento da Rua Siqueira Mendes com a Travessa São Roque. Gal Leite (UP) Até a publicação desta matéria, a assessoria da candidata não enviou a agenda de compromissos realizados no fim de semana. Hana Ghassan (MDB) No sábado (12), a candidata Hana Ghassan cumpriu, pela manhã, compromissos de governo em Paragominas. Em seguida, ela realizou agenda de campanha com reuniões no município. No fim da tarde, realizou uma caminhada no bairro Jaderlândia, também em Paragominas. No domingo (13) pela manhã, a candidata Hana Ghassan realizou uma carreata no bairro da pratinha, na capital paraense. Ruth Reis (Democrata) No sábado (12), a candidata Ruth Reis dedicou o período da manhã a atividades administrativas de campanha. À tarde, esteve no Instituto Teológico Quadrangular (ITQ) e, à noite, participou de um culto, seguido de panfletagem. No domingo (13), a candidata participou de programações religiosas no bairro da Marambaia, em Belém, nos períodos da manhã e da noite. À tarde, a candidata realizou reuniões de organização e planejamento para entrevista na TV liberal. Well Macêdo (PSTU) No sábado (12), a candidata iniciou o dia acompanhando um evento de trabalhadores da educação, em Belém. Em seguida, visitou uma feira de empreendedorismo feminino. À tarde, participou de uma roda de conversa sobre mulheres trabalhadoras e eleições, no bairro do Mangueirão. No domingo (13) pela manhã, a candidata realizou caminhada e panfletagem no distrito de Mosqueiro, em Belém VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
@@ -39,36 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/yZMa8QFNABhGksevEO3V1N_0wgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/m/wTfiHXSzmf0yTWRpQNGA/candidatos-ao-governo-do-para-.jpg",
       "data": "2026-09-13T18:12:13+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2216e37ace9b3a95b4b3007b43ab36df",
-      "titulo": "Banda Sayonara denuncia calote e rompe parceria após meses de cobranças",
-      "descricao": "Banda Sayonara anunciou o fim da parceria com a empresa Talentos da Amazônia. Foto: Reprodução/Instagram Banda paraense afirma que há cachês de eventos realizados há quase um ano ainda em aberto O post Banda Sayonara denuncia calote e rompe parceria após meses de cobranças apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/banda-sayonara-denuncia-calote-e-rompe-parceria-apos-meses-de-cobrancas/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/DIARIO-1320x768-34.png",
-      "data": "2026-09-13T17:49:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1997290394dd9574cd3c2acce387c409",
-      "titulo": "Grêmio demite Luís Castro e coloca Felipão no comando",
-      "descricao": "Grêmio recorre a Felipão após queda de Luís Castro O Grêmio demitiu o técnico Luís Castro neste domingo (13), um dia após a derrota por 2 a 1 para o Vasco, na Arena. A decisão encerra a passagem do treinador português pelo clube em meio à pressão pelos resultados no Campeonato Brasileiro. O Tricolor chegou aos 28 pontos e vê a zona de rebaixamento […] O post Grêmio demite Luís Castro e coloca Felipão no comando apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/gremio-demite-luis-castro-e-coloca-felipao-no-comando/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/convertida_1200x628_felipao-no-mineirao_1_457599.jpg",
-      "data": "2026-09-13T17:27:39+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9748d3f0231d63ea411397de9e3195b7",
-      "titulo": "Flamengo líder pega Corinthians em queda no Maracanã: veja detalhes e onde assistir",
-      "descricao": "Flamengo e Corinthians se enfrentam neste domingo (13/9), às 17h30, no Maracanã . Foto: Irene Almeida Flamengo e Corinthians se enfrentam neste domingo (13 de setembro de 2026) pela 27ª rodada do Campeonato Brasileiro. O Rubro-Negro busca a liderança, enquanto o Timão tenta sair da má fase. O post Flamengo líder pega Corinthians em queda no Maracanã: veja detalhes e onde assistir apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/flamengo-lider-pega-corinthians-em-queda-no-maracana-veja-detalhes-e-onde-assistir/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Image-2026-09-06-at-17.21.16-4.jpeg",
-      "data": "2026-09-13T17:00:00+00:00",
       "categoria": "PARÁ"
     },
     {
