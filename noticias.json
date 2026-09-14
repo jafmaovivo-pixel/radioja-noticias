@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-14T11:37:48.889405+00:00",
+  "atualizado": "2026-09-14T12:04:07.577651+00:00",
   "noticias": [
+    {
+      "id": "6f500ac5915b4a03037ab95e48ed0e06",
+      "titulo": "PF diz que pode mandar cópia de material extraído de celular de Vorcaro a gabinetes do STF",
+      "descricao": "PF diz que pode mandar cópia de material extraído de celular de Vorcaro a gabinetes do STF",
+      "link": "https://www.oliberal.com/politica/pf-diz-que-pode-mandar-copia-de-material-extraido-de-celular-de-vorcaro-a-gabinetes-do-stf-1.1168157",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1117926:1778080207/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T12:04:04.391835+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "46e9370e45d2fe6a3d1ffb96b43a9d08",
+      "titulo": "Ministros pressionam Fachin a adiar sessão; acesso a celular de Vorcaro vira nova 'batalha'",
+      "descricao": "Ministros pressionam Fachin a adiar sessão; acesso a celular de Vorcaro vira nova 'batalha'",
+      "link": "https://www.oliberal.com/politica/ministros-pressionam-fachin-a-adiar-sessao-acesso-a-celular-de-vorcaro-vira-nova-batalha-1.1168324",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1076354:1769452664/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T12:04:04.391697+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d24088510b523ed47ef6a043c77d507b",
+      "titulo": "Moraes pede mais uma quebra de sigilo do caso Master antes de sessão",
+      "descricao": "Moraes pede mais uma quebra de sigilo do caso Master antes de sessão",
+      "link": "https://www.oliberal.com/politica/moraes-pede-mais-uma-quebra-de-sigilo-do-caso-master-antes-de-sessao-prevista-para-terca-feira-1.1168351",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1014833:1781532167/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T12:04:04.391484+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "13ba721a8fa7f20160c49b420fee0b5a",
+      "titulo": "Trabalhador pode vender parte das férias e aumentar renda; veja regras do abono pecuniário",
+      "descricao": "CLT permite transformar até um terço do período de descanso em dinheiro; empregado com direito a 30 dias pode vender até dez, desde que faça o pedido dentro do prazo. O abono pecuniário, conhecido como venda de férias, permite ao trabalhador converter até um terço do período de descanso em dinheiro. Entenda as regras da CLT, prazos e como calcular o valor a receber. O post Trabalhador pode vender parte das férias e aumentar renda; veja regras do abono pecuniário apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/trabalhador-pode-vender-parte-das-ferias-e-aumentar-renda-veja-regras-do-abono-pecuniario/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/abonopecuniario6.jpg",
+      "data": "2026-09-14T12:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6169b5012d1003971629752181a089c9",
+      "titulo": "Veja como ficou imóvel destruído por incêndio na Terra Firme, em Belém; fogo consumiu tudo",
+      "descricao": "Veja a galeria de fotos e vídeo do incêndio que destruiu uma casa e uma padaria no bairro da Terra Firme, em Belém, nesta segunda, 14. Foto: Sabrinha Linhares / RBATV Veja a galeria de fotos e vídeo do incêndio que destruiu uma casa e uma padaria no bairro da Terra Firme, em Belém, nesta segunda, 14. O post Veja como ficou imóvel destruído por incêndio na Terra Firme, em Belém; fogo consumiu tudo apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/veja-como-ficou-imovel-destruido-por-incendio-na-terra-firme-em-belem-fogo-consumiu-tudo/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/VIDEO.mp4",
+      "data": "2026-09-14T11:45:34+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "dd0a21342bf562f899aecda4ac380672",
       "titulo": "Mendonça autorizou bloqueio de R$ 2 bilhões em bens ligados a Vorcaro",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164268:1788391387/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-14T11:37:47.777565+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6f500ac5915b4a03037ab95e48ed0e06",
-      "titulo": "PF diz que pode mandar cópia de material extraído de celular de Vorcaro a gabinetes do STF",
-      "descricao": "PF diz que pode mandar cópia de material extraído de celular de Vorcaro a gabinetes do STF",
-      "link": "https://www.oliberal.com/politica/pf-diz-que-pode-mandar-copia-de-material-extraido-de-celular-de-vorcaro-a-gabinetes-do-stf-1.1168157",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1117926:1778080207/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T11:37:47.777370+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6b818bc8737a307bdc816017eef08bcd",
-      "titulo": "Ministros pressionam Fachin a adiar sessão que julga Alexandre de Moraes",
-      "descricao": "Ministros pressionam Fachin a adiar sessão que julga Alexandre de Moraes",
-      "link": "https://www.oliberal.com/politica/ministros-pressionam-fachin-a-adiar-sessao-acesso-a-celular-de-vorcaro-vira-nova-batalha-1.1168324",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1076354:1769452664/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T11:37:47.777217+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "714eaeb21fc6db8a894b59a390e3d1b3",
-      "titulo": "Remo foca no retrospecto contra o Bahia",
-      "descricao": "Desfalques são desafio a mais para o time azulino. Foto: Samara Miranda/Remo O Clube do Remo enfrenta o Bahia na Arena Fonte Nova buscando fugir da zona de rebaixamento da Série A do Campeonato Brasileiro. O time paraense está há 20 rodadas no Z4 e precisa de uma vitória para iniciar sua recuperação. O post Remo foca no retrospecto contra o Bahia apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/remo-foca-no-retrospecto-contra-o-bahia/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_PG_6_SAMARA_MIRANDA_REMO_2.jpg",
-      "data": "2026-09-14T11:30:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "12fca22d815f1fddb8d8739ef21a1306",
-      "titulo": "FUNAI anuncia novo processo seletivo simplificado com 800 vagas e salários de até R$ 7,6 mil",
-      "descricao": "Processo seletivo terá oportunidades para níveis médio e superior em diferentes regiões do país, inscrição gratuita e seleção por análise curricular e entrevista. A Fundação Nacional dos Povos Indígenas (FUNAI) anunciou um novo processo seletivo simplificado com 800 vagas para profissionais de níveis médio e superior. A remuneração pode chegar a R$ 7.647, e a seleção não terá prova presencial. O post FUNAI anuncia novo processo seletivo simplificado com 800 vagas e salários de até R$ 7,6 mil apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/funai-anuncia-novo-processo-seletivo-simplificado-com-800-vagas-e-salarios-de-ate-r-76-mil/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/concursofunai.jpg",
-      "data": "2026-09-14T11:15:08+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bbd9c17fd3aabeb202063f4caaa2baeb",
-      "titulo": "Discurso é otimista no Paysandu: “nada está perdido!”",
-      "descricao": "Júnior Rocha - Foto reprodução: Jorge Luis Totti/PSC. Jogadores do Paysandu demonstram confiança na virada e pedem apoio da torcida para os próximos confrontos, especialmente contra a Inter de Limeira. O post Discurso é otimista no Paysandu: “nada está perdido!” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/discurso-e-otimista-no-paysandu-nada-esta-perdido/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/convertida_1200x628_44ao00as-psc2-1.jpg",
-      "data": "2026-09-14T11:00:00+00:00",
       "categoria": "PARÁ"
     },
     {
