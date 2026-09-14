@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-14T12:04:07.577651+00:00",
+  "atualizado": "2026-09-14T12:42:12.202442+00:00",
   "noticias": [
     {
       "id": "6f500ac5915b4a03037ab95e48ed0e06",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/politica/pf-diz-que-pode-mandar-copia-de-material-extraido-de-celular-de-vorcaro-a-gabinetes-do-stf-1.1168157",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1117926:1778080207/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T12:04:04.391835+00:00",
+      "data": "2026-09-14T12:42:10.063575+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/politica/ministros-pressionam-fachin-a-adiar-sessao-acesso-a-celular-de-vorcaro-vira-nova-batalha-1.1168324",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1076354:1769452664/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T12:04:04.391697+00:00",
+      "data": "2026-09-14T12:42:10.063342+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,47 @@
       "link": "https://www.oliberal.com/politica/moraes-pede-mais-uma-quebra-de-sigilo-do-caso-master-antes-de-sessao-prevista-para-terca-feira-1.1168351",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1014833:1781532167/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T12:04:04.391484+00:00",
+      "data": "2026-09-14T12:42:10.063198+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9feb5c27ae629962a7b0300f9b09e0ae",
+      "titulo": "Incêndio destrói padaria e casa no bairro da terra firme, em Belém",
+      "descricao": "Incêndio destrói padaria e casa no bairro da terra firme, em Belém Um incêndio atingiu uma padaria e parte da residência no bairro da Terra Firme, em Belém. Segundo o Corpo de Bombeiros, três pessoas conseguiram sair sem ferimentos, mas cinco animais da família morreram. De acordo com as informações preliminares, o fogo teria começado na parte dos fundos da padaria, em uma área usada como reservatório de lenha. A parte da frente do estabelecimento não foi atingida, mas o incêndio se espalhou rapidamente para os fundos do imóvel. A padaria e a casa pertencem ao mesmo proprietário. Os bombeiros continuam no local fazendo o trabalho de rescaldo para evitar novos focos de incêndio.",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/14/incendio-destroi-padaria-e-casa-no-bairro-da-terra-firme-em-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/aE83abnQgT_m03rcWjdG6ooj2aU=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/92/84/14958492",
+      "data": "2026-09-14T12:37:26+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "57f1cd34f5f6c3762579b4b0cdcd9b7d",
+      "titulo": "Há R$ 4,25 bilhões esperando pelos donos; veja se você tem dinheiro para receber",
+      "descricao": "Reprodução/internet Milhões de brasileiros e empresas ainda têm bilhões de reais esquecidos em bancos e outras instituições financeiras. O Sistema de Valores a Receber (SVR) do Banco Central mostra que R$ 5,65 bilhões estão disponíveis para resgate. O post Há R$ 4,25 bilhões esperando pelos donos; veja se você tem dinheiro para receber apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/ha-r-425-bilhoes-esperando-pelos-donos-veja-se-voce-tem-dinheiro-para-receber/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_din.jpg",
+      "data": "2026-09-14T12:37:03+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "058d8b7bce623d09f8f7e74baef1b184",
+      "titulo": "Ajude Eduardo: bailarino paraense busca apoio para disputar final do Bolshoi, em Santa Catarina",
+      "descricao": "Ajude Eduardo: jovem paraense busca apoio para realizar sonho de chegar ao Bolshoi. Foto: Reprodução / Instagram Selecionado para a etapa final em Joinville, Eduardo Silva arrecada contribuições para custear a viagem em outubro O post Ajude Eduardo: bailarino paraense busca apoio para disputar final do Bolshoi, em Santa Catarina apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/ajude-eduardo-bailarino-paraense-busca-apoio-para-disputar-final-do-bolshoi-em-santa-catarina/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/2-6.png",
+      "data": "2026-09-14T12:34:05+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3420b2db1b202ce3c88914902c7c2f49",
+      "titulo": "Casal é assaltado na av. Doca, em Belém; criminosos fogem de moto",
+      "descricao": "Casal é assaltado na Doca de Souza Franco, em Belém Um casal foi alvo da ação de assaltantes na manhã de domingo (13), em uma das áreas mais movimentadas do bairro do Umarizal, em Belém. O crime ocorreu no cruzamento da Avenida Visconde de Souza Franco, popularmente conhecida como Doca, com a Rua Boaventura da Silva. Câmeras de segurança da área registraram toda a ação dos criminosos. Nas imagens, é possível observar que um dos suspeitos já rondava o trecho antes da abordagem. Ele caminha tranquilamente pela calçada em direção às vítimas. ✅ Receba as notícias do g1 Pará direto no WhatsApp O casal havia acabado de sair de um imóvel e caminhava em direção ao carro, que estava estacionado na via, quando foi surpreendido pelo assaltante. Sob ameaça, o criminoso anunciou o assalto e roubou joias e os aparelhos celulares das vítimas. Logo após o roubo, um comparsa chegou ao local pilotando uma motocicleta. O assaltante subiu na garupa do veículo e a dupla fugiu em alta velocidade. A Polícia Civil do Pará informou que, até o momento, não houve o registro de Boletim de Ocorrência (BO) sobre o caso. As autoridades reforçam a importância de que as vítimas registrem a ocorrência em qualquer delegacia ou por meio da Delegacia Virtual, para que o crime seja investigado e os suspeitos sejam identificados. VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/14/casal-e-assaltado-na-av-doca-em-belem-criminosos-fogem-de-moto.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/wWA9DR7aYGbEr6wscaxmL6goppE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/04/85/14958504",
+      "data": "2026-09-14T12:16:29+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -39,46 +79,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/abonopecuniario6.jpg",
       "data": "2026-09-14T12:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6169b5012d1003971629752181a089c9",
-      "titulo": "Veja como ficou imóvel destruído por incêndio na Terra Firme, em Belém; fogo consumiu tudo",
-      "descricao": "Veja a galeria de fotos e vídeo do incêndio que destruiu uma casa e uma padaria no bairro da Terra Firme, em Belém, nesta segunda, 14. Foto: Sabrinha Linhares / RBATV Veja a galeria de fotos e vídeo do incêndio que destruiu uma casa e uma padaria no bairro da Terra Firme, em Belém, nesta segunda, 14. O post Veja como ficou imóvel destruído por incêndio na Terra Firme, em Belém; fogo consumiu tudo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/veja-como-ficou-imovel-destruido-por-incendio-na-terra-firme-em-belem-fogo-consumiu-tudo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/VIDEO.mp4",
-      "data": "2026-09-14T11:45:34+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "dd0a21342bf562f899aecda4ac380672",
-      "titulo": "Mendonça autorizou bloqueio de R$ 2 bilhões em bens ligados a Vorcaro",
-      "descricao": "Mendonça autorizou bloqueio de R$ 2 bilhões em bens ligados a Vorcaro",
-      "link": "https://www.oliberal.com/politica/mendonca-autorizou-bloqueio-de-r-2-bilhoes-em-bens-ligados-a-vorcaro-1.1168180",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164268:1788391387/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T11:37:47.777565+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9f3cdbd5e581deb10d00667df73f14e8",
-      "titulo": "Sicredi está entre as principais instituições financeiras do Brasil no Valor 1000",
-      "descricao": "Cooperativa consolidou sua posição entre as maiores instituições financeiras do Brasil ao alcançar o 7º lugar no ranking dos 100 maiores bancos do Valor 1000 de 2026, refletindo seu crescimento sustentável e a força do modelo cooperativo. Sicredi O Sicredi foi destaque na edição 2026 do Valor 1000, anuário organizado pelo jornal Valor Econômico que reúne as maiores empresas do país. Na categoria “100 Maiores Bancos”, a instituição financeira cooperativa conquistou a 7ª posição, mantendo o destaque alcançado nas edições mais recentes do ranking. O reconhecimento acompanha uma trajetória consistente de crescimento do Sicredi. Em julho de 2026, a instituição superou a marca de R$ 500 bilhões em ativos totais. Hoje, está presente em mais de 2,1 mil municípios brasileiros, com mais de 3,1 mil agências e uma base de 10,5 milhões de associados. Figurar entre as maiores instituições financeiras do país demonstra a força do modelo cooperativo e sua capacidade de crescer de forma consistente, sem perder a proximidade com os associados. Esse resultado reflete uma construção conjunta com as cooperativas do Sicredi, que impulsionam o desenvolvimento de pessoas, empresas e comunidades em diferentes regiões do Brasil O Prêmio Valor 1000, tradicional iniciativa do Valor Econômico, reconhece anualmente empresas de destaque em diferentes setores da economia brasileira. A premiação integra o anuário Valor 1000 e considera diversos indicadores para avaliar o desempenho e a posição das companhias em seus respectivos segmentos. Ao longo dos anos, consolidou-se como uma das principais referências do cenário empresarial brasileiro.",
-      "link": "https://g1.globo.com/pa/para/especial-publicitario/sicredi-norte/sicredi-gente-que-coopera-cresce/noticia/2026/09/14/sicredi-esta-entre-as-principais-instituicoes-financeiras-do-brasil-no-valor-1000.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/arrEpCb0fhUsw8EkU95l06b2MDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/1/WZMfVQSRyBPP7BjLJSvA/foto-valor-1000.jpg",
-      "data": "2026-09-14T03:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6ecb800bacbd47bc1986644fd042e73d",
-      "titulo": "Auto do Círio 2026 homenageia Zélia Amador de Deus, idealizadora do cortejo e referência na luta antirracista",
-      "descricao": "Zélia Amador de Deus Ascom/UFPA Zélia Amador de Deus, uma das idealizadoras do Auto do Círio e referência na luta antirracista na Amazônia, é a homenageada da edição de 2026 do cortejo, marcado para 9 de outubro, no bairro da Cidade Velha, em Belém. A homenagem foi anunciada durante o lançamento da programação neste domingo (13), no Instituto de Ciências da Arte da Universidade Federal do Pará (ICA/UFPA), na Praça da República. A homenagem ocorre poucos dias após a morte da professora, pesquisadora e ativista, na última terça-feira (8), aos 76 anos, em Belém. Zélia teve participação na idealização do Auto do Círio, projeto de extensão da UFPA que reúne diferentes linguagens artísticas em diálogo com manifestações da cultura popular durante o período do Círio de Nazaré. O lançamento da 32ª edição teve momentos dedicados à memória da professora, com a participação de artistas, integrantes da universidade e familiares de Zélia. A programação terminou com um cortejo pela Praça da República. Neste ano, o Auto tem como tema “Maria, Salvai e Guardai Nosso Patrimônio Sagrado e Nossa Fé”. Durante a preparação para o cortejo, também são realizadas oficinas ligadas às atividades que integram a manifestação. Zélia e o Auto A relação de Zélia com o Auto do Círio remonta à criação do projeto na UFPA. Professora da área de artes, ela também teve uma trajetória ligada ao teatro e participou da fundação da Companhia de Teatro Cena Aberta, na década de 1970. Além da atuação artística e acadêmica, Zélia se tornou um dos principais nomes da luta antirracista na Amazônia. Foi uma das fundadoras do Centro de Estudos e Defesa do Negro do Pará (Cedenpa) e participou de articulações em defesa das ações afirmativas e de políticas de igualdade racial. Na UFPA, onde construiu grande parte da trajetória acadêmica, Zélia foi vice-reitora entre 1993 e 1997 e se tornou a primeira pessoa negra a ocupar o cargo. Também recebeu o título de professora emérita da instituição. A morte de Zélia, na terça-feira, provocou homenagens de instituições, movimentos sociais e representantes da cultura. A UFPA decretou luto oficial de três dias. O Auto do Círio ocorre em 9 de outubro, na Cidade Velha, na sexta-feira que antecede o Círio de Nossa Senhora de Nazaré. ✅ Clique e siga o canal do g1 Pará no WhatsApp Leia todas as notícias do estado no g1 Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/13/auto-do-cirio-2026-homenageia-zelia-amador-de-deus-idealizadora-do-cortejo-e-referencia-na-luta-antirracista.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/PL2B2Siln7ugA2b2aZbuJQowvpg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/1/4UCv94TZWH6CP9Z2fXIQ/professora-emerita-zelia-amador-de-deus-1.jpg",
-      "data": "2026-09-13T21:22:00+00:00",
       "categoria": "PARÁ"
     }
   ]
