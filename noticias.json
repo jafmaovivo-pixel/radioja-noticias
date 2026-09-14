@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-14T19:04:22.994251+00:00",
+  "atualizado": "2026-09-14T19:36:00.586260+00:00",
   "noticias": [
     {
       "id": "b8bb2ea90867b99aa816e8293c6d81b5",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/politica/mendonca-retira-sigilo-de-pagamentos-de-vorcaro-apos-pedido-de-moraes-1.1168496",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113182:1788353684/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T19:04:21.724897+00:00",
+      "data": "2026-09-14T19:35:58.110596+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,17 +18,37 @@
       "link": "https://www.oliberal.com/politica/zanin-e-gilmar-recebem-dados-do-celular-de-vorcaro-e-iniciam-varredura-nas-conversas-1.1168510",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1095135:1789406150/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T19:04:21.724802+00:00",
+      "data": "2026-09-14T19:35:58.110469+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "7d626fa92a67e2f024ba9b0734ed8884",
-      "titulo": "Fachin endossa pedido de Moraes e determina fim do sigilo sobre rede de pagamentos do Master",
-      "descricao": "Fachin endossa pedido de Moraes e determina fim do sigilo sobre rede de pagamentos do Master",
+      "id": "eca248da54e9a83291f5dd4571300d3e",
+      "titulo": "Fachin determina fim do sigilo sobre rede de pagamentos do Master",
+      "descricao": "Fachin determina fim do sigilo sobre rede de pagamentos do Master",
       "link": "https://www.oliberal.com/politica/fachin-endossa-pedido-de-moraes-e-determina-fim-do-sigilo-sobre-rede-de-pagamentos-do-master-1.1168550",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T19:04:21.724684+00:00",
+      "data": "2026-09-14T19:35:58.110332+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "04b46d3ad8d1d839d9e26b1d3af67f2a",
+      "titulo": "Lotofácil da Independência: Caixa amplia prazo para bolões do prêmio de R$ 300 milhões; veja até quando apostar",
+      "descricao": "Aposta simples da Lotofácil custa R$ 3,50, enquanto jogo com 20 números chega a R$ 54 mil. Foto: divulgação/reprodução A Lotofácil da Independência 2026 se aproxima do sorteio com prêmio estimado em R$ 300 milhões. Saiba como apostar, os prazos e as regras do concurso especial. O post Lotofácil da Independência: Caixa amplia prazo para bolões do prêmio de R$ 300 milhões; veja até quando apostar apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/lotofacil-da-independencia-caixa-amplia-prazo-para-boloes-do-premio-de-r-300-milhoes-veja-ate-quando-apostar/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_-_2026-09-14T155418_209.jpg",
+      "data": "2026-09-14T19:27:10+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7a6ebbbc50420ae87cc2f3a2349262cc",
+      "titulo": "Flamengo faz torcida ajudar a construir miniestádio com pedidos de cerveja",
+      "descricao": "A proposta é transformar um hábito cotidiano em uma forma de participação na construção de um novo espaço dentro do CT rubro-negro. Foto: Gilvan de Souza / Flamengo. O Flamengo lançou uma campanha em parceria com a Brahma para arrecadar fundos para a construção do miniestádio no Ninho do Urubu. Parte do valor de pedidos do Zé Delivery será destinada às obras. O post Flamengo faz torcida ajudar a construir miniestádio com pedidos de cerveja apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/flamengo-faz-torcida-ajudar-a-construir-miniestadio-com-pedidos-de-cerveja/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_723988-treino-no-ninho-28-08-2026-030.jpg",
+      "data": "2026-09-14T19:22:59+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_-_2026-09-14T152820_091.jpg",
       "data": "2026-09-14T18:57:16+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "539fd1c3fec5a158c3962c51fedc197a",
-      "titulo": "Viseu ganha Usina da Paz com mais de 70 serviços gratuitos",
-      "descricao": "Viseu ganha Usina da Paz com mais de 70 serviços gratuitos A Usina da Paz de Viseu, 35ª unidade entregue pelo Governo do Pará, oferece mais de 70 serviços gratuitos, incluindo saúde, esporte, cultura e qualificação profissional, ampliando oportunidades para a população local. O post Viseu ganha Usina da Paz com mais de 70 serviços gratuitos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/viseu-ganha-usina-da-paz-com-mais-de-70-servicos-gratuitos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/20260913210840-GF00027808-F00545862-%C2%A9-2026-Augusto-Miranda-_-Ag.-Para-1.jpg",
-      "data": "2026-09-14T18:53:53+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "848862d372dfc09c7a7c3a949397d12a",
-      "titulo": "Gulfem revela pai do bebê de Gulru e Cahide faz último pedido em Guerra das Rosas",
-      "descricao": "Gulfem revelará a Cahide que Omer é o pai do filho esperado por Gulru no capítulo desta segunda-feira (14). Foto: Reprodução/Kanal D International Cahide decidirá comparecer à confraternização promovida por Gulfem e fará um último pedido a Omer nesta segunda-feira (14) O post Gulfem revela pai do bebê de Gulru e Cahide faz último pedido em Guerra das Rosas apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/gulfem-revela-pai-filho-gulru-guerra-das-rosas/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Gulfem-e-Gulru-em-Guerra-das-Rosas.jpg",
-      "data": "2026-09-14T18:28:30+00:00",
       "categoria": "PARÁ"
     },
     {
