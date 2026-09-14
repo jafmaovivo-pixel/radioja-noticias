@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-14T18:03:16.498754+00:00",
+  "atualizado": "2026-09-14T18:40:19.399135+00:00",
   "noticias": [
+    {
+      "id": "b8bb2ea90867b99aa816e8293c6d81b5",
+      "titulo": "Mendonça retira sigilo de pagamentos de Vorcaro após pedido de Moraes",
+      "descricao": "Mendonça retira sigilo de pagamentos de Vorcaro após pedido de Moraes",
+      "link": "https://www.oliberal.com/politica/mendonca-retira-sigilo-de-pagamentos-de-vorcaro-apos-pedido-de-moraes-1.1168496",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113182:1788353684/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T18:40:17.917789+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a9a654b6bd09bce130b5bbb37105c877",
+      "titulo": "Zanin e Gilmar recebem dados do celular de Vorcaro e iniciam varredura nas conversas",
+      "descricao": "Zanin e Gilmar recebem dados do celular de Vorcaro e iniciam varredura nas conversas",
+      "link": "https://www.oliberal.com/politica/zanin-e-gilmar-recebem-dados-do-celular-de-vorcaro-e-iniciam-varredura-nas-conversas-1.1168510",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1095135:1789406150/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T18:40:17.917599+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7d626fa92a67e2f024ba9b0734ed8884",
+      "titulo": "Fachin endossa pedido de Moraes e determina fim do sigilo sobre rede de pagamentos do Master",
+      "descricao": "Fachin endossa pedido de Moraes e determina fim do sigilo sobre rede de pagamentos do Master",
+      "link": "https://www.oliberal.com/politica/fachin-endossa-pedido-de-moraes-e-determina-fim-do-sigilo-sobre-rede-de-pagamentos-do-master-1.1168550",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T18:40:17.548081+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "848862d372dfc09c7a7c3a949397d12a",
+      "titulo": "Gulfem revela pai do bebê de Gulru e Cahide faz último pedido em Guerra das Rosas",
+      "descricao": "Gulfem revelará a Cahide que Omer é o pai do filho esperado por Gulru no capítulo desta segunda-feira (14). Foto: Reprodução/Kanal D International Cahide decidirá comparecer à confraternização promovida por Gulfem e fará um último pedido a Omer nesta segunda-feira (14) O post Gulfem revela pai do bebê de Gulru e Cahide faz último pedido em Guerra das Rosas apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/gulfem-revela-pai-filho-gulru-guerra-das-rosas/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Gulfem-e-Gulru-em-Guerra-das-Rosas.jpg",
+      "data": "2026-09-14T18:28:30+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7ef204a1fbef46feff4fd7495ff7b53d",
+      "titulo": "Homem morto em Mocajuba não era policial; era vigilante de projeto da Guarda-Mirim",
+      "descricao": "Polícia esclarece identidade de homem morto a tiros em Mocajuba Wellington Gonçalves Cedro foi assassinado em Mocajuba, no Pará, após receber ameaças do Comando Vermelho. A Polícia Civil investiga o caso e a possível relação com a comercialização de armas. O post Homem morto em Mocajuba não era policial; era vigilante de projeto da Guarda-Mirim apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/policia/homem-morto-em-mocajuba-nao-era-policial-era-vigilante-de-projeto-da-guarda-mirim/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Foto_ZAP_MOCAJUBA-_Goncalves_era_vigilante_e_trabalhaba_em_um_projeto_de_guarda_mirim.jpg",
+      "data": "2026-09-14T18:12:19+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "4f209bcf44d2f3611a51f00f206b42cc",
       "titulo": "Mendonça diz que celular de Vorcaro segue com PF e cópia de dados está lacrada em seu gabinete",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164087:1788368326/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-14T18:03:15.133946+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "573a0de9523e56677f75db1672d82a63",
-      "titulo": "Deputado Federal do PL é investigado por intermediar encontro de André Mendonça e Vorcaro",
-      "descricao": "Deputado Federal do PL é investigado por intermediar encontro de André Mendonça e Vorcaro",
-      "link": "https://www.oliberal.com/politica/deputado-federal-do-pl-e-investigado-por-intermediar-encontro-de-andre-mendonca-e-vorcaro-1.1168433",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168493:1789402421/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T18:03:15.133868+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b8bb2ea90867b99aa816e8293c6d81b5",
-      "titulo": "Mendonça retira sigilo de pagamentos de Vorcaro após pedido de Moraes",
-      "descricao": "Mendonça retira sigilo de pagamentos de Vorcaro após pedido de Moraes",
-      "link": "https://www.oliberal.com/politica/mendonca-retira-sigilo-de-pagamentos-de-vorcaro-apos-pedido-de-moraes-1.1168496",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113182:1788353684/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T18:03:15.133743+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "dbb60aaaf30442c6364b23a1401d0c57",
-      "titulo": "O que aconteceu com o vocalista do A-ha? Saiba por que Morten Harket se afastou dos palcos",
-      "descricao": "Morten Harket afirmou que não pretende voltar aos palcos devido às limitações causadas pelo Parkinson. Foto: Divulgação. Morten Harket, vocalista da banda A-ha, anunciou que não voltará aos palcos devido à Doença de Parkinson, que afeta sua voz. O post O que aconteceu com o vocalista do A-ha? Saiba por que Morten Harket se afastou dos palcos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/o-que-aconteceu-com-o-vocalista-do-a-ha-saiba-por-que-morten-harket-se-afastou-dos-palcos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_51-1.jpg",
-      "data": "2026-09-14T18:00:18+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "98beee8c8a92dbe2295f52783263a471",
-      "titulo": "Teve bolo! Papa Leão XIV celebra 71º aniversário no Vaticano; vídeo",
-      "descricao": "Papa celebra 71º aniversário natalício no Vaticano. Foto: Reprodução/Instagram/ @vaticannewspt Primeiro papa norte-americano da história da Igreja Católica, Leão XIV recebeu homenagem durante visita à Biblioteca Apostólica Vaticana nesta segunda-feira (14) O post Teve bolo! Papa Leão XIV celebra 71º aniversário no Vaticano; vídeo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/teve-bolo-papa-leao-xiv-celebra-71o-aniversario-no-vaticano-video/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_810090930_18116636570088319_6181144969730358651_n.jpg",
-      "data": "2026-09-14T17:53:33+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8f10fd41ad18cebad44442ed6aeb765e",
-      "titulo": "Frase do dia de Leandro Karnal: “Estar acompanhado não é garantia de eliminar a solidão”",
-      "descricao": "Estar cercado de pessoas nem sempre significa ter companhia de verdade. Foto: Gerada com IA. O historiador e escritor Leandro Karnal discute a solidão como um sentimento que não depende de estar fisicamente sozinho, mas sim da qualidade das conexões humanas. O post Frase do dia de Leandro Karnal: “Estar acompanhado não é garantia de eliminar a solidão” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/frase-do-dia-de-leandro-karnal-estar-acompanhado-nao-e-garantia-de-eliminar-a-solidao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-14_at_13_20_21.jpg",
-      "data": "2026-09-14T16:48:34+00:00",
       "categoria": "PARÁ"
     },
     {
