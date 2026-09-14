@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-14T10:36:15.245110+00:00",
+  "atualizado": "2026-09-14T11:02:57.898389+00:00",
   "noticias": [
+    {
+      "id": "dd0a21342bf562f899aecda4ac380672",
+      "titulo": "Mendonça autorizou bloqueio de R$ 2 bilhões em bens ligados a Vorcaro",
+      "descricao": "Mendonça autorizou bloqueio de R$ 2 bilhões em bens ligados a Vorcaro",
+      "link": "https://www.oliberal.com/politica/mendonca-autorizou-bloqueio-de-r-2-bilhoes-em-bens-ligados-a-vorcaro-1.1168180",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164268:1788391387/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T11:02:54.613905+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6f500ac5915b4a03037ab95e48ed0e06",
+      "titulo": "PF diz que pode mandar cópia de material extraído de celular de Vorcaro a gabinetes do STF",
+      "descricao": "PF diz que pode mandar cópia de material extraído de celular de Vorcaro a gabinetes do STF",
+      "link": "https://www.oliberal.com/politica/pf-diz-que-pode-mandar-copia-de-material-extraido-de-celular-de-vorcaro-a-gabinetes-do-stf-1.1168157",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1117926:1778080207/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T11:02:54.263934+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6b818bc8737a307bdc816017eef08bcd",
+      "titulo": "Ministros pressionam Fachin a adiar sessão que julga Alexandre de Moraes",
+      "descricao": "Ministros pressionam Fachin a adiar sessão que julga Alexandre de Moraes",
+      "link": "https://www.oliberal.com/politica/ministros-pressionam-fachin-a-adiar-sessao-acesso-a-celular-de-vorcaro-vira-nova-batalha-1.1168324",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1076354:1769452664/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T11:02:53.909759+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bbd9c17fd3aabeb202063f4caaa2baeb",
+      "titulo": "Discurso é otimista no Paysandu: “nada está perdido!”",
+      "descricao": "Júnior Rocha - Foto reprodução: Jorge Luis Totti/PSC. Jogadores do Paysandu demonstram confiança na virada e pedem apoio da torcida para os próximos confrontos, especialmente contra a Inter de Limeira. O post Discurso é otimista no Paysandu: “nada está perdido!” apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/discurso-e-otimista-no-paysandu-nada-esta-perdido/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/convertida_1200x628_44ao00as-psc2-1.jpg",
+      "data": "2026-09-14T11:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d99c5bea693f734aa8147b3cb6ec3c57",
+      "titulo": "Concurso Ministério da Saúde: 7.027 vagas aguardam autorização do MGI; fique atento à confirmação",
+      "descricao": "Cronograma preliminar prevê publicação do edital em abril de 2027 e provas em julho, mas as datas ainda dependem da autorização e podem sofrer alterações. O Ministério da Saúde solicitou ao Ministério da Gestão e da Inovação em Serviços Públicos (MGI) a abertura de 7.027 vagas efetivas para 2027, com oportunidades de níveis médio, técnico e superior. O post Concurso Ministério da Saúde: 7.027 vagas aguardam autorização do MGI; fique atento à confirmação apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/concursos-e-empregos/concurso-ministerio-da-saude-7-027-vagas-aguardam-autorizacao-do-mgi-fique-atento-a-confirmacao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/concMS2.jpg",
+      "data": "2026-09-14T10:43:18+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "667ddc03818db64a38aa4c7eba9c991e",
       "titulo": "Série C: Contra o Paysandu, Ferroviária distribui e realiza troca de ingressos por alimentos",
@@ -12,46 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "26a157f416b1813e7488717c926365e0",
-      "titulo": "Paysandu perde para a Ferroviária e diminui chances de acesso à Série B",
-      "descricao": "Paysandu perde para a Ferroviária e diminui chances de acesso à Série B",
-      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-perde-para-a-ferroviaria-e-diminui-chances-de-acesso-a-serie-b-1.1168191",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168251:1789330568/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T10:36:12.510745+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2a09774701b7bada97c825bc58006e8b",
-      "titulo": "Paysandu demite Júnior Rocha após segunda derrota no quadrangular",
-      "descricao": "Paysandu demite Júnior Rocha após segunda derrota no quadrangular",
-      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-demite-junior-rocha-apos-segunda-derrota-no-quadrangular-1.1168195",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1128423:1780282002/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T10:36:12.510530+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a913ec803c2104e298fdf5bbf36db879",
-      "titulo": "Vídeo: Incêndio destrói padaria e casa em Belém; três cachorros não conseguem sair",
-      "descricao": "Um incêndio de grandes proporções atingiu uma padaria e uma casa no bairro da Terra Firme, em Belém, na madrugada desta segunda-feira, 14. Um incêndio de grandes proporções atingiu uma padaria e uma casa no bairro da Terra Firme, em Belém, na madrugada desta segunda-feira, 14. O post Vídeo: Incêndio destrói padaria e casa em Belém; três cachorros não conseguem sair apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/video-incendio-destroi-padaria-e-casa-em-belem-tres-cachorros-nao-conseguem-sair/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Sem_titulo.jpg",
-      "data": "2026-09-14T10:27:38+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ef3d000bfbff934deb3798965a0067a9",
-      "titulo": "Horóscopo de hoje, 14 de setembro: relações, trabalho e autocuidado em destaque",
-      "descricao": "Horóscopo de hoje reúne as previsões para os 12 signos neste 14 de setembro de 2026. Foto: Magnific Previsões dos signos apontam caminhos para fortalecer vínculos, organizar a rotina, cuidar das emoções e equilibrar as demandas profissionais. O post Horóscopo de hoje, 14 de setembro: relações, trabalho e autocuidado em destaque apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/horoscopo-de-hoje-14-de-setembro-de-2026/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://diariodopara.com.br/wp-content/uploads/2026/09/Magnific-6.jpg",
-      "data": "2026-09-14T09:16:09+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "9f3cdbd5e581deb10d00667df73f14e8",
       "titulo": "Sicredi está entre as principais instituições financeiras do Brasil no Valor 1000",
       "descricao": "Cooperativa consolidou sua posição entre as maiores instituições financeiras do Brasil ao alcançar o 7º lugar no ranking dos 100 maiores bancos do Valor 1000 de 2026, refletindo seu crescimento sustentável e a força do modelo cooperativo. Sicredi O Sicredi foi destaque na edição 2026 do Valor 1000, anuário organizado pelo jornal Valor Econômico que reúne as maiores empresas do país. Na categoria “100 Maiores Bancos”, a instituição financeira cooperativa conquistou a 7ª posição, mantendo o destaque alcançado nas edições mais recentes do ranking. O reconhecimento acompanha uma trajetória consistente de crescimento do Sicredi. Em julho de 2026, a instituição superou a marca de R$ 500 bilhões em ativos totais. Hoje, está presente em mais de 2,1 mil municípios brasileiros, com mais de 3,1 mil agências e uma base de 10,5 milhões de associados. Figurar entre as maiores instituições financeiras do país demonstra a força do modelo cooperativo e sua capacidade de crescer de forma consistente, sem perder a proximidade com os associados. Esse resultado reflete uma construção conjunta com as cooperativas do Sicredi, que impulsionam o desenvolvimento de pessoas, empresas e comunidades em diferentes regiões do Brasil O Prêmio Valor 1000, tradicional iniciativa do Valor Econômico, reconhece anualmente empresas de destaque em diferentes setores da economia brasileira. A premiação integra o anuário Valor 1000 e considera diversos indicadores para avaliar o desempenho e a posição das companhias em seus respectivos segmentos. Ao longo dos anos, consolidou-se como uma das principais referências do cenário empresarial brasileiro.",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/arrEpCb0fhUsw8EkU95l06b2MDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/1/WZMfVQSRyBPP7BjLJSvA/foto-valor-1000.jpg",
       "data": "2026-09-14T03:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b998d2dd8fb7eeb6718dcbf04e849d41",
-      "titulo": "A Fazenda 18 estreia com R$ 2 milhões e novidades que prometem mexer com o jogo",
-      "descricao": "A Fazenda 18 terá 22 participantes e prêmio de R$ 2 milhões A nova temporada de A Fazenda estreia nesta segunda-feira (14) na Record, com prêmio de R$ 2 milhões e 22 participantes. A edição promete novidades nas provas e na transmissão, com Adriane Galisteu no comando. O post A Fazenda 18 estreia com R$ 2 milhões e novidades que prometem mexer com o jogo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/a-fazenda-18-estreia-com-r-2-milhoes-e-novidades-que-prometem-mexer-com-o-jogo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_807938407_1383521496744845_4398444045195420539_n.jpg",
-      "data": "2026-09-14T01:25:49+00:00",
       "categoria": "PARÁ"
     },
     {
