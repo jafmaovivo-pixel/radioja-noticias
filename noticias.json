@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-14T16:37:20.292964+00:00",
+  "atualizado": "2026-09-14T17:02:20.107732+00:00",
   "noticias": [
+    {
+      "id": "4f209bcf44d2f3611a51f00f206b42cc",
+      "titulo": "Mendonça diz que celular de Vorcaro segue com PF e cópia de dados está lacrada em seu gabinete",
+      "descricao": "Mendonça diz que celular de Vorcaro segue com PF e cópia de dados está lacrada em seu gabinete",
+      "link": "https://www.oliberal.com/politica/mendonca-diz-que-celular-de-vorcaro-segue-com-pf-e-copia-de-dados-esta-lacrada-em-seu-gabinete-1.1167797",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164087:1788368326/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T17:02:17.546324+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "573a0de9523e56677f75db1672d82a63",
+      "titulo": "Deputado Federal do PL é investigado por intermediar encontro de André Mendonça e Vorcaro",
+      "descricao": "Deputado Federal do PL é investigado por intermediar encontro de André Mendonça e Vorcaro",
+      "link": "https://www.oliberal.com/politica/deputado-federal-do-pl-e-investigado-por-intermediar-encontro-de-andre-mendonca-e-vorcaro-1.1168433",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168493:1789402421/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T17:02:17.111683+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b8bb2ea90867b99aa816e8293c6d81b5",
+      "titulo": "Mendonça retira sigilo de pagamentos de Vorcaro após pedido de Moraes",
+      "descricao": "Mendonça retira sigilo de pagamentos de Vorcaro após pedido de Moraes",
+      "link": "https://www.oliberal.com/politica/mendonca-retira-sigilo-de-pagamentos-de-vorcaro-apos-pedido-de-moraes-1.1168496",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113182:1788353684/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T17:02:16.705321+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8f10fd41ad18cebad44442ed6aeb765e",
+      "titulo": "Frase do dia de Leandro Karnal: “Estar acompanhado não é garantia de eliminar a solidão”",
+      "descricao": "Estar cercado de pessoas nem sempre significa ter companhia de verdade. Foto: Gerada com IA. O historiador e escritor Leandro Karnal discute a solidão como um sentimento que não depende de estar fisicamente sozinho, mas sim da qualidade das conexões humanas. O post Frase do dia de Leandro Karnal: “Estar acompanhado não é garantia de eliminar a solidão” apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/frase-do-dia-de-leandro-karnal-estar-acompanhado-nao-e-garantia-de-eliminar-a-solidao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-14_at_13_20_21.jpg",
+      "data": "2026-09-14T16:48:34+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "26dab69a1ca4706c7f4261c7984fcbe4",
       "titulo": "Greve dos bancários afeta clientes do interior, mas impacto é menor com avanço de serviços digitais",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "04eb37896d558394678e85952fbea391",
-      "titulo": "Correios entram em greve no Pará e em grande parte do país nesta sexta (11)",
-      "descricao": "Correios entram em greve no Pará e em grande parte do país nesta sexta (11)",
-      "link": "https://www.oliberal.com/economia/correios-entram-em-greve-no-para-e-em-grande-parte-do-pais-nesta-sexta-11-1.1167511",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.668769:1681502795/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T16:37:17.046241+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4a6bcf0669240de302320054e0b3aec4",
-      "titulo": "Greve dos Correios: adesão é de pouco mais de 10% no Pará",
-      "descricao": "Greve dos Correios: adesão é de pouco mais de 10% no Pará",
-      "link": "https://www.oliberal.com/para/greve-dos-correios-chega-a-adesao-de-13-dos-profissionais-no-para-e-tem-ato-nesta-segunda-feira-1.1168467",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168468:1789400111/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T16:37:16.664187+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "f1f39c28a532c41af37f0f6c5d5f70ea",
       "titulo": "Paraense nascido em Cametá atravessou três continentes e governou Macau há mais de 300 anos",
       "descricao": "Ilustração histórica retrata Macau, cidade governada pelo paraense António de Albuquerque Coelho entre maio de 1718 e setembro de 1719. Foto: Secretaria de Turismo de Macau. De origem indígena, africana e portuguesa, Antônio de Albuquerque Coelho construiu uma carreira militar e política entre Goa, China, Timor e a costa africana O post Paraense nascido em Cametá atravessou três continentes e governou Macau há mais de 300 anos apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Macau-1.jpg",
       "data": "2026-09-14T16:29:19+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f03474bb10ceaf2d1ab5f70aa598568b",
-      "titulo": "Paraense Rolon Ho deixa a Dança dos Famosos após eliminação de Kenya Sade",
-      "descricao": "O professor paraense Rolon Ho e a jornalista Kenya Sade encerraram a participação na Dança dos Famosos após a repescagem. Foto: Reprodução/Instagram Jornalista ficou entre as menores pontuações da repescagem; campeão da competição em 2023 agradeceu pela torcida e pelas semanas de preparação O post Paraense Rolon Ho deixa a Dança dos Famosos após eliminação de Kenya Sade apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/kenya-sade-eliminada-danca-dos-famosos-rolon-ho/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Danca-dos-Famosos.jpg",
-      "data": "2026-09-14T16:26:09+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "56de6f9e1875e5895b75a18b33c6c6e8",
-      "titulo": "Incêndio destrói imóvel com padaria e residência na Terra Firme, em Belém",
-      "descricao": "Incêndio destrói imóvel com padaria e residência na Terra Firme, em Belém",
-      "link": "https://www.oliberal.com/policia/incendio-destroi-imovel-com-padaria-e-residencia-na-terra-firme-em-belem-1.1168340",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168378:1789391600/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T16:02:52.401449+00:00",
       "categoria": "PARÁ"
     },
     {
