@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-14T16:02:53.701999+00:00",
+  "atualizado": "2026-09-14T16:37:20.292964+00:00",
   "noticias": [
+    {
+      "id": "26dab69a1ca4706c7f4261c7984fcbe4",
+      "titulo": "Greve dos bancários afeta clientes do interior, mas impacto é menor com avanço de serviços digitais",
+      "descricao": "Greve dos bancários afeta clientes do interior, mas impacto é menor com avanço de serviços digitais",
+      "link": "https://www.oliberal.com/economia/greve-dos-bancarios-afeta-clientes-do-interior-mas-impacto-e-menor-com-avanco-de-servicos-digitais-1.1167555",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167556:1789139044/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T16:37:17.849932+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "04eb37896d558394678e85952fbea391",
+      "titulo": "Correios entram em greve no Pará e em grande parte do país nesta sexta (11)",
+      "descricao": "Correios entram em greve no Pará e em grande parte do país nesta sexta (11)",
+      "link": "https://www.oliberal.com/economia/correios-entram-em-greve-no-para-e-em-grande-parte-do-pais-nesta-sexta-11-1.1167511",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.668769:1681502795/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T16:37:17.046241+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4a6bcf0669240de302320054e0b3aec4",
+      "titulo": "Greve dos Correios: adesão é de pouco mais de 10% no Pará",
+      "descricao": "Greve dos Correios: adesão é de pouco mais de 10% no Pará",
+      "link": "https://www.oliberal.com/para/greve-dos-correios-chega-a-adesao-de-13-dos-profissionais-no-para-e-tem-ato-nesta-segunda-feira-1.1168467",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168468:1789400111/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T16:37:16.664187+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f1f39c28a532c41af37f0f6c5d5f70ea",
+      "titulo": "Paraense nascido em Cametá atravessou três continentes e governou Macau há mais de 300 anos",
+      "descricao": "Ilustração histórica retrata Macau, cidade governada pelo paraense António de Albuquerque Coelho entre maio de 1718 e setembro de 1719. Foto: Secretaria de Turismo de Macau. De origem indígena, africana e portuguesa, Antônio de Albuquerque Coelho construiu uma carreira militar e política entre Goa, China, Timor e a costa africana O post Paraense nascido em Cametá atravessou três continentes e governou Macau há mais de 300 anos apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/paraense-cameta-governou-macau-tres-continentes/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Macau-1.jpg",
+      "data": "2026-09-14T16:29:19+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f03474bb10ceaf2d1ab5f70aa598568b",
+      "titulo": "Paraense Rolon Ho deixa a Dança dos Famosos após eliminação de Kenya Sade",
+      "descricao": "O professor paraense Rolon Ho e a jornalista Kenya Sade encerraram a participação na Dança dos Famosos após a repescagem. Foto: Reprodução/Instagram Jornalista ficou entre as menores pontuações da repescagem; campeão da competição em 2023 agradeceu pela torcida e pelas semanas de preparação O post Paraense Rolon Ho deixa a Dança dos Famosos após eliminação de Kenya Sade apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/kenya-sade-eliminada-danca-dos-famosos-rolon-ho/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Danca-dos-Famosos.jpg",
+      "data": "2026-09-14T16:26:09+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "56de6f9e1875e5895b75a18b33c6c6e8",
       "titulo": "Incêndio destrói imóvel com padaria e residência na Terra Firme, em Belém",
@@ -12,36 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "f108a5eb1d061cc1ae4c94d1fc572245",
-      "titulo": "Incêndio em imóvel da Terra Firme mata três cães e um papagaio",
-      "descricao": "Incêndio em imóvel da Terra Firme mata três cães e um papagaio",
-      "link": "https://www.oliberal.com/policia/incendio-em-imovel-da-terra-firme-mata-tres-caes-e-um-papagaio-1.1168389",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168394:1789393792/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T16:02:52.401249+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9775384fea0f1f183d194927c6baabcb",
-      "titulo": "Incêndio destrói quiosque e deixa estrutura com risco de desabar",
-      "descricao": "Incêndio destrói quiosque e deixa estrutura com risco de desabar",
-      "link": "https://www.oliberal.com/policia/incendio-destroi-quiosque-e-deixa-estrutura-com-risco-de-desabar-no-marco-em-belem-1.1168365",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168366:1789389412/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T16:02:52.401072+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4d48369a9aac9a05e3ace602efc6a5e3",
-      "titulo": "Júnior Rocha deixa o Papão após três títulos: “Empenho e dedicação não faltaram”",
-      "descricao": "Júnior Rocha reage à saída do Paysandu após conquistar três títulos. Foto: Jorge Luís Totti/Paysandu Júnior Rocha se despede do comando do Paysandu após derrota na Série C, mas celebra três títulos conquistados na temporada. O post Júnior Rocha deixa o Papão após três títulos: “Empenho e dedicação não faltaram” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/junior-rocha-deixa-o-papao-apos-tres-titulos-empenho-e-dedicacao-nao-faltaram/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/convertida_1200x628_55323041730_f9c9b99454_c.jpg",
-      "data": "2026-09-14T15:50:46+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "0eaace0103b0e7747facfa62cdab3f38",
       "titulo": "Ruth Reis (Democrata) promete reduzir ICMS para 15% e revisar contrato de saneamento no Pará",
       "descricao": "A candidata ao governo do Pará pelo Democrata, Ruth Reis, afirmou nesta segunda-feira (14) que sua principal proposta econômica é reduzir a alíquota do ICMS estadual de 19% para 15%. Para viabilizar a medida sem comprometer o orçamento, ela propõe o enxugamento da máquina pública e o combate à corrupção. A declaração foi dada em entrevista ao vivo no Jornal Liberal 1ª Edição, onde a candidata também detalhou planos para segurança, saúde e saneamento básico. \"Nosso plano de governo propõe baixar o ICMS para 15%. Para isso, nós teríamos que enxugar a máquina pública, que está muito inchada, e combater a corrupção. Com isso, conseguiríamos aumentar a receita do Estado e atrair novos investimentos.\" A entrevista faz parte de uma série de sabatinas realizadas pela TV Liberal com os candidatos ao governo do Pará. O objetivo é apresentar em detalhes as propostas dos concorrentes ao cargo de chefe do Executivo estadual. JL1 entrevista Ruth Reis (Democrata), candidata ao governo do Pará. Rebeca Costa / g1 Transição na chapa e governabilidade Ruth Reis assumiu a cabeça da chapa após o indeferimento do registro de José Lucivaldo Moita por questões de prazo no domicílio eleitoral. Formada em contabilidade e direito, com especialização na área tributária, ela afirmou estar plenamente preparada para o cargo por ter participado diretamente da elaboração do plano de governo desde o início. Questionada sobre como pretende governar sem coligações e sem representantes do partido na Assembleia Legislativa do Pará (Alepa), Ruth defendeu que a articulação será baseada no diálogo e no interesse público. \"Estaremos prontos a conversar com todos, porque o bem comum é o Estado, não o partido. Nossa base no Legislativo será construída através de uma conversação transparente\", afirmou. Economia e redução do ICMS A candidata explicou que a redução do ICMS de 19% para 15% não trará prejuízos aos cofres públicos. Segundo ela, a perda de arrecadação inicial será compensada por duas frentes. A primeira será a atração de novas empresas para o estado e, a segunda, o combate \"rigoroso aos desvios de recursos públicos\". Ruth argumentou que, ao tornar o sistema tributário paraense mais competitivo, a atividade econômica local será estimulada, gerando mais emprego e renda. Infraestrutura e meio ambiente Na pergunta enviada pela TV Tapajós sobre o desenvolvimento da região oeste do estado, Ruth Reis assumiu o compromisso de atingir a meta de \"zero pontes de madeira\" no Pará, além de pavimentar mais de 1.000 km de rodovias. A candidata ressaltou que, se eleita, as obras serão planejadas em parceria com as prefeituras locais para garantir que atendam tanto ao escoamento da produção quanto à mobilidade dos moradores. Sobre a dragagem de hidrovias importantes, como a do Tapajós, cujas obras foram suspensas por recomendação do Ministério Público Federal, a candidata afirmou que pretende retomar as negociações. Ela garantiu que os projetos só avançarão se estiverem em estrita conformidade com o código ambiental e após avaliação de uma equipe técnica especializada. Segurança pública e valorização salarial Na área de segurança pública, Ruth Reis prometeu um reajuste salarial para os agentes, com foco inicial nos soldados da Polícia Militar, cujo soldo atual de R$ 1.300 seria elevado para o valor correspondente ao salário mínimo de referência de R$ 1.621, segundo ela. Embora não tenha definido um percentual linear para todas as categorias, a candidata afirmou que os recursos para o aumento virão do combate à corrupção na máquina pública, caso seja eleita. Ela também propôs a revisão dos critérios de promoção de oficiais e praças, adotando a meritocracia e o tempo de serviço como bases para destravar carreiras que hoje se encontram estagnadas. Saneamento básico e metas de água tratada Com o Pará figurando historicamente com municípios entre os piores índices de saneamento do país, Ruth Reis estipulou a meta de levar água tratada a 90% da população urbana e rural nos quatro anos de gestão. Para viabilizar o plano, ela propõe uma revisão do contrato com a atual concessionária de saneamento, que passou por processo de concessão na bolsa de valores, para assegurar que as metas acordadas sejam cumpridas. Saúde e controle de repasses Sobre a gestão da saúde, a candidata explicou que não pretende cortar repasses para as Organizações Sociais (OSs) que administram os hospitais públicos, mas sim condicionar os recursos ao cumprimento estrito de metas de qualidade. Para solucionar as filas de espera por exames e cirurgias, Ruth propõe a criação de um sistema digital unificado e transparente. A proposta prevê, segundo Ruth, que o cidadão possa acompanhar a posição exata na fila cronológica de atendimento, recebendo atualizações diretamente no celular. VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
@@ -49,26 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/A5LQJDdQevwVVE7csifW3kTG5RM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/Q/uW4SD5Qz6tvQ8BBYzTlw/whatsapp-image-2026-09-14-at-12.31.47.jpeg",
       "data": "2026-09-14T15:31:30+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "67d7ada34393e0e96d937b9a745c0032",
-      "titulo": "Gerente sequestrado com mulher e filha receberá R$ 300 mil de indenização do Bradesco",
-      "descricao": "Bancário do Bradesco desenvolveu depressão e estresse pós-traumático após criminosos manterem sua família refém para obrigá-lo a abrir cofre de agência O Tribunal Superior do Trabalho (TST) aumentou para R$ 300 mil a indenização por danos morais que o Bradesco deverá pagar a um gerente sequestrado com a família em Sergipe. A decisão unânime da 2ª Turma reverteu valor menor definido anteriormente. O post Gerente sequestrado com mulher e filha receberá R$ 300 mil de indenização do Bradesco apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/gerente-sequestrado-com-mulher-e-filha-recebera-r-300-mil-de-indenizacao-do-bradesco/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_BRADESCO3.jpg",
-      "data": "2026-09-14T15:22:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "de4367e7bfa28a990304ab163863b8e7",
-      "titulo": "Mazola está de volta: do acesso à zebra, uma história que marcou o Paysandu 12 anos atrás",
-      "descricao": "Paysandu e Macaé decidiram a Série C em 2014. Foto: TIAGO FERREIRA/ASCOM MACAÉ Mazola Júnior será o novo treinador do Paysandu no quadrangular do acesso da Série C. Em 2014, ele foi o herói do time no acesso à Série B. O post Mazola está de volta: do acesso à zebra, uma história que marcou o Paysandu 12 anos atrás apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/mazola-esta-de-volta-do-acesso-a-zebra-uma-historia-que-marcou-o-paysandu-12-anos-atras/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_maca.jpg",
-      "data": "2026-09-14T15:21:59+00:00",
       "categoria": "PARÁ"
     },
     {
