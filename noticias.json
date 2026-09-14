@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-14T12:42:12.202442+00:00",
+  "atualizado": "2026-09-14T13:05:58.441486+00:00",
   "noticias": [
+    {
+      "id": "2e22f3b6eb8da89e6343f8426705658b",
+      "titulo": "Incêndio de grandes proporções é registrado em área de mata em Salinópolis",
+      "descricao": "Incêndio de grandes proporções é registrado em área de mata em Salinópolis",
+      "link": "https://www.oliberal.com/policia/incendio-de-grandes-proporcoes-e-registrado-em-area-de-mata-em-salinopolis-1.1167632",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167634:1789146549/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T13:05:56.485838+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5f0304fe8a8b207bfc0f05320984a9ad",
+      "titulo": "Representante de restaurante que sofreu explosão em Belém diz que casa cumpre normas e vistorias",
+      "descricao": "Representante de restaurante que sofreu explosão em Belém diz que casa cumpre normas e vistorias",
+      "link": "https://www.oliberal.com/policia/representante-de-restaurante-que-sofreu-explosao-em-belem-diz-que-casa-cumprenormas-e-vistorias-1.1168005",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168006:1789243227/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T13:05:56.324589+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9775384fea0f1f183d194927c6baabcb",
+      "titulo": "Incêndio destrói quiosque e deixa estrutura com risco de desabar",
+      "descricao": "Incêndio destrói quiosque e deixa estrutura com risco de desabar",
+      "link": "https://www.oliberal.com/policia/incendio-destroi-quiosque-e-deixa-estrutura-com-risco-de-desabar-no-marco-em-belem-1.1168365",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168366:1789389412/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-14T13:05:56.155692+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d220b0f6ea4ccfd1a23c8f7d14cb9786",
+      "titulo": "Jovem perde 124 kg sem cirurgia ou caneta emagrecedora e vira coach de emagrecimento",
+      "descricao": "Americano chegou aos 210 quilos em meio à compulsão alimentar, mudou radicalmente alimentação e rotina de exercícios e, aos 22 anos, passou a atuar como influenciador e coach. David John Castañeda, do Texas, perdeu 124 kg sem cirurgia bariátrica ou medicamentos injetáveis. Ele pesava 210 kg e mudou seus hábitos em 2023, tornando-se influenciador e coach de emagrecimento. O post Jovem perde 124 kg sem cirurgia ou caneta emagrecedora e vira coach de emagrecimento apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/jovem-perde-124-kg-sem-cirurgia-ou-caneta-emagrecedora-e-vira-coach-de-emagrecimento/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/emagrece4.jpg",
+      "data": "2026-09-14T13:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "07e1e85c01a30f3c3918622d2a4a3cf1",
+      "titulo": "Antes de completar um ano, murais do Museu Emílio Goeldi são pichados",
+      "descricao": "Pichações foram registradas neste domingo (13) em parte dos murais do Museu Emílio Goeldi. Foto: Luiz Octávio Lucas/DIÁRIO Pinturas fazem parte do Museu de Arte Urbana de Belém e transformaram 2,5 mil metros de muros em uma galeria a céu aberto inspirada na Amazônia O post Antes de completar um ano, murais do Museu Emílio Goeldi são pichados apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/antes-de-completar-um-ano-murais-do-museu-emilio-goeldi-sao-pichados/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Image-2026-09-13-at-10.31.26-2.jpeg",
+      "data": "2026-09-14T12:50:43+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "6f500ac5915b4a03037ab95e48ed0e06",
       "titulo": "PF diz que pode mandar cópia de material extraído de celular de Vorcaro a gabinetes do STF",
@@ -12,53 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "46e9370e45d2fe6a3d1ffb96b43a9d08",
-      "titulo": "Ministros pressionam Fachin a adiar sessão; acesso a celular de Vorcaro vira nova 'batalha'",
-      "descricao": "Ministros pressionam Fachin a adiar sessão; acesso a celular de Vorcaro vira nova 'batalha'",
-      "link": "https://www.oliberal.com/politica/ministros-pressionam-fachin-a-adiar-sessao-acesso-a-celular-de-vorcaro-vira-nova-batalha-1.1168324",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1076354:1769452664/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T12:42:10.063342+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d24088510b523ed47ef6a043c77d507b",
-      "titulo": "Moraes pede mais uma quebra de sigilo do caso Master antes de sessão",
-      "descricao": "Moraes pede mais uma quebra de sigilo do caso Master antes de sessão",
-      "link": "https://www.oliberal.com/politica/moraes-pede-mais-uma-quebra-de-sigilo-do-caso-master-antes-de-sessao-prevista-para-terca-feira-1.1168351",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1014833:1781532167/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-14T12:42:10.063198+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "9feb5c27ae629962a7b0300f9b09e0ae",
       "titulo": "Incêndio destrói padaria e casa no bairro da terra firme, em Belém",
-      "descricao": "Incêndio destrói padaria e casa no bairro da terra firme, em Belém Um incêndio atingiu uma padaria e parte da residência no bairro da Terra Firme, em Belém. Segundo o Corpo de Bombeiros, três pessoas conseguiram sair sem ferimentos, mas cinco animais da família morreram. De acordo com as informações preliminares, o fogo teria começado na parte dos fundos da padaria, em uma área usada como reservatório de lenha. A parte da frente do estabelecimento não foi atingida, mas o incêndio se espalhou rapidamente para os fundos do imóvel. A padaria e a casa pertencem ao mesmo proprietário. Os bombeiros continuam no local fazendo o trabalho de rescaldo para evitar novos focos de incêndio.",
+      "descricao": "Incêndio destrói padaria e casa no bairro da terra firme, em Belém Um incêndio atingiu uma padaria e parte de uma residência no bairro da Terra Firme, em Belém. Segundo o Corpo de Bombeiros, três pessoas que estavam no imóvel conseguiram sair sem ferimentos. Quatro animais da família morreram: três cachorros e um papagaio. De acordo com as informações preliminares, o fogo começou por volta das 2h, em uma área nos fundos da padaria usada como reservatório de lenha. A parte da frente do estabelecimento não foi atingida, mas o incêndio se espalhou rapidamente para os fundos do imóvel. ✅ Receba as notícias do g1 Pará direto no WhatsApp A padaria e a casa pertencem ao mesmo proprietário. No terreno também funcionavam outros espaços. Todos esses ambientes foram atingidos pelas chamas. A residência fica na parte superior do imóvel, de três andares. Segundo os bombeiros, moravam no local o dono da padaria, a mãe e a companheira. Nenhum deles ficou ferido. Na manhã desta segunda-feira, os bombeiros permaneciam no local fazendo o trabalho de rescaldo para evitar novos focos de incêndio. As causas do sinistro ainda serão apuradas. VÍDEOS: veja todas as notícias do Pará",
       "link": "https://g1.globo.com/pa/para/noticia/2026/09/14/incendio-destroi-padaria-e-casa-no-bairro-da-terra-firme-em-belem.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/aE83abnQgT_m03rcWjdG6ooj2aU=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/92/84/14958492",
       "data": "2026-09-14T12:37:26+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "57f1cd34f5f6c3762579b4b0cdcd9b7d",
-      "titulo": "Há R$ 4,25 bilhões esperando pelos donos; veja se você tem dinheiro para receber",
-      "descricao": "Reprodução/internet Milhões de brasileiros e empresas ainda têm bilhões de reais esquecidos em bancos e outras instituições financeiras. O Sistema de Valores a Receber (SVR) do Banco Central mostra que R$ 5,65 bilhões estão disponíveis para resgate. O post Há R$ 4,25 bilhões esperando pelos donos; veja se você tem dinheiro para receber apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/ha-r-425-bilhoes-esperando-pelos-donos-veja-se-voce-tem-dinheiro-para-receber/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_din.jpg",
-      "data": "2026-09-14T12:37:03+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "058d8b7bce623d09f8f7e74baef1b184",
-      "titulo": "Ajude Eduardo: bailarino paraense busca apoio para disputar final do Bolshoi, em Santa Catarina",
-      "descricao": "Ajude Eduardo: jovem paraense busca apoio para realizar sonho de chegar ao Bolshoi. Foto: Reprodução / Instagram Selecionado para a etapa final em Joinville, Eduardo Silva arrecada contribuições para custear a viagem em outubro O post Ajude Eduardo: bailarino paraense busca apoio para disputar final do Bolshoi, em Santa Catarina apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/ajude-eduardo-bailarino-paraense-busca-apoio-para-disputar-final-do-bolshoi-em-santa-catarina/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/2-6.png",
-      "data": "2026-09-14T12:34:05+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/wWA9DR7aYGbEr6wscaxmL6goppE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/04/85/14958504",
       "data": "2026-09-14T12:16:29+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "13ba721a8fa7f20160c49b420fee0b5a",
-      "titulo": "Trabalhador pode vender parte das férias e aumentar renda; veja regras do abono pecuniário",
-      "descricao": "CLT permite transformar até um terço do período de descanso em dinheiro; empregado com direito a 30 dias pode vender até dez, desde que faça o pedido dentro do prazo. O abono pecuniário, conhecido como venda de férias, permite ao trabalhador converter até um terço do período de descanso em dinheiro. Entenda as regras da CLT, prazos e como calcular o valor a receber. O post Trabalhador pode vender parte das férias e aumentar renda; veja regras do abono pecuniário apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/trabalhador-pode-vender-parte-das-ferias-e-aumentar-renda-veja-regras-do-abono-pecuniario/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/abonopecuniario6.jpg",
-      "data": "2026-09-14T12:00:00+00:00",
       "categoria": "PARÁ"
     }
   ]
