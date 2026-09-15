@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-15T18:37:53.539975+00:00",
+  "atualizado": "2026-09-15T19:02:27.265679+00:00",
   "noticias": [
+    {
+      "id": "ab90fde7fbd1ac25ce8aede144d0a316",
+      "titulo": "Gilmar critica ações de Mendonça: 'Pixuleco'; ele rebate decano o chamando de 'leviano'",
+      "descricao": "Gilmar critica ações de Mendonça: 'Pixuleco'; ele rebate decano o chamando de 'leviano'",
+      "link": "https://www.oliberal.com/politica/gilmar-critica-acoes-de-mendonca-pixuleco-ele-rebate-decano-o-chamando-de-leviano-1.1168957",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168958:1789487939/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T19:02:25.829736+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "577a6571e8732591358aa49b338a2ff7",
+      "titulo": "Vocatória, suspeição e decano: o que significam os termos citados no julgamento do STF",
+      "descricao": "Vocatória, suspeição e decano: o que significam os termos citados no julgamento do STF",
+      "link": "https://www.oliberal.com/politica/vocatoria-suspeicao-e-decano-o-que-significam-os-termos-citados-no-julgamento-do-stf-1.1169029",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.996761:1786973351/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T19:02:25.829504+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "fd52a4928a4f55e74982add0650d32b9",
+      "titulo": "Fachin vota para manter casos de Moraes e de Mendonça separados",
+      "descricao": "Fachin vota para manter casos de Moraes e de Mendonça separados",
+      "link": "https://www.oliberal.com/politica/sessao-plenaria-do-stf-decide-se-abre-investigacao-contra-alexandre-de-moraes-1.1168804",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T19:02:25.434980+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "77d066ab4c5bf39e7d8e2a05e6083ee6",
+      "titulo": "Filha de procurador e sobrinha de desembargador é nomeada delegada após ficar em 2.018º lugar",
+      "descricao": "Ariana Sampaio Sousa conseguiu assumir o cargo de delegada após decisão favorável da Justiça. Foto: reprodução Ariana Sampaio Sousa, filha de procurador e sobrinha de desembargador, conseguiu na Justiça o direito de assumir o cargo; Estado recorreu O post Filha de procurador e sobrinha de desembargador é nomeada delegada após ficar em 2.018º lugar apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/concursos-e-empregos/filha-de-procurador-e-sobrinha-de-desembargador-e-nomeada-delegada-apos-ficar-em-2-018o-lugar/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_-_2026-09-15T150121_131.jpg",
+      "data": "2026-09-15T18:46:22+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "cd62186cb4b2ef122501cea794c6bbe1",
       "titulo": "‘Quem tem medo da Polícia Federal?’, questiona Moraes a Mendonça durante sessão do STF",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "ab90fde7fbd1ac25ce8aede144d0a316",
-      "titulo": "Gilmar critica ações de Mendonça: 'Pixuleco'; ele rebate decano o chamando de 'leviano'",
-      "descricao": "Gilmar critica ações de Mendonça: 'Pixuleco'; ele rebate decano o chamando de 'leviano'",
-      "link": "https://www.oliberal.com/politica/gilmar-critica-acoes-de-mendonca-pixuleco-ele-rebate-decano-o-chamando-de-leviano-1.1168957",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168958:1789487939/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T18:37:51.899780+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0e5d0321dd4381538c46c7ab07a76779",
-      "titulo": "Sessão plenária do STF é retomada após 1h30 de atraso",
-      "descricao": "Sessão plenária do STF é retomada após 1h30 de atraso",
-      "link": "https://www.oliberal.com/politica/sessao-plenaria-do-stf-decide-se-abre-investigacao-contra-alexandre-de-moraes-1.1168804",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T18:37:51.899591+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "aeec4c9cd0f1c3b53906f8012f00e0e3",
       "titulo": "Festival Dançamazônia leva programação gratuita de dança e cultura a Belém",
       "descricao": "Carimbó do Pará O Festival Dançamazônia acontece no Shopping Pátio Belém até quinta-feira (17), com uma programação gratuita que celebra a diversidade de expressões artísticas e culturais da região. O post Festival Dançamazônia leva programação gratuita de dança e cultura a Belém apareceu primeiro em Diário do Pará .",
@@ -39,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/05/convertida_1200x628_imagem_materia-1-e1789497105236.jpg",
       "data": "2026-09-15T18:31:59+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "507b56369461f4e6fd51631cd9ea5334",
-      "titulo": "Baked Alaska retorna ao MasterChef Brasil em prova que define o Top 5",
-      "descricao": "O 17º episódio do MasterChef Brasil definirá os cinco participantes que continuarão na disputa pelo troféu. Foto: Renato Pizzutto/Band Competidores também terão de traduzir os estilos culinários de Erick Jacquin, Helena Rizzo e Henrique Fogaça em criações autorais O post Baked Alaska retorna ao MasterChef Brasil em prova que define o Top 5 apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/masterchef-brasil-top-5-baked-alaska/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/MasterChef-5.jpg",
-      "data": "2026-09-15T18:30:00+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/INcqQ3tta7G2b0d26uhzB66NgZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/8/mrjU2zRrSAjACtvtEQKg/marahu-lab-abre-inscricoes-para-projetos-audiovisuais-da-regiao-norte-com-foco-em-pitching-e-mercado-1-.jpg",
       "data": "2026-09-15T18:00:52+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d610ffde4b782d336573b807a4b55400",
-      "titulo": "Elche x Real Madrid: onde assistir, horário e tudo sobre o jogo de hoje",
-      "descricao": "Real Madrid, de Mbappé e Vinicius Junior, visita o Elche pelo Campeonato Espanhol — Foto: divulgação/reprodução Real Madrid visita o Elche nesta terça-feira pela sexta rodada da LaLiga e tenta manter a pressão sobre o líder Barcelona antes do clássico de domingo. O post Elche x Real Madrid: onde assistir, horário e tudo sobre o jogo de hoje apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/elche-x-real-madrid-onde-assistir-horario-e-tudo-sobre-o-jogo-de-hoje/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_1-1-1.jpg",
-      "data": "2026-09-15T18:00:00+00:00",
       "categoria": "PARÁ"
     }
   ]
