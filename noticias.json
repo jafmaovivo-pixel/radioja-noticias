@@ -1,16 +1,6 @@
 {
-  "atualizado": "2026-09-15T11:03:26.874170+00:00",
+  "atualizado": "2026-09-15T11:35:27.783064+00:00",
   "noticias": [
-    {
-      "id": "aaeaa4751f063e429b68fc37fdec96fc",
-      "titulo": "Flávio Bolsonaro: terça-feira será um dos dias mais importantes nos últimos anos para o Brasil",
-      "descricao": "Flávio Bolsonaro: terça-feira será um dos dias mais importantes nos últimos anos para o Brasil",
-      "link": "https://www.oliberal.com/politica/flavio-bolsonaro-terca-feira-sera-um-dos-dias-mais-importantes-nos-ultimos-anos-para-o-brasil-1.1168630",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168637:1789422474/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T11:03:24.349263+00:00",
-      "categoria": "PARÁ"
-    },
     {
       "id": "e5644807012a54c56b0b570044377e44",
       "titulo": "Juristas fazem manifesto pela quebra total de sigilo do caso Master no STF",
@@ -18,7 +8,17 @@
       "link": "https://www.oliberal.com/politica/juristas-fazem-manifesto-pela-quebra-total-de-sigilo-do-caso-master-no-stf-1.1168619",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167657:1789148898/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T11:03:24.070746+00:00",
+      "data": "2026-09-15T11:35:25.983720+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e30286833b2f7fd199a56e2d6ebf1157",
+      "titulo": "Sessão plenária do STF decide se abre investigação contra Alexandre de Moraes",
+      "descricao": "Sessão plenária do STF decide se abre investigação contra Alexandre de Moraes",
+      "link": "https://www.oliberal.com/politica/sessao-plenaria-do-stf-decide-se-abre-investigacao-contra-alexandre-de-moraes-1.1168804",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T11:35:25.983498+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,37 +28,37 @@
       "link": "https://www.oliberal.com/politica/saiba-como-sera-o-julgamento-de-moraes-no-stf-nesta-terca-feira-15-1.1168664",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1009184:1755741585/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T11:03:23.762709+00:00",
+      "data": "2026-09-15T11:35:25.679940+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "405e194b03ffb1401d4fe56906b2b162",
-      "titulo": "Daniel Santos reforça aliança com a extrema direita em ato com Flávio Bolsonaro e Eder Mauro",
-      "descricao": "Daniel Santos reforça aliança com a extrema direita em ato com Flávio Bolsonaro e Eder Mauro O candidato à Presidência Flávio Bolsonaro cumpriu agenda política em Belém, com motociata e comício. Ele apresentou propostas para economia, segurança pública e maioridade penal. O post Daniel Santos reforça aliança com a extrema direita em ato com Flávio Bolsonaro e Eder Mauro apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/flavio-bolsonaro-sobe-ao-palanque-em-belem-ao-lado-de-daniel-santos-e-eder-mauro/",
+      "id": "60c6ca9c304ea7ea0c42c928b1a9b013",
+      "titulo": "Família Machida amplia negócios e inaugura academia 24h em Ananindeua",
+      "descricao": "Família Machida abre complexo fitness 24h em Ananindeua A Família Machida inaugura a maior academia do Norte em Ananindeua. A Cerpa tem recuperação judicial aceita, e o Guia da Boa Lembrança lança sua segunda edição. Confira as novidades do cenário econômico e social. O post Família Machida amplia negócios e inaugura academia 24h em Ananindeua apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/mauro-bonna/familia-machida-amplia-negocios-e-inaugura-academia-24h-em-ananindeua/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Captura_de_tela_2026-09-15_075334.jpg",
-      "data": "2026-09-15T11:00:00+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_650983483_18192561166359153_469116706298185717_n.jpg",
+      "data": "2026-09-15T11:20:59+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "a6afc6b104d03e040499d2d13258312a",
-      "titulo": "'Não estou aqui para prejudicar o Remo', diz Léo Condé após derrota para o Bahia",
-      "descricao": "'Não estou aqui para prejudicar o Remo', diz Léo Condé após derrota para o Bahia",
-      "link": "https://www.oliberal.com/esportes/remo/nao-estou-aqui-para-prejudicar-o-remo-diz-leo-conde-apos-derrota-para-o-bahia-1.1168790",
+      "id": "b47e871aee17dd4e327b8eb0f596f423",
+      "titulo": "iOS 27 chega com Siri AI e melhorias de desempenho; veja como atualizar",
+      "descricao": "Sistema começa a ser liberado gratuitamente nesta segunda-feira e mantém suporte a modelos desde o iPhone 11, mas recursos avançados de inteligência artificial exigem aparelhos mais recentes. A Apple começa a liberar nesta segunda-feira (14) o iOS 27, nova geração do sistema operacional do iPhone. A atualização gratuita traz mudanças de desempenho, novidades em aplicativos e recursos de inteligência artificial, com destaque para a Siri AI. O post iOS 27 chega com Siri AI e melhorias de desempenho; veja como atualizar apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/ios-27-chega-com-siri-ai-e-melhorias-de-desempenho-veja-como-atualizar/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/IOS27-4.jpg",
+      "data": "2026-09-15T11:19:58+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "aaeaa4751f063e429b68fc37fdec96fc",
+      "titulo": "Flávio Bolsonaro: terça-feira será um dos dias mais importantes nos últimos anos para o Brasil",
+      "descricao": "Flávio Bolsonaro: terça-feira será um dos dias mais importantes nos últimos anos para o Brasil",
+      "link": "https://www.oliberal.com/politica/flavio-bolsonaro-terca-feira-sera-um-dos-dias-mais-importantes-nos-ultimos-anos-para-o-brasil-1.1168630",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1095645:1773267141/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T10:36:06.356188+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "aa82602a77baf9254ff372307fd0b44e",
-      "titulo": "Caixa adia sorteio da Lotofácil da Independência; veja novo horário",
-      "descricao": "Aposta simples da Lotofácil custa R$ 3,50, enquanto jogo com 20 números chega a R$ 54 mil. Foto: divulgação/reprodução A Lotofácil da Independência 2026 se aproxima do sorteio com prêmio estimado em R$ 300 milhões. Saiba como apostar, os prazos e as regras do concurso especial. O post Caixa adia sorteio da Lotofácil da Independência; veja novo horário apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/caixa-adia-sorteio-da-lotofacil-da-independencia-veja-novo-horario/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_-_2026-09-14T155418_209.jpg",
-      "data": "2026-09-15T10:25:00+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168637:1789422474/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T11:03:24.349263+00:00",
       "categoria": "PARÁ"
     },
     {
