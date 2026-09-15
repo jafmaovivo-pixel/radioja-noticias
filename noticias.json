@@ -1,16 +1,6 @@
 {
-  "atualizado": "2026-09-15T19:02:27.265679+00:00",
+  "atualizado": "2026-09-15T19:34:55.276424+00:00",
   "noticias": [
-    {
-      "id": "ab90fde7fbd1ac25ce8aede144d0a316",
-      "titulo": "Gilmar critica ações de Mendonça: 'Pixuleco'; ele rebate decano o chamando de 'leviano'",
-      "descricao": "Gilmar critica ações de Mendonça: 'Pixuleco'; ele rebate decano o chamando de 'leviano'",
-      "link": "https://www.oliberal.com/politica/gilmar-critica-acoes-de-mendonca-pixuleco-ele-rebate-decano-o-chamando-de-leviano-1.1168957",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168958:1789487939/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T19:02:25.829736+00:00",
-      "categoria": "PARÁ"
-    },
     {
       "id": "577a6571e8732591358aa49b338a2ff7",
       "titulo": "Vocatória, suspeição e decano: o que significam os termos citados no julgamento do STF",
@@ -18,7 +8,17 @@
       "link": "https://www.oliberal.com/politica/vocatoria-suspeicao-e-decano-o-que-significam-os-termos-citados-no-julgamento-do-stf-1.1169029",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.996761:1786973351/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T19:02:25.829504+00:00",
+      "data": "2026-09-15T19:34:54.264733+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "777e111a3c9da424049c268992c2cc8a",
+      "titulo": "Fachin vota para manter casos de Moraes e de Mendonça separados",
+      "descricao": "Fachin vota para manter casos de Moraes e de Mendonça separados",
+      "link": "https://www.oliberal.com/politica/fachin-vota-para-manter-casos-de-moraes-e-de-mendonca-separados-1.1169053",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169054:1789499086/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T19:34:54.264495+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,37 +28,37 @@
       "link": "https://www.oliberal.com/politica/sessao-plenaria-do-stf-decide-se-abre-investigacao-contra-alexandre-de-moraes-1.1168804",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T19:02:25.434980+00:00",
+      "data": "2026-09-15T19:34:53.957015+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "77d066ab4c5bf39e7d8e2a05e6083ee6",
-      "titulo": "Filha de procurador e sobrinha de desembargador é nomeada delegada após ficar em 2.018º lugar",
-      "descricao": "Ariana Sampaio Sousa conseguiu assumir o cargo de delegada após decisão favorável da Justiça. Foto: reprodução Ariana Sampaio Sousa, filha de procurador e sobrinha de desembargador, conseguiu na Justiça o direito de assumir o cargo; Estado recorreu O post Filha de procurador e sobrinha de desembargador é nomeada delegada após ficar em 2.018º lugar apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/filha-de-procurador-e-sobrinha-de-desembargador-e-nomeada-delegada-apos-ficar-em-2-018o-lugar/",
+      "id": "607568f06cb516c1ee4694f5da5519c7",
+      "titulo": "Tom Cruise exibe corpo sarado aos 64 anos em ensaio para a GQ e fala sobre novo filme",
+      "descricao": "As imagens foram feitas pelo fotógrafo Mario Sorrenti O ator Tom Cruise, aos 64 anos, é destaque na capa de outubro da revista GQ, exibindo um corpo definido em ensaio fotográfico. Ele também comenta sobre seu novo filme, Digger, e a paixão pelo cinema. O post Tom Cruise exibe corpo sarado aos 64 anos em ensaio para a GQ e fala sobre novo filme apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/tom-cruise-exibe-corpo-sarado-aos-64-anos-em-ensaio-para-a-gq-e-fala-sobre-novo-filme/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_-_2026-09-15T150121_131.jpg",
-      "data": "2026-09-15T18:46:22+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_TC-Cover-Web-WM-5.jpg",
+      "data": "2026-09-15T19:29:57+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "cd62186cb4b2ef122501cea794c6bbe1",
-      "titulo": "‘Quem tem medo da Polícia Federal?’, questiona Moraes a Mendonça durante sessão do STF",
-      "descricao": "‘Quem tem medo da Polícia Federal?’, questiona Moraes a Mendonça durante sessão do STF",
-      "link": "https://www.oliberal.com/politica/quem-tem-medo-da-policia-federal-questiona-moraes-a-mendonca-durante-sessao-do-stf-1.1168940",
+      "id": "14957a5040e303f5c18eb76c12504195",
+      "titulo": "Corre que ainda dá, liso! Veja até que horas é possível apostar na Lotofácil da Independência",
+      "descricao": "Ainda dá tempo de apostar na Lotofácil da Independência? Veja os horários. Foto: Clayton Matos A Lotofácil da Independência 2026 se aproxima do sorteio com prêmio estimado em R$ 300 milhões. Saiba como apostar, os prazos e as regras do concurso especial. O post Corre que ainda dá, liso! Veja até que horas é possível apostar na Lotofácil da Independência apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/corre-que-ainda-da-liso-veja-ate-que-horas-e-possivel-apostar-na-lotofacil-da-independencia/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/20260915_132517.jpg",
+      "data": "2026-09-15T19:17:55+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ab90fde7fbd1ac25ce8aede144d0a316",
+      "titulo": "Gilmar critica ações de Mendonça: 'Pixuleco'; ele rebate decano o chamando de 'leviano'",
+      "descricao": "Gilmar critica ações de Mendonça: 'Pixuleco'; ele rebate decano o chamando de 'leviano'",
+      "link": "https://www.oliberal.com/politica/gilmar-critica-acoes-de-mendonca-pixuleco-ele-rebate-decano-o-chamando-de-leviano-1.1168957",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168942:1789486846/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T18:37:51.899948+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "aeec4c9cd0f1c3b53906f8012f00e0e3",
-      "titulo": "Festival Dançamazônia leva programação gratuita de dança e cultura a Belém",
-      "descricao": "Carimbó do Pará O Festival Dançamazônia acontece no Shopping Pátio Belém até quinta-feira (17), com uma programação gratuita que celebra a diversidade de expressões artísticas e culturais da região. O post Festival Dançamazônia leva programação gratuita de dança e cultura a Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/festival-dancamazonia-leva-programacao-gratuita-de-danca-e-cultura-a-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/05/convertida_1200x628_imagem_materia-1-e1789497105236.jpg",
-      "data": "2026-09-15T18:31:59+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168958:1789487939/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T19:02:25.829736+00:00",
       "categoria": "PARÁ"
     },
     {
