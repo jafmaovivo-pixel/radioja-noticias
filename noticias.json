@@ -1,6 +1,16 @@
 {
-  "atualizado": "2026-09-15T15:03:23.568266+00:00",
+  "atualizado": "2026-09-15T15:36:05.395657+00:00",
   "noticias": [
+    {
+      "id": "067601e3bda754dcc6a84991225cd5b2",
+      "titulo": "Mensagens em celular de Vorcaro indicam pagamento de R$ 500 mil a filho de Nunes Marques",
+      "descricao": "Mensagens em celular de Vorcaro indicam pagamento de R$ 500 mil a filho de Nunes Marques",
+      "link": "https://www.oliberal.com/politica/mensagens-em-celular-de-vorcaro-indicam-pagamento-de-r-500-mil-a-filho-de-nunes-marques-1.1168885",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1107943:1775762359/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T15:36:04.216624+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "08baaa35e97e872334a9ee0a97fb1f01",
       "titulo": "Novos diálogos de Vorcaro envolvem Fux, Kassio e Mendonça antes de sessão",
@@ -8,7 +18,37 @@
       "link": "https://www.oliberal.com/politica/novos-dialogos-de-vorcaro-envolvem-fux-kassio-e-mendonca-antes-de-sessao-1.1168857",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164327:1788399140/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T15:03:21.006748+00:00",
+      "data": "2026-09-15T15:36:04.035256+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d99d6ea73f9812b4fc01eee2e0b35ac2",
+      "titulo": "STF: ministros Dias Toffoli e Kassio Nunes se declaram impedidos de votar",
+      "descricao": "STF: ministros Dias Toffoli e Kassio Nunes se declaram impedidos de votar",
+      "link": "https://www.oliberal.com/politica/sessao-plenaria-do-stf-decide-se-abre-investigacao-contra-alexandre-de-moraes-1.1168804",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T15:36:04.035059+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "fde6213700a768f0f28a757d3ea4efc3",
+      "titulo": "STF reforça segurança para julgamento de Moraes e Vorcaro",
+      "descricao": "Esquema de segurança tem praça fechada e vigilância por drone (Foto: Valter Campanato/Agência Brasil) O Supremo Tribunal Federal (STF) implementou um esquema de segurança rigoroso para a sessão especial desta terça-feira, 15 de setembro de 2026, que julgará o caso envolvendo o ministro Alexandre de Moraes e o empresário Daniel Vorcaro. O post STF reforça segurança para julgamento de Moraes e Vorcaro apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/stf-reforca-seguranca-para-julgamento-de-moraes-e-vorcaro/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_stf3.jpg",
+      "data": "2026-09-15T15:16:45+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f5bdf5fb03dd0cf29c6d45f69fae6cdb",
+      "titulo": "Idosa é atropelada por moto e atingida por caminhão na avenida Júlio César, em Belém; veja o vídeo",
+      "descricao": "Uma idosa de 63 anos morreu na manhã desta terça-feira (15) após ser atropelada por uma motocicleta e, em seguida, atingida por um caminhão-munck na avenida Júlio César, em Belém. Fotos: Sancha Luna Uma idosa de 63 anos morreu na manhã desta terça-feira (15) após ser atropelada por uma motocicleta e, em seguida, atingida por um caminhão-munck na avenida Júlio César, em Belém. O post Idosa é atropelada por moto e atingida por caminhão na avenida Júlio César, em Belém; veja o vídeo apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/idosa-e-atropelada-por-moto-e-atingida-por-caminhao-na-avenida-julio-cesar-em-belem-veja-o-video/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Video-2026-09-15-at-10.58.40.mp4",
+      "data": "2026-09-15T15:13:34+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -19,46 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168865:1789480344/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-15T15:03:21.006669+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0103c8ef962decaf98dff24d0af9388a",
-      "titulo": "Ministro Dias Toffoli se declara impedido de votar no julgamento",
-      "descricao": "Ministro Dias Toffoli se declara impedido de votar no julgamento",
-      "link": "https://www.oliberal.com/politica/sessao-plenaria-do-stf-decide-se-abre-investigacao-contra-alexandre-de-moraes-1.1168804",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T15:03:21.006565+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ebaa009dee6bb74ddb803a8561cb0d2a",
-      "titulo": "Concursos em 2026 somam mais de 160 mil vagas, com salários de até R$ 30 mil; Pará está no radar",
-      "descricao": "Levantamento reúne oportunidades previstas em órgãos federais, estaduais e municipais, com chances para diferentes níveis de escolaridade; Pará tem seleções no radar. O ano de 2026 promete um dos maiores ciclos de concursos públicos, com mais de 160 mil vagas em diversas áreas e salários que podem alcançar R$ 30 mil. O levantamento detalha oportunidades no Pará e em nível nacional. O post Concursos em 2026 somam mais de 160 mil vagas, com salários de até R$ 30 mil; Pará está no radar apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/concursos-em-2026-somam-mais-de-160-mil-vagas-com-salarios-de-ate-r-30-mil-para-esta-no-radar/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/conc2026.webp",
-      "data": "2026-09-15T14:58:42+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e78996d87e5b8851f04401f1181cea2f",
-      "titulo": "Paraense ‘Carapanã’ viaja para lutar na guerra da Ucrânia: 38 brasileiros já morreram no combate",
-      "descricao": "Um paraense de Parauapebas viajou para a Ucrânia para servir na guerra contra a Rússia: 38 brasileiros morreram e 96 estão desaparecidos. Foto: Reprodução Um paraense de Parauapebas viajou para a Ucrânia para servir na guerra contra a Rússia: 38 brasileiros morreram e 96 estão desaparecidos. O post Paraense ‘Carapanã’ viaja para lutar na guerra da Ucrânia: 38 brasileiros já morreram no combate apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/paraense-carapana-viaja-para-lutar-na-guerra-da-ucrania-38-brasileiros-ja-morreram-no-combate/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_800247687_18464732926184689_1851054301957150820_n-1.jpg",
-      "data": "2026-09-15T14:45:50+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bbe67d5bea63f7bf6f9f03c5e7ece5e6",
-      "titulo": "Casas Bahia abre leilões relâmpago de eletrodomésticos e eletrônicos; veja como participar",
-      "descricao": "Disputas serão realizadas pela internet nesta semana e incluem geladeiras, fogões, TVs, notebooks e celulares; compradores devem ficar atentos às condições dos produtos. A Casas Bahia promove dois leilões online de eletrodomésticos e eletrônicos nesta semana, com oportunidades para consumidores de todo o país. Os lances serão encerrados na sexta-feira (18) e sábado (19). O post Casas Bahia abre leilões relâmpago de eletrodomésticos e eletrônicos; veja como participar apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/casas-bahia-abre-leiloes-relampago-de-eletrodomesticos-e-eletronicos-veja-como-participar/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/leilaobahia5-1.jpg",
-      "data": "2026-09-15T14:34:07+00:00",
       "categoria": "PARÁ"
     },
     {
