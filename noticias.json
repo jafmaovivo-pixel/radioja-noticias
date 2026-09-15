@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-15T12:04:00.872743+00:00",
+  "atualizado": "2026-09-15T12:40:45.018273+00:00",
   "noticias": [
     {
       "id": "e5644807012a54c56b0b570044377e44",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/politica/juristas-fazem-manifesto-pela-quebra-total-de-sigilo-do-caso-master-no-stf-1.1168619",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167657:1789148898/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T12:03:57.209577+00:00",
+      "data": "2026-09-15T12:40:42.076716+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/politica/sessao-plenaria-do-stf-decide-se-abre-investigacao-contra-alexandre-de-moraes-1.1168804",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T12:03:57.209435+00:00",
+      "data": "2026-09-15T12:40:42.076604+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/politica/saiba-como-sera-o-julgamento-de-moraes-no-stf-nesta-terca-feira-15-1.1168664",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1009184:1755741585/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T12:03:57.209224+00:00",
+      "data": "2026-09-15T12:40:42.076485+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "23daac8cfcb54554c7601a0061a577af",
+      "titulo": "Adventure Park chega à Praça Central do Castanheira Shopping",
+      "descricao": "O Castanheira Shopping acaba de ampliar suas opções de entretenimento com a inauguração do Adventure Park, uma atração instalada em sua Praça Central e voltada para o público infantil de 2 a 12 anos. Com foco em movimento, recreação e aventura, a estrutura foi desenvolvida para proporcionar experiências dinâmicas e seguras, consolidando o shopping como […] O post Adventure Park chega à Praça Central do Castanheira Shopping apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/toda/atualidades/adventure-park-chega-a-praca-central-do-castanheira-shopping/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/4cdfe68a-f66a-4bbf-a33d-70a25d8cfcdd-1.jpg",
+      "data": "2026-09-15T12:32:46+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "030df599444ee437678a1c407126a552",
+      "titulo": "Corpo de brasileira desaparecida em Veneza é encontrado após colisão de barco",
+      "descricao": "Gabriella Querino, de 26 anos, estava desaparecida desde sábado (12), após colisão entre embarcações em Veneza. O corpo da brasileira Gabriella Querino Elorriaga, de 26 anos, foi encontrado na Lagoa de Veneza, na Itália, após três dias de buscas. Ela estava desaparecida desde sábado, após colisão de barco. O post Corpo de brasileira desaparecida em Veneza é encontrado após colisão de barco apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/mundo/corpo-de-brasileira-desaparecida-em-veneza-e-encontrado-apos-colisao-de-barco/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_BRA.jpg",
+      "data": "2026-09-15T12:28:53+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,33 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "d2fec92e592a17dd16132754b2362497",
-      "titulo": "Saúde mental: por que cuidar da mente pode fazer diferença na construção da carreira?",
-      "descricao": "Saúde meAntal também deve fazer parte da preparação para uma carreira profissional. Foto: gerada por IA Estudos, trabalho, pressão por resultados e insegurança podem afetar estudantes; especialista explica como o cuidado emocional também faz parte da formação profissional. O post Saúde mental: por que cuidar da mente pode fazer diferença na construção da carreira? apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/dr-responde/saude-mental-por-que-cuidar-da-mente-pode-fazer-diferenca-na-construcao-da-carreira/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_ChatGPT_Image_14_de_set_de_2026_14_18_10.jpg",
-      "data": "2026-09-15T11:42:42+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "6bea6cd1814438ef8ff1caa802b40391",
       "titulo": "Uepa abre 50 vagas gratuitas para especialização em Transtorno do Espectro Autista em Marabá",
-      "descricao": "UEPA Marabá Divulgação A Universidade do Estado do Pará (Uepa) está com inscrições abertas para uma especialização gratuita em Transtorno do Espectro Autista (TEA), em Marabá, no sudeste do estado. Ao todo, são ofertadas 50 vagas para profissionais com formação de nível superior. Os interessados podem se inscrever até 1º de outubro, às 23h59, pelo Sistema de Gestão de Processos Seletivos da Uepa. ✅ Receba as notícias do g1 Pará direto no WhatsApp A seleção será feita por meio da análise de currículo e da Carta de Intenção. O curso terá carga horária de 420 horas, divididas em 13 módulos. As aulas serão realizadas de forma on-line, preferencialmente uma vez por mês, aos finais de semana. O edital também estabelece critérios para participação, vagas reservadas e outras regras da seleção. O documento é o Edital nº 125/2026 e está disponível no site da Uepa. Vídeos com as principais notícias do Pará",
+      "descricao": "Uepa abre 50 vagas para especialização em TEA em Marabá, no Pará A Universidade do Estado do Pará (Uepa) está com inscrições abertas para uma especialização gratuita em Transtorno do Espectro Autista (TEA), em Marabá, no sudeste do estado. Ao todo, são ofertadas 50 vagas para profissionais com formação de nível superior. Os interessados podem se inscrever até 1º de outubro, às 23h59, pelo Sistema de Gestão de Processos Seletivos da Uepa. ✅ Receba as notícias do g1 Pará direto no WhatsApp A seleção será feita por meio da análise de currículo e da Carta de Intenção. O curso terá carga horária de 420 horas, divididas em 13 módulos. As aulas serão realizadas de forma on-line, preferencialmente uma vez por mês, aos finais de semana. O edital também estabelece critérios para participação, vagas reservadas e outras regras da seleção. O documento é o Edital nº 125/2026 e está disponível no site da Uepa. UEPA Marabá Divulgação Vídeos com as principais notícias do Pará",
       "link": "https://g1.globo.com/pa/para/noticia/2026/09/15/uepa-abre-50-vagas-gratuitas-para-especializacao-em-transtorno-do-espectro-autista-em-maraba.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/iQB6A5LRbleXOxx_soqZ2Z5W0iE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/c/r/B4ojsDTIuarO0AXgDvsQ/uepa-maraba.jpg",
       "data": "2026-09-15T11:28:17+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "60c6ca9c304ea7ea0c42c928b1a9b013",
-      "titulo": "Família Machida amplia negócios e inaugura academia 24h em Ananindeua",
-      "descricao": "Família Machida abre complexo fitness 24h em Ananindeua A Família Machida inaugura a maior academia do Norte em Ananindeua. A Cerpa tem recuperação judicial aceita, e o Guia da Boa Lembrança lança sua segunda edição. Confira as novidades do cenário econômico e social. O post Família Machida amplia negócios e inaugura academia 24h em Ananindeua apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/mauro-bonna/familia-machida-amplia-negocios-e-inaugura-academia-24h-em-ananindeua/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_650983483_18192561166359153_469116706298185717_n.jpg",
-      "data": "2026-09-15T11:20:59+00:00",
       "categoria": "PARÁ"
     },
     {
