@@ -1,6 +1,66 @@
 {
-  "atualizado": "2026-09-15T21:03:06.516727+00:00",
+  "atualizado": "2026-09-15T21:33:49.449149+00:00",
   "noticias": [
+    {
+      "id": "cd21b41a270090542334001ce84751a6",
+      "titulo": "Cármen Lúcia vota pela separação dos julgamentos de Moraes e Mendonça",
+      "descricao": "Cármen Lúcia vota pela separação dos julgamentos de Moraes e Mendonça",
+      "link": "https://www.oliberal.com/politica/carmen-lucia-pela-separa%C3%A7%C3%A3o-dos-julgamentos-de-moraes-e-mendonca-1.1169135",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169136:1789506524/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T21:33:47.182093+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f376c2aa6147b161e6f0e2edcdbedc3f",
+      "titulo": "STF: Como votou cada ministro sobre união dos casos de Moraes e Mendonça",
+      "descricao": "STF: Como votou cada ministro sobre união dos casos de Moraes e Mendonça",
+      "link": "https://www.oliberal.com/politica/stf-como-votou-cada-ministro-sobre-uniao-dos-casos-de-moraes-e-mendonca-1.1169079",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169081:1789502793/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T21:33:46.993781+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b670f8d1369dc7ad7ffc1ca7d7f8c7d0",
+      "titulo": "Placar termina 4 a 3 para separar casos de Moraes e de Mendonça",
+      "descricao": "Placar termina 4 a 3 para separar casos de Moraes e de Mendonça",
+      "link": "https://www.oliberal.com/politica/sessao-plenaria-do-stf-decide-se-abre-investigacao-contra-alexandre-de-moraes-1.1168804",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-15T21:33:46.669607+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c3e9b27ef61901f676165c3eac33608e",
+      "titulo": "Emmys 2026: Zendaya, Selena Gomez e Nicole Kidman roubam a cena com looks de gala no tapete vermelho",
+      "descricao": "Nicole Kidman (à esquerda), Zendaya (ao centro) e Selena Gomez (à direita) na cerimônia do Emmy Awards de 2026. Crédito:Christopher Polk/Deadline via Getty; Monica Schipper/Getty; LISA O'CONNOR / AFP via Getty Premiação reuniu estrelas de Hollywood em produções de alta-costura, com vestidos brilhantes, tons vibrantes e referências ao glamour clássico O post Emmys 2026: Zendaya, Selena Gomez e Nicole Kidman roubam a cena com looks de gala no tapete vermelho apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/emmys-2026-zendaya-selena-gomez-e-nicole-kidman-roubam-a-cena-com-looks-de-gala-no-tapete-vermelho/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_nicole-kidman-zendaya-selena-gomez-091426-a760e892e1c1460d862657c82e69ced0.jpg",
+      "data": "2026-09-15T21:27:59+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "82f0de5631910580c54aec94e0d18369",
+      "titulo": "Era ponto de descarte de lixo: área da Centenário ganha nova cara em Belém",
+      "descricao": "Revitalização também prevê a recuperação da grama do talude do canal José Pires. Foto: Paula Lourinho/Ag. Belém Intervenção da Prefeitura de Belém recupera drenagem, passeio público e áreas verdes em dois pontos que acumulavam lixo, entulho e água. O post Era ponto de descarte de lixo: área da Centenário ganha nova cara em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/era-ponto-de-descarte-de-lixo-area-da-centenario-ganha-nova-cara-em-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Revitalizacao-Av_-Centenario-Sec_-Sezel-82-2048x1369-1.jpg",
+      "data": "2026-09-15T21:17:23+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "41084e766948e626593be309514dcc1e",
+      "titulo": "Homem é preso por suspeita de torturar namorada com faca e cortar cabelo da vítima em Belém",
+      "descricao": "Sirene Polícia Militar Reprodução Google Um homem foi preso em flagrante nesta segunda-feira (14), no distrito de Icoaraci, em Belém, investigado por torturar a companheira em contexto de violência doméstica. Segundo a Polícia Civil, a mulher sofria agressões frequentes e foi localizada no bairro Parque Guajará com sinais de violência física. De acordo com as investigações, em um dos episódios de violência, a vítima foi ferida com uma faca e teve os cabelos cortados pelo suspeito. A Polícia Civil informou ainda que a mulher sofreu violência sexual e patrimonial, além de ter sido obrigada ou induzida a consumir drogas. A prisão foi realizada pela Delegacia Especializada no Atendimento à Mulher (Deam) de Icoaraci. Durante a ação, os policiais apreenderam 368 gramas de uma substância semelhante à maconha. O suspeito foi encaminhado à Seccional Urbana de Icoaraci e permanece à disposição da Justiça. O caso segue sob investigação. ✅ Clique e siga o canal do g1 Pará no WhatsApp Agora no g1 VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/15/homem-e-preso-por-suspeita-de-torturar-mulher-com-faca-e-cortar-cabelo-da-vitima-em-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg",
+      "data": "2026-09-15T21:04:52+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "4827c661d8fa3f14c29566301e8d0582",
       "titulo": "Fachin: Não há dúvida que precisamos analisar pedido da PGR para declarar nulidade de apuração",
@@ -12,73 +72,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "e27fa149a6e217eb19d8b15628689270",
-      "titulo": "Moraes diz que há 'miscelânea procedimental' e acompanha Gilmar em julgamento no STF",
-      "descricao": "Moraes diz que há 'miscelânea procedimental' e acompanha Gilmar em julgamento no STF",
-      "link": "https://www.oliberal.com/politica/moraes-diz-que-ha-miscelanea-procedimental-e-acompanha-gilmar-em-julgamento-no-stf-1.1169108",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169112:1789505097/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T21:03:04.867405+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "df30817caaebc238425d356a054bc659",
-      "titulo": "Dino e Zanin votam para juntar casos de Moraes e de Mendonça",
-      "descricao": "Dino e Zanin votam para juntar casos de Moraes e de Mendonça",
-      "link": "https://www.oliberal.com/politica/sessao-plenaria-do-stf-decide-se-abre-investigacao-contra-alexandre-de-moraes-1.1168804",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T21:03:04.544002+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "57178768f442da14ddb1e8636dde0d58",
-      "titulo": "Renata, mulher de Carlos Alberto de Nóbrega, troca joia por viagem no aniversário",
-      "descricao": "Renata Domingues completou 48 anos nesta terça-feira (15) e escolheu comemorar a data ao lado do marido e dos familiares. Foto: Reprodução/Instagram Médica decidiu deixar de lado o tradicional presente de aniversário e escolheu comemorar os 48 anos ao lado do marido e da família, em meio ao frio e chocolate quente O post Renata, mulher de Carlos Alberto de Nóbrega, troca joia por viagem no aniversário apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/renata-mulher-de-carlos-alberto-de-nobrega-troca-joia-por-viagem-no-aniversario/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_renata-e-carlos-alberto-2.jpg",
-      "data": "2026-09-15T20:51:17+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "8e78b61d07521dd9cb0a16ee36ccc1ec",
       "titulo": "Mãe é golpeada e morre ao tentar apartar briga entre os filhos em Cametá, no Pará",
-      "descricao": "Uma mulher identificada como Maria Martinha morreu após ser golpeada ao tentar apartar uma briga entre os próprios filhos, em Cametá, no nordeste do Pará. Ela chegou a ser socorrida e encaminhada para atendimento médico, mas não resistiu aos ferimentos. Maria Martinha tentou intervir na briga quando foi atingida por um objeto cortante. Ainda não há informações confirmadas sobre qual dos envolvidos teria atingido a vítima, o que motivou a briga e se houve prisão. A Polícia Civil foi procurada para informar as circunstâncias do caso, quem é apontado como responsável pelo golpe e quais providências foram adotadas na investigação. ✅ Clique e siga o canal do g1 Pará no WhatsApp Agora no g1 VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
+      "descricao": "Mãe é golpeada e morre ao tentar apartar briga entre os filhos em Cametá, no Pará Arquivo pessoal Uma mulher identificada como Maria Martinha morreu após ser golpeada ao tentar apartar uma briga entre os próprios filhos, em Cametá, no nordeste do Pará. Ela chegou a ser socorrida e encaminhada para atendimento médico, mas não resistiu aos ferimentos. Maria Martinha tentou intervir na briga quando foi atingida por um objeto cortante. Ainda não há informações confirmadas sobre qual dos envolvidos teria atingido a vítima, o que motivou a briga e se houve prisão. A Polícia Civil foi procurada para informar as circunstâncias do caso, quem é apontado como responsável pelo golpe e quais providências foram adotadas na investigação. ✅ Clique e siga o canal do g1 Pará no WhatsApp Agora no g1 VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
       "link": "https://g1.globo.com/pa/para/noticia/2026/09/15/mae-e-golpeada-e-morre-ao-tentar-apartar-briga-entre-os-filhos-em-cameta.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055",
+      "imagem": "https://s2-g1.glbimg.com/SWbnIWWBAkWQdmyFGye0Qtap0Ss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/9NNCAhQGOyTUVIulYkhA/chatgpt-image-15-de-set.-de-2026-18-09-45.png",
       "data": "2026-09-15T20:51:13+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2e87bb48a5c18bd8764a398bfbc20967",
-      "titulo": "Quem decide se investigação prossegue ou não é o STF, diz Fachin",
-      "descricao": "Quem decide se investigação prossegue ou não é o STF, diz Fachin",
-      "link": "https://www.oliberal.com/politica/quem-decide-se-investigacao-prossegue-ou-nao-e-o-stf-diz-fachin-1.1169090",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-15T20:34:32.584181+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8d821d8c6bcee3ab8f904e10c668e555",
-      "titulo": "Arqueólogos identificam cidade bíblica onde Jesus teria realizado milagres em Israel",
-      "descricao": "O sítio de el-Araj fica às margens do Mar da Galileia. Arqueólogos em Israel afirmam ter reunido evidências suficientes para identificar o sítio de el-Araj, às margens do Mar da Galileia, como a antiga Betsaida, cidade natal de apóstolos e palco de milagres de Jesus. O post Arqueólogos identificam cidade bíblica onde Jesus teria realizado milagres em Israel apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/arqueologos-identificam-cidade-biblica-onde-jesus-teria-realizado-milagres-em-israel/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_oH_ZBGfomrclKZtvkggxGhJgNZN8iY33-S3dprbjN68jjd9Cpg5EtUXbavWEW2LcmGaeOSSZIcWrSUN4E4YLBAc57HUQ0ja7gHzC5hWq671183CCS4q3_Fb9.jpg",
-      "data": "2026-09-15T20:24:51+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fe60ec2c451ca5020dfb2681093b5a6a",
-      "titulo": "Cantor paraense Davi Leão morre em Curitiba",
-      "descricao": "Cantor paraense Davi Leão. Fábio Viana O cantor paraense Davi de Leão Reis, conhecido como Davi Leão, ex-vocalista das banda paraenses Red Velvet e Quadraphonic, morreu aos 40 anos em Curituba (PR), neste domingo (13). Amigos e integrantes das bandas confirmaram a informação ao g1 nesta terça-feira (15). Segundo eles, o artista, que estava internado no Hospital das Clínicas, sofreu uma parada cardíaca após apresentar um quadro de sepse (infecção generalizada), condição diagnosticada na semana passada. Davi ganhou destaque pela atuação nos palcos de Belém, entre shows em casas de pop e rock e apresentações em festivais e eventos privados. Recentemente, o artista havia se mudado em agosto para Curitiba, onde pretendia recomeçar a trajetória profissional na música. A notícia da morte provocou comoção entre músicos, amigos e fãs que acompanhavam o trabalho do cantor. Nas redes sociais, artistas paraenses e pessoas próximas publicaram mensagens de despedida e homenagens. \"Uma perda para a música, para o rock e pela amizade. Davi Leão é o que espero de um músico independente de sua fama: humildade e amizade\", declarou o dj Dan Botelho. Agora no g1 ✅ Siga o canal do g1 Pará no WhatsApp Em nota, o Cineclube Paraense reconheceu a importância de Davi Leão para o cenário cultural paraense e registrou respeito à memória do artista. \"A música paraense se despede de uma de suas vozes\", diz um trecho da manifestação, que também enviou condolências aos amigos e familiares do cantor. \"Extraordinário, carismático e cheio de sonhos, Davi deixa uma marca que vai muito além da música. Ficam a saudade e a gratidão por todos os momentos que ele nos proporcionou em cima do nosso palco\", destacou uma casa de shows de rock em Belém. Davi Leão morreu em Curitiba. Reprodução / Redes sociais VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/15/cantor-paraense-davi-leao-morre-em-curitiba.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/hoN2nZhAikj74wQx3yBpXMkzTLo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/e/o5zsstQxiAbaw7MYrk7A/geral-g1-27-.png",
-      "data": "2026-09-15T20:11:56+00:00",
       "categoria": "PARÁ"
     }
   ]
