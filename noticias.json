@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-16T12:04:02.109087+00:00",
+  "atualizado": "2026-09-16T12:40:55.274308+00:00",
   "noticias": [
+    {
+      "id": "4d9e888f442ee123798a0e81d99d9aa2",
+      "titulo": "Nono suspeito de participação na execução de sargento da PM é morto em Mãe do Rio",
+      "descricao": "Nono suspeito de participação na execução de sargento da PM é morto em Mãe do Rio",
+      "link": "https://www.oliberal.com/policia/nono-suspeito-de-participacao-na-execucao-de-sargento-da-pm-e-morto-em-mae-do-rio-1.1154235",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
+      "data": "2026-09-16T12:40:54.287386+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b1ba3a1c94f1e6b5ea6af6095742310a",
+      "titulo": "Polícia Militar prende suspeita de participação na morte de sargento Alves; outra morre em confronto",
+      "descricao": "Polícia Militar prende suspeita de participação na morte de sargento Alves; outra morre em confronto",
+      "link": "https://www.oliberal.com/policia/policia-militar-prende-suspeita-de-participacao-na-morte-de-sargento-alves-outra-morre-em-confronto-1.1153911",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1153913:1785976004/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-16T12:40:53.833522+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0cbfd4e0170e733aa2141bcb8192768f",
+      "titulo": "Influenciadora investigada por morte de sargento é executada a tiros",
+      "descricao": "Influenciadora investigada por morte de sargento é executada a tiros",
+      "link": "https://www.oliberal.com/policia/influenciadora-investigada-por-morte-de-sargento-e-executada-a-tiros-em-mae-do-rio-1.1169289",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169290:1789559967/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-16T12:40:53.570630+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9da603bc6e8ea6a02391e54573f3de7c",
+      "titulo": "LDU x Palmeiras: onde assistir ao jogo da volta das quartas da Libertadores",
+      "descricao": "Cesar Greco/Palmeiras/by Canon Gol de Augustín Giay no Nubank Parque deu ao Verdão a vantagem de 1 a 0 no confronto de ida, disputado em São Paulo O post LDU x Palmeiras: onde assistir ao jogo da volta das quartas da Libertadores apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/ldu-x-palmeiras-onde-assistir-ao-jogo-da-volta-das-quartas-da-libertadores/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_palei.jpg",
+      "data": "2026-09-16T12:30:58+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6a4f89466294ca250f04228bb2f5f673",
+      "titulo": "Greve da Caixa pode travar saque de R$ 4,48 milhões da Lotofácil; entenda",
+      "descricao": "Lotofácil: como sacar prêmio de R$ 4,4 milhões na greve da Caixa A greve dos funcionários da Caixa Econômica Federal pode atrasar o pagamento dos prêmios da Lotofácil da Independência. Os 72 ganhadores terão de esperar para sacar os R$ 4,48 milhões. O post Greve da Caixa pode travar saque de R$ 4,48 milhões da Lotofácil; entenda apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/greve-da-caixa-pode-travar-saque-de-r-448-milhoes-da-lotofacil-entenda/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_56.jpg",
+      "data": "2026-09-16T12:17:09+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "e401290f664d7a9fb660c8ea6109d97a",
       "titulo": "Família pede ajuda após incêndio destruir casa no Guamá",
@@ -12,26 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "dbb590652194ab591b2ca2c9b3fe3a49",
-      "titulo": "Anvisa determina proibição da tirzepatida fabricada no Paraguai",
-      "descricao": "Anvisa determina proibição da tirzepatida fabricada no Paraguai",
-      "link": "https://www.oliberal.com/saude/anvisa-determina-proibicao-da-t36-tirzepatida-fabricada-no-paraguai-1.1169274",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.531551:1785418857/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T12:04:00.927181+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3b4d1f959d6dafaba913e7ffe7f279b0",
-      "titulo": "Vias alternativas à avenidas de Belém têm aumento no fluxo; veja quais",
-      "descricao": "Vias alternativas à avenidas de Belém têm aumento no fluxo; veja quais",
-      "link": "https://www.oliberal.com/belem/vias-alternativas-a-augusto-montenegro-bruno-sechi-e-rodovia-do-tapana-tem-aumento-de-fluxo-1.1168964",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168973:1789488697/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T12:04:00.747254+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "1441c1dbfe6eac8efcb3dc4cf3eef2d0",
       "titulo": "Influenciadora é morta a tiros em Mãe do Rio, no Pará",
       "descricao": "Polícia investiga morte de influenciadora em Mãe do Rio, no PA A influenciadora Evelyn Lima Dantas, de 46 anos, foi morta a tiros na madrugada desta quarta-feira (16), em Mãe do Rio, no nordeste Pará. O crime ocorreu em uma casa na rua Bernardo Ferreira de Oliveira, no bairro São Francisco. Segundo a Polícia Militar (PM), a vítima estava em liberdade provisória há poucos dias. Evelyn havia sido presa por envolvimento na morte do sargento da reserva Antônio Anildo Alves, morto em Mãe do Rio no dia 29 de julho deste ano. O relato de ocorrência da PM aponta que a guarnição foi acionada por volta das 3h57, depois que moradores próximos a uma Unidade Básica de Saúde (UBS) ouviram diversos disparos de arma de fogo. Ao chegar ao local, em uma casa em frente à unidade de saúde, os policiais encontraram o corpo de Evelyn na calçada, coberto por um lençol. De acordo com a PM, um dos familiares da mulher estava lavando o local e foi orientado pela guarnição a parar, para preservar a área do crime. A família contou que, por volta das 3h30, dois homens invadiram a casa, renderam e arrastaram a vítima até a parte da frente da residência. Evelyn foi morta com diversos tiros. Evelyn Lima Dantas. Reprodução / Redes sociais ✅ Siga o canal do g1 Pará no WhatsApp Antes de fugirem, os criminosos picharam, na frente do imóvel, a sigla \"TCP\" (Terceiro Comando Puro, uma facção criminosa do Rio de Janeiro). Segundo o pai da vítima, os indivíduos estavam em um carro, mas ele não soube informar o modelo ou a cor do veículo. A polícia fez o isolamento do local e acionou a Polícia Civil (PC) para as medidas cabíveis. Equipes seguem em diligências para identificar e capturar os envolvidos. Informações que possam contribuir com as investigações podem ser repassadas pelo disque denúncia, no 181. O sigilo é garantido. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
@@ -39,36 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/kfB0i51FNQOYAy9ymP6I0ZrtKgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/AelRwnQmiQpBPwQfZGIg/geral-g1-29-.png",
       "data": "2026-09-16T11:58:34+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0b4b6d0c9f5470e7cfad7126521c3759",
-      "titulo": "Gabriela deixa o MasterChef, mas ganha convite de Jacquin para trabalhar em seus restaurantes",
-      "descricao": "Gabriela deixou o MasterChef após enfrentar problemas no preparo do Baked Alaska, mas recebeu de Jacquin um broche e um convite para conhecer a rotina de seus restaurantes. Foto: Renato Pizzutto/Band Obstetra errou a estrutura do sorvete na prova do Baked Alaska, despediu-se da competição e celebrou a trajetória acima das próprias expectativas O post Gabriela deixa o MasterChef, mas ganha convite de Jacquin para trabalhar em seus restaurantes apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/gabriela-eliminada-masterchef-convite-jacquin/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Gabriela-MasterChef.jpg",
-      "data": "2026-09-16T11:51:15+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bdb4bd06c1e95e45186cf6695380b8d6",
-      "titulo": "Remo oficializa Thiago Carpini como novo treinador do time",
-      "descricao": "Remo oficializa Thiago Carpini como novo treinador do time",
-      "link": "https://www.oliberal.com/esportes/remo/thiago-carpini-e-o-novo-treinador-do-remo-1.1169175",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169002:1789492292/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T11:36:43.473359+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e87fc4d5364ff74582a6616d388a7b27",
-      "titulo": "Quem era a influenciadora morta após ser solta por envolvimento na morte de sargento da PM? Ela ganhou milhares de seguidores",
-      "descricao": "Influenciadora foi presa após morte de sargento no Pará A influenciadora digital Evelyn Lima Dantas, investigada pela morte de um PM, foi assassinada a tiros em Mãe do Rio, no Pará. Ela estava em liberdade provisória havia poucos dias. O post Quem era a influenciadora morta após ser solta por envolvimento na morte de sargento da PM? Ela ganhou milhares de seguidores apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/quem-era-a-influenciadora-morta-apos-ser-solta-por-envolvimento-na-morte-de-sargento-da-pm-ela-ganhou-milhares-de-seguidores/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/crop_4_1785527536.jpg",
-      "data": "2026-09-16T11:34:50+00:00",
       "categoria": "PARÁ"
     },
     {
