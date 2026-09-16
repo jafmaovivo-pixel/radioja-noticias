@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-16T11:03:16.963866+00:00",
+  "atualizado": "2026-09-16T11:36:47.256458+00:00",
   "noticias": [
+    {
+      "id": "e401290f664d7a9fb660c8ea6109d97a",
+      "titulo": "Família pede ajuda após incêndio destruir casa no Guamá",
+      "descricao": "Família pede ajuda após incêndio destruir casa no Guamá",
+      "link": "https://www.oliberal.com/policia/familia-pede-ajuda-apos-incendio-destruir-casa-no-guama-em-belem-1.1169199",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169201:1789513917/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-16T11:36:43.822924+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bdb4bd06c1e95e45186cf6695380b8d6",
+      "titulo": "Remo oficializa Thiago Carpini como novo treinador do time",
+      "descricao": "Remo oficializa Thiago Carpini como novo treinador do time",
+      "link": "https://www.oliberal.com/esportes/remo/thiago-carpini-e-o-novo-treinador-do-remo-1.1169175",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169002:1789492292/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-16T11:36:43.473359+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "fbd1cb19a42728fb74e7c67e707705cf",
+      "titulo": "Vias alternativas à Augusto Montenegro, Bruno Sechi e Rodovia do Tapanã têm aumento no trânsito",
+      "descricao": "Vias alternativas à Augusto Montenegro, Bruno Sechi e Rodovia do Tapanã têm aumento no trânsito",
+      "link": "https://www.oliberal.com/belem/vias-alternativas-a-augusto-montenegro-bruno-sechi-e-rodovia-do-tapana-tem-aumento-no-transito-1.1168964",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168973:1789488697/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-16T11:36:43.126347+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d2876281bc58a4577cb25dc2b1c607ac",
+      "titulo": "INSS libera R$ 230 milhões para quase 37 mil pescadores nesta semana",
+      "descricao": "Que não receba outro benefício previdenciário, salvo as exceções previstas; O INSS inicia o pagamento do terceiro lote do seguro-defeso para pescadores artesanais entre 15 e 19 de setembro. Mais de R$ 230 milhões serão destinados a 36.969 beneficiários. O post INSS libera R$ 230 milhões para quase 37 mil pescadores nesta semana apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/inss-libera-r-230-milhoes-para-quase-37-mil-pescadores-nesta-semana/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://diariodopara.com.br/wp-content/uploads/2023/01/fraudes-seguro-defeso.jpg",
+      "data": "2026-09-16T11:10:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "a740fd2345bbfa6dc4f7fdb262e34d4b",
       "titulo": "STF: veja como foi a votação e os próximos passos do julgamento",
@@ -12,53 +52,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "3e8515dceadf63c48e386c3f92ea866b",
-      "titulo": "'Me sinto envergonhada', diz Cármen Lúcia durante sessão do STF",
-      "descricao": "'Me sinto envergonhada', diz Cármen Lúcia durante sessão do STF",
-      "link": "https://www.oliberal.com/brasil/me-sinto-envergonhada-diz-carmen-lucia-durante-sessao-do-stf-1.1169231",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.983172:1750870453/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T11:03:13.226847+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "43e0bd17d13e5155727fa6b0e567cce1",
-      "titulo": "Sem voto de Dino, placar fica 4 a 3 contra questão de ordem de Gilmar",
-      "descricao": "Sem voto de Dino, placar fica 4 a 3 contra questão de ordem de Gilmar",
-      "link": "https://www.oliberal.com/politica/sem-voto-de-dino-placar-fica-4-a-3-contra-questao-de-ordem-de-gilmar-no-stf-1.1169173",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169044:1789498157/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T11:03:13.226705+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fa3cf31c14b2b10916aa547656147b05",
-      "titulo": "Influenciadora envolvida na morte de PM é morta após ser solta, em Mãe do Rio",
-      "descricao": "A influenciadora Evelyn Lima Dantas, investigada pela participação na morte de um policial militar foi assassinada a tiros no Pará. A influenciadora Evelyn Lima Dantas, investigada pela participação na morte de um policial militar foi assassinada a tiros no Pará. O post Influenciadora envolvida na morte de PM é morta após ser solta, em Mãe do Rio apareceu primeiro em Diário do Pará .",
+      "id": "c61b8c9707e529344c6c40ba06884653",
+      "titulo": "Influenciadora envolvida na morte de PM é morta após ser solta em Mãe do Rio",
+      "descricao": "A influenciadora Evelyn Lima Dantas, investigada pela participação na morte de um policial militar foi assassinada a tiros no Pará. A influenciadora Evelyn Lima Dantas, investigada pela participação na morte de um policial militar foi assassinada a tiros no Pará. O post Influenciadora envolvida na morte de PM é morta após ser solta em Mãe do Rio apareceu primeiro em Diário do Pará .",
       "link": "https://diariodopara.com.br/policia/influenciadora-envolvida-na-morte-de-pm-e-morta-apos-ser-solta-em-mae-do-rio/",
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/evely.jpg",
       "data": "2026-09-16T10:54:58+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a7759058e55286248a7fffcda08d5ceb",
-      "titulo": "IFPA oferece 40 vagas gratuitas para Técnico em Segurança do Trabalho",
-      "descricao": "IFPA abre 40 vagas sem prova para curso técnico em Ananindeua O IFPA Campus Ananindeua abriu 40 vagas gratuitas para o curso Técnico em Segurança do Trabalho, com inscrições presenciais nesta quinta-feira (18). A seleção será por análise de notas do Ensino Médio. O post IFPA oferece 40 vagas gratuitas para Técnico em Segurança do Trabalho apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/ifpa-oferece-40-vagas-gratuitas-para-tecnico-em-seguranca-do-trabalho/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Artigo-23-Capa-Seguranca-do-Trabalho-Dicas-r0tz1amxutww1o2z3458mjrjgnuphtus4w24qijm9m.jpg",
-      "data": "2026-09-16T10:17:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "495420da5c6ce15f9d1fb3196580c4f6",
-      "titulo": "Sesc Pará celebra 80 anos com concerto de Valéria Paiva e Orquestra Jovem",
-      "descricao": "O Sesc Pará celebra 80 anos com um concerto especial que une a cantora Valéria Paiva e a Orquestra Jovem Sesc Pará. O evento revisita clássicos do brega paraense em arranjos sinfônicos e tem entrada gratuita. O post Sesc Pará celebra 80 anos com concerto de Valéria Paiva e Orquestra Jovem apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/voce/sesc-para-celebra-80-anos-com-concerto-de-valeria-paiva-e-orquestra-jovem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Orquestra_Jovem_Sesc_Para_-_Foto_-_Evellyn_Pereira_jpg.jpg",
-      "data": "2026-09-16T10:02:00+00:00",
       "categoria": "PARÁ"
     },
     {
