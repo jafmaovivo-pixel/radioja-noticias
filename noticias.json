@@ -1,16 +1,6 @@
 {
-  "atualizado": "2026-09-16T20:36:02.535083+00:00",
+  "atualizado": "2026-09-16T21:03:00.899299+00:00",
   "noticias": [
-    {
-      "id": "8750a6ad671cf1ced891c6ae620f5374",
-      "titulo": "Lula cobra Fachin para evitar impacto do caso Master nas eleições",
-      "descricao": "Lula cobra Fachin para evitar impacto do caso Master nas eleições",
-      "link": "https://www.oliberal.com/brasil/lula-cobra-fachin-para-evitar-impacto-do-caso-master-nas-eleicoes-1.1169480",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1138932:1789572080/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T20:36:01.063942+00:00",
-      "categoria": "PARÁ"
-    },
     {
       "id": "a007b10a7b8527774e3617620baabdd0",
       "titulo": "Ministro de Lula diz que resultado do STF foi bom e mira agora 'desconstruir imagem de Flávio'",
@@ -18,7 +8,17 @@
       "link": "https://www.oliberal.com/politica/ministro-de-lula-diz-que-resultado-do-stf-foi-bom-e-mira-agora-desconstruir-imagem-de-flavio-1.1169491",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1060075:1765317072/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T20:36:01.063783+00:00",
+      "data": "2026-09-16T21:02:58.585928+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "15911b7bf4aaca2593616fb6d0957632",
+      "titulo": "Cármen Lúcia diz lamentar descrença e desânimo com instituições em meio à crise no STF",
+      "descricao": "Cármen Lúcia diz lamentar descrença e desânimo com instituições em meio à crise no STF",
+      "link": "https://www.oliberal.com/politica/carmen-lucia-diz-lamentar-descrenca-e-desanimo-com-instituicoes-em-meio-a-crise-no-stf-1.1169513",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-16T21:02:58.585683+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,27 +28,37 @@
       "link": "https://www.oliberal.com/politica/pesquisa-aponta-que-45-veem-criterios-politicos-em-decisoes-de-moraes-28-nas-de-mendonca-1.1169457",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163704:1788288370/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T20:36:01.063613+00:00",
+      "data": "2026-09-16T21:02:58.356914+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "517604233ee5c99acdfd7f0cab8d2788",
-      "titulo": "Vilã à vista? Giovanna Gold já causa em A Fazenda 18; conheça a famosa",
-      "descricao": "Giovanna Gold. Foto: Record/ Reprodução Aos 62 anos, atriz baiana soma mais de quatro décadas de carreira, passou por Globo, SBT e Record e já protagonizou discussões nos primeiros dias de A Fazenda 18 O post Vilã à vista? Giovanna Gold já causa em A Fazenda 18; conheça a famosa apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/vila-a-vista-giovanna-gold-ja-causa-em-a-fazenda-18-conheca-a-famosa/",
+      "id": "dbba51144222690eb73b7f1d44a8eb15",
+      "titulo": "7ª edição da Domingueira terá atrações gratuitas para toda a família em Belém",
+      "descricao": "O evento conta com atrações para todas as idades. Foto: Ag. Belém. A 7ª edição da Domingueira em Belém oferece um dia de lazer gratuito no Parque Linear da Av. Tamandaré, com música, gastronomia, atividades infantis e educação ambiental para toda a família. O post 7ª edição da Domingueira terá atrações gratuitas para toda a família em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/7a-edicao-da-domingueira-tera-atracoes-gratuitas-para-toda-a-familia-em-belem/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_whatsapp-image-2026-09-14-at-23_30_08.jpg",
-      "data": "2026-09-16T20:24:54+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_DOMINGUEIRA-105-1-1024x658-1.jpg",
+      "data": "2026-09-16T20:59:14+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "3cdcba8964dc8d2e0234a59c6308e934",
-      "titulo": "50 Top Pizza World: conheça as seis pizzarias brasileiras que estão entre as melhores do mundo em 2026",
-      "descricao": "Pizzas da Leggera Pizza Napoletana, que alcançou o sexto lugar no ranking mundial. Foto: Reprodução/Instagram. Seis pizzarias brasileiras foram reconhecidas entre as 100 melhores do mundo pelo ranking 50 Top Pizza World 2026. A Leggera Pizza Napoletana, de São Paulo, foi a mais bem colocada, na 6ª posição. O post 50 Top Pizza World: conheça as seis pizzarias brasileiras que estão entre as melhores do mundo em 2026 apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/50-top-pizza-world-conheca-as-seis-pizzarias-brasileiras-que-estao-entre-as-melhores-do-mundo-em-2026/",
+      "id": "fea4b926d47e5a97838456554d7aad59",
+      "titulo": "Por que algumas pessoas ficam em silêncio durante uma discussão? A psicologia explica",
+      "descricao": "Apesar de o comportamento poder ser interpretado como frieza ou indiferença, ele também pode estar relacionado à sobrecarga emocional. Foto: Reprodução. O silêncio durante uma discussão pode ser mal interpretado, mas a psicologia explica que nem sempre é desprezo. Entenda como essa pausa pode ser uma forma de proteção e como transformá-la em uma ferramenta saudável para o relacionamento. O post Por que algumas pessoas ficam em silêncio durante uma discussão? A psicologia explica apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/por-que-algumas-pessoas-ficam-em-silencio-durante-uma-discussao-a-psicologia-explica/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-16_at_16_15_53.jpg",
-      "data": "2026-09-16T20:20:03+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_74-1.jpg",
+      "data": "2026-09-16T20:55:19+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8750a6ad671cf1ced891c6ae620f5374",
+      "titulo": "Lula cobra Fachin para evitar impacto do caso Master nas eleições",
+      "descricao": "Lula cobra Fachin para evitar impacto do caso Master nas eleições",
+      "link": "https://www.oliberal.com/brasil/lula-cobra-fachin-para-evitar-impacto-do-caso-master-nas-eleicoes-1.1169480",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1138932:1789572080/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-16T20:36:01.063942+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/w9T2NHv_6jKNxWBUvhhg6NpT7Jk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/4/e5Vl3JRMeBItsGxE0BJg/pc-investiga-invas-o-de-falsos-policiais-civis-a-casa-de-empresario-em-belem.jpg",
       "data": "2026-09-16T19:51:53+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9aca9c538e80596a45193e20eddcb29a",
-      "titulo": "Erik Marmo, ex-Globo, arrecada R$ 200 mil para reconstruir casa após incêndio nos EUA",
-      "descricao": "Erik Marmo, 50, conhecido por atuar em \"Mulheres Apaixonadas\" e \"Alma Gêmea\". Foto: Reprodução Ex-galã da Globo teve imóvel atingido por incêndio em Beverly Hills e já conseguiu mais da metade do valor estabelecido na campanha O post Erik Marmo, ex-Globo, arrecada R$ 200 mil para reconstruir casa após incêndio nos EUA apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/erik-marmo-ex-globo-arrecada-r-200-mil-para-reconstruir-casa-apos-incendio-nos-eua/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_inserir-um-titulo-_15_-s163hkp7ob3m.jpg",
-      "data": "2026-09-16T19:38:45+00:00",
       "categoria": "PARÁ"
     }
   ]
