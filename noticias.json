@@ -1,16 +1,6 @@
 {
-  "atualizado": "2026-09-16T00:40:39.205733+00:00",
+  "atualizado": "2026-09-16T01:03:05.654298+00:00",
   "noticias": [
-    {
-      "id": "f376c2aa6147b161e6f0e2edcdbedc3f",
-      "titulo": "STF: Como votou cada ministro sobre união dos casos de Moraes e Mendonça",
-      "descricao": "STF: Como votou cada ministro sobre união dos casos de Moraes e Mendonça",
-      "link": "https://www.oliberal.com/politica/stf-como-votou-cada-ministro-sobre-uniao-dos-casos-de-moraes-e-mendonca-1.1169079",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169081:1789502793/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T00:40:36.065803+00:00",
-      "categoria": "PARÁ"
-    },
     {
       "id": "a740fd2345bbfa6dc4f7fdb262e34d4b",
       "titulo": "STF: veja como foi a votação e os próximos passos do julgamento",
@@ -18,7 +8,17 @@
       "link": "https://www.oliberal.com/politica/stf-veja-como-foi-a-vota%C3%A7%C3%A3o-e-os-proximos-passos-do-julgamento-1.1169191",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169195:1789512844/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T00:40:36.065692+00:00",
+      "data": "2026-09-16T01:03:02.395247+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3e8515dceadf63c48e386c3f92ea866b",
+      "titulo": "'Me sinto envergonhada', diz Cármen Lúcia durante sessão do STF",
+      "descricao": "'Me sinto envergonhada', diz Cármen Lúcia durante sessão do STF",
+      "link": "https://www.oliberal.com/brasil/me-sinto-envergonhada-diz-carmen-lucia-durante-sessao-do-stf-1.1169231",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.983172:1750870453/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-16T01:03:02.395057+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/politica/sem-voto-de-dino-placar-fica-4-a-3-contra-questao-de-ordem-de-gilmar-no-stf-1.1169173",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169044:1789498157/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-16T00:40:36.065565+00:00",
+      "data": "2026-09-16T01:03:02.076352+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f8a4e6d45d9bef794aad0923ae75bdaf",
+      "titulo": "Lotofácil da Independência: veja os números milionários do concurso 3780 desta terça-feira (15)",
+      "descricao": "Lotofácil da Independência. Foto: Reprodução Confira o resultado do sorteio especial, saiba como apostar, números mais sorteados, e quem levou na Lotofácil o prêmio de R$ 300 milhões. O post Lotofácil da Independência: veja os números milionários do concurso 3780 desta terça-feira (15) apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/loterias/lotofacil-da-independencia-veja-os-numeros-milionarios-do-concurso-3780-desta-terca-feira-15/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_e76bfe835b8df368bfc755f30149055c.jpg",
+      "data": "2026-09-16T00:44:35+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f376c2aa6147b161e6f0e2edcdbedc3f",
+      "titulo": "STF: Como votou cada ministro sobre união dos casos de Moraes e Mendonça",
+      "descricao": "STF: Como votou cada ministro sobre união dos casos de Moraes e Mendonça",
+      "link": "https://www.oliberal.com/politica/stf-como-votou-cada-ministro-sobre-uniao-dos-casos-de-moraes-e-mendonca-1.1169079",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169081:1789502793/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-16T00:40:36.065803+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,26 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/r9fPxIxdWXdCU2rQP64JQhivG70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/I/A1kVXWQs2JaxRgsg1Rpw/beatrizbraga-ocreimagem-264.jpg",
       "data": "2026-09-16T00:27:46+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ffb4b37b5a5d11d3f9d13c48c4a7d91e",
-      "titulo": "Resultado da Dia de Sorte hoje: veja os números sorteados desta terça-feira (15)",
-      "descricao": "A aposta simples do Dia de Sorte custa R$ 2,50 e permite escolher sete dezenas entre 31 números, além da indicação obrigatória de um Mês da Sorte. Confira o resultado, saiba como apostar, números mais sorteados, e as chances de ganhar na Dia de Sorte com prêmio de R$ 400 mil. O post Resultado da Dia de Sorte hoje: veja os números sorteados desta terça-feira (15) apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/resultado-da-dia-de-sorte-hoje-veja-os-numeros-sorteados-desta-terca-feira-15/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/diadesorte.jpg",
-      "data": "2026-09-16T00:17:36+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "820cca57097dc4691968af6abaf26ec3",
-      "titulo": "Carpini chega ao Remo após Condé com histórico de reação e vaga na Sul-Americana",
-      "descricao": "Carpini chega ao Remo para missão contra o rebaixamento após substituir Condé Thiago Carpini é o novo técnico do Clube do Remo. Ele assume a equipe com a missão de tirá-la da zona de rebaixamento da Série A, após passagens por Vitória, Fortaleza e São Paulo. O post Carpini chega ao Remo após Condé com histórico de reação e vaga na Sul-Americana apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/carpini-chega-ao-remo-apos-conde-com-historico-de-reacao-e-vaga-na-sul-americana/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_649665945_18569673865021158_637377831717616802_n.jpg",
-      "data": "2026-09-15T23:35:50+00:00",
       "categoria": "PARÁ"
     },
     {
