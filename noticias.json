@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-09-17T10:36:15.717346+00:00",
+  "atualizado": "2026-09-17T11:03:09.624384+00:00",
   "noticias": [
+    {
+      "id": "d2125d68887c23fc68cd5d436e296041",
+      "titulo": "Milton Leite é tido como foragido em operação contra PCC",
+      "descricao": "Milton Leite é tido como foragido em operação contra PCC",
+      "link": "https://www.oliberal.com/brasil/milton-leite-e-considerado-foragido-em-operacao-contra-pcc-1.1169683",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169685:1789641592/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T11:03:08.147437+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "de9a4ea61f3e19977949c71a7ee64ae7",
+      "titulo": "Entenda como foi a operação da PF que alcançou a CDP, encontrou R$ 1,2 milhão e prendeu uma pessoa",
+      "descricao": "Entenda como foi a operação da PF que alcançou a CDP, encontrou R$ 1,2 milhão e prendeu uma pessoa",
+      "link": "https://www.oliberal.com/politica/entenda-como-foi-a-operacao-da-pf-que-alcancou-a-cdp-encontrou-r-1-2-milhao-e-prendeu-uma-pessoa-1.1169346",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169350:1789568165/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T11:03:07.870804+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "3434b7f73763a003a0d40cd4f37c55dc",
       "titulo": "Investigação aponta presidente da CDP em esquema de desvios",
@@ -8,7 +28,17 @@
       "link": "https://www.oliberal.com/para/operacao-sonar-investigacao-aponta-presidente-da-cdp-como-peca-central-de-esquema-de-desvios-1.1169608",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1140267:1789601244/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T10:36:12.998310+00:00",
+      "data": "2026-09-17T11:03:07.578053+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "afdb0e0db23a168e45265251d7332d00",
+      "titulo": "TRE do Pará conclui julgamento de 791 registros para as Eleições 2026 com onze impugnações",
+      "descricao": "Corte Eleitoral paraense analisou registros para governador, senador, deputado federal e deputado estadual. Foto: divulgação/reprodução Corte eleitoral concluiu a análise dos processos dentro do prazo e divulgou os números de candidaturas, impugnações e decisões no Pará. O post TRE do Pará conclui julgamento de 791 registros para as Eleições 2026 com onze impugnações apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/tre-do-para-conclui-julgamento-de-791-registros-para-as-eleicoes-2026-com-onze-impugnacoes/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_6-5.jpg",
+      "data": "2026-09-17T10:43:06+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -19,26 +49,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169661:1789609850/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-17T10:36:12.998090+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "49c2f16bd4bef274dfa291b5601af9f7",
-      "titulo": "Aneel aprova reajuste médio de 6,94% na conta de luz do Pará",
-      "descricao": "Aneel aprova reajuste médio de 6,94% na conta de luz do Pará",
-      "link": "https://www.oliberal.com/economia/aneel-aprova-reajuste-medio-de-6-94-na-conta-de-luz-do-para-1.1169591",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169594:1789598462/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T10:36:12.997922+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e9ce3276715e4c53a053f1abb1244b54",
-      "titulo": "PF prende dupla com R$ 2,5 milhões em Belém; presos teriam ligação com candidatos",
-      "descricao": "PF prende dupla com R$ 2,5 milhões em Belém; presos teriam ligação com candidatos",
-      "link": "https://www.oliberal.com/policia/pf-prende-duas-pessoas-com-r-2-5-milhoes-em-belem-presos-teriam-ligacao-com-joao-e-adriano-coelho-1.1169606",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169607:1789600806/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T10:03:03.762220+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/kfB0i51FNQOYAy9ymP6I0ZrtKgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/AelRwnQmiQpBPwQfZGIg/geral-g1-29-.png",
       "data": "2026-09-17T03:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3e0a4280d5f07e199ffffaafba78ded7",
-      "titulo": "Charli XCX estreia como estrela da capa da Playboy: “Me sinto sexy de lingerie”",
-      "descricao": "Charli XCX estreia na Playboy. Foto: Reprodução Cantora britânica falou sobre sensualidade, confiança, carreira e casamento com George Daniel em entrevista para a revista. O post Charli XCX estreia como estrela da capa da Playboy: “Me sinto sexy de lingerie” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/charli-xcx-estreia-como-estrela-da-capa-da-playboy-me-sinto-sexy-de-lingerie/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Charli-XCX-Playboy-cover-2-091526-b1073842de944090bff02072a8a144a9.jpg",
-      "data": "2026-09-17T01:38:42+00:00",
       "categoria": "PARÁ"
     }
   ]
