@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-17T19:03:14.382259+00:00",
+  "atualizado": "2026-09-17T19:33:58.887651+00:00",
   "noticias": [
+    {
+      "id": "4dd32f8104b195f3dbd5300fd401fb60",
+      "titulo": "Avião de pequeno porte cai e deixa três mortos no Mato Grosso",
+      "descricao": "Avião de pequeno porte cai e deixa três mortos no Mato Grosso",
+      "link": "https://www.oliberal.com/brasil/aviao-de-pequeno-porte-cai-e-deixa-tres-mortos-no-mato-grosso-1.1167165",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167175:1789055364/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T19:33:56.624120+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b52c4d6b31106d1c129810bcef934aa3",
+      "titulo": "Avião da cantora Mariana Fagundes faz pouso de emergência após realizar show no Pará",
+      "descricao": "Avião da cantora Mariana Fagundes faz pouso de emergência após realizar show no Pará",
+      "link": "https://www.oliberal.com/brasil/aviao-da-cantora-mariana-fagundes-faz-pouso-de-emergencia-apos-realizar-show-no-para-1.1164815",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164827:1788532611/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T19:33:56.435783+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1da797be1716e32b6bcfb191e0a19521",
+      "titulo": "Após problemas no avião, equipe de Zequinha nega desaparecimento",
+      "descricao": "Após problemas no avião, equipe de Zequinha nega desaparecimento",
+      "link": "https://www.oliberal.com/politica/apos-incidente-equipe-de-zequinha-marinho-nega-desaparecimento-do-senador-1.1169878",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1000701:1754097273/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T19:33:56.095391+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "57c7d203157632e803cbec3dad04b5d4",
+      "titulo": "Caso Evelyn Dantas: PM revela nova linha de investigação na morte de influenciadora",
+      "descricao": "Entre os mortos em operações estão os apontados como executores Anderson 'Dandan' e Vagner 'VG'. Foto: Reprodução A Polícia Militar intensificou as buscas pelos responsáveis pela morte da influenciadora Evelyn Lima Dantas, em Mãe do Rio. Autores e mandantes ainda não foram identificados, e a polícia trabalha com a hipótese de retaliação. O post Caso Evelyn Dantas: PM revela nova linha de investigação na morte de influenciadora apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/policia/caso-evelyn-dantas-pm-revela-nova-linha-de-investigacao-na-morte-de-influenciadora/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/evelyn-mae-do-rio-pm-4.jpg",
+      "data": "2026-09-17T19:17:49+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "08ed03597d6837eaaf4c7bb27ba75680",
+      "titulo": "Advogado autista passa em seleção para juiz, mas Tribunal alega inaptidão e barra nomeação",
+      "descricao": "Márcio Almeida concorreu como pessoa com deficiência e apresentou avaliações que apontavam aptidão para a função; Junta Médica do tribunal, porém, considerou candidato inapto. Márcio Almeida, advogado com Transtorno do Espectro Autista (TEA), teve sua nomeação para juiz leigo no Tribunal de Justiça de Santa Catarina (TJSC) barrada pela Junta Médica. O caso, que envolve divergência de laudos e a necessidade de adaptações, foi levado à Justiça e aguarda perícia independente. O post Advogado autista passa em seleção para juiz, mas Tribunal alega inaptidão e barra nomeação apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/concursos-e-empregos/advogado-autista-passa-em-selecao-para-juiz-mas-tribunal-alega-inaptidao-e-barra-nomeacao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/advautista2.png",
+      "data": "2026-09-17T19:08:52+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "02245e34145dfd5f1dbaa84e612bb1c3",
       "titulo": "PF prende duas pessoas com R$ 2,5 milhões em Belém; presos teriam ligação com João e Adriano Coelho",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169607:1789600806/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-17T19:03:11.943668+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bf960da5040d96de9310f28bbd45eae6",
-      "titulo": "Quem são os irmãos Coelho, implicados em operação da PF que apreendeu R$ 2,5 milhões em Belém",
-      "descricao": "Quem são os irmãos Coelho, implicados em operação da PF que apreendeu R$ 2,5 milhões em Belém",
-      "link": "https://www.oliberal.com/politica/quem-sao-os-irmaos-coelho-implicados-em-operacao-da-pf-que-apreendeu-r-2-5-milhoes-em-belem-1.1169756",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169611:1789601248/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T19:03:11.943518+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "01ef424a9d38c76ec6d9c589d697dba1",
-      "titulo": "Na política, patrimônio dos irmãos Coelho sobe para R$ 123,8 milhões",
-      "descricao": "Na política, patrimônio dos irmãos Coelho sobe para R$ 123,8 milhões",
-      "link": "https://www.oliberal.com/politica/patrimonio-dos-irmaos-coelho-chega-a-r-123-8-milhoes-apos-entrada-na-politica-veja-evolucao-1.1169773",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169781:1789655984/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T19:03:11.943294+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2d8888d9d97d131c58a2e81529694d27",
-      "titulo": "20 séries e novelas turcas para maratonar no Globoplay, Netflix e HBO Max",
-      "descricao": "Leyla – Sombras do Passado é uma das séries turcas disponíveis nas plataformas de streaming. Foto: Divulgação/NOW Lista reúne comédias românticas, dramas familiares, histórias de vingança, suspense, fantasia e produções históricas disponíveis em três plataformas. O post 20 séries e novelas turcas para maratonar no Globoplay, Netflix e HBO Max apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/series-novelas-turcas-assistir/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Leya.jpg",
-      "data": "2026-09-17T18:53:10+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "575cd0be04f94f8ddd88e381c4da318f",
-      "titulo": "Mais de 300 atletas se enfrentam na Copa Belém de Jiu-Jitsu",
-      "descricao": "Belém recebe grande competição de jiu-jitsu neste sábado A Copa Belém de Jiu-Jitsu será realizada neste sábado (19) no bairro do Guamá, em Belém. O evento contará com a participação de 304 atletas distribuídos em 74 categorias. O post Mais de 300 atletas se enfrentam na Copa Belém de Jiu-Jitsu apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/mais-de-300-atletas-se-enfrentam-na-copa-belem-de-jiu-jitsu/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/imperioame-arts-4838225_1920.jpg",
-      "data": "2026-09-17T18:44:25+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9930bd3daf2bca62ab0d31c01b189ac0",
-      "titulo": "Carolina Herrera viraliza ao usar salto alto e impressiona pela mobilidade aos 87 anos",
-      "descricao": "Estilista venezuelana chamou atenção durante a Semana de Moda de Nova York ao caminhar de salto alto. Foto: Reprodução/Instagram. A estilista Carolina Herrera, aos 87 anos, chamou atenção nas redes sociais por sua disposição e mobilidade durante a Semana de Moda de Nova York, viralizando entre internautas. O post Carolina Herrera viraliza ao usar salto alto e impressiona pela mobilidade aos 87 anos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/carolina-herrera-viraliza-ao-usar-salto-alto-e-impressiona-pela-mobilidade-aos-87-anos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_178966934544456.jpg",
-      "data": "2026-09-17T18:34:50+00:00",
       "categoria": "PARÁ"
     },
     {
