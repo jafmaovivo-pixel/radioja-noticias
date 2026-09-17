@@ -1,16 +1,6 @@
 {
-  "atualizado": "2026-09-17T13:04:26.614897+00:00",
+  "atualizado": "2026-09-17T13:36:12.664764+00:00",
   "noticias": [
-    {
-      "id": "d2125d68887c23fc68cd5d436e296041",
-      "titulo": "Milton Leite é tido como foragido em operação contra PCC",
-      "descricao": "Milton Leite é tido como foragido em operação contra PCC",
-      "link": "https://www.oliberal.com/brasil/milton-leite-e-considerado-foragido-em-operacao-contra-pcc-1.1169683",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169685:1789641592/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T13:04:24.708017+00:00",
-      "categoria": "PARÁ"
-    },
     {
       "id": "99341529fecec0751593af507d503ff2",
       "titulo": "Operação da PF investiga furto e venda de dendê",
@@ -18,7 +8,17 @@
       "link": "https://www.oliberal.com/policia/pf-deflagra-operacao-contra-grupo-suspeito-de-furtar-e-vender-dende-ilegalmente-no-para-1.1169709",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169712:1789648467/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T13:04:24.707831+00:00",
+      "data": "2026-09-17T13:36:11.304520+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "21402fd4ba7c4090ae69b3b36b694b94",
+      "titulo": "Gilmar envia ofício a Fux apontando condução indevida no julgamento sobre diretor da PF",
+      "descricao": "Gilmar envia ofício a Fux apontando condução indevida no julgamento sobre diretor da PF",
+      "link": "https://www.oliberal.com/politica/gilmar-envia-oficio-a-fux-apontando-conducao-indevida-no-julgamento-sobre-diretor-da-pf-1.1169723",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1021129:1757969334/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T13:36:11.304301+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,17 @@
       "link": "https://www.oliberal.com/brasil/fachin-tende-a-adiar-caso-de-mendonca-no-stf-enquanto-ministros-discutem-obstruir-pauta-diz-jornal-1.1169720",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1040441:1761342038/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T13:04:24.707551+00:00",
+      "data": "2026-09-17T13:36:11.092401+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d2125d68887c23fc68cd5d436e296041",
+      "titulo": "Milton Leite é tido como foragido em operação contra PCC",
+      "descricao": "Milton Leite é tido como foragido em operação contra PCC",
+      "link": "https://www.oliberal.com/brasil/milton-leite-e-considerado-foragido-em-operacao-contra-pcc-1.1169683",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169685:1789641592/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T13:04:24.708017+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/WjUef1RoqYO2Dv-WUWLH3X6iVsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/b/uUbiQARfmnpUStfi42Qg/operacao.jpeg",
       "data": "2026-09-17T12:43:45+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5773c2058ec9de71846ddfe7697b6890",
-      "titulo": "Greve da Caixa afeta o Bolsa Família? Saiba como ficam os pagamentos",
-      "descricao": "Greve da Caixa afeta o Bolsa Família? Saiba como ficam os pagamentos",
-      "link": "https://www.oliberal.com/economia/greve-da-caixa-afeta-o-bolsa-familia-saiba-como-ficam-os-pagamentos-e-saques-1.1169692",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.852021:1789645767/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T12:40:21.147043+00:00",
       "categoria": "PARÁ"
     }
   ]
