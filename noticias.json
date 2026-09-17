@@ -1,6 +1,16 @@
 {
-  "atualizado": "2026-09-17T10:03:07.513816+00:00",
+  "atualizado": "2026-09-17T10:36:15.717346+00:00",
   "noticias": [
+    {
+      "id": "3434b7f73763a003a0d40cd4f37c55dc",
+      "titulo": "Investigação aponta presidente da CDP em esquema de desvios",
+      "descricao": "Investigação aponta presidente da CDP em esquema de desvios",
+      "link": "https://www.oliberal.com/para/operacao-sonar-investigacao-aponta-presidente-da-cdp-como-peca-central-de-esquema-de-desvios-1.1169608",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1140267:1789601244/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T10:36:12.998310+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "f44045b44fdff82856d4a5b8aad785ce",
       "titulo": "Reajuste médio de 6,94% na tarifa de energia repercute em Belém",
@@ -8,7 +18,7 @@
       "link": "https://www.oliberal.com/economia/reajuste-medio-de-6-94-na-tarifa-de-energia-gera-forte-repercussao-em-belem-1.1169654",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169661:1789609850/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T10:03:03.762422+00:00",
+      "data": "2026-09-17T10:36:12.998090+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +28,7 @@
       "link": "https://www.oliberal.com/economia/aneel-aprova-reajuste-medio-de-6-94-na-conta-de-luz-do-para-1.1169591",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169594:1789598462/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T10:03:03.762331+00:00",
+      "data": "2026-09-17T10:36:12.997922+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/kfB0i51FNQOYAy9ymP6I0ZrtKgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/AelRwnQmiQpBPwQfZGIg/geral-g1-29-.png",
       "data": "2026-09-17T03:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3434b7f73763a003a0d40cd4f37c55dc",
-      "titulo": "Investigação aponta presidente da CDP em esquema de desvios",
-      "descricao": "Investigação aponta presidente da CDP em esquema de desvios",
-      "link": "https://www.oliberal.com/para/operacao-sonar-investigacao-aponta-presidente-da-cdp-como-peca-central-de-esquema-de-desvios-1.1169608",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1140267:1789601244/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T02:03:08.795311+00:00",
       "categoria": "PARÁ"
     },
     {
