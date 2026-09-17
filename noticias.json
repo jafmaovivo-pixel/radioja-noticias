@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-17T23:02:20.558990+00:00",
+  "atualizado": "2026-09-17T23:32:00.931904+00:00",
   "noticias": [
+    {
+      "id": "305ac32d7c552b2939fce15c1a4ca298",
+      "titulo": "Motociclistas trafegando em ciclofaixa são autuados em fiscalização na avenida Júlio César, em Belém",
+      "descricao": "Motociclistas trafegando em ciclofaixa são autuados em fiscalização na avenida Júlio César, em Belém",
+      "link": "https://www.oliberal.com/belem/motociclistas-trafegando-em-ciclofaixa-sao-autuados-em-fiscalizacao-na-avenida-julio-cesar-em-belem-1.1169340",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169342:1789567406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T23:31:59.353820+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7aad757a8cfbe8b711ede4a99162da21",
+      "titulo": "Motociclistas invadem ciclofaixa na Arthur Bernardes e ciclistas relatam risco diário em Belém",
+      "descricao": "Motociclistas invadem ciclofaixa na Arthur Bernardes e ciclistas relatam risco diário em Belém",
+      "link": "https://www.oliberal.com/belem/motociclistas-invadem-ciclofaixa-na-arthur-bernardes-e-ciclistas-relatam-risco-diario-em-belem-1.1153703",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1153704:1785947526/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T23:31:58.889028+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e6c46d78195631784a5d1880139f6693",
+      "titulo": "Fiscalização termina com mais de 80 autuações contra motociclistas",
+      "descricao": "Fiscalização termina com mais de 80 autuações contra motociclistas",
+      "link": "https://www.oliberal.com/belem/fiscalizacao-na-avenida-julio-cesar-termina-com-mais-de-80-autuacoes-contra-motociclistas-em-belem-1.1170055",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170059:1789685374/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-17T23:31:58.260596+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "36bd69140c35e157dfb0ed99fbaee263",
+      "titulo": "A Fazenda 18: Serginho conquista 1 milhão de seguidores em quatro dias",
+      "descricao": "O ator Sergio Hondjakoff. Foto: Reprodução/Montagem Sérgio Hondjakoff viraliza no reality da Record e se torna o participante que mais cresceu nas redes desde a estreia O post A Fazenda 18: Serginho conquista 1 milhão de seguidores em quatro dias apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/a-fazenda-18-serginho-conquista-1-milhao-de-seguidores-em-quatro-dias/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_arte-45-.jpg",
+      "data": "2026-09-17T23:13:50+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "cdffc19c527f455869108c8921ad60da",
+      "titulo": "Ônibus lotado e horas no caminho: o drama de quem vai ou volta do trabalho",
+      "descricao": "Horas no ônibus, paradas lotadas e cansaço: o drama de quem vai ou volta do trabalho. Foto: Mauro Ângelo Resultados preliminares do Censo Demográfico 2022 do IBGE revelam que 1,26 milhão de brasileiros gastam mais de duas horas no deslocamento entre casa e trabalho. Municípios do Pará, como Itaituba e Abaetetuba, estão entre os mais afetados. O post Ônibus lotado e horas no caminho: o drama de quem vai ou volta do trabalho apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/brasil/onibus-lotado-e-horas-no-caminho-o-drama-de-quem-vai-ou-volta-do-trabalho/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/DP20260916_MA_5582.jpg",
+      "data": "2026-09-17T23:11:57+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "4dd32f8104b195f3dbd5300fd401fb60",
       "titulo": "Avião de pequeno porte cai e deixa três mortos no Mato Grosso",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1167175:1789055364/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-17T23:02:18.437165+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b52c4d6b31106d1c129810bcef934aa3",
-      "titulo": "Avião da cantora Mariana Fagundes faz pouso de emergência após realizar show no Pará",
-      "descricao": "Avião da cantora Mariana Fagundes faz pouso de emergência após realizar show no Pará",
-      "link": "https://www.oliberal.com/brasil/aviao-da-cantora-mariana-fagundes-faz-pouso-de-emergencia-apos-realizar-show-no-para-1.1164815",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164827:1788532611/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T23:02:18.436985+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1da797be1716e32b6bcfb191e0a19521",
-      "titulo": "Após problemas no avião, equipe de Zequinha nega desaparecimento",
-      "descricao": "Após problemas no avião, equipe de Zequinha nega desaparecimento",
-      "link": "https://www.oliberal.com/politica/apos-incidente-equipe-de-zequinha-marinho-nega-desaparecimento-do-senador-1.1169878",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1000701:1754097273/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-17T23:02:18.436776+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6f6db5afb3f001cc51583455afa6cc75",
-      "titulo": "Motoboy entra em meio a enxame para salvar menina e ganha carro e moto",
-      "descricao": "Um motoboy de Betim, Vinícius Martins de Paulo, foi recompensado com um carro e uma moto após salvar uma menina de um ataque de abelhas em Ibirité. O ato de bravura ganhou grande repercussão nas redes sociais. O post Motoboy entra em meio a enxame para salvar menina e ganha carro e moto apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/motoboy-que-salvou-menina-de-ataque-de-abelhas-ganha-carro-e-moto-em-mg-video/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/IMG_0328.jpeg",
-      "data": "2026-09-17T22:50:18+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "eb94820a0a07947aa38d956131a16869",
-      "titulo": "Justiça proíbe Virginia Fonseca de sair do Brasil por mais de 20 dias; entenda o caso",
-      "descricao": "Virginia Fonseca está proibida de se ausentar do Brasil. Foto: Reprodução Influenciadora está envolvida em ação feita pelo Ministério Público; até o momento, a Justiça não conseguiu cumprir a intimação de Virginia. O post Justiça proíbe Virginia Fonseca de sair do Brasil por mais de 20 dias; entenda o caso apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/justica-proibe-virginia-fonseca-de-sair-do-brasil-por-mais-de-20-dias-entenda-o-caso/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_design-sem-nome-2026-09-17t172019-563-t8cf5mxwn6n6.jpg",
-      "data": "2026-09-17T22:24:03+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7dc1215d1b52524e76d0cd495cec22ee",
-      "titulo": "Cinema Experimental: videopoema e videoarte ganham espaço em formação audiovisual",
-      "descricao": "Cena de um dos filmes produzidos a partir da formação. FOTO: DIVULGAÇÃO A mostra “ANTI-RETRATO – Mostra de Cinema Experimental” exibirá 23 curtas-metragens produzidos por participantes de uma formação em cinema experimental. A exibição acontece nesta quinta-feira, 17 de setembro, às 19h, na Casa da Linguagem, com entrada gratuita. O post Cinema Experimental: videopoema e videoarte ganham espaço em formação audiovisual apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/voce/cinema-experimental-videopoema-e-videoarte-ganham-espaco-em-formacao-audiovisual/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Captura_de_tela_2026-09-11_225906.jpg",
-      "data": "2026-09-17T22:16:35+00:00",
       "categoria": "PARÁ"
     },
     {
