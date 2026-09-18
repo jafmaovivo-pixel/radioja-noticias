@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-18T18:36:51.896757+00:00",
+  "atualizado": "2026-09-18T19:03:33.171448+00:00",
   "noticias": [
+    {
+      "id": "e8d4d3d0b80d0ee7a3aa941d430e7474",
+      "titulo": "Lancha escolar com crianças a bordo naufraga no Pará",
+      "descricao": "Lancha escolar com crianças a bordo naufraga no Pará",
+      "link": "https://www.oliberal.com/policia/lancha-escolar-com-criancas-a-bordo-naufraga-na-baia-do-marajo-em-muana-1.1170176",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170178:1789741406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-18T19:03:31.400067+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0e145ab3ef254ac2105e63641a859270",
+      "titulo": "Alça Viária tem congestionamento após Kombi pegar fogo e 2 caminhões quebrarem, em Marituba",
+      "descricao": "Alça Viária tem congestionamento após Kombi pegar fogo e 2 caminhões quebrarem, em Marituba",
+      "link": "https://www.oliberal.com/policia/alca-viaria-tem-congestionamento-apos-kombi-pegar-fogo-e-2-caminhoes-quebrarem-em-marituba-1.1170276",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170278:1789752421/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-18T19:03:31.399682+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "77e6f623c8a40fe4b686657ca3abf79d",
+      "titulo": "Avenida Tamandaré ficará bloqueada até domingo; confira o trecho",
+      "descricao": "Avenida Tamandaré ficará bloqueada até domingo; confira o trecho",
+      "link": "https://www.oliberal.com/belem/parte-da-avenida-almirante-tamandare-ficara-bloqueada-ate-domingo-20-9-confira-o-trecho-1.1170303",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113899:1777045882/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-18T19:03:31.069122+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ce1fee5a715bb2c10c32f5bf99560ac7",
+      "titulo": "Gol de letra: jogador Scarpa indica livro e leva Tolstói ao topo de vendas",
+      "descricao": "“A Morte de Ivan Ilitch”, de Liev Tolstói, chegou ao topo da lista de livros mais vendidos da Amazon Brasil após a indicação de Scarpa. Foto: Reprodução Resenha de Gustavo Scarpa sobre “A Morte de Ivan Ilitch” ultrapassa 575 mil visualizações e leva clássico russo ao topo da Amazon Brasil O post Gol de letra: jogador Scarpa indica livro e leva Tolstói ao topo de vendas apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/gol-de-letra-jogador-scarpa-indica-livro-e-leva-tolstoi-ao-topo-de-vendas/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_gustavo-scarpa-livro-e1789645811755.jpg",
+      "data": "2026-09-18T18:50:11+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "fa7b8de668d80c9285dd954341aa811b",
+      "titulo": "Fotos históricas revelam o Theatro da Paz e Praça da República na Belém da borracha",
+      "descricao": "O Theatro da Paz e a Praça da República concentraram parte da movimentação artística vivida por Belém durante a economia da borracha. Registro da Praça da República em 15 de novembro de 1902, em registro do Álbum de Belém. Foto: Reprodução/ Acervo de Obras Raras da Biblioteca Pública Arthur Vianna Exposições, apresentações musicais e obras preservadas revelam a efervescência cultural vivida pela capital paraense durante a Belle Époque O post Fotos históricas revelam o Theatro da Paz e Praça da República na Belém da borracha apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/theatro-da-paz-praca-da-republica-artes-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Teatro-da-Paz-e-Monumento-da-Republica-na-Praca-da-Republica-em-registro-do-Album-do-Para-de-1899.-Foto-Reproducao-Acervo-de-Obras-Raras-da-Biblioteca-Publica-Arthur-Vianna-2.jpg",
+      "data": "2026-09-18T18:45:29+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "133f8d8347f439afe9dafc178737bdd0",
       "titulo": "Quatro anos após naufrágio da Dona Lourdes II, famílias das vítimas fazem ato por justiça em Belém",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166428:1788882549/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-18T18:36:50.608874+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "865302d843651b61031c848113c25f85",
-      "titulo": "Corpos de pai e filho são localizados após naufrágio no rio Acará, em Barcarena",
-      "descricao": "Corpos de pai e filho são localizados após naufrágio no rio Acará, em Barcarena",
-      "link": "https://www.oliberal.com/policia/corpos-de-pai-e-filho-sao-encontrados-apos-naufragio-no-rio-acara-em-barcarena-1.1169204",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169205:1789515951/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-18T18:36:50.608739+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b7eaf2ffd10c2c42ab3f0077537fbf69",
-      "titulo": "Lancha escolar com crianças a bordo naufraga na Baía do Marajó, em Muaná",
-      "descricao": "Lancha escolar com crianças a bordo naufraga na Baía do Marajó, em Muaná",
-      "link": "https://www.oliberal.com/policia/lancha-escolar-com-criancas-a-bordo-naufraga-na-baia-do-marajo-em-muana-1.1170176",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170178:1789741406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-18T18:36:50.608593+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3f738f8328c323b0e16cce384626a91d",
-      "titulo": "“PORTUGAL – DO DOURO AO ALENTEJO”, UMA VIAGEM POR DUAS GRANDES REGIÕES VINÍCOLAS PORTUGUESAS",
-      "descricao": "A Grand Cru Belém realiza, nos próximos dias 23, 24 e 30, uma série de encontros que propõe uma viagem por duas das mais importantes regiões produtoras de Portugal, reunindo grandes vinhos, gastronomia e convidados que conhecem de perto as histórias por trás de cada vinícola. A experiência começa pelo Douro, tendo como protagonista a […] O post “PORTUGAL – DO DOURO AO ALENTEJO”, UMA VIAGEM POR DUAS GRANDES REGIÕES VINÍCOLAS PORTUGUESAS apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/toda/atualidades/portugal-do-douro-ao-alentejo-uma-viagem-por-duas-grandes-regioes-vinicolas-portuguesas/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Gemini_Generated_Image_6xjwy56xjwy56xjw.jpg",
-      "data": "2026-09-18T18:25:17+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c43290d105a4e8dd57637158517d81ee",
-      "titulo": "Belém recebe ação gratuita com serviços jurídicos e emissão de documentos neste sábado",
-      "descricao": "Balcão de Direitos realiza ação gratuita com atendimento jurídico e emissão de documentos em Belém neste sábado. Foto: gerada por IA Ação da Defensoria Pública do Pará ocorre neste sábado, 19, com atendimento jurídico e emissão de documentos na Escola Estadual Benjamin Constant, no Reduto. O post Belém recebe ação gratuita com serviços jurídicos e emissão de documentos neste sábado apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/belem-recebe-acao-gratuita-com-servicos-juridicos-e-emissao-de-documentos-neste-sabado/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_ChatGPT_Image_18_de_set_de_2026_15_10_58.jpg",
-      "data": "2026-09-18T18:23:08+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "747975afccb38adb62fcf08311c43ecf",
-      "titulo": "Kane joga? Veja onde assistir Bayern de Munique x Union Berlin pela Bundesliga",
-      "descricao": "Allianz Arena. Bayern de Munique e Union Berlin se enfrentam nesta sexta-feira pela quarta rodada do Campeonato Alemão. O Bayern busca manter o bom momento, enquanto o Union Berlin tenta a primeira vitória na Bundesliga. O post Kane joga? Veja onde assistir Bayern de Munique x Union Berlin pela Bundesliga apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/kane-joga-veja-onde-assistir-bayern-de-munique-x-union-berlin-pela-bundesliga/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/IMG_0348.jpeg",
-      "data": "2026-09-18T17:50:58+00:00",
       "categoria": "PARÁ"
     },
     {
