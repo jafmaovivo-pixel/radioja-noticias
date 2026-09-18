@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-18T11:34:45.744579+00:00",
+  "atualizado": "2026-09-18T12:03:19.313087+00:00",
   "noticias": [
+    {
+      "id": "84f1b843f1c2c78f390af5476d73d2f2",
+      "titulo": "Operação apreende mais de meia tonelada de cocaína escondida em carga de milho no sul do Pará",
+      "descricao": "Operação apreende mais de meia tonelada de cocaína escondida em carga de milho no sul do Pará",
+      "link": "https://www.oliberal.com/policia/operacao-apreende-mais-de-meia-tonelada-de-cocaina-escondida-em-carga-de-milho-no-sul-do-para-1.1162728",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162731:1788037030/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-18T12:03:18.291433+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "aaa4c2a3cb1acf06d1977b6ef14ea3da",
+      "titulo": "Passageira de moto morre após ser esmagada por caminhão em Ananindeua",
+      "descricao": "Passageira de moto morre após ser esmagada por caminhão em Ananindeua",
+      "link": "https://www.oliberal.com/policia/passageira-de-moto-morre-apos-ser-esmagada-por-caminhao-em-ananindeua-1.1162610",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162656:1788031094/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-18T12:03:17.848219+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "292d9674e2ef0e44f7d0fa0fed55949c",
+      "titulo": "Caminhão tomba em viaduto e causa congestionamento em Ananindeua",
+      "descricao": "Caminhão tomba em viaduto e causa congestionamento em Ananindeua",
+      "link": "https://www.oliberal.com/policia/caminhao-tomba-em-viaduto-e-causa-congestionamento-em-ananindeua-1.1170121",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170122:1789731082/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-18T12:03:17.361556+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d405c9d90f415212ceeab2bdf28ffed0",
+      "titulo": "Casa do Saulo das 11 janelas abre vagas de trabalho em Belém; oportunidades para a cozinha do chef",
+      "descricao": "O restaurante Casa do Saulo Onze Janelas abriu vagas de emprego na unidade Belém. São três oportunidades para a cozinha do chef. O restaurante Casa do Saulo Onze Janelas abriu vagas de emprego na unidade Belém. São três oportunidades para a cozinha do chef. O post Casa do Saulo das 11 janelas abre vagas de trabalho em Belém; oportunidades para a cozinha do chef apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/concursos-e-empregos/casa-do-saulo-das-11-janelas-abre-vagas-de-trabalho-em-belem-oportunidades-para-a-cozinha-do-chef/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/casa-do-saulo-8-2.jpg",
+      "data": "2026-09-18T11:41:25+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "305ac32d7c552b2939fce15c1a4ca298",
       "titulo": "Motociclistas trafegando em ciclofaixa são autuados em fiscalização na avenida Júlio César, em Belém",
@@ -12,53 +52,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "7aad757a8cfbe8b711ede4a99162da21",
-      "titulo": "Motociclistas invadem ciclofaixa na Arthur Bernardes e ciclistas relatam risco diário em Belém",
-      "descricao": "Motociclistas invadem ciclofaixa na Arthur Bernardes e ciclistas relatam risco diário em Belém",
-      "link": "https://www.oliberal.com/belem/motociclistas-invadem-ciclofaixa-na-arthur-bernardes-e-ciclistas-relatam-risco-diario-em-belem-1.1153703",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1153704:1785947526/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-18T11:34:44.638811+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e6c46d78195631784a5d1880139f6693",
-      "titulo": "Fiscalização termina com mais de 80 autuações contra motociclistas",
-      "descricao": "Fiscalização termina com mais de 80 autuações contra motociclistas",
-      "link": "https://www.oliberal.com/belem/fiscalizacao-na-avenida-julio-cesar-termina-com-mais-de-80-autuacoes-contra-motociclistas-em-belem-1.1170055",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170059:1789685374/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-18T11:34:44.638676+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "983d335398f58161fbd4379ed5f47ad5",
-      "titulo": "Parede com mofo? Truque com água sanitária leva um ingrediente inesperado",
-      "descricao": "Água sanitária e açúcar juntos na limpeza? A combinação ganhou espaço nas redes sociais e chamou atenção de quem sofre com mofo nas paredes. Descubra uma solução caseira com água sanitária e açúcar para remover o mofo das paredes. Aprenda o passo a passo e os cuidados essenciais para uma limpeza segura e eficaz. O post Parede com mofo? Truque com água sanitária leva um ingrediente inesperado apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/parede-com-mofo-truque-com-agua-sanitaria-leva-um-ingrediente-inesperado/",
+      "id": "4f52c7eba75e6855129798bea139c88a",
+      "titulo": "Folharau: Sonyra Bandeira e Renato Torres unem poesia e música em sarau",
+      "descricao": "Renato Torres e Sonyra Bandeira estão juntos em \"Folharau\". FOTOS: WALDA MARQUES E FITHY MORAES/DIVULGAÇÃO Os artistas Sonyra Bandeira e Renato Torres apresentam o projeto Folharau, um sarau lítero-musical que une poesia e canções autorais. O evento celebra a paixão de ambos pela arte e acontece hoje na Casa Arari. O post Folharau: Sonyra Bandeira e Renato Torres unem poesia e música em sarau apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/voce/folharau-sonyra-bandeira-e-renato-torres-unem-poesia-e-musica-em-sarau/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/mofo-umidade-capa-1320.jpg",
-      "data": "2026-09-18T11:30:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ca70b5aaf2727c0b497f8bfc86a2f16b",
-      "titulo": "Simone Mendes surge com nariz diferente e choca os fãs: ‘Misericórdia’; veja",
-      "descricao": "Simone Mendes aparece irreconhecível nas redes sociais. Foto: Reprodução Montagem/Redes Socias Cantora explicou que passou por um procedimento sem cirurgia para levantar a ponta nasal e pediu paciência enquanto o inchaço diminui. O post Simone Mendes surge com nariz diferente e choca os fãs: ‘Misericórdia’; veja apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/simone-mendes-surge-com-nariz-diferente-e-choca-os-fas-misericordia-veja/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/SaveClip.App_AQPs7LET2TDc_NQSkMsX9yziMpptNRJAQBQ-wuylK88pYZTTggIt3Ee-OAgw9usClmY9SnxKOo9G5gCJKX7yKuM6HWWbNXaQOxzby-Y.mp4",
-      "data": "2026-09-18T11:14:34+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5ad913f84633aea3cfc488f0dde90e50",
-      "titulo": "Agora: Caminhão tomba na BR-316 em Ananindeua; trânsito fica lento no local",
-      "descricao": "A carroceria de um caminhão tombou na subida do elevado da Mário Covas, na BR-316, no início da manhã desta sexta-feira, 18. Foto: Carla Azevedo / Diário do Pará A carroceria de um caminhão tombou na subida do elevado da Mário Covas, na BR-316, no início da manhã desta sexta-feira, 18. O post Agora: Caminhão tomba na BR-316 em Ananindeua; trânsito fica lento no local apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/agora-caminhao-tomba-na-br-316-em-ananindeua-transito-fica-lento-no-local/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-18_at_07_24_53_2-1.jpg",
-      "data": "2026-09-18T10:36:36+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_renato_torres_e_sonyra_bandeiraXXX.jpg",
+      "data": "2026-09-18T11:34:00+00:00",
       "categoria": "PARÁ"
     },
     {
