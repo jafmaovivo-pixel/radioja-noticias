@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-18T16:02:55.216710+00:00",
+  "atualizado": "2026-09-18T16:35:03.148028+00:00",
   "noticias": [
+    {
+      "id": "133f8d8347f439afe9dafc178737bdd0",
+      "titulo": "Quatro anos após naufrágio da Dona Lourdes II, famílias das vítimas fazem ato por justiça em Belém",
+      "descricao": "Quatro anos após naufrágio da Dona Lourdes II, famílias das vítimas fazem ato por justiça em Belém",
+      "link": "https://www.oliberal.com/policia/quatro-anos-apos-naufragio-da-dona-lourdes-ii-familias-das-vitimas-fazem-ato-por-justica-em-belem-1.1166424",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1166428:1788882549/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-18T16:35:02.170634+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "865302d843651b61031c848113c25f85",
+      "titulo": "Corpos de pai e filho são localizados após naufrágio no rio Acará, em Barcarena",
+      "descricao": "Corpos de pai e filho são localizados após naufrágio no rio Acará, em Barcarena",
+      "link": "https://www.oliberal.com/policia/corpos-de-pai-e-filho-sao-encontrados-apos-naufragio-no-rio-acara-em-barcarena-1.1169204",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1169205:1789515951/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-18T16:35:01.564760+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b7eaf2ffd10c2c42ab3f0077537fbf69",
+      "titulo": "Lancha escolar com crianças a bordo naufraga na Baía do Marajó, em Muaná",
+      "descricao": "Lancha escolar com crianças a bordo naufraga na Baía do Marajó, em Muaná",
+      "link": "https://www.oliberal.com/policia/lancha-escolar-com-criancas-a-bordo-naufraga-na-baia-do-marajo-em-muana-1.1170176",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170178:1789741406/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-18T16:35:01.243192+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e234b04242ca20d6e04bacf0ad0507a8",
+      "titulo": "Última semana para se inscrever no concurso da Transpetro com 4,1 mil oportunidades e salários de até R$ 15 mil",
+      "descricao": "A Transpetro encerra nesta segunda-feira (21) as inscrições para seu concurso público, que oferece 281 vagas imediatas e 3.890 para cadastro de reserva, com salários de até R$ 15 mil. O post Última semana para se inscrever no concurso da Transpetro com 4,1 mil oportunidades e salários de até R$ 15 mil apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/concursos-e-empregos/ultima-semana-para-se-inscrever-no-concurso-da-transpetro-com-41-mil-oportunidades-e-salarios-de-ate-r-15-mil/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/conctrans1.jpeg",
+      "data": "2026-09-18T16:31:39+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a27ee6c114f38b7cfa370e352cbf2908",
+      "titulo": "MasterChef Profissionais: veja os chefs que estão de volta ao reality",
+      "descricao": "MasterChef Profissionais: veja os participantes confirmados A nova temporada do MasterChef Profissionais estreia em 6 de outubro na Band, reunindo chefs que já participaram do reality em busca do título de melhor cozinheiro profissional do país. O post MasterChef Profissionais: veja os chefs que estão de volta ao reality apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/masterchef-profissionais-veja-os-chefs-que-estao-de-volta-ao-reality/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/55518452836_650be00d3c_k.jpg",
+      "data": "2026-09-18T16:24:59+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "84f1b843f1c2c78f390af5476d73d2f2",
       "titulo": "Operação apreende mais de meia tonelada de cocaína escondida em carga de milho no sul do Pará",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162731:1788037030/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-18T16:02:53.341576+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "aaa4c2a3cb1acf06d1977b6ef14ea3da",
-      "titulo": "Passageira de moto morre após ser esmagada por caminhão em Ananindeua",
-      "descricao": "Passageira de moto morre após ser esmagada por caminhão em Ananindeua",
-      "link": "https://www.oliberal.com/policia/passageira-de-moto-morre-apos-ser-esmagada-por-caminhao-em-ananindeua-1.1162610",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1162656:1788031094/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-18T16:02:53.341448+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "292d9674e2ef0e44f7d0fa0fed55949c",
-      "titulo": "Caminhão tomba em viaduto e causa congestionamento em Ananindeua",
-      "descricao": "Caminhão tomba em viaduto e causa congestionamento em Ananindeua",
-      "link": "https://www.oliberal.com/policia/caminhao-tomba-em-viaduto-e-causa-congestionamento-em-ananindeua-1.1170121",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170122:1789731082/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-18T16:02:53.341307+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b8f83324d851117ce939452e6af5bc57",
-      "titulo": "Pix Automático chega à conta-salário e BC endurece regras contra fraudes; entenda as mudanças",
-      "descricao": "O Banco Central anunciou novas regras para o Pix, que incluem maior segurança nas transações, a possibilidade de uso do Pix Automático em contas-salário e a introdução de cobranças híbridas. As mudanças serão implementadas de forma escalonada até 2027. O post Pix Automático chega à conta-salário e BC endurece regras contra fraudes; entenda as mudanças apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/pix-automatico-chega-a-conta-salario-e-bc-endurece-regras-contra-fraudes-entenda-as-mudancas/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/pixconta2-1.jpg",
-      "data": "2026-09-18T15:50:27+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "502ec2fd8fba18764864bd9e108e9cd1",
-      "titulo": "Trecho da avenida Tamandaré é interditado para montagem da Domingueira em Belém",
-      "descricao": "Vista atual da avenida Visconde de Souza Franco, onde hoje está o Parque Linear da Nova Doca. A avenida Almirante Tamandaré, em Belém, está interditada desde quinta-feira (17) para a montagem da estrutura da Domingueira, evento promovido pela Prefeitura de Belém. O bloqueio ocorre até este domingo (20). O post Trecho da avenida Tamandaré é interditado para montagem da Domingueira em Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/trecho-da-avenida-tamandare-e-interditado-para-montagem-da-domingueira-em-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/WhatsApp-Image-2026-06-15-at-10.34.49-1-1.jpeg",
-      "data": "2026-09-18T15:46:05+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3fb0b8af18f1637e1d6db8b03c28e5c9",
-      "titulo": "Anvisa manda recolher vários produtos médicos e proíbe venda; veja a lista",
-      "descricao": "Anvisa encontra irregularidades e determina recolhimento de produtos médicos A Anvisa determinou o recolhimento de diversos dispositivos médicos das empresas Mico Biomed do Brasil e Healtech Saúde, além de suspender um produto da KDV Indústria por falta de autorização. O post Anvisa manda recolher vários produtos médicos e proíbe venda; veja a lista apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/dr-responde/anvisa-manda-recolher-varios-produtos-medicos-e-proibe-venda-veja-a-lista/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/Anvisa.jpg",
-      "data": "2026-09-18T15:24:48+00:00",
       "categoria": "PARÁ"
     },
     {
