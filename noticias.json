@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-19T20:03:00.057273+00:00",
+  "atualizado": "2026-09-19T20:34:24.244150+00:00",
   "noticias": [
     {
       "id": "1cff57f31ceec2d46e95c6ec28945f0d",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/politica/dino-pede-apuracao-da-pf-sobre-elo-entre-vorcaro-e-cemiterios-e-comunica-fachin-sobre-mendonca-1.1169977",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1145935:1784580892/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-19T20:02:56.929973+00:00",
+      "data": "2026-09-19T20:34:22.550436+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/politica/stf-cancela-sessao-sobre-a-relacao-de-mendonca-e-vorcaro-agendada-para-o-dia-23-1.1169830",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164087:1788368326/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-19T20:02:56.929844+00:00",
+      "data": "2026-09-19T20:34:22.550259+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/politica/oposicao-cobra-afastamento-de-gonet-apos-foto-com-vorcaro-em-londres-1.1170752",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1014928:1756826751/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-19T20:02:56.929629+00:00",
+      "data": "2026-09-19T20:34:22.550094+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a2f663ce12de334fcc80fab3b40f1b6e",
+      "titulo": "‘A Nobreza do Amor’: Casemiro morre, Mirinho anuncia venda do engenho e Jendal chega ao Brasil",
+      "descricao": "Morte de Casemiro abrirá um novo conflito em torno do futuro do engenho em A Nobreza do Amor. Foto: Reprodução/Globo Resumo de A Nobreza do Amor de 21 a 26 de setembro também terá o casamento de Mirinho e Virgínia, a melhora de Niara e a prisão de Miguel. O post ‘A Nobreza do Amor’: Casemiro morre, Mirinho anuncia venda do engenho e Jendal chega ao Brasil apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/resumo-a-nobreza-do-amor-21-26-setembro/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Casemiro-em-A-Nobreza-do-Amor.jpg",
+      "data": "2026-09-19T20:13:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "954b2b293296918b374392fc99206b20",
+      "titulo": "Prefeitura de Belém entrega 20 ruas pavimentadas em Outeiro",
+      "descricao": "Fotos: Paula Lourinho Vias receberam drenagem, asfaltamento, calçamento e sinalização por meio do programa Viva Bairro beneficiando 21 mil moradores em Outeiro O post Prefeitura de Belém entrega 20 ruas pavimentadas em Outeiro apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/prefeitura-de-belem-entrega-20-ruas-pavimentadas-em-outeiro/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Rua-Amoras-2-2560x1729-1.jpg",
+      "data": "2026-09-19T20:03:15+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,16 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "5b76f4736ece563bb11a8b6c52c829cd",
-      "titulo": "Pastor pede habeas corpus para Marcola e Beira-Mar em carta a Fachin",
-      "descricao": "Pastor pede habeas corpus para Marcola e Beira-Mar em carta a Fachin",
-      "link": "https://www.oliberal.com/politica/pastor-pede-habeas-corpus-preventivo-para-marcola-e-beira-mar-em-carta-a-fachin-do-stf-1.1170667",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1118105:1789831009/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-19T19:31:53.126737+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "c21ce53ad719a9e636a3b16d8f26c8ee",
       "titulo": "Homem é preso por posse ilegal de armas em Cachoeira do Arari, no Marajó",
       "descricao": "Homem é preso por porte ilegal de arma no Marajó Um homem foi preso em flagrante por posse ilegal de arma de fogo no município de Cachoeira do Arari, na Ilha do Marajó, no Pará. Durante a operação policial, foram apreendidas seis espingardas e diversas munições. A Polícia Civil investiga se o suspeito atuava no comércio ilegal de armamento na região marajoara. A prisão ocorreu durante o cumprimento de mandados de busca e apreensão na residência do investigado. Ao vistoriarem o imóvel, os agentes encontraram as munições escondidas dentro de tijolos. ✅ Siga o canal do g1 Pará no WhatsApp De acordo com as investigações, a suspeita é de que o homem utilizava o local para fabricar e armazenar as armas caseiras que, posteriormente, seriam vendidas de maneira clandestina. Durante o depoimento na delegacia, o suspeito optou por permanecer em silêncio. O homem foi autuado e permanece à disposição da justiça. Todo o material apreendido foi encaminhado para perícia técnica, o caso continua sendo investigado. VÍDEOS: veja todas as notícias do Pará",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/h4NblchaixTmBltdNpz8HKWu7Gs=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/87/68/14976887",
       "data": "2026-09-19T19:24:44+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "96b472a5fdd20b0a49b22a809ad1ebee",
-      "titulo": "Novo doce faz sucesso nas redes: o morango cravejado. Conheça!",
-      "descricao": "Andrezza Guerra tem apostado no morango cravejado na sua confeitaria em Belém FOTO: wagner almeida Novo doce faz sucesso nas redes: o morango cravejado. Conheça! O post Novo doce faz sucesso nas redes: o morango cravejado. Conheça! apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/novo-doce-faz-sucesso-nas-redes-o-morango-cravejado-conheca/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/generate-image-4.jpg",
-      "data": "2026-09-19T19:04:28+00:00",
       "categoria": "PARÁ"
     },
     {
