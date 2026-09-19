@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-19T00:39:27.520064+00:00",
+  "atualizado": "2026-09-19T01:02:43.972966+00:00",
   "noticias": [
     {
       "id": "6146786a6fc0fe0bcc24a3240613b28c",
@@ -8,7 +8,27 @@
       "link": "https://www.oliberal.com/esportes/camisa-do-cirio-bate-recorde-de-vendas-do-vasco-1.1170459",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163872:1789770882/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-19T00:39:24.265940+00:00",
+      "data": "2026-09-19T01:02:40.753720+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4796b9eb84a5c083174e3eb29b010a5d",
+      "titulo": "Motociclista morre após ser atingido por ônibus em Belém",
+      "descricao": "Motociclista morre após ser atingido por ônibus em Belém",
+      "link": "https://www.oliberal.com/policia/motociclista-morre-apos-ser-atingido-por-onibus-em-belem-1.1157775",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1157776:1786970870/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-19T01:02:40.753518+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9da0805ab958f4cdbad28517532ef82e",
+      "titulo": "Passageira de motocicleta morre após colisão em avenida de Belém",
+      "descricao": "Passageira de motocicleta morre após colisão em avenida de Belém",
+      "link": "https://www.oliberal.com/policia/passageira-de-motocicleta-morre-apos-colisao-na-avenida-centenario-em-belem-1.1170560",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170563:1789778293/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-19T01:02:40.392044+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -19,16 +39,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1165269:1788607978/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-19T00:39:24.265769+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d1ae167055add1be1c7bd7725eb7d79d",
-      "titulo": "Balsa naufragada com cerca de 60 animais é retirada de rio no Marajó",
-      "descricao": "Balsa naufragada com cerca de 60 animais é retirada de rio no Marajó",
-      "link": "https://www.oliberal.com/policia/balsa-que-naufragou-com-cerca-de-60-animais-e-retirada-do-rio-na-zona-rural-de-soure-no-marajo-1.1170501",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170505:1789771974/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-19T00:39:24.265591+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/05/remo-3.jpg",
       "data": "2026-09-19T00:31:40+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ed291480bee99f97cb01d1021db4f3cc",
-      "titulo": "Círio Fluvial: veja o que é proibido durante a romaria pelos rios de Belém",
-      "descricao": "Círio Fluvial: Marinha faz alerta e define regras para quase 400 embarcações. Foto: Oswaldo Forte A Marinha do Brasil divulgou as regras de segurança para as embarcações que participarão do Círio Fluvial 2026, que será realizado em 10 de outubro na Baía do Guajará. A Premiação Carlos Rocque também foi lançada. O post Círio Fluvial: veja o que é proibido durante a romaria pelos rios de Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cirio-de-nazare/cirio-fluvial-veja-o-que-e-proibido-durante-a-romaria-pelos-rios-de-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/fluvo.jpg",
-      "data": "2026-09-18T23:47:23+00:00",
       "categoria": "PARÁ"
     },
     {
