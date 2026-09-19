@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-19T16:02:53.899460+00:00",
+  "atualizado": "2026-09-19T16:34:28.522857+00:00",
   "noticias": [
+    {
+      "id": "1cff57f31ceec2d46e95c6ec28945f0d",
+      "titulo": "Dino pede apuração da PF sobre elo entre Vorcaro e cemitérios e comunica Fachin sobre Mendonça",
+      "descricao": "Dino pede apuração da PF sobre elo entre Vorcaro e cemitérios e comunica Fachin sobre Mendonça",
+      "link": "https://www.oliberal.com/politica/dino-pede-apuracao-da-pf-sobre-elo-entre-vorcaro-e-cemiterios-e-comunica-fachin-sobre-mendonca-1.1169977",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1145935:1784580892/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-19T16:34:26.252832+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "34bcbba53fb1808c85a039be93c93444",
+      "titulo": "STF cancela sessão sobre a relação de Mendonça e Vorcaro, agendada para o dia 23",
+      "descricao": "STF cancela sessão sobre a relação de Mendonça e Vorcaro, agendada para o dia 23",
+      "link": "https://www.oliberal.com/politica/stf-cancela-sessao-sobre-a-relacao-de-mendonca-e-vorcaro-agendada-para-o-dia-23-1.1169830",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1164087:1788368326/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-19T16:34:25.777976+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5b76f4736ece563bb11a8b6c52c829cd",
+      "titulo": "Pastor pede habeas corpus para Marcola e Beira-Mar em carta a Fachin",
+      "descricao": "Pastor pede habeas corpus para Marcola e Beira-Mar em carta a Fachin",
+      "link": "https://www.oliberal.com/politica/pastor-pede-habeas-corpus-preventivo-para-marcola-e-beira-mar-em-carta-a-fachin-do-stf-1.1170667",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1118105:1789831009/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-19T16:34:25.607500+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "17cd6bd0190c46f5f66e5049c3a2254c",
+      "titulo": "147 mil famílias de Belém terão Bolsa Família com novo valor em outubro",
+      "descricao": "Bolsa Família sobe para R$ 691; veja quem recebe no Pará O Bolsa Família terá novos valores a partir de outubro, com reajuste de 15,04% e benefício mínimo de R$ 691. Cerca de 147 mil famílias de Belém serão contempladas. O post 147 mil famílias de Belém terão Bolsa Família com novo valor em outubro apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/147-mil-familias-de-belem-terao-bolsa-familia-com-novo-valor-em-outubro/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/bolsa-familia5-2.jpg",
+      "data": "2026-09-19T16:29:32+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "115a3a0aa652a684ac9d263d2b4e5a89",
+      "titulo": "Kukri e Nicolas começam no banco? Mazola define time do Paysandu",
+      "descricao": "De volta à Curuzu após 12 anos, Mazola Júnior assume o Paysandu em um momento decisivo da Série C e promete mudanças rápidas na equipe. Foto: Jorge Luís Totti/Paysandu O técnico Mazola Júnior, do Paysandu, pode promover a estreia de novos jogadores no próximo jogo, com o zagueiro Bruno Bispo retornando após lesão. O time deve adotar o esquema 4-3-3. O post Kukri e Nicolas começam no banco? Mazola define time do Paysandu apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/kukri-e-nicolas-comecam-no-banco-mazola-define-time-do-paysandu/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_55527590127_5a194a5f4e_k.jpg",
+      "data": "2026-09-19T16:23:16+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "d2b7d17b729b0bdab6f8474d21b869d2",
       "titulo": "Eleições 2026: saiba quem são os candidatos a vice na disputa pelo Governo do Pará",
@@ -12,63 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "e3532a8660ee14f15810ee354eab9f8f",
-      "titulo": "Zona, seção, local de votação e domicílio eleitoral: entenda a diferença",
-      "descricao": "Zona, seção, local de votação e domicílio eleitoral: entenda a diferença",
-      "link": "https://www.oliberal.com/politica/zona-secao-local-de-votacao-e-domicilio-eleitoral-entenda-a-diferenca-1.1169417",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.859709:1787148827/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-19T16:02:52.906256+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b6817a8bbe3ad11226ce0a99b9d363f8",
-      "titulo": "Quais documentos levar para votar? Veja o que é aceito",
-      "descricao": "Quais documentos levar para votar? Veja o que é aceito",
-      "link": "https://www.oliberal.com/politica/quais-documentos-levar-para-votar-veja-o-que-e-aceito-1.1170286",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1148404:1789755146/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-19T16:02:52.906069+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4f4647c6e4c2e4962f7aa310c6aa8461",
-      "titulo": "MC Poze do Rodo anuncia que será pai pela 7ª vez e revela nome da filha",
-      "descricao": "MC Poze do Rodo revela chegada da 7ª filha: “Lavínia está vindo aí” O funkeiro MC Poze do Rodo anunciou que será pai pela sétima vez. A bebê se chamará Lavínia. A notícia gerou comparações com Mr. Catra nas redes sociais. O post MC Poze do Rodo anuncia que será pai pela 7ª vez e revela nome da filha apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/tdb/mc-poze-do-rodo-anuncia-que-sera-pai-pela-7a-vez-e-revela-nome-da-filha/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/03/convertida_1200x628_poze.jpg",
-      "data": "2026-09-19T15:41:05+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e329866d991294a06200e58e56c5ad4c",
-      "titulo": "Desempregado? Veja como gerar renda extra sem cair em golpes e organizar as contas",
-      "descricao": "Veja como gerar renda extra sem cair em golpes e organizar as contas mesmo desempregado. Confira o guia completo para sair do aperto. Foto: Agência Brasil Veja como gerar renda extra sem cair em golpes e organizar as contas mesmo desempregado. Confira o guia completo para sair do aperto. O post Desempregado? Veja como gerar renda extra sem cair em golpes e organizar as contas apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/desempregado-veja-como-gerar-renda-extra-sem-cair-em-golpes-e-organizar-as-contas/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_2-2.jpg",
-      "data": "2026-09-19T15:40:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "125b876a3c462820efe1dd5955621247",
-      "titulo": "Passageira morre e motociclista fica em estado grave após acidente na Avenida Centenário, em Belém",
-      "descricao": "Uma mulher morreu, nesta sexta-feira (18), após acidente de moto. Divulgação/Ana Laura Carvalho Uma mulher morreu e um homem ficou gravemente ferido após um acidente de trânsito na noite de sexta-feira (18), na Avenida Centenário, em Belém. A vítima que morreu no local estava na garupa da motocicleta. Já o condutor do veículo foi socorrido por equipes de resgate e encaminhado em estado grave para atendimento médico em um hospital. ✅ Siga o canal do g1 Pará no WhatsApp De acordo com a Polícia Civil, o caso foi registrado por uma equipe da Polícia Militar. As informações iniciais coletadas pelas autoridades apontam que o motociclista teria se desequilibrado, o que causou a queda. A Polícia Civil informou que exames periciais já foram solicitados para ajudar a esclarecer as causas do acidente. O caso está sendo investigado pela Seccional da Sacramenta. VÍDEOS: veja todas as notícias do Pará",
+      "id": "ab44324620fd1fa03cab8268f7127ca6",
+      "titulo": "Passageira de moto por aplicativo morre em acidente na avenida Centenário, em Belém",
+      "descricao": "Uma mulher morreu, nesta sexta-feira (18), após acidente de moto. Reproduçã/Ana Laura Carvalho Uma mulher morreu e um homem ficou gravemente ferido após um acidente de trânsito na noite desta sexta-feira (18), na avenida Centenário, em Belém. A vítima, identificada como Tânia Maria Pantoja Almeida, de 50 anos, estava na garupa de uma motocicleta por aplicativo e trabalhava como diarista, segundo familiares. O condutor do veículo, foi socorrido em estado grave por equipes de resgate e encaminhado a um hospital. O nome e o estado de saúde atualizado dele não foram divulgados até a última atualização da reportagem. ✅ Siga o canal do g1 Pará no WhatsApp Em nota, a Polícia Civil informou que o caso foi registrado por uma equipe da Polícia Militar. E xames periciais já foram solicitados para ajudar a esclarecer as causas do acidente. O caso está sendo investigado pela Seccional da Sacramenta. VÍDEOS: veja todas as notícias do Pará",
       "link": "https://g1.globo.com/pa/para/noticia/2026/09/19/passageira-morre-e-motociclista-fica-em-estado-grave-apos-acidente-na-avenida-centenario-em-belem.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/_PvhHGEP7-pVD75VaCQNZxLQp5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/2/JJyQ4TTkGsvDuB8wdsLg/acidente-a.jpeg",
       "data": "2026-09-19T15:34:35+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0b399629e6bbc7d4a9fc6da1699b981f",
-      "titulo": "Coluna Justiça em Fatos 20/09",
-      "descricao": "O Diário do Pará traz um resumo das principais notícias do dia, incluindo o planejamento das Forças Armadas para as Eleições 2026, a conclusão de doutorado de um advogado, ações de inclusão quilombola e educação eleitoral, além da eleição da nova diretoria do IPDD e audiência pública da OAB-PA. O post Coluna Justiça em Fatos 20/09 apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/justica-em-fatos-luiz-flavio/coluna-justica-em-fatos-20-09/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Forcas-Armadas-planejam-apoio-aereo-terrestre-e-fluvial-ao-pleito-no-Para-em-outubro-.jpg",
-      "data": "2026-09-19T15:10:53+00:00",
       "categoria": "PARÁ"
     },
     {
