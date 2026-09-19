@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-19T11:33:23.205228+00:00",
+  "atualizado": "2026-09-19T12:03:23.143612+00:00",
   "noticias": [
+    {
+      "id": "d2b7d17b729b0bdab6f8474d21b869d2",
+      "titulo": "Eleições 2026: saiba quem são os candidatos a vice na disputa pelo Governo do Pará",
+      "descricao": "Eleições 2026: saiba quem são os candidatos a vice na disputa pelo Governo do Pará",
+      "link": "https://www.oliberal.com/politica/elei%C3%A7%C3%B5es-2026-saiba-quem-s%C3%A3o-os-candidatos-a-vice-na-disputa-pelo-governo-do-par%C3%A1-1.1164689",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.879822:1729896314/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-19T12:03:21.621187+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e3532a8660ee14f15810ee354eab9f8f",
+      "titulo": "Zona, seção, local de votação e domicílio eleitoral: entenda a diferença",
+      "descricao": "Zona, seção, local de votação e domicílio eleitoral: entenda a diferença",
+      "link": "https://www.oliberal.com/politica/zona-secao-local-de-votacao-e-domicilio-eleitoral-entenda-a-diferenca-1.1169417",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.859709:1787148827/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-19T12:03:21.232792+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b6817a8bbe3ad11226ce0a99b9d363f8",
+      "titulo": "Quais documentos levar para votar? Veja o que é aceito",
+      "descricao": "Quais documentos levar para votar? Veja o que é aceito",
+      "link": "https://www.oliberal.com/politica/quais-documentos-levar-para-votar-veja-o-que-e-aceito-1.1170286",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1148404:1789755146/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-19T12:03:20.846035+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "58d968177133212846c948682a99dc60",
+      "titulo": "Veja fotos: Prédio do Arsenal faz 150 anos e guarda história naval iniciada com canoas de guerra em Belém",
+      "descricao": "O prédio do antigo Arsenal de Marinha do Pará, atual sede do Comando do 4º Distrito Naval, completa 150 anos. Foto: Autor desconhecido/Acervo Instituto Moreira Salles Edifício remonta a uma estrutura criada em 1729 para construir e reparar embarcações usadas na defesa do litoral Norte e da Amazônia O post Veja fotos: Prédio do Arsenal faz 150 anos e guarda história naval iniciada com canoas de guerra em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/historia-predio-arsenal-marinha-para/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Arsenal-da-Marinha-em-meados-de-1910.-Foto-Autor-desconhecido-Acervo-Instituto-Moreira-Salles-1.jpg",
+      "data": "2026-09-19T12:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5a4a4d3cca7673ef57cbd9a10b7c60ef",
+      "titulo": "A psicologia explica por que algumas pessoas tem muitas fotos da família espalhadas pela casa",
+      "descricao": "Imagens podem ir muito além da decoração e funcionar como gatilhos de memória, pertencimento e conexão emocional. Foto: Gerada com IA. Ter fotos da família expostas em casa vai além da decoração, sendo um hábito que ajuda a preservar memórias e vínculos afetivos. Elas funcionam como lembretes visuais de pessoas, momentos e experiências importantes, despertando histórias e emoções. O post A psicologia explica por que algumas pessoas tem muitas fotos da família espalhadas pela casa apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/a-psicologia-explica-por-que-algumas-pessoas-tem-muitas-fotos-da-familia-espalhadas-pela-casa/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Image-2026-09-18-at-18.40.41.jpeg",
+      "data": "2026-09-19T11:42:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "6146786a6fc0fe0bcc24a3240613b28c",
       "titulo": "Camisa do Vasco em homenagem ao Círio bate recorde de vendas",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1163872:1789770882/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-19T11:33:19.673966+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4796b9eb84a5c083174e3eb29b010a5d",
-      "titulo": "Motociclista morre após ser atingido por ônibus em Belém",
-      "descricao": "Motociclista morre após ser atingido por ônibus em Belém",
-      "link": "https://www.oliberal.com/policia/motociclista-morre-apos-ser-atingido-por-onibus-em-belem-1.1157775",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1157776:1786970870/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-19T11:33:19.673848+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9da0805ab958f4cdbad28517532ef82e",
-      "titulo": "Passageira de motocicleta morre após colisão em avenida de Belém",
-      "descricao": "Passageira de motocicleta morre após colisão em avenida de Belém",
-      "link": "https://www.oliberal.com/policia/passageira-de-motocicleta-morre-apos-colisao-na-avenida-centenario-em-belem-1.1170560",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170563:1789778293/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-19T11:33:19.673725+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bdc4a47d394e85c905dd6e194536f264",
-      "titulo": "Novo Santuário de Nazaré terá capacidade para 5 mil pessoas; obra começa em breve",
-      "descricao": "Obra do novo Santuário de Nazaré deve começar imediatamente em Belém. Foto: Mauro Ângelo O Santuário de Nazaré terá seu contrato de obra assinado esta semana, com previsão de dois anos para conclusão e capacidade para cinco mil pessoas. O post Novo Santuário de Nazaré terá capacidade para 5 mil pessoas; obra começa em breve apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/mauro-bonna/novo-santuario-de-nazare-tera-capacidade-para-5-mil-pessoas-obra-comeca-em-breve/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/WhatsApp-Image-2026-08-26-at-15.20.27-3.jpeg",
-      "data": "2026-09-19T11:08:34+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "93f47d68d1683d49525a3a4c1be7d430",
-      "titulo": "Mulheres são 7 em cada 10 mesários nas eleições de 2026; veja o perfil",
-      "descricao": "Foto: Irene Almeida - Diário do Pará Mulheres representam 71,4% dos mesários cadastrados para o primeiro turno das Eleições 2026, de acordo com dados do Tribunal Superior Eleitoral (TSE). O percentual é superior ao de pleitos anteriores. O post Mulheres são 7 em cada 10 mesários nas eleições de 2026; veja o perfil apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/mulheres-sao-7-em-cada-10-mesarios-nas-eleicoes-de-2026-veja-o-perfil/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_DP20241006_IA_1469_preview_1.jpg",
-      "data": "2026-09-19T11:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "cc0f309fca34750af0b0868ecacb3f1e",
-      "titulo": "Remo x Santos: onde assistir ao vivo, horário e escalações pelo Brasileirão",
-      "descricao": "Carpini chega para comandar o Remo. Foto: Samara Miranda/ascom Remo O Remo enfrenta o Santos neste sábado (19) pela 28ª rodada do Brasileirão. O Leão Azul, na zona de rebaixamento, terá a estreia do técnico Thiago Carpini em busca de reação. O post Remo x Santos: onde assistir ao vivo, horário e escalações pelo Brasileirão apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/remo-x-santos-onde-assistir-ao-vivo-horario-e-escalacoes-pelo-brasileirao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_812133180_1645367430266308_3620956905756697681_n.jpg",
-      "data": "2026-09-19T10:53:30+00:00",
       "categoria": "PARÁ"
     },
     {
