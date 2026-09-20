@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-20T19:32:00.199274+00:00",
+  "atualizado": "2026-09-20T20:03:04.895384+00:00",
   "noticias": [
+    {
+      "id": "2efa98deef7f21b5ae77109f0100fb82",
+      "titulo": "Homem mata a filha e o atual namorado da ex-mulher em caso extremo de violência em Juriti",
+      "descricao": "Homem mata a filha e o atual namorado da ex-mulher em caso extremo de violência em Juriti",
+      "link": "https://www.oliberal.com/policia/homem-mata-a-filha-e-o-atual-namorado-da-ex-mulher-em-caso-extremo-de-violencia-em-juriti-1.1152266",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1152281:1785547353/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-20T20:03:02.115739+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b2e3c9ece7b200eb0948b33828973683",
+      "titulo": "Polícia faz buscas por suspeito de feminicídio em Bragança",
+      "descricao": "Polícia faz buscas por suspeito de feminicídio em Bragança",
+      "link": "https://www.oliberal.com/policia/policia-faz-buscas-por-suspeito-de-feminicidio-em-braganca-1.1158262",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1158263:1787017177/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-20T20:03:01.920966+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1fbf86d8cad6c44500cee42d72129146",
+      "titulo": "Jovem é morta a tiros dentro de conveniência na Terra Firme, em Belém",
+      "descricao": "Jovem é morta a tiros dentro de conveniência na Terra Firme, em Belém",
+      "link": "https://www.oliberal.com/policia/jovem-e-morta-a-tiros-dentro-de-conveniencia-na-terra-firme-em-belem-1.1171001",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171002:1789932070/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-20T20:03:01.727071+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a76627b9d9fc04e02a04dab0b6bb6cc0",
+      "titulo": "Jovem de 19 anos é morta a tiros durante trabalho na Terra Firme",
+      "descricao": "Câmeras flagram homens de capacete antes de jovem ser morta na Terra Firme A Polícia Civil investiga o assassinato de Ana Kayla de Lisboa Brandão, de 19 anos, morta a tiros na madrugada deste domingo (20), no bairro da Terra Firme, em Belém. As principais perguntas que norteiam a investigação são: quem matou a jovem, quem mandou executar o crime e qual teria sido a motivação? O homicídio […] O post Jovem de 19 anos é morta a tiros durante trabalho na Terra Firme apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/policia/jovem-de-19-anos-e-morta-a-tiros-durante-trabalho-na-terra-firme/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Foto_ZAP_TERRA_FIRME-_Ana_Kayla_de_Lisboa_Brandao_mosta_a_tiros_quando_trabalhava_em_loja_da_Terra_Firme.jpg",
+      "data": "2026-09-20T19:51:24+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5eea789d7da8149fd959e95700f39bf9",
+      "titulo": "Um atoleiro deu origem ao uso da corda no Círio de Nazaré",
+      "descricao": "Carregada por milhares de mãos, a corda do Círio anuncia a aproximação da Berlinda e representa a fé dos devotos de Nossa Senhora de Nazaré. Foto: Irene Almeida/Diário do Pará Símbolo da devoção à padroeira dos paraenses apareceu pela primeira vez em 1855 e entrou oficialmente na procissão 30 anos depois O post Um atoleiro deu origem ao uso da corda no Círio de Nazaré apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cirio-de-nazare/um-atoleiro-deu-origem-ao-uso-da-corda-no-cirio-de-nazare/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Corda-Cirio-de-Nazare.jpg",
+      "data": "2026-09-20T19:45:55+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "138f610dfca10a3ac29fff0c879127ca",
       "titulo": "Quem é Dalide Corrêa, advogada que recebia R$ 33 mi por ano do Master e 'canal direto do STF'",
@@ -12,53 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "eeb86dbc41d38bf39228b37b6cc1a3dc",
-      "titulo": "Nudez e sexo: celular de Daniel Vorcaro tem 5 mil arquivos de conteúdo adulto, diz jornalista",
-      "descricao": "Nudez e sexo: celular de Daniel Vorcaro tem 5 mil arquivos de conteúdo adulto, diz jornalista",
-      "link": "https://www.oliberal.com/brasil/nudez-e-sexo-celular-de-daniel-vorcaro-tem-5-mil-arquivos-de-conteudo-adulto-diz-jornalista-1.1170935",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1093656:1772826796/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-20T19:31:58.614554+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "218765dbc704bf5877dcf87e0010e379",
-      "titulo": "Alexandre de Moraes é flagrado em jatinho ligado a Daniel Vorcaro",
-      "descricao": "Alexandre de Moraes é flagrado em jatinho ligado a Daniel Vorcaro",
-      "link": "https://www.oliberal.com/politica/alexandre-de-moraes-e-flagrado-em-jatinho-ligado-a-daniel-vorcaro-contradizendo-versao-oficial-1.1170930",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170931:1789908446/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-20T19:31:58.614346+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2d0d3c68e38d2090316dc1f622e15110",
-      "titulo": "Suzane von Richthofen vai às compras e chama atenção: o que será que ela colocou no carrinho?",
-      "descricao": "Suzane von Richthofen aparece em registro durante ida às compras. Foto: reprodução Registro envolvendo Suzane von Richthofen foi compartilhado pelo jornalista Ulisses Campbell, conhecido pelo trabalho com crimes reais. O post Suzane von Richthofen vai às compras e chama atenção: o que será que ela colocou no carrinho? apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/suzane-von-richthofen-vai-as-compras-e-chama-atencao-o-que-sera-que-ela-colocou-no-carrinho/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_812940868_18177077767438693_8695164074026875801_n.jpg",
-      "data": "2026-09-20T19:19:34+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a8e70537ca6f3646fbf93ff3c63407a1",
-      "titulo": "Marisa Orth resgata foto nua da Playboy após estreia em conteúdo adulto: ‘30 anos atrás’",
-      "descricao": "Marisa Orth, edição de agosto de 1997 da revista Playboy. Foto: Reprodução Atriz revive capa histórica da revista após participar de produção sensual com ator paraense Vitor Gadelha. O post Marisa Orth resgata foto nua da Playboy após estreia em conteúdo adulto: ‘30 anos atrás’ apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/marisa-orth-resgata-foto-nua-da-playboy-apos-estreia-em-conteudo-adulto-30-anos-atras/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Playboy-Marisa-Orth-1997-1.jpg",
-      "data": "2026-09-20T19:16:15+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1748865611ab6bf58e22eaf574049d0d",
-      "titulo": "MC Poze anuncia que será pai pela 7ª vez e revela sexo do bebê",
-      "descricao": "MC Poze do Rodo vai ser pai novamente. Foto: Reprodução Cantor contou a novidade durante uma live e disse que a filha vai se chamar Lavínia; identidade da mãe ainda não foi revelada. O post MC Poze anuncia que será pai pela 7ª vez e revela sexo do bebê apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/mc-poze-anuncia-que-sera-pai-pela-7a-vez-e-revela-sexo-do-bebe/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_saveclip_app-764340089-18115844408680835-4482672770423236549-n.jpg",
-      "data": "2026-09-20T18:56:49+00:00",
+      "id": "21cf5a713e94b7fc1d8a27c986de0d95",
+      "titulo": "Homem é preso suspeito de matar companheira a tiro em Concórdia do Pará",
+      "descricao": "Homem é preso suspeito de matar companheira com tiro na cabeça em Concórdia do Pará. Divulgação/Polícia Civil Um homem foi preso em flagrante neste domingo (20) suspeito de matar a companheira com um tiro na cabeça em Concórdia do Pará, no nordeste do estado. O crime ocorreu em uma casa na Rua Floriano Peixoto, no Bairro Espanhol. A vítima foi identificada como Samires da Silva Araújo. No quarto do casal, os policiais encontraram o corpo de Samires. Conforme a ocorrência, ela apresentava uma lesão na região da cabeça. ✅ Clique e siga o canal do g1 PA no WhatsApp A polícia localizou o suspeito, identificado como Sandro Pereira Feitosa. De acordo com a corporação, ele confessou ter matado a esposa. O g1 tenta contato com a defesa do autor do crime. Agora no g1 Na sala do imóvel, os policiais localizaram uma espingarda de fabricação caseira. A arma foi apreendida. O homem e o armamento foram apresentados na delegacia para os procedimentos legais. A Polícia Civil informou que requisitou perícias no local do crime e de necropsia. As diligências seguem para esclarecer as circunstâncias do caso. VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/20/homem-e-preso-suspeito-de-matar-companheira-em-concordia-do-para.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/fmrOg8b2uBiakliq_OIhomOx2Yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/p/rKVQwQSOu1NSiAoMpiGg/image-2026-09-20t161726.201.png",
+      "data": "2026-09-20T19:24:26+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/Biut_7MVUb-8pN5qC9Jf4n43pr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/n/hWTnEzSBqy9pT0wkGmJw/image-2026-09-20t152854.320.png",
       "data": "2026-09-20T18:46:03+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b9ec0e4f95d7ec46ba50497522b31268",
-      "titulo": "Concurso de Redação do Círio 2026 reúne mais de 100 estudantes em Belém",
-      "descricao": "g1 em 1 Minuto Pará: prova do concurso redação do Círio ocorre em Belém A Diretoria da Festa de Nazaré (DFN) realizou neste domingo (20) a prova da 32ª edição do Concurso de Redação do Círio. Ao todo, 103 alunos do ensino médio se inscreveram, sendo 30 de escolas da rede pública e 73 de escolas particulares. Os participantes são de Belém (82 inscritos) e de outros cinco municípios paraenses: Ananindeua, Marituba, Bujaru, Parauapebas e Abaetetuba, que juntos somaram 21 inscritos. A prova propôs aos estudantes refletirem sobre o tema \"Ser mãe é ministério\", com foco na responsabilidade em um lar equilibrado e no dom da maternidade. \"Ver mais uma vez tantos jovens de diferentes municípios do Pará dedicados a escrever sobre Nossa Senhora de Nazaré nos mostra a força dessa devoção entre as novas gerações. Cada redação é, à sua maneira, um gesto de fé, e é isso que torna esse concurso tão especial a cada edição\", destacou a organizadora, Lílian Acatauassu. Círio de Nazaré: concurso de redação reúne mais de 100 jovens em Belém. Rosana Pinto / Ascom DFN ✅ Clique e siga o canal do g1 Pará no WhatsApp Resultado e premiação O resultado será divulgado até o dia dois de outubro no site oficial e na sede da Diretoria da Festa. As escolas vencedoras também serão notificadas. Os ganhadores serão premiados com notebook, tablet e celular no dia seis de outubro, em uma cerimônia na Casa de Plácido, após a abertura oficial do Círio 2026. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
-      "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/20/concurso-de-redacao-do-cirio-2026-reune-mais-de-100-estudantes-em-belem.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/FB7yDqblRscBXCi0aKQHMiI_5e0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/7/3A5sTsRxGYOO7EgFiq5w/whatsapp-image-2026-09-20-at-09.00.07.jpeg",
-      "data": "2026-09-20T16:04:26+00:00",
       "categoria": "PARÁ"
     }
   ]
