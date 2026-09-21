@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-21T09:36:24.520808+00:00",
+  "atualizado": "2026-09-21T10:03:15.879158+00:00",
   "noticias": [
     {
       "id": "c68bc6513f109e984fbdde74424e74ba",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/esportes/paysandu/video-falha-no-reconhecimento-facial-causa-filas-e-aglomeracao-na-entrada-da-curuzu-1.1171013",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171014:1789936717/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-21T09:36:22.371728+00:00",
+      "data": "2026-09-21T10:03:12.596033+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/esportes/paysandu/tuma-explica-escolha-por-mazola-e-fala-em-sinais-no-paysandu-era-minha-primeira-opcao-1.1171034",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1088113:1771789630/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-21T09:36:22.371564+00:00",
+      "data": "2026-09-21T10:03:12.595957+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/esportes/paysandu/na-estreia-de-mazola-paysandu-sofre-empate-nos-acrescimos-e-segue-na-lanterna-1.1171025",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171151:1789947250/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-21T09:36:22.371379+00:00",
+      "data": "2026-09-21T10:03:12.595841+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "66767bbfa9643627a4a490f760540898",
+      "titulo": "CNH definitiva pode ser liberada mesmo com infrações; veja quais não impedem a emissão",
+      "descricao": "Nova regulamentação diferencia irregularidades administrativas das condutas que comprometem a Permissão para Dirigir; infrações graves, gravíssimas ou reincidência em média continuam impedindo a habilitação definitiva. A obtenção da CNH definitiva não será mais impedida por infrações administrativas durante o período da Permissão para Dirigir (PPD). A nova regulamentação diferencia irregularidades burocráticas de condutas de risco no trânsito. O post CNH definitiva pode ser liberada mesmo com infrações; veja quais não impedem a emissão apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/cnh-definitiva-pode-ser-liberada-mesmo-com-infracoes-veja-quais-nao-impedem-a-emissao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://diariodopara.com.br/wp-content/uploads/2026/01/Renovacao-CNH3.jpg",
+      "data": "2026-09-21T10:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9de0253bd080c5f57c0e2ff3aeec95a0",
+      "titulo": "Paysandu cede empate no fim e torcedores se envolvem em confusão fora da Curuzu",
+      "descricao": "Vídeos mostram confusão entre torcedores do Paysandu após empate Torcedores do Paysandu se envolveram em uma confusão nas proximidades do estádio da Curuzu, em Belém, após o empate do time com a Inter de Limeira pela Série C do Campeonato Brasileiro. O post Paysandu cede empate no fim e torcedores se envolvem em confusão fora da Curuzu apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/paysandu-cede-empate-no-fim-e-torcedores-se-envolvem-em-confusao-fora-da-curuzu/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Captura_de_tela_2026-09-21_065457.jpg",
+      "data": "2026-09-21T09:59:30+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,26 +69,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/55539491517_3a0f342cf5_k.jpg",
       "data": "2026-09-21T00:21:37+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8bff5de16abf1dbc2bef162a9993c842",
-      "titulo": "Na estreia de Mazola, Paysandu sofre empate e segue na lanterna",
-      "descricao": "Na estreia de Mazola, Paysandu sofre empate e segue na lanterna",
-      "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/paysandu-x-inter-de-limeira-sp",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
-      "data": "2026-09-21T00:03:40.104632+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1e06834f6d6670418ce3555f4b560709",
-      "titulo": "Flamengo vence Bragantino, chega a 60 pontos e abre vantagem no Brasileirão",
-      "descricao": "Flamengo vence Bragantino, chega a 60 pontos e abre vantagem no Brasileirão O Flamengo venceu o RB Bragantino por 2 a 1 no Maracanã e ampliou sua vantagem na liderança do Brasileirão. Pedro marcou, mas deixou o campo irritado após ser substituído. O post Flamengo vence Bragantino, chega a 60 pontos e abre vantagem no Brasileirão apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/flamengo-vence-bragantino-chega-a-60-pontos-e-abre-vantagem-no-brasileirao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_796468058_1556367215812538_861159234690909846_n.jpg",
-      "data": "2026-09-20T23:57:12+00:00",
       "categoria": "PARÁ"
     },
     {
