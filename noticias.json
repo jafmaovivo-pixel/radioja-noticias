@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-09-21T15:02:36.846005+00:00",
+  "atualizado": "2026-09-21T15:34:32.875606+00:00",
   "noticias": [
+    {
+      "id": "42dfb88736347b136879bd40091ad977",
+      "titulo": "Homem é encontrado morto ao lado de moto às margens da PA-140, em Quatro Bocas",
+      "descricao": "Homem é encontrado morto ao lado de moto às margens da PA-140, em Quatro Bocas",
+      "link": "https://www.oliberal.com/policia/homem-e-encontrado-morto-ao-lado-de-moto-as-margens-da-pa-140-em-quatro-bocas-1.1170998",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.725671:1739027347/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-21T15:34:31.547425+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7a3c7551e674a089c11330b8ab4998bf",
+      "titulo": "Homem é morto esfaqueado em Juruti; suspeito é preso baleado",
+      "descricao": "Homem é morto esfaqueado em Juruti; suspeito é preso baleado",
+      "link": "https://www.oliberal.com/policia/homem-e-morto-esfaqueado-em-juruti-suspeito-e-preso-baleado-1.1170995",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170996:1789927866/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-21T15:34:31.180421+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "76ddde0e1b781c27821b5090c33cca41",
+      "titulo": "Homem é morto a facada por morador após invadir casa em Belém",
+      "descricao": "Homem é morto a facada por morador após invadir casa em Belém",
+      "link": "https://www.oliberal.com/policia/homem-e-morto-a-facada-por-morador-apos-invadir-casa-em-belem-1.1171280",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171287:1790002927/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-21T15:34:30.976473+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "eeb86dbc41d38bf39228b37b6cc1a3dc",
       "titulo": "Nudez e sexo: celular de Daniel Vorcaro tem 5 mil arquivos de conteúdo adulto, diz jornalista",
@@ -12,29 +42,9 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "a62aefaa8276ec2de834a0fecb1ece91",
-      "titulo": "Defesa cita pedido de vista de Dino no STF e pede revogação de prisão preventiva de Vorcaro",
-      "descricao": "Defesa cita pedido de vista de Dino no STF e pede revogação de prisão preventiva de Vorcaro",
-      "link": "https://www.oliberal.com/politica/defesa-cita-pedido-de-vista-de-dino-no-stf-e-pede-revogacao-de-prisao-preventiva-de-vorcaro-1.1170200",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1095135:1789406150/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-21T15:02:35.554371+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e72439531a73efb9f614249c21881233",
-      "titulo": "Prazo para Mendonça responder a acusações de Moraes termina hoje",
-      "descricao": "Prazo para Mendonça responder a acusações de Moraes termina hoje",
-      "link": "https://www.oliberal.com/politica/prazo-para-mendonca-responder-a-acusacoes-de-moraes-termina-nesta-segunda-feira-21-1.1171238",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113182:1789996388/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-21T15:02:35.554160+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "070243e71d1a17480ab95a4e0320dc6f",
-      "titulo": "Homem morre após invadir casa e entrar em luta corporal com morador na Vila da Barca, em Belém",
-      "descricao": "Vila da Barca, em Belém TV Liberal Um homem morreu na manhã desta segunda-feira (21) após invadir uma residência e entrar em luta corporal com o morador na Vila da Barca, no bairro do Telégrafo, em Belém. Segundo a Polícia Militar, uma equipe do 1º Batalhão foi acionada para atender a ocorrência. A vítima não teve a identidade divulgada. Clique e siga o canal do g1 Pará no WhatsApp Ainda segundo a PM. durante o confronto, o morador teria desferido um golpe de arma branca contra o invasor, que morreu no local. O morador foi detido pela PM, e a área foi isolada. O g1 entrou em contato com a Polícia Civil solicitando mais informações sobre o caso, mas ainda não obteve retorno até a última atualização da reportagem. Agora no g1 (Esta matéria está em atualização) Vídeos com as principais notícias do Pará",
+      "id": "3947f383ddfa9da372c68e761329e379",
+      "titulo": "Homem é morto após invadir casa e entrar em luta corporal com morador na Vila da Barca, em Belém",
+      "descricao": "Vila da Barca, em Belém TV Liberal Um homem morreu na manhã desta segunda-feira (21) após invadir uma residência e entrar em luta corporal com o morador na Vila da Barca, no bairro do Telégrafo, em Belém. Segundo a Polícia Militar, uma equipe do 1º Batalhão foi acionada para atender a ocorrência. A vítima não teve a identidade divulgada. Clique e siga o canal do g1 Pará no WhatsApp Ainda segundo a PM, durante o confronto, o morador teria desferido um golpe de arma branca contra o invasor, que morreu no local. O morador foi detido pela PM, e a área foi isolada. O g1 entrou em contato com a Polícia Civil solicitando mais informações sobre o caso, mas ainda não obteve retorno até a última atualização da reportagem. Já a Polícia Científica informou que realizou a remoção do corpo da vítima e a perícia no local do crime Agora no g1 (Esta matéria está em atualização) Vídeos com as principais notícias do Pará",
       "link": "https://g1.globo.com/pa/para/noticia/2026/09/21/homem-morre-apos-invadir-casa-e-entrar-em-luta-corporal-com-morador-na-vila-da-barca-em-belem.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/4skc8tt3dHf8zlt3C4O-OIIr63k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/w/KWMKJ8SpGD7CBfZJEdOA/sem-titulo.png",
@@ -62,19 +72,9 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "ae268e60ffa770ed9a9e3f5503a4b00d",
-      "titulo": "Inadimplência dispara no Brasil: 83,9 milhões de pessoas estão com dívidas; cartão preocupa",
-      "descricao": "Facilidade de acesso ao crédito, juros elevados e comprometimento da renda ajudam a explicar avanço das dívidas entre as famílias. O número de brasileiros inadimplentes chegou a 83,9 milhões em julho de 2026, segundo levantamento da Serasa. Cartão de crédito e juros elevados são os principais vilões do endividamento, que afeta metade da população adulta do país. O post Inadimplência dispara no Brasil: 83,9 milhões de pessoas estão com dívidas; cartão preocupa apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/inadimplencia-dispara-no-brasil-839-milhoes-de-pessoas-estao-com-dividas-cartao-preocupa/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/inadimplencia7.webp.png",
-      "data": "2026-09-21T14:28:07+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "e41f835a32ea7e8c67c80b2a91350f74",
       "titulo": "Moto aquática bate em lancha de moradora e foge na Ilha do Combu, em Belém",
-      "descricao": "Moto Aquática bate em lancha na Ilha do Combu, em Belém Uma moto aquática bateu na lancha de uma moradora no Furo da Paciência, na região da Ilha do Combu, em Belém, neste sábado (19). Segundo a moradora, o condutor da moto aquática teria fugido do local após a colisão. A lancha ficou danificada e o prejuízo ficou com a proprietária. Moradores da região afirmam que casos envolvendo imprudência de pilotos que navegam pelas ilhas têm se tornado frequentes. Clique e siga o canal do g1 Pará no WhatsApp Eles também cobram uma fiscalização mais eficaz para evitar acidentes e garantir a segurança de quem utiliza as áreas de navegação. A Polícia Civil informou que, até o momento, não havia registro de ocorrência sobre o caso. O g1 procurou a Marinha do Brasil para saber se houve fiscalização ou alguma ocorrência relacionada ao acidente, mas não obteve retorno até a última atualização da reportagem. Moto aquática atinge lancha na Ilha do Combu, em Belém Reprodução / TV Liberal Vídeos com as principais notícias do Pará",
+      "descricao": "Moto Aquática bate em lancha na Ilha do Combu, em Belém Uma moto aquática bateu na lancha de uma moradora no Furo da Paciência, na região da Ilha do Combu, em Belém, neste sábado (19). Segundo a moradora, o condutor da moto aquática teria fugido do local após a colisão. A lancha ficou danificada e o prejuízo ficou com a proprietária. Moradores da região afirmam que casos envolvendo imprudência de pilotos que navegam pelas ilhas têm se tornado frequentes. Clique e siga o canal do g1 Pará no WhatsApp Eles também cobram uma fiscalização mais eficaz para evitar acidentes e garantir a segurança de quem utiliza as áreas de navegação. A Polícia Civil informou que, até o momento, não havia registro de ocorrência sobre o caso. Em nota, a Marinha do Brasil disse que entrou em contato com o Centro Integrado de Operações (CIOP) para reunir os dados disponíveis e obter maiores esclarecimentos sobre o caso. O órgão disse ainda que mantém ações permanentes de fiscalização do tráfego aquaviário nas vias navegáveis sob sua jurisdição, abrangendo a Região Metropolitana de Belém, inclusive na Ilha do Combu e municípios do interior. Moto aquática atinge lancha na Ilha do Combu, em Belém Reprodução / TV Liberal Vídeos com as principais notícias do Pará",
       "link": "https://g1.globo.com/pa/para/noticia/2026/09/21/moto-aquatica-bate-em-lancha-de-moradora-e-foge-na-ilha-do-combu-em-belem.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/5g4GsQ34XpBWjZeVgSUxtkXGQ3A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/Z/ooAjBRSduiCSFMSuAyXA/sequencia-080.jpg",
