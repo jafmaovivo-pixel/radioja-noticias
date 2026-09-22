@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-22T15:35:00.787503+00:00",
+  "atualizado": "2026-09-22T16:03:11.055486+00:00",
   "noticias": [
+    {
+      "id": "8d26e7dbee9bb74bb541da766cdb3c9d",
+      "titulo": "Aparelho de bordo do helicóptero que levava Rick registra atividade durante a madrugada, diz jornal",
+      "descricao": "Aparelho de bordo do helicóptero que levava Rick registra atividade durante a madrugada, diz jornal",
+      "link": "https://www.oliberal.com/cultura/celebridades/aparelho-de-bordo-do-helicoptero-que-levava-rick-registra-atividade-durante-a-madrugada-diz-jornal-1.1171668",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171685:1790085665/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-22T16:03:09.091718+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c57b5ca80ee4bd864af53d43216bc588",
+      "titulo": "Cantor Rick sofreu acidente de carro em SC quase dois anos antes de desaparecer; relembre",
+      "descricao": "Cantor Rick sofreu acidente de carro em SC quase dois anos antes de desaparecer; relembre",
+      "link": "https://www.oliberal.com/cultura/celebridades/cantor-rick-sofreu-acidente-de-carro-em-sc-quase-dois-anos-antes-de-desaparecer-relembre-1.1171718",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171728:1790089708/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-22T16:03:09.091455+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c92b1cb0ee5759239cbe904d303eea76",
+      "titulo": "Bombeiros encontram helicóptero e confirmam mortes de Rick e mais 4",
+      "descricao": "Bombeiros encontram helicóptero e confirmam mortes de Rick e mais 4",
+      "link": "https://www.oliberal.com/cultura/rick-morreu-bombeiros-encontram-helicoptero-e-confirmam-mortes-de-rick-e-mais-4-1.1171742",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171592:1790091428/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-22T16:03:08.717521+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c585546fb0ba2e8f1eac7650bce446b4",
+      "titulo": "Confirmada a morte de Rick da dupla Rick e Renner após queda de helicóptero; não há sobreviventes",
+      "descricao": "Cantor Rick, da dupla Rick e Renner, morreu após queda de helicóptero em Santa Catarina, na segunda-feira, 22. Sertanejo deixa legado. Cantor Rick, da dupla Rick e Renner, morreu após queda de helicóptero em Santa Catarina, na segunda-feira, 22. Sertanejo deixa legado. O post Confirmada a morte de Rick da dupla Rick e Renner após queda de helicóptero; não há sobreviventes apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/brasil/confirmada-a-morte-de-rick-da-dupla-rick-e-renner-apos-queda-de-helicoptero-nao-ha-sobreviventes/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/rick-2-2.jpg",
+      "data": "2026-09-22T15:36:34+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "0726836ddf535727f01c199493523af5",
       "titulo": "Helicóptero que desapareceu com Rick em SC pertence a Neymar? Entenda a relação",
@@ -9,26 +49,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171645:1790080642/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-22T15:34:59.486896+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8d26e7dbee9bb74bb541da766cdb3c9d",
-      "titulo": "Aparelho de bordo do helicóptero que levava Rick registra atividade durante a madrugada, diz jornal",
-      "descricao": "Aparelho de bordo do helicóptero que levava Rick registra atividade durante a madrugada, diz jornal",
-      "link": "https://www.oliberal.com/cultura/celebridades/aparelho-de-bordo-do-helicoptero-que-levava-rick-registra-atividade-durante-a-madrugada-diz-jornal-1.1171668",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171685:1790085665/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-22T15:34:59.486764+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "46c30074bbed0ce7a0bc8f5a309e9597",
-      "titulo": "Desaparecimento do helicóptero com Rick em SC: veja o que se sabe até agora",
-      "descricao": "Desaparecimento do helicóptero com Rick em SC: veja o que se sabe até agora",
-      "link": "https://www.oliberal.com/brasil/desaparecimento-do-helicoptero-com-rick-em-sc-veja-o-que-se-sabe-ate-agora-1.1171623",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171559:1790077669/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-22T15:34:59.486608+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,16 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "8a714ddb36d794f9123b2b3da0eef346",
-      "titulo": "Esposa de Rick volta ao Brasil durante buscas; bombeiros esperam encontrar ocupantes com vida",
-      "descricao": "Geralda estava nos Estados Unidos quando o helicóptero desapareceu Geralda Helena, esposa do cantor Rick, retornou ao Brasil após o desaparecimento do helicóptero que transportava o artista em Santa Catarina. As buscas pela aeronave e seus ocupantes continuam. O post Esposa de Rick volta ao Brasil durante buscas; bombeiros esperam encontrar ocupantes com vida apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/esposa-de-rick-volta-ao-brasil-enquanto-buscas-por-cantor-entram-em-nova-fase/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_esposa3.jpg",
-      "data": "2026-09-22T15:06:33+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "bbc4b6ed1984ba90b6a9ccd6150c7b67",
       "titulo": "Motorista de carro fica preso às ferragens após acidente com caminhão na Alça Viária, na Grande Belém",
       "descricao": "Homem fica gravemente ferido após carro bater na traseira de caminhão na Alça Viária Redes Socias Um homem ficou gravemente ferido após o carro em que estava bater na traseira de um caminhão-baú na manhã desta terça-feira (22), na região da Alça Viária, próximo a Marituba, na Região Metropolitana de Belém. Segundo testemunhas, o caminhão teria feito uma conversão irregular. O motorista do carro não conseguiu evitar a colisão e bateu na traseira do veículo. Com o impacto, o homem ficou preso às ferragens. Equipes do Corpo de Bombeiros foram acionadas e trabalharam no resgate da vítima. ✅ Clique e siga o canal do g1 Pará no WhatsApp Agentes do Departamento de Trânsito do Estado do Pará (Detran-PA) estiveram no local para orientar o trânsito. Até a publicação desta reportagem, não havia informações atualizadas sobre o estado de saúde da vítima. O g1 entrou em contato com a Polícia Militar e o Corpo de Bombeiros, solicitando mais detalhes sobre o caso, mas ainda não obteve retorno até a última atualização da reportagem. Agora no g1 Vídeos com as principais notícias do Pará",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/qBJ1PVMRxypyLIgu_5fqZrrBbxw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/t/7ROXdCRleFK0oo3oh8ng/1790087133796635.jpg",
       "data": "2026-09-22T14:47:27+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "91bfd3f898f629aba815e2608f8e1dde",
-      "titulo": "Corinthians x São Paulo: quando serão as finais do Brasileirão Feminino?",
-      "descricao": "Jhonson marcou os dois gols do Corinthians nos jogos da semifinal do Feminino A1 Rebeca Reis/Staff Images Woman/CBF Corinthians e São Paulo farão a final do Brasileirão Feminino A1 de 2026. As Brabas garantiram a vaga após vencerem o Bahia na semifinal, buscando o oitavo título. O post Corinthians x São Paulo: quando serão as finais do Brasileirão Feminino? apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/corinthians-x-sao-paulo-quando-serao-as-finais-do-brasileirao-feminino/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/210926_B_Rasileirao_Feminino2026_Corinthians_Bahia_3611_aeda1cd669.webp",
-      "data": "2026-09-22T14:44:05+00:00",
       "categoria": "PARÁ"
     },
     {
