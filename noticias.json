@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-09-22T00:39:58.528259+00:00",
+  "atualizado": "2026-09-22T01:02:23.025176+00:00",
   "noticias": [
+    {
+      "id": "df621dd15ca2c04bd67f56fb6209bf6e",
+      "titulo": "Mercado imobiliário fecha 1º semestre com 83,4% das vendas em Belém, Ananindeua e Marituba",
+      "descricao": "Mercado imobiliário fecha 1º semestre com 83,4% das vendas em Belém, Ananindeua e Marituba",
+      "link": "https://www.oliberal.com/economia/mercado-imobiliario-fecha-1-semestre-com-83-4-das-vendas-em-belem-ananindeua-e-marituba-1.1167357",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.835357:1734026984/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-22T01:02:20.179291+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "67ab02c0e87a452c8e7ec9ccb7dfa2cb",
+      "titulo": "Belém tem 2ª maior valorização imobiliária do Brasil e luxo afasta moradia popular",
+      "descricao": "Belém tem 2ª maior valorização imobiliária do Brasil e luxo afasta moradia popular",
+      "link": "https://www.oliberal.com/economia/belem-tem-2-maior-valorizacao-imobiliaria-do-brasil-e-luxo-afasta-moradia-popular-1.1108316",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.918214:1784063059/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-22T01:02:19.845657+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c8095b458f2b8fd81de17ed6fde3f10f",
+      "titulo": "Em Belém, imóveis menores viram estratégia de moradia e investimentos",
+      "descricao": "Em Belém, imóveis menores viram estratégia de moradia e investimentos",
+      "link": "https://www.oliberal.com/economia/em-belem-imoveis-menores-viram-estrategia-de-moradia-e-investimentos-1.1171546",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171547:1790032862/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-22T01:02:19.512501+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "441a5f73008f970a8a4b86c9a359c209",
       "titulo": "No STF, Dino mantém decreto que veda publicidade de bets em bens públicos",
@@ -9,26 +39,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171384:1790015335/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-22T00:39:56.269504+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9162c2be3e29aaeabbdef8c826b323ba",
-      "titulo": "Prazo para Mendonça responder a acusações de Moraes termina nesta segunda-feira, 21",
-      "descricao": "Prazo para Mendonça responder a acusações de Moraes termina nesta segunda-feira, 21",
-      "link": "https://www.oliberal.com/politica/prazo-para-mendonca-responder-a-acusacoes-de-moraes-termina-nesta-segunda-feira-21-1.1171238",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1113182:1789996388/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-22T00:39:56.269349+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d9acc388c208e4c31b64824b1d5788e8",
-      "titulo": "Moraes será relator de ação que pede registros da própria esposa",
-      "descricao": "Moraes será relator de ação que pede registros da própria esposa",
-      "link": "https://www.oliberal.com/politica/moraes-e-sorteado-relator-de-acao-que-pede-registros-da-propria-esposa-no-senado-1.1171327",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.975272:1757434659/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-22T00:39:56.269162+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/LulaBolsa5.webp",
       "data": "2026-09-22T00:32:30+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "085a82c5cea638d6751cf0fafb37d4c8",
-      "titulo": "Servidor do Pará: veja as datas de pagamento do salário de setembro",
-      "descricao": "Governo do Pará inicia na próxima quarta-feira o pagamento dos salários de setembro dos servidores estaduais. Foto: divulgação/reprodução O Governo do Pará inicia na próxima quarta-feira, dia 23, o pagamento dos salários de setembro dos servidores estaduais. A programação segue até o dia 25. O post Servidor do Pará: veja as datas de pagamento do salário de setembro apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/servidor-do-para-veja-as-datas-de-pagamento-do-salario-de-setembro/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_-_2026-09-18T171500_193.jpg",
-      "data": "2026-09-21T23:39:48+00:00",
       "categoria": "PARÁ"
     },
     {
