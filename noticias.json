@@ -1,14 +1,14 @@
 {
-  "atualizado": "2026-09-23T19:02:33.684918+00:00",
+  "atualizado": "2026-09-23T19:35:05.618430+00:00",
   "noticias": [
     {
-      "id": "90b44d8c2e76a3ce94ba49ba559dbe36",
-      "titulo": "Bancários do Banco da Amazônia aprovam proposta e encerram greve",
-      "descricao": "Bancários do Banco da Amazônia aprovam proposta e encerram greve",
-      "link": "https://www.oliberal.com/economia/bancarios-do-banco-da-amazonia-aprovam-proposta-e-encerram-greve-no-para-1.1172211",
+      "id": "89e7cc0cce34ae52185fbf2986345d2e",
+      "titulo": "Perícia do INSS passa a garantir intérprete de Libras em atendimentos",
+      "descricao": "Perícia do INSS passa a garantir intérprete de Libras em atendimentos",
+      "link": "https://www.oliberal.com/brasil/pericia-do-inss-passa-a-garantir-interprete-de-libras-em-atendimentos-1.1172321",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.463437:1790179320/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T19:02:31.855301+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172322:1790191240/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T19:35:03.243236+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/esportes/paysandu/diretor-de-futebol-pede-mais-entrega-ao-elenco-do-paysandu-hora-de-chamar-a-responsabilidade-1.1171056",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171167:1789951698/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T19:02:31.855167+00:00",
+      "data": "2026-09-23T19:35:02.871591+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,37 @@
       "link": "https://www.oliberal.com/esportes/paysandu/paysandu-jean-drosny-trata-lesao-e-e-duvida-para-proximo-duelopela-serie-c-1.1172267",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1081099:1770326340/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T19:02:31.855002+00:00",
+      "data": "2026-09-23T19:35:02.871421+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d7090791034edca2373dac0b25d0184e",
+      "titulo": "Broca de Rua",
+      "descricao": "Ninguém segura a imaginação do chefe! E pra quem duvida que possa existir coxinha em quase 30 sabores, acaba de inaugurar mais um carrinho do lanche que já é sucesso em Belém O post Broca de Rua apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/toda/sabor/broca-de-rua/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_BROCA_DE_RUA_O_cheiro_bate_longe_-_FOTO_PRINCIPAL_-_dia_23.jpg",
+      "data": "2026-09-23T19:32:54+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1161984f16b4794cb19475b980ee3ca9",
+      "titulo": "Quatro séculos de história: Igreja do Carmo é um dos patrimônios mais antigos de Belém; veja as fotos",
+      "descricao": "A a Igreja do Carmo tem origem no século XVII e guarda marcas de diferentes períodos da história da capital paraense. Foto: Clayton Matos. A Igreja da Nossa Senhora do Carmo, em Belém, é um patrimônio histórico que completou quatro séculos de existência. Fundada em 1626, a construção é a primeira igreja da Amazônia e foi tombada pelo IPHAN em 1941. O post Quatro séculos de história: Igreja do Carmo é um dos patrimônios mais antigos de Belém; veja as fotos apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/quatro-seculos-de-historia-igreja-do-carmo-e-um-dos-patrimonios-mais-antigos-de-belem-veja-as-fotos/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_WhatsApp_Image_2026-09-23_at_14_10_28.jpg",
+      "data": "2026-09-23T19:16:03+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "90b44d8c2e76a3ce94ba49ba559dbe36",
+      "titulo": "Bancários do Banco da Amazônia aprovam proposta e encerram greve",
+      "descricao": "Bancários do Banco da Amazônia aprovam proposta e encerram greve",
+      "link": "https://www.oliberal.com/economia/bancarios-do-banco-da-amazonia-aprovam-proposta-e-encerram-greve-no-para-1.1172211",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.463437:1790179320/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T19:02:31.855301+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,36 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/Py6nzvvr7f-xjcKIxS2L4qLHBac=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/S/VeCAJFRYaLplRYrGbNXw/whatsapp-image-2026-09-23-at-15.14.13.jpeg",
       "data": "2026-09-23T18:27:22+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0a93554b6dc107f0f89c8bb168daec02",
-      "titulo": "Círio de Nazaré 2026: Papa Leão XIV envia mensagem de bênção aos fiéis paraenses; leia na íntegra",
-      "descricao": "Papa Leão XIV REUTERS/Yara Nardi A Arquidiocese de Belém recebeu, na manhã desta quarta-feira (23), a tradicional mensagem do Papa Leão XIV para o Círio de Nazaré 2026. O documento oficial, enviado por meio da Nunciatura Apostólica no Brasil, é direcionado a todos os devotos que vão participar da 234ª edição da festividade mariana, que ocorre no dia 11 de outubro na capital paraense. ✅ Receba as notícias do g1 Pará direto no WhatsApp No texto, assinado pelo Secretário de Estado do Vaticano, Cardeal Pietro Parolin, o Pontífice faz referência ao tema do Círio deste ano, que apresenta Nossa Senhora como \"Modelo de Ação Missionária\". O Papa expressa o desejo de que a participação na grande festa em Belém desperte no coração dos fiéis um \"novo ardor no anúncio do Evangelho\". A carta foi encaminhada ao Arcebispo Metropolitano de Belém, Dom Júlio Endi Akamine, pelo Núncio Apostólico no Brasil, Dom Giambattista Diquattro. Ao transmitir as palavras do Santo Padre, o núncio também manifestou seus votos de orações pelo êxito da festividade, classificando o Círio como uma \"significativa manifestação de fé do amado povo paraense\". Na mensagem, o Papa Leão XIV também concede a Bênção Apostólica a todos os devotos e suplica por \"abundantes graças e favores celestiais\" por intercessão da \"Senhora da Berlinda\". LEIA TAMBÉM: Corda do Círio 2026 chega a Belém; item une fiéis à imagem de Nossa Senhora de Nazaré Corda do Círio de Nazaré chega a Belém; veja os detalhes Leia a mensagem do Papa na íntegra: \"Excelência Reverendíssima, Tenho a honra de transmitir a Vossa Excelência, a mensagem de Sua Santidade o Papa Leão XIV por ocasião da celebração do Círio de Nossa Senhora de Nazaré. « Ao celebrar-se as Festividades do Círio de Nazaré, no segundo domingo do mês de outubro, sua Santidade Leão XIV envia uma cordial saudação a todos os fiéis devotos da Virgem Santíssima, que recorrem a Ela com serena confiança e filial gratidão pelas graças recebidas por meio de sua maternal intercessão. Ciente de que o tema deste ano para os dias festivos do Círio apresenta Nossa Senhora como Modelo de Ação Missionária, o Santo Padre deseja que a participação nesta singular manifestação de fé suscite em todos um novo ardor no Anúncio do Evangelho. Neste sentido, o Papa Leão XIV súplica ao Altíssimo, por intercessão da Senhora da Berlinda, abundantes graças e favores celestiais sobre todos os seus devotos. E, como penhor de tais preces, O Santo Padre concede-lhes a Bênção Apostólica. Pietro Card. Parolin, Secretário De Estado » Com sentimentos de distinto apreço e cordial estima, renovo a Vossa Excelência Reverendíssima meus votos de oração pelo frutuoso êxito desta tão significativa manifestação de fé do amado povo paraense, De Vossa Excelência Reverendíssima Dev. Mo no Senhor + Giambattista Diquattro Núncio Apostólico\" VÍDEOS: veja todas as notícias do Pará Leia mais notícias na página do Círio de Nazaré",
-      "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/23/cirio-de-nazare-2026-papa-leao-xiv-envia-mensagem-de-bencao-aos-fieis-paraenses-leia-na-integra.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/1-yXkuyKP--rDlfcJS76n7jnMc0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/e/f4ZmJlTBCWtVbrxUBAeA/papa-leao-xiv-grava-video-para-participantes-do-halleluya-2026.jpg",
-      "data": "2026-09-23T18:11:22+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c109419e4bf6f47ff17b9199ce51e6be",
-      "titulo": "De R$ 900 mil a R$ 8 milhões: quanto custam casas em condomínios de alto padrão em Belém?",
-      "descricao": "Casas anunciadas em condomínios de Belém têm preços e características diferentes, como piscina, suítes e área de lazer. Imagem ilustrativa. Foto: Magnific Anúncios consultados em setembro de 2026 descrevem imóveis com piscina, área de lazer e até 900 m² construídos; a seleção inclui ainda o Lago Azul, em Ananindeua. O post De R$ 900 mil a R$ 8 milhões: quanto custam casas em condomínios de alto padrão em Belém? apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/de-r-900-mil-a-r-8-milhoes-quanto-custam-casas-em-condominios-de-alto-padrao-em-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://diariodopara.com.br/wp-content/uploads/2026/09/design-house-modern-villa-with-open-plan-living-private-bedroom-wing-large-terrace-with-privacy.jpg",
-      "data": "2026-09-23T17:34:04+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9f2d9b3f87d76e25ff2b3d6cd6a0113e",
-      "titulo": "Alexandre Pires é alvo da PF em operação que investiga esquema de R$ 246 milhões",
-      "descricao": "Alexandre Pires foi alvo de mandado de busca e apreensão durante a Operação Disco de Ouro. Foto: divulgação/reprodução O cantor e dois empresários foram alvo de buscas em Uberlândia; investigação apura suspeitas envolvendo lavagem de dinheiro, falsidade ideológica e minério ilegal. O post Alexandre Pires é alvo da PF em operação que investiga esquema de R$ 246 milhões apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/alexandre-pires-e-alvo-da-pf-em-operacao-que-investiga-esquema-de-r-246-milhoes/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images-2-3.jpg",
-      "data": "2026-09-23T17:27:23+00:00",
       "categoria": "PARÁ"
     }
   ]
