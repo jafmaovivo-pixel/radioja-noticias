@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-09-23T16:37:53.960926+00:00",
+  "atualizado": "2026-09-23T17:02:43.464218+00:00",
   "noticias": [
+    {
+      "id": "bc7ff3854326fe87c14bb9f41ac249ba",
+      "titulo": "PM prende dupla após morador ter sido refém dentro de casa em Ananindeua",
+      "descricao": "PM prende dupla após morador ter sido refém dentro de casa em Ananindeua",
+      "link": "https://www.oliberal.com/policia/pm-prende-dupla-apos-morador-ter-sido-refem-dentro-de-casa-em-ananindeua-1.1172230",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.981327:1750535640/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T17:02:41.014647+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d4d7ee3140815925353b7ba19cdfd579",
+      "titulo": "Bancários do Banco da Amazônia aprovam proposta e encerram greve no Pará",
+      "descricao": "Bancários do Banco da Amazônia aprovam proposta e encerram greve no Pará",
+      "link": "https://www.oliberal.com/economia/bancarios-do-banco-da-amazonia-aprovam-proposta-e-encerram-greve-no-para-1.1172211",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.463437:1790179320/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T17:02:40.678599+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "77078bfd84dc47dd25c68e353fa7f641",
+      "titulo": "Tacacá entra em ranking das 50 melhores sopas do mundo",
+      "descricao": "Tacacá entra em ranking das 50 melhores sopas do mundo",
+      "link": "https://www.oliberal.com/para/tacaca-entra-em-ranking-das-50-melhores-sopas-do-mundo-1.1172178",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.852610:1790176579/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T17:02:40.678467+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "6f51a408051e108e0f9ba46d637fc248",
       "titulo": "Corpo do cantor Rick será velado e enterrado em Sorocaba, interior de São Paulo",
@@ -12,26 +42,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "d4d7ee3140815925353b7ba19cdfd579",
-      "titulo": "Bancários do Banco da Amazônia aprovam proposta e encerram greve no Pará",
-      "descricao": "Bancários do Banco da Amazônia aprovam proposta e encerram greve no Pará",
-      "link": "https://www.oliberal.com/economia/bancarios-do-banco-da-amazonia-aprovam-proposta-e-encerram-greve-no-para-1.1172211",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.463437:1790179320/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T16:37:52.591532+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "77078bfd84dc47dd25c68e353fa7f641",
-      "titulo": "Tacacá entra em ranking das 50 melhores sopas do mundo",
-      "descricao": "Tacacá entra em ranking das 50 melhores sopas do mundo",
-      "link": "https://www.oliberal.com/para/tacaca-entra-em-ranking-das-50-melhores-sopas-do-mundo-1.1172178",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.852610:1790176579/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T16:37:52.291724+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "e0f7bb457c86eb422cfcb5b49d792023",
       "titulo": "Belém se destaca no home office e é a 6ª capital com mais trabalhadores em casa",
       "descricao": "Capital paraense aparece entre as cidades brasileiras com maior proporção de pessoas trabalhando principalmente de casa; no Norte, modalidade ainda tem participação inferior à média nacional. A capital paraense se destaca no cenário nacional de trabalho remoto, superando a média brasileira e grandes centros urbanos, segundo levantamento do IBGE. O post Belém se destaca no home office e é a 6ª capital com mais trabalhadores em casa apareceu primeiro em Diário do Pará .",
@@ -39,16 +49,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/homeoffice4.jpg",
       "data": "2026-09-23T16:06:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "034bd29a7d06b3d7f6923ae59a5997de",
-      "titulo": "EUA seguirão defendendo Ormuz, diz Rubio; Trump mantém opções militares contra Irã",
-      "descricao": "EUA seguirão defendendo Ormuz, diz Rubio; Trump mantém opções militares contra Irã",
-      "link": "https://www.oliberal.com/mundo/eua-seguirao-defendendo-ormuz-diz-rubio-trump-mantem-opcoes-militares-contra-ira-1.1172206",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T16:03:11.680834+00:00",
       "categoria": "PARÁ"
     },
     {
