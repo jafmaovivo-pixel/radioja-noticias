@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-23T10:02:52.172455+00:00",
+  "atualizado": "2026-09-23T10:36:50.740190+00:00",
   "noticias": [
     {
       "id": "6f0bc4b77b87f758073e26ab485731e6",
@@ -8,7 +8,7 @@
       "link": "https://www.oliberal.com/para/greve-dos-correios-chega-a-adesao-de-13-dos-profissionais-no-para-e-tem-ato-nesta-segunda-feira-1.1168467",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168468:1789400111/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T10:02:50.734758+00:00",
+      "data": "2026-09-23T10:36:48.515423+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/brasil/greve-dos-correios-chega-a-segunda-semana-dissidio-sera-julgado-na-segunda-feira-1.1170257",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170259:1789751099/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T10:02:50.734557+00:00",
+      "data": "2026-09-23T10:36:48.515268+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/para/greve-dos-correios-continua-no-para-apos-tst-adiar-julgamento-para-quinta-feira-1.1171997",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.308370:1790117477/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T10:02:50.734400+00:00",
+      "data": "2026-09-23T10:36:48.515103+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "44a09e03635ecc9900d52cd11404139a",
+      "titulo": "Planos terão de cobrir DIU para mulheres com endometriose; saiba se você poderá receber",
+      "descricao": "Nova regra da ANS entra em vigor em 1º de outubro e garante dispositivo e procedimento de inserção para pacientes que atendam aos critérios estabelecidos A partir de 1º de outubro, planos de saúde terão de garantir a cobertura do DIU hormonal para pacientes com endometriose que atendam aos critérios definidos pela Agência Nacional de Saúde Suplementar (ANS). A medida inclui tanto o dispositivo quanto o procedimento necessário para sua inserção. O post Planos terão de cobrir DIU para mulheres com endometriose; saiba se você poderá receber apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/planos-terao-de-cobrir-diu-para-mulheres-com-endometriose-saiba-se-voce-podera-receber/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/endometriose3-1.webp",
+      "data": "2026-09-23T10:30:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "781eff3c0699010355c9e6728b461fc0",
+      "titulo": "PIS/Pasep: último grupo do ano já pode receber até R$ 1.621; veja como consultar",
+      "descricao": "Trabalhadores podem consultar informações sobre o pagamento do PIS/Pasep pelos canais oficiais. Foto: Marcelo Camargo/Agência Brasil Pagamento do abono salarial contempla trabalhadores nascidos em novembro e dezembro; valor depende do tempo trabalhado em 2024. O post PIS/Pasep: último grupo do ano já pode receber até R$ 1.621; veja como consultar apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/pis-pasep-ultimo-grupo-do-ano-ja-pode-receber-ate-r-1-621-veja-como-consultar/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Caixa.jpg",
+      "data": "2026-09-23T10:05:00+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,16 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "e199570c9bf9d0a248da9fbcd73dc5e2",
-      "titulo": "Horóscopo de hoje (23/09) destaca diálogo e organização das prioridades",
-      "descricao": "Confira o horóscopo de hoje, 23 de setembro, com as previsões de Áries a Peixes. As previsões para os 12 signos abordam convivência, rotina, responsabilidades e questões financeiras. O post Horóscopo de hoje (23/09) destaca diálogo e organização das prioridades apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/horoscopo-de-hoje-23-setembro-2026/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Horoscopo-5.jpg",
-      "data": "2026-09-23T09:37:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "b737df823b7e75c44d8562c228f7851a",
       "titulo": "Terra indígena no PA tem 50 dias seguidos de queimadas; MPF cobra órgãos com urgência",
       "descricao": "Indígenas denunciam incêndios em floresta e tiros contra animais em área no Pará A Terra Indígena (TI) Apyterewa, localizada em São Félix do Xingu, no Pará, enfrenta uma onda de queimadas provocada por invasores, segundo os indígenas. O território, habitado pelo povo Parakanã, está sob chamas há 50 dias consecutivos e os indígenas estão em campo tentando combater as chamas. Diante do cenário, o Ministério Público Federal (MPF) cobrou explicações urgentes do Ibama e do Corpo de Bombeiros Militar (CBMPA) sobre a falta de efetivo no combate aos incêndios florestais. Vídeos gravados pelos indígenas mostram animais mortos pelo fogo, gravado no dia 5 de setembro, e um cavalo alvo de tiros por invasores, na segunda-feira (21) - (assista ao vídeo acima). O órgão ambiental disse, em nota, que o caso é monitorado e o combate às chamas segue em curso - (veja o posicionamento completo ao final da reportagem). O CBMPA não se manifestou. Um monitoramento do Instituto Socioambiental (ISA), com a plataforma da rede Xingu +, revela uma escalada no número de focos de incêndios florestais. Focos de incêndio e mortes de animais são registrados por indígenas Parakanã, na Terra Indígena Apyterewa, no Pará. Reprodução / Instituto Socioambiental De acordo com o analista de geoprocessamento Ricardo Abad, entre os dias 1º e 21 de setembro, não houve um único dia sem registro de fogo na reserva. Somente neste período de 21 dias, foram detectados 687 focos de calor. Se considerado o histórico recente, a TI Apyterewa queima sem trégua desde o dia 4 de agosto. O ápice do desastre ambiental ocorreu no último dia 19 de setembro, quando o território registrou o recorde histórico de 104 focos de calor em apenas 24 horas. Outros dias também registraram altíssima liberação de energia radiativa (FRP), indicador que mede a intensidade do fogo, com destaque para o dia 14 de setembro e 20 de setembro. A região afetada pelo fogo vinha sendo monitorada após a retirada de invasores, como grileiros e criadores de gado que ocupavam o território ilegalmente. A TI Apyterewa tem 773 mil hectares, área pouco maior que a cidade de Goiânia (GO), é uma das áreas mais pressionadas pelo desmatamento no país. A reserva passou por um processo recente de desocupação, com a expulsão de invasores, com objetivo de garantir o direito originário e a segurança do povo Parakanã. Abandono e morte de animais Enquanto o fogo avança sobre a floresta, os indígenas Parakanã relatam um cenário de completo abandono. Segundo relatos da comunidade, a situação na região é precária e, até esta quarta-feira (23), nenhum órgão ambiental ou de segurança pública esteve no local para auxiliar diretamente no combate às chamas. \"Não tem bombeiros aqui. A situação está muito difícil e muitos animais da floresta já morreram queimados\", lamentou um dos indígenas, que preferiu não se identificar. Sem equipamentos adequados e treinamento, os próprios moradores tentam conter o avanço do fogo para proteger as aldeias. MPF pede respostas A situação levou o Ministério Público Federal (MPF) a intervir. Em comunicação enviada ao Instituto Tato'a, entidade que acompanha a situação dos indígenas, o MPF informou que reiterou, em caráter de urgência, a cobrança de informações ao Ibama/Prevfogo e ao 31º Grupamento Bombeiro Militar de São Félix do Xingu. O órgão pediu que as instituições apresentem as medidas emergenciais que estão sendo adotadas para conter o incêndio na TI Apyterewa. O comando dos bombeiros locais também foi acionado diretamente para que envie equipes de reforço à região. O que dizem os órgãos citados Procurado pela reportagem, o Ibama informou, em nota, que a requisição do MPF trata das ações de prevenção e combate aos incêndios na TI Apyterewa. O órgão justificou a complexidade da operação citando o clima de tensão na área. \"Em 26 de agosto, a Fundação Nacional dos Povos Indígenas (Funai) acionou a Força Nacional para atuação tanto no combate ao fogo, quanto na proteção das equipes em atividade no local, visto que a TI passou a ser considerada zona de alto risco em razão de conflitos armados recorrentes.\" O Ibama destacou ainda que a situação é monitorada pelo Centro Integrado Multiagências de Coordenação Operacional (Ciman) Federal e afirmou que \"o combate às chamas segue em curso na região\". O g1 também procurou o Corpo de Bombeiros Militar do Pará para esclarecer a falta de equipes na linha de frente denunciada pelos indígenas, mas não havia obtido resposta até a publicação desta reportagem. VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/zxMSgYiTlqnPQ9kle0ZZzlg1dN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/n/00hmZaRHSCzhbX9qQy0w/1790107353890560.jpg",
       "data": "2026-09-23T06:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d469e7627b2b179669591aefb074751d",
-      "titulo": "Como Arthur morreu em Quem Ama Cuida? Laudo aponta golpe na cabeça antes da queda",
-      "descricao": "Documento original aponta que o joalheiro recebeu pancada com objeto pesado antes da queda, e as marcas seriam incompatíveis com Adriana Um novo laudo sobre a morte de Arthur em \"Quem Ama Cuida\" revela inconsistências que podem inocentar Adriana. César e Bia recebem os documentos, e Pedro entra com pedido de revisão criminal. O post Como Arthur morreu em Quem Ama Cuida? Laudo aponta golpe na cabeça antes da queda apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/como-arthur-morreu-em-quem-ama-cuida-laudo-aponta-golpe-na-cabeca-antes-da-queda/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Arthur-Brandao-Quem-Ama-Cuida.jpg",
-      "data": "2026-09-23T03:55:00+00:00",
       "categoria": "PARÁ"
     },
     {
