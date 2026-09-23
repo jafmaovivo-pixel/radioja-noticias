@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-23T15:37:03.739022+00:00",
+  "atualizado": "2026-09-23T16:03:13.319232+00:00",
   "noticias": [
+    {
+      "id": "034bd29a7d06b3d7f6923ae59a5997de",
+      "titulo": "EUA seguirão defendendo Ormuz, diz Rubio; Trump mantém opções militares contra Irã",
+      "descricao": "EUA seguirão defendendo Ormuz, diz Rubio; Trump mantém opções militares contra Irã",
+      "link": "https://www.oliberal.com/mundo/eua-seguirao-defendendo-ormuz-diz-rubio-trump-mantem-opcoes-militares-contra-ira-1.1172206",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T16:03:11.680834+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e5ad373ac153026bb09d4b3fef1bc181",
+      "titulo": "Hilary Duff anuncia show em SP para 2027; saiba data, local e como garantir o seu ingresso",
+      "descricao": "Hilary Duff anuncia show em SP para 2027; saiba data, local e como garantir o seu ingresso",
+      "link": "https://www.oliberal.com/cultura/hilary-duff-anuncia-show-em-sp-para-2027-saiba-data-local-e-como-garantir-o-seu-ingresso-1.1172213",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.928524:1765313474/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T16:03:11.518116+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "77078bfd84dc47dd25c68e353fa7f641",
+      "titulo": "Tacacá entra em ranking das 50 melhores sopas do mundo",
+      "descricao": "Tacacá entra em ranking das 50 melhores sopas do mundo",
+      "link": "https://www.oliberal.com/para/tacaca-entra-em-ranking-das-50-melhores-sopas-do-mundo-1.1172178",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.852610:1790176579/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T16:03:11.297145+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "37a1f12c7591dcad8179fbd5fad8cc8f",
+      "titulo": "Morte de Isabelle Caracristi: perícia afirma que estudante se atirou de rooftop; entenda",
+      "descricao": "A estudante Isabelle Caracristi, de 22 anos, foi encontrada morta em 13 de setembro, na área externa do prédio onde morava com o namorado. Declaração foi dada nesta quarta-feira (23); estudante de Direito, de 22 anos, morreu após cair do 23º andar de um prédio em Fortaleza. O post Morte de Isabelle Caracristi: perícia afirma que estudante se atirou de rooftop; entenda apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/brasil/morte-de-isabelle-caracristi-pericia-afirma-que-estudante-se-atirou-de-rooftop-veja-o-que-cameras-registraram/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/isabelle-3-2.jpg",
+      "data": "2026-09-23T15:37:17+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "d8c1c7f2338e25e6dd7d4ee55261c713",
       "titulo": "'O nível da NBA vai cair em novembro. Vai lançar GTA VI', diz jogador da liga",
@@ -12,29 +52,9 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "ebb7ef2b9a47b31327f0c98de74f19a3",
-      "titulo": "Paolla Oliveira é rainha de bateria da Imperatriz no Carnaval 2027",
-      "descricao": "Paolla Oliveira é rainha de bateria da Imperatriz no Carnaval 2027",
-      "link": "https://www.oliberal.com/cultura/paolla-oliveira-e-rainha-de-bateria-da-imperatriz-no-carnaval-2027-1.1172194",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172195:1790176898/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T15:37:01.561446+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "77078bfd84dc47dd25c68e353fa7f641",
-      "titulo": "Tacacá entra em ranking das 50 melhores sopas do mundo",
-      "descricao": "Tacacá entra em ranking das 50 melhores sopas do mundo",
-      "link": "https://www.oliberal.com/para/tacaca-entra-em-ranking-das-50-melhores-sopas-do-mundo-1.1172178",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.852610:1790176579/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T15:37:01.177360+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "0f87b1e603edd93052e9d37325c32afe",
       "titulo": "Corda do Círio 2026 chega a Belém; item une fiéis à imagem de Nossa Senhora de Nazaré",
-      "descricao": "Corda do Círio de Nazaré chega a Belém; veja os detalhes A corda do Círio 2026 chegou a Belém nesta quarta-feira (23). Pelo quarto ano consecutivo, o item foi produzido integralmente no Pará. A entrega ocorreu em dois momentos: em Castanhal e em Belém. A primeira cerimônia foi realizada a partir das 9h, em Castanhal, com a presença da Diretoria da Festa de Nazaré (DFN). Em seguida, a corda foi conduzida até Belém, onde chegou por volta das 11h30. Na capital, a corda permanecerá guardada na Estação Luciano Brambilla até a vistoria, marcada para 26 de setembro,no Colégio Santa Catarina de Sena. Desde de 2023, a corda do Círio, um dos maiores ícones da festividade, passaria a ser feita pela primeira vez totalmente no Pará, para uso nas duas principais procissões: o Círio e a Trasladação. Corda do círio foi entregue nesta quarta-feira Diretoria Círio de Nazaré Assim como nos anos anteriores, em 2026 a corda será novamente produzida localmente, em doação feita pela Companhia Têxtil de Castanhal (CTC) à DFN. A corda utilizada nas procissões é confeccionada em malva e possui 800 metros de comprimento. Ela é dividida em duas partes de 400 metros para cada romaria e tem 60 milímetros de diâmetro. O item já vem adaptado às estações de metal que auxiliam no traslado das berlindas durante as procissões. \"Todos os anos, reforçamos os pontos da corda que concentram a maior força durante as procissões, principalmente os nós e as argolas que a prendem às estações. Neste ano, priorizamos justamente esse reforço, com testes de resistência e tração realizados ao longo de toda a fabricação, para garantir que a corda esteja pronta para suportar o esforço de milhões de fiéis com segurança e tranquilidade\", declara Antonio Sousa, coordenador do Círio 2026.",
+      "descricao": "Corda do Círio de Nazaré chega a Belém; veja os detalhes A corda do Círio 2026 chegou a Belém nesta quarta-feira (23). Pelo quarto ano consecutivo, o item foi produzido integralmente no Pará. A entrega ocorreu em dois momentos: em Castanhal e em Belém. A primeira cerimônia foi realizada a partir das 9h, em Castanhal, com a presença da Diretoria da Festa de Nazaré (DFN). Em seguida, a corda foi conduzida até Belém, onde chegou por volta das 11h30 - reveja no vídeo acima. Na capital, a corda permanecerá guardada na Estação Luciano Brambilla até a vistoria, marcada para 26 de setembro,no Colégio Santa Catarina de Sena. Desde de 2023, a corda do Círio, um dos maiores ícones da festividade, passaria a ser feita pela primeira vez totalmente no Pará, para uso nas duas principais procissões: o Círio e a Trasladação. Corda do círio foi entregue nesta quarta-feira Diretoria Círio de Nazaré A corda utilizada nas procissões é confeccionada em malva e possui 800 metros de comprimento. Ela é dividida em duas partes de 400 metros para cada romaria e tem 60 milímetros de diâmetro. O item já vem adaptado às estações de metal que auxiliam no traslado das berlindas durante as procissões. \"Todos os anos, reforçamos os pontos da corda que concentram a maior força durante as procissões, principalmente os nós e as argolas que a prendem às estações. Neste ano, priorizamos justamente esse reforço, com testes de resistência e tração realizados ao longo de toda a fabricação, para garantir que a corda esteja pronta para suportar o esforço de milhões de fiéis com segurança e tranquilidade\", declara Antonio Sousa, coordenador do Círio 2026. *Reportagem em atualização",
       "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/23/corda-do-cirio-de-nazare-2026-chega-a-belem.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/HFhvtIzs-zE09wI8XFTANJJFRBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/i/JlusodSlAspQAgadA0Lw/corda-s-2026.jpg",
@@ -49,26 +69,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Roca-A-Fazenda1.jpg",
       "data": "2026-09-23T15:21:13+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "67020147bac2225ac68d7f96bab46a33",
-      "titulo": "Tribunais do Pará têm concursos no radar; TRT-8 e TJPA concentram atenções; confira",
-      "descricao": "Seleções para o Judiciário podem abrir oportunidades de níveis médio e superior no Estado; Justiça Federal também mantém concurso vigente com possibilidade de nomeações Candidatos a vagas no serviço público do Pará devem ficar atentos às movimentações de concursos no Tribunal Regional do Trabalho da 8ª Região (TRT-8), Tribunal de Justiça do Estado do Pará (TJPA) e Justiça Federal da 1ª Região. O post Tribunais do Pará têm concursos no radar; TRT-8 e TJPA concentram atenções; confira apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/tribunais-do-para-tem-concursos-no-radar-trt-8-e-tjpa-concentram-atencoes-confira/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Tribunais-mosaico.jpg",
-      "data": "2026-09-23T15:11:25+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5f78b3cdc608b38cabbec119f55b8580",
-      "titulo": "'Vou ajudar Flávio a ser um grande presidente da República', diz Tarcísio",
-      "descricao": "'Vou ajudar Flávio a ser um grande presidente da República', diz Tarcísio",
-      "link": "https://www.oliberal.com/politica/vou-ajudar-flavio-a-ser-um-grande-presidente-da-republica-diz-tarcisio-1.1172176",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1017409:1757276456/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T15:02:45.778879+00:00",
       "categoria": "PARÁ"
     },
     {
