@@ -1,24 +1,24 @@
 {
-  "atualizado": "2026-09-23T16:03:13.319232+00:00",
+  "atualizado": "2026-09-23T16:37:53.960926+00:00",
   "noticias": [
     {
-      "id": "034bd29a7d06b3d7f6923ae59a5997de",
-      "titulo": "EUA seguirão defendendo Ormuz, diz Rubio; Trump mantém opções militares contra Irã",
-      "descricao": "EUA seguirão defendendo Ormuz, diz Rubio; Trump mantém opções militares contra Irã",
-      "link": "https://www.oliberal.com/mundo/eua-seguirao-defendendo-ormuz-diz-rubio-trump-mantem-opcoes-militares-contra-ira-1.1172206",
+      "id": "6f51a408051e108e0f9ba46d637fc248",
+      "titulo": "Corpo do cantor Rick será velado e enterrado em Sorocaba, interior de São Paulo",
+      "descricao": "Corpo do cantor Rick será velado e enterrado em Sorocaba, interior de São Paulo",
+      "link": "https://www.oliberal.com/cultura/corpo-do-cantor-rick-sera-velado-e-enterrado-em-sorocaba-interior-de-sao-paulo-1.1172219",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T16:03:11.680834+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.928524:1765313474/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T16:37:52.874316+00:00",
       "categoria": "PARÁ"
     },
     {
-      "id": "e5ad373ac153026bb09d4b3fef1bc181",
-      "titulo": "Hilary Duff anuncia show em SP para 2027; saiba data, local e como garantir o seu ingresso",
-      "descricao": "Hilary Duff anuncia show em SP para 2027; saiba data, local e como garantir o seu ingresso",
-      "link": "https://www.oliberal.com/cultura/hilary-duff-anuncia-show-em-sp-para-2027-saiba-data-local-e-como-garantir-o-seu-ingresso-1.1172213",
+      "id": "d4d7ee3140815925353b7ba19cdfd579",
+      "titulo": "Bancários do Banco da Amazônia aprovam proposta e encerram greve no Pará",
+      "descricao": "Bancários do Banco da Amazônia aprovam proposta e encerram greve no Pará",
+      "link": "https://www.oliberal.com/economia/bancarios-do-banco-da-amazonia-aprovam-proposta-e-encerram-greve-no-para-1.1172211",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.928524:1765313474/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T16:03:11.518116+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.463437:1790179320/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T16:37:52.591532+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,27 @@
       "link": "https://www.oliberal.com/para/tacaca-entra-em-ranking-das-50-melhores-sopas-do-mundo-1.1172178",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.852610:1790176579/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T16:03:11.297145+00:00",
+      "data": "2026-09-23T16:37:52.291724+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e0f7bb457c86eb422cfcb5b49d792023",
+      "titulo": "Belém se destaca no home office e é a 6ª capital com mais trabalhadores em casa",
+      "descricao": "Capital paraense aparece entre as cidades brasileiras com maior proporção de pessoas trabalhando principalmente de casa; no Norte, modalidade ainda tem participação inferior à média nacional. A capital paraense se destaca no cenário nacional de trabalho remoto, superando a média brasileira e grandes centros urbanos, segundo levantamento do IBGE. O post Belém se destaca no home office e é a 6ª capital com mais trabalhadores em casa apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/belem-se-destaca-no-home-office-e-e-a-6a-capital-com-mais-trabalhadores-em-casa/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/homeoffice4.jpg",
+      "data": "2026-09-23T16:06:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "034bd29a7d06b3d7f6923ae59a5997de",
+      "titulo": "EUA seguirão defendendo Ormuz, diz Rubio; Trump mantém opções militares contra Irã",
+      "descricao": "EUA seguirão defendendo Ormuz, diz Rubio; Trump mantém opções militares contra Irã",
+      "link": "https://www.oliberal.com/mundo/eua-seguirao-defendendo-ormuz-diz-rubio-trump-mantem-opcoes-militares-contra-ira-1.1172206",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.924304:1750513230/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T16:03:11.680834+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,33 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "d8c1c7f2338e25e6dd7d4ee55261c713",
-      "titulo": "'O nível da NBA vai cair em novembro. Vai lançar GTA VI', diz jogador da liga",
-      "descricao": "'O nível da NBA vai cair em novembro. Vai lançar GTA VI', diz jogador da liga",
-      "link": "https://www.oliberal.com/esportes/o-nivel-da-nba-vai-cair-em-novembro-vai-lancar-gta-vi-diz-jogador-da-liga-1.1172193",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.928522:1750518873/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T15:37:02.132655+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "0f87b1e603edd93052e9d37325c32afe",
       "titulo": "Corda do Círio 2026 chega a Belém; item une fiéis à imagem de Nossa Senhora de Nazaré",
-      "descricao": "Corda do Círio de Nazaré chega a Belém; veja os detalhes A corda do Círio 2026 chegou a Belém nesta quarta-feira (23). Pelo quarto ano consecutivo, o item foi produzido integralmente no Pará. A entrega ocorreu em dois momentos: em Castanhal e em Belém. A primeira cerimônia foi realizada a partir das 9h, em Castanhal, com a presença da Diretoria da Festa de Nazaré (DFN). Em seguida, a corda foi conduzida até Belém, onde chegou por volta das 11h30 - reveja no vídeo acima. Na capital, a corda permanecerá guardada na Estação Luciano Brambilla até a vistoria, marcada para 26 de setembro,no Colégio Santa Catarina de Sena. Desde de 2023, a corda do Círio, um dos maiores ícones da festividade, passaria a ser feita pela primeira vez totalmente no Pará, para uso nas duas principais procissões: o Círio e a Trasladação. Corda do círio foi entregue nesta quarta-feira Diretoria Círio de Nazaré A corda utilizada nas procissões é confeccionada em malva e possui 800 metros de comprimento. Ela é dividida em duas partes de 400 metros para cada romaria e tem 60 milímetros de diâmetro. O item já vem adaptado às estações de metal que auxiliam no traslado das berlindas durante as procissões. \"Todos os anos, reforçamos os pontos da corda que concentram a maior força durante as procissões, principalmente os nós e as argolas que a prendem às estações. Neste ano, priorizamos justamente esse reforço, com testes de resistência e tração realizados ao longo de toda a fabricação, para garantir que a corda esteja pronta para suportar o esforço de milhões de fiéis com segurança e tranquilidade\", declara Antonio Sousa, coordenador do Círio 2026. *Reportagem em atualização",
+      "descricao": "Corda do Círio de Nazaré chega a Belém; veja os detalhes A corda do Círio 2026 chegou a Belém nesta quarta-feira (23). Pelo quarto ano consecutivo, o item foi produzido integralmente no Pará. A entrega ocorreu em dois momentos: em Castanhal e em Belém. A primeira cerimônia foi realizada a partir das 9h, em Castanhal, com a presença da Diretoria da Festa de Nazaré (DFN). Em seguida, a corda foi conduzida até Belém, onde chegou por volta das 11h30 - reveja no vídeo acima. ⏱️ O Círio 2026 de Nazaré, maior procissão mariana do mundo em um único dia, ocorre sempre no segundo fim de semana de outubro; desta vez, será nos dias 10 e 11 de outubro em Belém. ✅ Clique e siga o canal do g1 PA no WhatsApp Desde de 2023, a corda do Círio, um dos maiores ícones da festividade, passou a ser feita totalmente no Pará, para uso nas duas principais procissões: o Círio e a Trasladação. Corda do Círio de Nazaré 2026 chega a Belém TV Liberal/Reprodução LEIA TAMBÉM: Veja todas as informações da festividade na página especial do Círio de Nazaré Na capital, a corda permanecerá guardada na Estação Luciano Brambilla até a vistoria, marcada para 26 de setembro,no Colégio Santa Catarina de Sena. A corda utilizada nas procissões é confeccionada em malva e possui 800 metros de comprimento. Ela é dividida em duas partes de 400 metros para cada romaria e tem 60 milímetros de diâmetro. O item já vem adaptado às estações de metal que auxiliam no traslado das berlindas durante as procissões. \"Todos os anos, reforçamos os pontos da corda que concentram a maior força durante as procissões, principalmente os nós e as argolas que a prendem às estações. Neste ano, priorizamos justamente esse reforço, com testes de resistência e tração realizados ao longo de toda a fabricação, para garantir que a corda esteja pronta para suportar o esforço de milhões de fiéis com segurança e tranquilidade\", declara Antonio Sousa, coordenador do Círio 2026. Corda do círio foi entregue nesta quarta-feira: cerimônia começou em Belém Diretoria Círio de Nazaré *Reportagem em atualização",
       "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/23/corda-do-cirio-de-nazare-2026-chega-a-belem.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/HFhvtIzs-zE09wI8XFTANJJFRBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/i/JlusodSlAspQAgadA0Lw/corda-s-2026.jpg",
+      "imagem": "https://s2-g1.glbimg.com/ags2zmSO7zjfWMi29-2SwdNjXiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/5/BaHoDVToWpyreQgWC1UQ/cirio-2026.jpg",
       "data": "2026-09-23T15:36:36+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8c90d269407d11e031416a33f5999182",
-      "titulo": "A Fazenda 18 define primeira roça e apenas três disputam a Prova do Fazendeiro",
-      "descricao": "Stephanie Gomes, Giovanna Gold, Serginho Hondjakoff e Darlin Ferrattry foram indicados à primeira roça de A Fazenda 18. Foto: Reprodução/TV Record Stephanie, Giovanna, Serginho e Darlin foram indicados na terça-feira (22). Um veto colocou a atriz direto na roça. O post A Fazenda 18 define primeira roça e apenas três disputam a Prova do Fazendeiro apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/a-fazenda-18-define-primeira-roca-e-apenas-tres-disputam-a-prova-do-fazendeiro/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Roca-A-Fazenda1.jpg",
-      "data": "2026-09-23T15:21:13+00:00",
       "categoria": "PARÁ"
     },
     {
