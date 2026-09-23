@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-23T10:36:50.740190+00:00",
+  "atualizado": "2026-09-23T11:02:53.417250+00:00",
   "noticias": [
+    {
+      "id": "a69719a39c78ac9e540237c9831ff8d3",
+      "titulo": "Círio 2026: Exposição 'Canoas de Promesseiros' reúne 200 barquinhos de miriti no TCE",
+      "descricao": "Círio 2026: Exposição 'Canoas de Promesseiros' reúne 200 barquinhos de miriti no TCE",
+      "link": "https://www.oliberal.com/para/cirio-2026-exposicao-canoas-de-promesseiros-reune-200-barquinhos-de-miriti-no-tce-1.1171907",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171912:1790107451/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T11:02:52.014051+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "99ff7aaffc3e19a3030c60e615fc6f04",
+      "titulo": "Romaria dos Corredores: Inscrições para kits esgotam, mas devotos ainda podem participar",
+      "descricao": "Romaria dos Corredores: Inscrições para kits esgotam, mas devotos ainda podem participar",
+      "link": "https://www.oliberal.com/belem/romaria-dos-corredores-inscricoes-para-kits-esgotam-mas-devotos-ainda-podem-participar-1.1171639",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171642:1790079596/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T11:02:51.665834+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ceb2c2763d3a47f39da375105b99e5e3",
+      "titulo": "Voluntários da Pastoral da Acolhida intensificam preparativos para o Círio de Nazaré 2026",
+      "descricao": "Voluntários da Pastoral da Acolhida intensificam preparativos para o Círio de Nazaré 2026",
+      "link": "https://www.oliberal.com/belem/voluntarios-da-pastoral-da-acolhida-intensificam-preparativos-para-o-cirio-de-nazare-2026-1.1171315",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171319:1790008197/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T11:02:51.347332+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "41fc7bd22dd29533c03080e41040157d",
+      "titulo": "Farmácia Popular: 41 itens de graça podem fazer família economizar até R$ 8,8 mil por ano",
+      "descricao": "Para retirar medicamentos ou fraldas geriátricas pelo Farmácia Popular, é preciso apresentar documento com foto e CPF, além de receita médica válida. O programa Farmácia Popular oferece 41 itens gratuitos, entre medicamentos, fraldas geriátricas e absorventes. Famílias podem economizar até R$ 8,8 mil por ano com o programa. O post Farmácia Popular: 41 itens de graça podem fazer família economizar até R$ 8,8 mil por ano apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/farmacia-popular-41-itens-de-graca-podem-fazer-familia-economizar-ate-r-88-mil-por-ano/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/convertida_1200x628_programa-farmacia-popular-oferece-medicamentos-gratuitos-para-a-populacao-de-sao-cristovao-2024-01-24-65b0fc618d19c.jpg",
+      "data": "2026-09-23T11:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "aab59b1b6be4769b9ca8321f2a76614a",
+      "titulo": "Vale a pena ser mesário? Veja quantos dias de folga você ganha e outros benefícios",
+      "descricao": "Aém de contribuir na organização da votação, quem atua como mesário tem direito a benefícios como folgas remuneradas e auxílio-alimentação. Foto: Antonio Augusto / TSE Aém de contribuir na organização da votação, quem atua como mesário tem direito a benefícios como folgas remuneradas e auxílio-alimentação. O post Vale a pena ser mesário? Veja quantos dias de folga você ganha e outros benefícios apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/vale-a-pena-ser-mesario-veja-quantos-dias-de-folga-voce-ganha-e-outros-beneficios/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/mesario-2.jpg",
+      "data": "2026-09-23T11:00:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "6f0bc4b77b87f758073e26ab485731e6",
       "titulo": "Com ato dos profissionais em Belém, greve dos Correios chega a adesão de 13% no Pará",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168468:1789400111/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-23T10:36:48.515423+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "05dbe2d41757a9af6c811ce6e6353493",
-      "titulo": "Greve dos Correios chega à segunda semana; dissídio será julgado na segunda-feira",
-      "descricao": "Greve dos Correios chega à segunda semana; dissídio será julgado na segunda-feira",
-      "link": "https://www.oliberal.com/brasil/greve-dos-correios-chega-a-segunda-semana-dissidio-sera-julgado-na-segunda-feira-1.1170257",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1170259:1789751099/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T10:36:48.515268+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0921b857e1862b3b74b797b228636a9c",
-      "titulo": "Correios continuam em greve no Pará após TST adiar julgamento",
-      "descricao": "Correios continuam em greve no Pará após TST adiar julgamento",
-      "link": "https://www.oliberal.com/para/greve-dos-correios-continua-no-para-apos-tst-adiar-julgamento-para-quinta-feira-1.1171997",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.308370:1790117477/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T10:36:48.515103+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "44a09e03635ecc9900d52cd11404139a",
-      "titulo": "Planos terão de cobrir DIU para mulheres com endometriose; saiba se você poderá receber",
-      "descricao": "Nova regra da ANS entra em vigor em 1º de outubro e garante dispositivo e procedimento de inserção para pacientes que atendam aos critérios estabelecidos A partir de 1º de outubro, planos de saúde terão de garantir a cobertura do DIU hormonal para pacientes com endometriose que atendam aos critérios definidos pela Agência Nacional de Saúde Suplementar (ANS). A medida inclui tanto o dispositivo quanto o procedimento necessário para sua inserção. O post Planos terão de cobrir DIU para mulheres com endometriose; saiba se você poderá receber apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/planos-terao-de-cobrir-diu-para-mulheres-com-endometriose-saiba-se-voce-podera-receber/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/endometriose3-1.webp",
-      "data": "2026-09-23T10:30:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "781eff3c0699010355c9e6728b461fc0",
-      "titulo": "PIS/Pasep: último grupo do ano já pode receber até R$ 1.621; veja como consultar",
-      "descricao": "Trabalhadores podem consultar informações sobre o pagamento do PIS/Pasep pelos canais oficiais. Foto: Marcelo Camargo/Agência Brasil Pagamento do abono salarial contempla trabalhadores nascidos em novembro e dezembro; valor depende do tempo trabalhado em 2024. O post PIS/Pasep: último grupo do ano já pode receber até R$ 1.621; veja como consultar apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/pis-pasep-ultimo-grupo-do-ano-ja-pode-receber-ate-r-1-621-veja-como-consultar/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Caixa.jpg",
-      "data": "2026-09-23T10:05:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4f94828d71c08495ce98fdf2c48d985c",
-      "titulo": "Mega-Sena de R$ 38 milhões tem aposta premiada na Grande Belém",
-      "descricao": "Por R$ 6, aposta da Grande Belém acerta cinco números da Mega-Sena de R$ 38 milhões Ninguém acertou as seis dezenas do concurso 3.061 da Mega-Sena, e o prêmio principal acumulou para R$ 38 milhões. Uma aposta de Ananindeua (PA) acertou a quina e levou R$ 42 mil. O post Mega-Sena de R$ 38 milhões tem aposta premiada na Grande Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/loterias/mega-sena-de-r-38-milhoes-tem-aposta-premiada-na-grande-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://diariodopara.com.br/wp-content/uploads/2026/01/20260104140537-GC00073739-F00283289E.webp",
-      "data": "2026-09-23T09:41:43+00:00",
       "categoria": "PARÁ"
     },
     {
