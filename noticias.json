@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-23T13:04:51.407863+00:00",
+  "atualizado": "2026-09-23T13:36:36.134026+00:00",
   "noticias": [
+    {
+      "id": "cfc71ce436e6c5700851adb54621f8b5",
+      "titulo": "Nilson Chaves e Vital Lima celebram 40 anos do álbum 'Interior' em show no Theatro da Paz",
+      "descricao": "Nilson Chaves e Vital Lima celebram 40 anos do álbum 'Interior' em show no Theatro da Paz",
+      "link": "https://www.oliberal.com/cultura/musica/nilson-chaves-e-vital-lima-celebram-40-anos-do-album-interior-em-show-no-theatro-da-paz-1.1172109",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172110:1790169001/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T13:36:33.732830+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2247f3daa287884563c3d9d238ff907a",
+      "titulo": "Na Bahia, aliado de Flávio é denunciado por usar quadro com imagem de Jair Bolsonaro",
+      "descricao": "Na Bahia, aliado de Flávio é denunciado por usar quadro com imagem de Jair Bolsonaro",
+      "link": "https://www.oliberal.com/politica/na-bahia-aliado-de-flavio-e-denunciado-por-usar-quadro-com-imagem-de-jair-bolsonaro-1.1172119",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172123:1790169541/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T13:36:33.333187+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "75df6922c2f679796cac33e5970f9f6e",
+      "titulo": "Em clima de turbulência, Remo volta aos treinos nesta quarta-feira (23)",
+      "descricao": "Em clima de turbulência, Remo volta aos treinos nesta quarta-feira (23)",
+      "link": "https://www.oliberal.com/esportes/remo/em-clima-de-turbulencia-remo-volta-aos-treinos-nesta-quarta-feira-1.1171934",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171953:1790111848/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T13:36:32.917299+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9bdf3c8e64df6187dfa42ace4e473249",
+      "titulo": "Estrelas da Casa tem finalistas definidos; vote na enquete e escolha seu grupo favorito",
+      "descricao": "Os grupos mistos de Pop e Pagode disputam a final do Estrelas da Casa 2026 após a votação do público na semifinal. Foto: gshow Após a eliminação da paraense Julliana Franco na semifinal, grupos mistos de Pop e Pagode disputam a final; participe da enquete do DIÁRIO. O post Estrelas da Casa tem finalistas definidos; vote na enquete e escolha seu grupo favorito apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/estrelas-da-casa-tem-finalistas-definidos-vote-na-enquete-e-escolha-seu-grupo-favorito/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_finalistas-estrelas-da-casa.jpg",
+      "data": "2026-09-23T13:29:22+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "bcc8a11fc4b5eeb67bfcc7f4dc67ac5b",
       "titulo": "Alane mostra fotos com Francisco Gil e registra 'rivalidade' entre Remo e Flamengo",
@@ -12,59 +52,19 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "72e5691fb0da3d1aa156bc9e26af6f95",
-      "titulo": "Homem é morto a tiros após tentar se esconder em residência em Itaituba",
-      "descricao": "Homem é morto a tiros após tentar se esconder em residência em Itaituba",
-      "link": "https://www.oliberal.com/policia/homem-e-morto-a-tiros-apos-tentar-se-esconder-em-residencia-em-itaituba-1.1172100",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172101:1790168211/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T13:04:48.235757+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "75df6922c2f679796cac33e5970f9f6e",
-      "titulo": "Em clima de turbulência, Remo volta aos treinos nesta quarta-feira (23)",
-      "descricao": "Em clima de turbulência, Remo volta aos treinos nesta quarta-feira (23)",
-      "link": "https://www.oliberal.com/esportes/remo/em-clima-de-turbulencia-remo-volta-aos-treinos-nesta-quarta-feira-1.1171934",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171953:1790111848/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T13:04:47.888587+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "cb74cd0b12eff0cffb87e56cf8681081",
-      "titulo": "Condenados por feminicídio terão de ressarcir INSS por pensões de filhas das vítimas; entenda",
-      "descricao": "Justiça Federal determinou que dois homens ressarçam valores já pagos e parcelas futuras de pensões por morte concedidas às dependentes; benefícios das crianças não serão reduzidos. A Justiça Federal determinou que dois homens condenados por feminicídio no Rio Grande do Sul ressarcam o INSS pelos valores gastos com pensões por morte destinadas às filhas menores das vítimas. A decisão abrange parcelas já pagas e futuras, sem afetar o direito das crianças aos benefícios. O post Condenados por feminicídio terão de ressarcir INSS por pensões de filhas das vítimas; entenda apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/condenados-por-feminicidio-terao-de-ressarcir-inss-por-pensoes-de-filhas-das-vitimas-entenda/",
+      "id": "aa8749cc9241103c30968e8ae0b2f0bd",
+      "titulo": "Klebber Toledo é condenado em ação trabalhista e tenta reverter decisão na Justiça",
+      "descricao": "Klebber Toledo é condenado na justiça. Foto: Reprodução Ator foi reconhecido em primeira instância como “sócio oculto” de estúdio de tatuagem no Rio; processo tem valor de R$ 32,5 mil. O post Klebber Toledo é condenado em ação trabalhista e tenta reverter decisão na Justiça apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/klebber-toledo-e-condenado-em-acao-trabalhista-e-tenta-reverter-decisao-na-justica/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/feminicidio8.jpg",
-      "data": "2026-09-23T13:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "65cd383b8b5bd5a139cd9098d26d897e",
-      "titulo": "BYD é condenada a pagar R$ 1,2 milhão por publicidade enganosa e diferença de preço do Mini Dolphin",
-      "descricao": "Justiça do Maranhão obriga a BYD a cumprir ofertas do Dolphin Mini e aplica multa de R$ 1,2 milhão por propaganda enganosa. Justiça do Maranhão obriga a BYD a cumprir ofertas do Dolphin Mini e aplica multa de R$ 1,2 milhão por propaganda enganosa. O post BYD é condenada a pagar R$ 1,2 milhão por publicidade enganosa e diferença de preço do Mini Dolphin apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/byd-e-condenada-a-pagar-r-12-milhao-por-publicidade-enganosa-e-diferenca-de-preco-do-mini-dolphin/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Dolphin_Mini_New_Color_2_Desk-1.jpg",
-      "data": "2026-09-23T12:45:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f632bdcab4a97c3e656db015586592ad",
-      "titulo": "Belém ganha novo consultório para os homens no Postão de Icoaraci; veja os serviços",
-      "descricao": "Belém ganha novo consultório para os homens no Postão de Icoaraci; veja os serviços",
-      "link": "https://www.oliberal.com/belem/belem-ganha-novo-consultorio-para-os-homens-no-postao-de-icoaraci-veja-os-servicos-1.1172076",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172078:1790165445/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T12:40:15.453909+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_ator.jpg",
+      "data": "2026-09-23T13:02:52+00:00",
       "categoria": "PARÁ"
     },
     {
       "id": "2a7615b9a706cf809660874f5932a73f",
       "titulo": "Círio 2026: ação vai oferecer água, alimentação e atendimento a romeiros durante a Trasladação em Belém; veja como ajudar",
-      "descricao": "Ação oferece água, alimentação e atendimento a romeiros durante a Trasladação em Belém Insituto Somos Um Uma ação de acolhimento vai oferecer água, alimentação, massagens, curativos e outros atendimentos aos romeiros que participarem da Trasladação, em Belém. A iniciativa, promovida pelo Instituto Somos Um, será realizada na Praça do Relógio durante a programação do Círio de Nazaré. O projeto desenvolve ações sociais, campanhas e projetos voltados à solidariedade e à assistência de pessoas em situação de vulnerabilidade. A instituição também incentiva o trabalho voluntário e a participação da comunidade em ações sociais. ✅ Clique e siga o canal do g1 Pará no WhatsApp A proposta é criar um ponto de apoio para os participantes que enfrentam longas horas de caminhada e esforço físico durante a procissão. A equipe será formada por voluntários, que estarão no local para prestar assistência aos romeiros e oferecer um espaço de descanso e cuidado ao longo do percurso. Para realizar a ação, o Instituto Somos Um também está arrecadando doações e buscando pessoas interessadas em atuar como voluntárias. \"A ideia é que cada romeiro que passe pela nossa acolhida encontre um espaço de cuidado, respeito e solidariedade\", afirma o instituto. Como ajudar A população pode contribuir com doações ou participar como voluntária na ação. As informações sobre a campanha e as formas de participação estão disponíveis no Instagram @instituto.somosum. As doações podem ser encaminhadas pelo e-mail institutosomosumbelem@gmail.com. Agora no g1 Vídeos com as principais notícias do Pará",
+      "descricao": "Ação oferece água, alimentação e atendimento a romeiros durante a Trasladação em Belém Insituto Somos Um Uma ação de acolhimento vai oferecer água, alimentação, massagens, curativos e outros atendimentos aos romeiros que participarem da Trasladação, que vai ocorrer no dia 10 de outubro, em Belém. A iniciativa, promovida pelo Instituto Somos Um, será realizada na Praça do Relógio durante a programação do Círio de Nazaré. O projeto desenvolve ações sociais, campanhas e projetos voltados à solidariedade e à assistência de pessoas em situação de vulnerabilidade. A instituição também incentiva o trabalho voluntário e a participação da comunidade em ações sociais. ✅ Clique e siga o canal do g1 Pará no WhatsApp A proposta é criar um ponto de apoio para os participantes que enfrentam longas horas de caminhada e esforço físico durante a procissão. A equipe será formada por voluntários, que estarão no local para prestar assistência aos romeiros e oferecer um espaço de descanso e cuidado ao longo do percurso. Para realizar a ação, o Instituto Somos Um também está arrecadando doações e buscando pessoas interessadas em atuar como voluntárias. \"A ideia é que cada romeiro que passe pela nossa acolhida encontre um espaço de cuidado, respeito e solidariedade\", afirma o instituto. Como ajudar A população pode contribuir com doações ou participar como voluntária na ação. As informações sobre a campanha e as formas de participação estão disponíveis no Instagram @instituto.somosum. As doações podem ser encaminhadas pelo e-mail institutosomosumbelem@gmail.com. Agora no g1 Vídeos com as principais notícias do Pará",
       "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/23/cirio-2026-acao-vai-oferecer-agua-alimentacao-e-atendimento-a-romeiros-durante-a-trasladacao-em-belem-veja-como-ajudar.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/ECbwqivWMe_gxldercebn1ptvYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Z/H6emVJS0AaI02asTBUfw/whatsapp-image-2026-09-22-at-14.07.44.jpeg",
