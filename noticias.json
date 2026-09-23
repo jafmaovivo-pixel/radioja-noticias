@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-23T14:37:42.240965+00:00",
+  "atualizado": "2026-09-23T15:02:48.253505+00:00",
   "noticias": [
+    {
+      "id": "5f78b3cdc608b38cabbec119f55b8580",
+      "titulo": "'Vou ajudar Flávio a ser um grande presidente da República', diz Tarcísio",
+      "descricao": "'Vou ajudar Flávio a ser um grande presidente da República', diz Tarcísio",
+      "link": "https://www.oliberal.com/politica/vou-ajudar-flavio-a-ser-um-grande-presidente-da-republica-diz-tarcisio-1.1172176",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1017409:1757276456/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T15:02:45.778879+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a12b2cef00860d392507279d2019f85b",
+      "titulo": "Técnico irmão de Higuain é demitido de time da MLS por comentário misógino contra árbitra",
+      "descricao": "Técnico irmão de Higuain é demitido de time da MLS por comentário misógino contra árbitra",
+      "link": "https://www.oliberal.com/esportes/tecnico-irmao-de-higuain-e-demitido-de-time-da-mls-por-comentario-misogino-contra-arbitra-1.1172177",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.928522:1750518873/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T15:02:45.416711+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "75df6922c2f679796cac33e5970f9f6e",
+      "titulo": "Em clima de turbulência, Remo volta aos treinos nesta quarta-feira (23)",
+      "descricao": "Em clima de turbulência, Remo volta aos treinos nesta quarta-feira (23)",
+      "link": "https://www.oliberal.com/esportes/remo/em-clima-de-turbulencia-remo-volta-aos-treinos-nesta-quarta-feira-1.1171934",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171953:1790111848/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-23T15:02:45.030683+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0ebde3b43843a321540a45fb65f453e2",
+      "titulo": "Nova proposta quer elevar aposentadoria para 67 anos; entenda o que pode mudar",
+      "descricao": "Estudo elaborado por especialistas propõe igualar gradualmente a idade mínima de homens e mulheres, alterar regras do MEI e criar modelo misto de Previdência; mudanças não estão em vigor. Um grupo de especialistas elaborou uma proposta de reforma da Previdência que sugere idade mínima de 67 anos para aposentadoria. O estudo será apresentado a candidatos à Presidência da República. O post Nova proposta quer elevar aposentadoria para 67 anos; entenda o que pode mudar apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/nova-proposta-quer-elevar-aposentadoria-para-67-anos-entenda-o-que-pode-mudar/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/INSS13.6.png",
+      "data": "2026-09-23T15:00:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "0288f49f7cdacbf06990f6026dfdf084",
       "titulo": "Adolescente é encontrado morto em área de mata após dias desaparecido em Altamira",
@@ -12,53 +52,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "50b55f2852c762a24248321c0998ffa3",
-      "titulo": "Internacional anuncia novo treinador para evitar rebaixamento no Brasileirão",
-      "descricao": "Internacional anuncia novo treinador para evitar rebaixamento no Brasileirão",
-      "link": "https://www.oliberal.com/esportes/internacional-anuncia-novo-treinador-para-evitar-rebaixamento-no-brasileirao-1.1172165",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.928522:1750518873/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T14:37:40.556593+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "75df6922c2f679796cac33e5970f9f6e",
-      "titulo": "Em clima de turbulência, Remo volta aos treinos nesta quarta-feira (23)",
-      "descricao": "Em clima de turbulência, Remo volta aos treinos nesta quarta-feira (23)",
-      "link": "https://www.oliberal.com/esportes/remo/em-clima-de-turbulencia-remo-volta-aos-treinos-nesta-quarta-feira-1.1171934",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171953:1790111848/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T14:37:40.254724+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "705b0c34b9e9faca8af7fb7367149c83",
-      "titulo": "Técnico que caiu com o Remo para a Série C assume o Internacional",
-      "descricao": "Ex-Remo, Eduardo Baptista é o novo técnico do Internacional O Internacional anunciou a contratação do técnico Eduardo Baptista até dezembro de 2026. O treinador chega para tentar livrar o time do rebaixamento para a Série B do Campeonato Brasileiro. O post Técnico que caiu com o Remo para a Série C assume o Internacional apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/tecnico-que-caiu-com-o-remo-para-a-serie-c-assume-o-internacional/",
+      "id": "c055ad201c78833d36717f7cce12038f",
+      "titulo": "Ator paraense Yonn Levy estreia em novelas como Lúcio em ‘Avenida Brasil 2’",
+      "descricao": "O ator paraense Yonn Levy interpretará Lúcio em sua estreia nas novelas, na continuação de Avenida Brasil. Foto: Reprodução/Instagram Segundo a coluna Play, de O Globo, o personagem integrará o núcleo de Ernani Moraes. A preparação do elenco começará esta semana. O post Ator paraense Yonn Levy estreia em novelas como Lúcio em ‘Avenida Brasil 2’ apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/ator-paraense-yonn-levy-estreia-em-novelas-como-lucio-em-avenida-brasil-2/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_IMG_0317_bfe1471acd.jpg",
-      "data": "2026-09-23T14:34:12+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f5cd3bf3f912e9446f8e068a50e89f21",
-      "titulo": "Arraial do Pavulagem promove programação gratuita neste sábado (26) em Belém; veja atrações",
-      "descricao": "Arraial do Pavulagem. Crédito - Filipe Bispo O Arraial do Pavulagem promove neste sábado (26) uma programação gratuita em Belém, com música, teatro de bonecos, roda de conversa e brechó solidário. O evento Oralidades serve como preparação para o Arrastão do Círio 2026. O post Arraial do Pavulagem promove programação gratuita neste sábado (26) em Belém; veja atrações apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/voce/arraial-do-pavulagem-promove-programacao-gratuita-neste-sabado-26-em-belem-veja-atracoes/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Credito_-_Filipe_Bispo_3.jpg",
-      "data": "2026-09-23T14:31:37+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6cf2571c26e2da03ac8f30c44ae48ffb",
-      "titulo": "Mulher trans é detida sob suspeita de canibalismo, tortura e cárcere de idoso alemão",
-      "descricao": "Mulher trans é detida sob suspeita de canibalismo, tortura e cárcere de idoso alemão",
-      "link": "https://www.oliberal.com/brasil/mulher-trans-e-detida-sob-suspeita-de-canibalismo-tortura-e-carcere-de-idoso-alemao-1.1172102",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172138:1790171279/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-23T14:03:24.492848+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Yonn-Levy-3.jpg",
+      "data": "2026-09-23T14:34:54+00:00",
       "categoria": "PARÁ"
     },
     {
