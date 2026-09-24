@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-24T17:34:22.895503+00:00",
+  "atualizado": "2026-09-24T18:03:41.667136+00:00",
   "noticias": [
+    {
+      "id": "434ae482ee904b00875d9bb04346d58f",
+      "titulo": "Renato Gaúcho poderá ter 4 retornos ao time contra o Remo",
+      "descricao": "Renato Gaúcho poderá ter 4 retornos ao time contra o Remo",
+      "link": "https://www.oliberal.com/esportes/remo/gremio-renato-gaucho-podera-ter-4-retornos-ao-time-contra-o-remo-em-belem-1.1172592",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172596:1790260996/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-24T18:03:39.988124+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e5b95ac2116d30aa347e0aacf162ff44",
+      "titulo": "Torcedor poderá levar comida de casa para o estádio? Veja o que propõe a Defensoria do Pará",
+      "descricao": "Torcedor poderá levar comida de casa para o estádio? Veja o que propõe a Defensoria do Pará",
+      "link": "https://www.oliberal.com/para/torcedor-podera-levar-comida-de-casa-para-o-estadio-veja-o-que-propoe-a-defensoria-do-para-1.1172698",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172700:1790272221/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-24T18:03:39.987855+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "eb4e7ad23822e16a29237b930fdbf35a",
+      "titulo": "Frejat é atração nacional confirmada na Vila Círio, em Belém",
+      "descricao": "Frejat é atração nacional confirmada na Vila Círio, em Belém",
+      "link": "https://www.oliberal.com/cultura/cantor-e-guitarrista-frejat-e-atracao-nacional-confirmada-na-vila-cirio-2026-em-belem-1.1172616",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.520169:1732488947/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-24T18:03:39.551418+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4e566d1a6173656c0e3259629de9641b",
+      "titulo": "Vigília com Frei Gilson em Belém: veja a programação e onde assistir ao vivo sem sair de casa",
+      "descricao": "Com uma programação que atravessa a noite, o evento reúne diferentes momentos de espiritualidade. Foto: Reprodução/Instagram. Evento será realizado no Mangueirão nos dias 26 e 27 de setembro, com momentos de oração, pregação, shows, Santa Missa e Santo Rosário. O post Vigília com Frei Gilson em Belém: veja a programação e onde assistir ao vivo sem sair de casa apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/vigilia-com-frei-gilson-em-belem-veja-a-programacao-e-onde-assistir-ao-vivo-sem-sair-de-casa/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_frei-gilson-reune-milhares-de-fieis-em-vigilia-de-12-horas-de-oracao-e-louvor-na-arena-de-pernambuco.jpg",
+      "data": "2026-09-24T18:00:15+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e9bd3db90f4ea9ac6ecc6625ff6e3587",
+      "titulo": "Doméstica trabalha 53 anos sem salário, é dispensada aos 83 e recebe indenização de R$ 200 mil; entenda",
+      "descricao": "Trabalhadora permaneceu por 53 anos em residência de Santos sem salário e teve reconhecida situação análoga à escravidão. Uma empregada doméstica de 83 anos teve 53 anos de vínculo reconhecidos pela Justiça do Trabalho em Santos. A situação foi caracterizada como trabalho análogo à escravidão, com indenização de R$ 200 mil por danos morais. O post Doméstica trabalha 53 anos sem salário, é dispensada aos 83 e recebe indenização de R$ 200 mil; entenda apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/domestica-trabalha-53-anos-sem-salario-e-dispensada-aos-83-e-ganha-r-200-mil-entenda/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/escravidao2.jpg",
+      "data": "2026-09-24T17:44:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "46b798b18ca519026f48c1f6423d63e1",
       "titulo": "Bolsonaro desiste de suspender pena por trama golpista 2h após recorrer",
@@ -12,36 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "434ae482ee904b00875d9bb04346d58f",
-      "titulo": "Renato Gaúcho poderá ter 4 retornos ao time contra o Remo",
-      "descricao": "Renato Gaúcho poderá ter 4 retornos ao time contra o Remo",
-      "link": "https://www.oliberal.com/esportes/remo/gremio-renato-gaucho-podera-ter-4-retornos-ao-time-contra-o-remo-em-belem-1.1172592",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172596:1790260996/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-24T17:34:20.363754+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "eb4e7ad23822e16a29237b930fdbf35a",
-      "titulo": "Frejat é atração nacional confirmada na Vila Círio, em Belém",
-      "descricao": "Frejat é atração nacional confirmada na Vila Círio, em Belém",
-      "link": "https://www.oliberal.com/cultura/cantor-e-guitarrista-frejat-e-atracao-nacional-confirmada-na-vila-cirio-2026-em-belem-1.1172616",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.520169:1732488947/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-24T17:34:20.032025+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a856605ff9bb46dccc40aede3e261889",
-      "titulo": "O Lord do Brega: cantor romântico Roberto Müller morre aos 89 anos",
-      "descricao": "Artista piauiense construiu carreira de mais de seis décadas e ficou conhecido pelo repertório romântico. Foto: Léo Motta/JC Imagem. O cantor e compositor Roberto Müller, conhecido pelas músicas românticas, morreu nesta quinta-feira (24), aos 89 anos. O post O Lord do Brega: cantor romântico Roberto Müller morre aos 89 anos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/o-lord-do-brega-cantor-romantico-roberto-muller-morre-aos-89-anos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_49-3.jpg",
-      "data": "2026-09-24T17:14:35+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "b5acfc2d0ab1c950e819c1e105029cd9",
       "titulo": "PRF apreende 45 veículos e prende foragido por homicídio em Capanema, no Pará",
       "descricao": "PRF apreende 45 veículos e prende foragido por homicídio em operação em Capanema, no Pará Reprodução / PRF-PA A Polícia Rodoviária Federal (PRF) realizou, na quarta-feira (23), a \"Operação Duas Rodas\" no município de Capanema, nordeste do Pará. A iniciativa, que faz parte das ações da Semana Nacional do Trânsito, resultou na prisão de um homicida foragido da Justiça, na recuperação de um veículo roubado e na apreensão de dezenas de motocicletas e carros irregulares. ✅ Receba as notícias do g1 Pará direto no WhatsApp Segundo a PRF, o foco principal da fiscalização em veículos de duas rodas se deve à alta vulnerabilidade dos motociclistas em acidentes graves de trânsito. O objetivo da operação foi garantir a segurança viária, reduzir o índice de acidentes na região e combater a criminalidade. Agora no g1 Balanço das fiscalizações em Capanema Durante o dia de mobilização, as equipes da PRF abordaram e fiscalizaram 155 pessoas e 107 veículos. Ao todo, a operação registrou: 45 veículos recolhidos por diversas irregularidades administrativas; 162 autos de infração (multas) aplicados; 1 veículo roubado recuperado pelos agentes. Na fiscalização de alcoolemia (Lei Seca), dois condutores foram autuados: um por testar positivo no exame do bafômetro (etitômetro) e outro por se recusar a realizar o teste. Combate ao crime Além das autuações de trânsito, a PRF intensificou o policiamento repressivo na região de Capanema. Durante as abordagens, os policiais identificaram e prenderam um homem que estava com mandado de prisão em aberto pelo crime de homicídio. O foragido e o veículo recuperado foram encaminhados à Delegacia de Polícia Civil local para os procedimentos cabíveis. Semana Nacional do Trânsito A \"Operação Duas Rodas\" integra o cronograma de ações educativas e de fiscalização da Semana Nacional do Trânsito, realizada anualmente entre os dias 18 e 25 de setembro. A campanha nacional busca conscientizar motoristas, pedestres e ciclistas para a redução de mortes e acidentes nas rodovias federais de todo o país. VÍDEOS: veja todas as notícias do Pará",
@@ -49,26 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/fiyitDUYOQEGSQbUHUs48TJgQbo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/N/k1vVW2QymDDRM7Opc9xg/operacao-prf.png",
       "data": "2026-09-24T17:10:19+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d20c202f18c63e0de9901f4370b65ece",
-      "titulo": "PF apreende mais de R$ 1,2 milhão em dinheiro vivo e prende uma pessoa em operação em Belém",
-      "descricao": "PF apreende mais de R$ 1,2 milhão em dinheiro vivo e prende uma pessoa em operação em Belém",
-      "link": "https://www.oliberal.com/para/pf-apreende-mais-de-r-1-2-milhao-em-dinheiro-vivo-e-prende-uma-pessoa-em-operacao-em-belem-1.1168818",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168822:1789475724/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-24T17:02:48.137530+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "33306a40c0ccb85b9bc17f04e184c39c",
-      "titulo": "Atenção transportador! Mudança na regra da cobertura para danos materiais e corporais à terceiros",
-      "descricao": "Comumente conhecida pela sigla RCF-V, a nova regra chega para evitar surpresas desagradáveis em caso de sinistro. Entenda a nova regulamentação do transporte de cargas O mercado de transporte rodoviário de cargas está diante de uma transformação regulatória importante que exige redobrada atenção dos empresários e gestores de frotas. Com as novas diretrizes trazidas pela […] O post Atenção transportador! Mudança na regra da cobertura para danos materiais e corporais à terceiros apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/toda/atualidades/atencao-transportador-mudanca-na-regra-da-cobertura-para-danos-materiais-e-corporais-a-terceiros/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/66cdd6bc4b0d9bb9b3ff42c5_voce-sabe-como-funciona-a-logistica-de-transporte-rodoviario.jpg",
-      "data": "2026-09-24T16:54:47+00:00",
       "categoria": "PARÁ"
     },
     {
