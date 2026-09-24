@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-24T16:36:59.320276+00:00",
+  "atualizado": "2026-09-24T17:02:49.886284+00:00",
   "noticias": [
+    {
+      "id": "d20c202f18c63e0de9901f4370b65ece",
+      "titulo": "PF apreende mais de R$ 1,2 milhão em dinheiro vivo e prende uma pessoa em operação em Belém",
+      "descricao": "PF apreende mais de R$ 1,2 milhão em dinheiro vivo e prende uma pessoa em operação em Belém",
+      "link": "https://www.oliberal.com/para/pf-apreende-mais-de-r-1-2-milhao-em-dinheiro-vivo-e-prende-uma-pessoa-em-operacao-em-belem-1.1168818",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1168822:1789475724/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-24T17:02:48.137530+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "230da26dc12d103bbab07c4531a8917c",
+      "titulo": "Operação Sonar: investigação aponta presidente da CDP como peça central de esquema de desvios",
+      "descricao": "Operação Sonar: investigação aponta presidente da CDP como peça central de esquema de desvios",
+      "link": "https://www.oliberal.com/para/operacao-sonar-investigacao-aponta-presidente-da-cdp-como-peca-central-de-esquema-de-desvios-1.1169608",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1140267:1789601244/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-24T17:02:47.786690+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "85576bcf93921ca2488904238bc4268e",
+      "titulo": "Companhia Docas do Pará tem novo presidente após operação da PF",
+      "descricao": "Companhia Docas do Pará tem novo presidente após operação da PF",
+      "link": "https://www.oliberal.com/politica/companhia-docas-do-para-tem-novo-presidente-interino-apos-operacao-da-pf-1.1172651",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172653:1790267578/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-24T17:02:47.306719+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "33306a40c0ccb85b9bc17f04e184c39c",
+      "titulo": "Atenção transportador! Mudança na regra da cobertura para danos materiais e corporais à terceiros",
+      "descricao": "Comumente conhecida pela sigla RCF-V, a nova regra chega para evitar surpresas desagradáveis em caso de sinistro. Entenda a nova regulamentação do transporte de cargas O mercado de transporte rodoviário de cargas está diante de uma transformação regulatória importante que exige redobrada atenção dos empresários e gestores de frotas. Com as novas diretrizes trazidas pela […] O post Atenção transportador! Mudança na regra da cobertura para danos materiais e corporais à terceiros apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/toda/atualidades/atencao-transportador-mudanca-na-regra-da-cobertura-para-danos-materiais-e-corporais-a-terceiros/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/66cdd6bc4b0d9bb9b3ff42c5_voce-sabe-como-funciona-a-logistica-de-transporte-rodoviario.jpg",
+      "data": "2026-09-24T16:54:47+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "955e88f665b5138726c5ed1e4e185397",
       "titulo": "Irmão gêmeo de suspeito de matar frentista é violentamente agredido em Bragança",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "49d79b53ac8ccd8be520c871eb824b07",
-      "titulo": "Hélio dos Anjos é demitido do Náutico após crise; saiba mais",
-      "descricao": "Hélio dos Anjos é demitido do Náutico após crise; saiba mais",
-      "link": "https://www.oliberal.com/esportes/paysandu/helio-dos-anjos-e-demitido-do-nautico-apos-crise-e-revive-historico-de-conflitos-no-paysandu-1.1172536",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172537:1790251708/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-24T16:36:57.956924+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fdcc5462ec59d7d5c3e9f32f99e156cf",
-      "titulo": "Cantor e guitarrista Frejat é atração nacional confirmada na Vila Círio 2026",
-      "descricao": "Cantor e guitarrista Frejat é atração nacional confirmada na Vila Círio 2026",
-      "link": "https://www.oliberal.com/cultura/cantor-e-guitarrista-frejat-e-atracao-nacional-confirmada-na-vila-cirio-2026-em-belem-1.1172616",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.520169:1732488947/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-24T16:36:57.956554+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "67563041b6d6fd4d897fd73bb1c850aa",
       "titulo": "Primeira pop-up da SHEIN na Região Norte é inaugurada em Belém com ingressos esgotados",
       "descricao": "Estreia nesta quarta-feira (23) é marcada por grande movimento do público local e procura por peças leves de vestuário feminino e linha infantil. Loja temporária funciona até domingo (27), no Castanheira Shopping. A SHEIN inaugurou nesta quarta-feira (23) sua primeira loja temporária em Belém. A nova pop-up store, que também marca a estreia da varejista […] O post Primeira pop-up da SHEIN na Região Norte é inaugurada em Belém com ingressos esgotados apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/c8e26e32-2edf-43ac-8e10-9e77e5fe7d0e.jpg",
       "data": "2026-09-24T16:31:52+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4fc5701829ba742546cc030d32cb9274",
-      "titulo": "14º Circuito Norte em Dança começa com Curso Internacional de Formação Artística em Teatro Musical em Belém",
-      "descricao": "Belém será palco da 14ª edição do Circuito Norte em Dança, um dos eventos que movimentam a produção, a formação e a difusão da dança na Amazônia. Realizado de 25 de setembro a 3 de outubro, o festival reunirá aproximadamente mil bailarinos, 57 grupos, representantes de 11 cidades e participantes de três países: Brasil, Honduras […] O post 14º Circuito Norte em Dança começa com Curso Internacional de Formação Artística em Teatro Musical em Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/toda/atualidades/14o-circuito-norte-em-danca-comeca-com-curso-internacional-de-formacao-artistica-em-teatro-musical-em-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/CND-2024-2o-Dia-2a-Sessao-1341.jpg",
-      "data": "2026-09-24T16:28:43+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "51a13200ea48a72a7cce7ce0bcc5cec9",
-      "titulo": "Semana da Pessoa Idosa inicia nesta sexta (25), em Belém, com serviços gratuitos; veja quais",
-      "descricao": "Semana da Pessoa Idosa inicia nesta sexta (25), em Belém, com serviços gratuitos; veja quais",
-      "link": "https://www.oliberal.com/belem/semana-da-pessoa-idosa-inicia-nesta-sexta-25-em-belem-com-servicos-gratuitos-veja-quais-1.1172634",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172635:1790265092/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-24T16:03:19.785276+00:00",
       "categoria": "PARÁ"
     },
     {
