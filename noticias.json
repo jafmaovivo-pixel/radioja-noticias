@@ -1,6 +1,16 @@
 {
-  "atualizado": "2026-09-24T13:37:52.154587+00:00",
+  "atualizado": "2026-09-24T14:03:16.976178+00:00",
   "noticias": [
+    {
+      "id": "0b17e34cca5df1b30b7f88e47d25548c",
+      "titulo": "'Garota do Momento', da Globo, concorre ao Emmy Internacional com produções turcas e espanhola",
+      "descricao": "'Garota do Momento', da Globo, concorre ao Emmy Internacional com produções turcas e espanhola",
+      "link": "https://www.oliberal.com/cultura/televisao/garota-do-momento-da-globo-concorre-ao-emmy-internacional-com-producoes-turcas-e-espanhola-1.1172567",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172368:1790196571/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-24T14:03:15.410512+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "49d79b53ac8ccd8be520c871eb824b07",
       "titulo": "Hélio dos Anjos é demitido do Náutico após crise; saiba mais",
@@ -8,7 +18,37 @@
       "link": "https://www.oliberal.com/esportes/paysandu/helio-dos-anjos-e-demitido-do-nautico-apos-crise-e-revive-historico-de-conflitos-no-paysandu-1.1172536",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172537:1790251708/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-24T13:37:50.812543+00:00",
+      "data": "2026-09-24T14:03:15.099429+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3d433616d4fed28b0ef456d541c5a45c",
+      "titulo": "Renner compartilha reflexão após morte de Rick: 'Como as coisas são incertas'",
+      "descricao": "Renner compartilha reflexão após morte de Rick: 'Como as coisas são incertas'",
+      "link": "https://www.oliberal.com/cultura/renner-compartilha-reflexao-apos-morte-de-rick-como-as-coisas-sao-incertas-1.1172319",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172347:1790193588/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-24T14:03:15.099135+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "59a6814eee05be9a09f62db86b8644bf",
+      "titulo": "“Bandeirinha”: como trabalhadores fazem renda extra durante as eleições em Belém",
+      "descricao": "Eleições 2026: calor e longas jornadas fazem parte da rotina dos “bandeirinhas”. Foto: Clayton Matos Em Belém, os \"bandeirinhas\" são trabalhadores contratados para divulgar candidatos nas ruas. Para muitos, a atividade é uma oportunidade de renda temporária e flexível, apesar dos desafios como o sol e a reação dos eleitores. O post “Bandeirinha”: como trabalhadores fazem renda extra durante as eleições em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/bandeirinha-como-trabalhadores-fazem-renda-extra-durante-as-eleicoes-em-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/WhatsApp-Image-2026-09-24-at-10.52.52.jpeg",
+      "data": "2026-09-24T13:57:59+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7bdb073c7e9582a0d60d438bc2301d7d",
+      "titulo": "Justiça reestabelece convivência de cadela com dois tutores após fim de união estável, mas rejeita guarda compartilhada; entenda",
+      "descricao": "Quarta Turma do STJ reconheceu a posse conjunta da cadela Nala e restabeleceu a convivência do animal com os dois ex-companheiros. O Superior Tribunal de Justiça (STJ) restabeleceu a convivência de uma cadela com seus dois tutores após o fim de uma união estável. A decisão reconheceu a posse conjunta do animal e a divisão de cuidados e despesas, mas afastou a aplicação das regras de guarda compartilhada. O post Justiça reestabelece convivência de cadela com dois tutores após fim de união estável, mas rejeita guarda compartilhada; entenda apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/justica-reestabelece-convivencia-de-cadela-com-dois-tutores-apos-fim-de-uniao-estavel-mas-rejeita-guarda-compartilhada-entenda/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/caocompartilhado6-1.jpg",
+      "data": "2026-09-24T13:44:00+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -19,46 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1171651:1790081308/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-24T13:37:50.812356+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3d433616d4fed28b0ef456d541c5a45c",
-      "titulo": "Renner compartilha reflexão após morte de Rick: 'Como as coisas são incertas'",
-      "descricao": "Renner compartilha reflexão após morte de Rick: 'Como as coisas são incertas'",
-      "link": "https://www.oliberal.com/cultura/renner-compartilha-reflexao-apos-morte-de-rick-como-as-coisas-sao-incertas-1.1172319",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172347:1790193588/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-24T13:37:50.812050+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3a7a3451b78748f9b495c707c03da74b",
-      "titulo": "Concursos Públicos 2026: mais de 160 mil vagas previstas; veja oportunidades no Pará e salários de até R$ 30 mil",
-      "descricao": "Concursos públicos previstos para 2026 reúnem oportunidades em diversas áreas, com vagas para diferentes níveis de escolaridade. No Pará estão previstos certames para o TRT-8, SEAP, Polícia Científica e Guarda Municila, entre outros. Um levantamento aponta mais de 160 mil vagas em concursos públicos previstos para 2026, com oportunidades em áreas como segurança, tribunais e bancos, e salários que podem chegar a R$ 30 mil. O post Concursos Públicos 2026: mais de 160 mil vagas previstas; veja oportunidades no Pará e salários de até R$ 30 mil apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/concursos-publicos-2026-mais-de-160-mil-vagas-previstas-veja-oportunidades-no-para-e-salarios-de-ate-r-30-mil/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/conc-Para.jpg",
-      "data": "2026-09-24T13:30:45+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6fb3e19d505ee134cad16f0aa6a21df7",
-      "titulo": "Alef Manga desabafa após ser afastado do Remo: ‘Ninguém sabe…’",
-      "descricao": "Alef Manga desabafa após discussão e afastamento no Remo O atacante Alef Manga foi afastado do Clube do Remo após desentendimento com o zagueiro Marllon e não faz parte dos planos para o restante da temporada. Ele treinará em separado. O post Alef Manga desabafa após ser afastado do Remo: ‘Ninguém sabe…’ apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/alef-manga-desabafa-apos-ser-afastado-do-remo-ninguem-sabe/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/05/IMG_0038.jpeg",
-      "data": "2026-09-24T13:30:24+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "afe6e24acc9327aa88a805aadaa9848e",
-      "titulo": "Investigado pela PF, Alexandre Pires tem fazenda de 2 mil hectares e imóveis de luxo",
-      "descricao": "Alexandre Pires é investigado pela Polícia Federal; entre os bens associados ao cantor estão imóveis em Santa Catarina e uma fazenda no Tocantins. Foto: Reprodução/Instagram Reportagem de 2023 relacionou ao cantor propriedades em Itapema e Balneário Camboriú; a investigação da PF apura pagamentos feitos a ele e à sua produtora. O post Investigado pela PF, Alexandre Pires tem fazenda de 2 mil hectares e imóveis de luxo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/patrimonio-alexandre-pires/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Alexandre-Pires-1.jpg",
-      "data": "2026-09-24T12:45:46+00:00",
       "categoria": "PARÁ"
     },
     {
