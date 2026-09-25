@@ -1,6 +1,16 @@
 {
-  "atualizado": "2026-09-25T11:02:56.945010+00:00",
+  "atualizado": "2026-09-25T11:36:46.660409+00:00",
   "noticias": [
+    {
+      "id": "638fb30bc6bf2a465e9003fcc64e8d78",
+      "titulo": "Segup usará 15 novos drones na segurança das eleições e Círio",
+      "descricao": "Segup usará 15 novos drones na segurança das eleições e Círio",
+      "link": "https://www.oliberal.com/belem/segup-usara-15-novos-drones-na-seguranca-das-eleicoes-e-do-cirio-2026-1.1172681",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172687:1790270214/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-25T11:36:45.589442+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "0e58f37dd0de3a6d5967058fed50040d",
       "titulo": "Fora contra a Inter, trio do Paysandu deve voltar diante da Ferroviária",
@@ -8,7 +18,27 @@
       "link": "https://www.oliberal.com/esportes/paysandu/fora-contra-a-inter-trio-do-paysandu-deve-voltar-diante-da-ferroviaria-1.1172883",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1124037:1779322800/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-25T11:02:55.845412+00:00",
+      "data": "2026-09-25T11:36:45.316539+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2a71e3e0f1f58628de397dd0d17d9506",
+      "titulo": "Congressistas dos EUA acusam Trump de tentar interferir na eleição brasileira",
+      "descricao": "Congressistas dos EUA acusam Trump de tentar interferir na eleição brasileira",
+      "link": "https://www.oliberal.com/mundo/congressistas-dos-eua-acusam-trump-de-tentar-interferir-na-eleicao-brasileira-1.1172964",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.494900:1789391396/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-25T11:36:45.316203+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "cdcc74dc3602149a0603b28c9150b4db",
+      "titulo": "Papão na Austrália? Torcedores do Paysandu são flagrados em jogo do Brasil",
+      "descricao": "Torcedores do Paysandu chamaram atenção ao serem flagrados com a camisa do clube em amistoso da Seleção Brasileira contra a Austrália, em Townsville, na Super Data Fifa. O post Papão na Austrália? Torcedores do Paysandu são flagrados em jogo do Brasil apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/papao-na-australia-torcedores-do-paysandu-sao-flagrados-em-jogo-do-brasil/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Captura_de_tela_2026-09-25_080022.jpg",
+      "data": "2026-09-25T11:05:47+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -22,16 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "86137441d8ba0162ed5f252c78e5b484",
-      "titulo": "Operação prende no Pará suspeitos de fraude de R$ 500 mil contra empresa",
-      "descricao": "Operação prende no Pará suspeitos de fraude de R$ 500 mil contra empresa",
-      "link": "https://www.oliberal.com/policia/operacao-nacional-prende-no-para-suspeitos-de-aplicar-golpe-de-r-500-mil-em-empresa-1.1172884",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172885:1790292898/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-25T11:02:55.845055+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "b53c532ad28c151d2dcdfeceac6e1a35",
       "titulo": "Documentários sobre arte, neurodivergência e territórios amazônicos serão exibidos no Pará; veja onde assistir",
       "descricao": "O Perifa.Doc encerra seu ciclo com a exibição de quatro documentários produzidos a partir de histórias e experiências dos territórios de Belém e Marabá, no Pará. As produções abordam temas sociais e culturais. O post Documentários sobre arte, neurodivergência e territórios amazônicos serão exibidos no Pará; veja onde assistir apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Cabelo_Seco_Foto_-_Paulo_Favaro_4.jpg",
       "data": "2026-09-25T11:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "eb6f01880332bb0ba207c1647aa2ac55",
-      "titulo": "Marcelo Rangel vira alvo do Santos após 100 defesas pelo Remo",
-      "descricao": "Santos monitora goleiro do Remo após 100 defesas na Série A Foto: Ascom Remo O goleiro Marcelo Rangel, destaque do Remo no Campeonato Brasileiro, está no radar do Santos. O clube paulista busca alternativas após a lesão de Gabriel Brazão e observa o jogador. O post Marcelo Rangel vira alvo do Santos após 100 defesas pelo Remo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/marcelo-rangel-vira-alvo-do-santos-apos-100-defesas-pelo-remo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_814761714_1579698023615051_7880839361618950262_n.jpg",
-      "data": "2026-09-25T10:57:32+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "53a67b7898424dcfd22414757372b3a5",
-      "titulo": "Tem dois empregos? INSS pode ser descontado a mais; veja como evitar e recuperar valores pagos acima do teto",
-      "descricao": "Remunerações de diferentes empregos podem ser consideradas em conjunto para aplicação do teto do INSS. Foto: gerada por IA Quem trabalha para mais de um empregador precisa ficar atento à soma das remunerações e ao teto do INSS em 2026 para evitar contribuições acima do limite permitido. O post Tem dois empregos? INSS pode ser descontado a mais; veja como evitar e recuperar valores pagos acima do teto apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/seu-bolso/tem-dois-empregos-inss-pode-ser-descontado-a-mais-veja-como-evitar-e-recuperar-valores-pagos-acima-do-teto/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_file_00000000635481f8a22811fbfdf296c2.jpg",
-      "data": "2026-09-25T10:30:00+00:00",
       "categoria": "PARÁ"
     },
     {
