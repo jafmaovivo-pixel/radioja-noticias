@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-09-26T12:03:29.142865+00:00",
+  "atualizado": "2026-09-26T12:39:13.125465+00:00",
   "noticias": [
+    {
+      "id": "b59e1cc03e3486b0f8d2a1c14c972269",
+      "titulo": "Você tem dinheiro em BETs? Saiba até quando é preciso sacar o valor",
+      "descricao": "Você tem dinheiro em BETs? Saiba até quando é preciso sacar o valor",
+      "link": "https://www.oliberal.com/economia/voce-tem-dinheiro-em-bets-saiba-ate-quando-e-preciso-sacar-o-valor-1.1173282",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.941025:1743794440/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-26T12:39:11.268982+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2485bc45c808d5ccad66cb3c3437cc87",
+      "titulo": "Círio 2026: passagens aéreas chegam a R$ 4 mil e diárias a R$ 3,4 mil em hotéis cinco estrelas",
+      "descricao": "Círio 2026: passagens aéreas chegam a R$ 4 mil e diárias a R$ 3,4 mil em hotéis cinco estrelas",
+      "link": "https://www.oliberal.com/economia/cirio-2026-passagens-aereas-chegam-a-r-4-mil-e-diarias-a-r-3-4-mil-em-hoteis-cinco-estrelas-1.1172995",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.309789:1790342106/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-26T12:39:11.076661+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a5540764187dea8608b41217f654ec0d",
+      "titulo": "Corda do Círio 2026 será vistoriada neste sábado (26) e segue para exposição na Estação das Docas",
+      "descricao": "Corda do Círio 2026 será vistoriada neste sábado (26) e segue para exposição na Estação das Docas",
+      "link": "https://www.oliberal.com/belem/corda-do-cirio-2026-sera-vistoriada-neste-sabado-26-e-segue-para-exposicao-na-estacao-das-docas-1.1172743",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172760:1790277534/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-26T12:39:11.076534+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f07ae0be43ddff47eedfd5fd91e50703",
+      "titulo": "Congresso em Belém reúne Síndicos, Gestores e Empreendedores condominiais",
+      "descricao": "Belém sedia o 3º Congresso Invest Síndicos & Feira de Negócios 2026, reunindo síndicos, conselheiros, administradoras e fornecedores para discutir governança, inovação e soluções para a vida em comunidade. O post Congresso em Belém reúne Síndicos, Gestores e Empreendedores condominiais apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/congresso-em-belem-reune-sindicos-gestores-e-empreendedores-condominiais/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/tipos-condominio-shutterstock.jpg",
+      "data": "2026-09-26T12:33:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "875e77f2d2f510a9657383cbf15b4b44",
       "titulo": "Michel Pinho realiza aula pública sobre a história do Círio neste domingo (27)",
@@ -12,26 +52,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "2485bc45c808d5ccad66cb3c3437cc87",
-      "titulo": "Círio 2026: passagens aéreas chegam a R$ 4 mil e diárias a R$ 3,4 mil em hotéis cinco estrelas",
-      "descricao": "Círio 2026: passagens aéreas chegam a R$ 4 mil e diárias a R$ 3,4 mil em hotéis cinco estrelas",
-      "link": "https://www.oliberal.com/economia/cirio-2026-passagens-aereas-chegam-a-r-4-mil-e-diarias-a-r-3-4-mil-em-hoteis-cinco-estrelas-1.1172995",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.309789:1790342106/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-26T12:03:25.606016+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a5540764187dea8608b41217f654ec0d",
-      "titulo": "Corda do Círio 2026 será vistoriada neste sábado (26) e segue para exposição na Estação das Docas",
-      "descricao": "Corda do Círio 2026 será vistoriada neste sábado (26) e segue para exposição na Estação das Docas",
-      "link": "https://www.oliberal.com/belem/corda-do-cirio-2026-sera-vistoriada-neste-sabado-26-e-segue-para-exposicao-na-estacao-das-docas-1.1172743",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172760:1790277534/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-26T12:03:25.605839+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "e13442a2cae6006c4e4c8ccd6083d3e1",
       "titulo": "“Django Livre”, um faroeste sentimental, sangrento e divertido",
       "descricao": "\"Django Livre\", de Quentin Tarantino - Foto: Divulgação Com \"Django Livre\", Quentin Tarantino, mais uma vez, transforma suas referências em uma obra totalmente autoral. O post “Django Livre”, um faroeste sentimental, sangrento e divertido apareceu primeiro em Diário do Pará .",
@@ -39,26 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Django.jpg",
       "data": "2026-09-26T12:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4d0e8f4eb2525d95d58cdbc11ce6b1b7",
-      "titulo": "Dia de São Cosme e Damião: quem foram os irmãos e por que a tradição envolve doces?",
-      "descricao": "A distribuição de doces ganhou força a partir do sincretismo religioso no Brasil. Foto: Reprodução/Shutterstock Conhecidos como médicos que cuidavam gratuitamente dos enfermos, os santos são celebrados em datas diferentes; no Brasil, o dia 27 de setembro ficou marcado pela distribuição de doces às crianças. O post Dia de São Cosme e Damião: quem foram os irmãos e por que a tradição envolve doces? apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/dia-de-sao-cosme-e-damiao-quem-foram-os-irmaos-e-por-que-a-tradicao-envolve-doces/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_doces-cosme-e-damiao-shutterstock.jpg",
-      "data": "2026-09-26T12:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e2ce843237dcfa07afa791f9ee3f389e",
-      "titulo": "Eles largaram a faculdade e ficaram bilionários: conheça os 8 brasileiros",
-      "descricao": "Bilionários brasileiros que construíram grandes fortunas em diferentes setores, como varejo, tecnologia, indústria, alimentos e chocolates, sem concluir uma graduação. Foto: divulgação/reprodução Levantamento da Forbes Brasil mostra trajetórias que vão do agronegócio à tecnologia e incluem empresários que deixaram a faculdade ou começaram a trabalhar ainda na adolescência. O post Eles largaram a faculdade e ficaram bilionários: conheça os 8 brasileiros apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/eles-largaram-a-faculdade-e-ficaram-bilionarios-conheca-os-8-brasileiros/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_ChatGPT_Image_25_de_set_de_2026_18_19_52.jpg",
-      "data": "2026-09-26T11:30:51+00:00",
       "categoria": "PARÁ"
     },
     {
