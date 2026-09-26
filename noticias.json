@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-26T21:35:14.872061+00:00",
+  "atualizado": "2026-09-26T22:02:52.141621+00:00",
   "noticias": [
+    {
+      "id": "8f504568ba35f8ca0ecef9554731159c",
+      "titulo": "Inter de Limeira pega o Paysandu e artilheiro da equipe diz: 'tem que ganhar os dois em casa'",
+      "descricao": "Inter de Limeira pega o Paysandu e artilheiro da equipe diz: 'tem que ganhar os dois em casa'",
+      "link": "https://www.oliberal.com/esportes/paysandu/inter-de-limeira-pega-o-paysandu-e-artilheiro-da-equipe-diz-tem-que-ganhar-os-dois-em-casa-1.1173045",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1173064:1790348020/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-26T22:02:50.232376+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0e58f37dd0de3a6d5967058fed50040d",
+      "titulo": "Fora contra a Inter, trio do Paysandu deve voltar diante da Ferroviária",
+      "descricao": "Fora contra a Inter, trio do Paysandu deve voltar diante da Ferroviária",
+      "link": "https://www.oliberal.com/esportes/paysandu/fora-contra-a-inter-trio-do-paysandu-deve-voltar-diante-da-ferroviaria-1.1172883",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1124037:1779322800/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-26T22:02:49.615383+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "302d582feaca377ce3e453d28366781c",
+      "titulo": "Em busca da sobrevivência, Paysandu encara a Inter de Limeira",
+      "descricao": "Em busca da sobrevivência, Paysandu encara a Inter de Limeira",
+      "link": "https://www.oliberal.com/esportes/lance-a-lance/2026/inter-de-limeira-x-paysandu",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/img/shared_image.jpg",
+      "data": "2026-09-26T22:02:49.190895+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "656c3ca24fb9298853693293bdc13125",
+      "titulo": "Zé é encontrado morto e Bela perde o comando do hospital em Por Você",
+      "descricao": "A morte de Zé e a saída de Bela da presidência do hospital estão entre os acontecimentos da semana em Por Você. Foto: Globo Entre 28 de setembro e 3 de outubro, Vanessa assume a presidência do hospital, enquanto Bela encontra uma pista deixada por Juli antes do acidente. O post Zé é encontrado morto e Bela perde o comando do hospital em Por Você apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/ze-e-encontrado-morto-e-bela-perde-o-comando-do-hospital-em-por-voce/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Ze-em-Por-Voce.jpg",
+      "data": "2026-09-26T22:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5776e531c75821d5c4f07d91805c3705",
+      "titulo": "Prestianni “caberia no Flamengo”, diz Boto; jogador foi acusado de racismo contra Vini Jr.",
+      "descricao": "Boto diz que Prestianni 'caberia no Flamengo' Durante participação no Portugal Football Summit, realizado em Oeiras entre os dias 22 e 25 de setembro, o diretor de futebol do Flamengo, José Boto, foi questionado sobre jogadores do futebol europeu que teriam espaço no elenco rubro-negro. Entre os nomes citados pelo dirigente está o argentino Gianluca Prestianni, do Benfica. Boto também mencionou Maxi […] O post Prestianni “caberia no Flamengo”, diz Boto; jogador foi acusado de racismo contra Vini Jr. apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/prestianni-caberia-no-flamengo-diz-boto-jogador-foi-acusado-de-racismo-contra-vini-jr/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/vini10.jpg",
+      "data": "2026-09-26T21:46:30+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "4b3f48fb4d2896e423918368b6b557b2",
       "titulo": "Grupo Liberal lança LibMed, plataforma de telemedicina",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1173204:1790363432/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
       "data": "2026-09-26T21:35:13.480724+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2485bc45c808d5ccad66cb3c3437cc87",
-      "titulo": "Círio 2026: passagens aéreas chegam a R$ 4 mil e diárias a R$ 3,4 mil em hotéis cinco estrelas",
-      "descricao": "Círio 2026: passagens aéreas chegam a R$ 4 mil e diárias a R$ 3,4 mil em hotéis cinco estrelas",
-      "link": "https://www.oliberal.com/economia/cirio-2026-passagens-aereas-chegam-a-r-4-mil-e-diarias-a-r-3-4-mil-em-hoteis-cinco-estrelas-1.1172995",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.309789:1790342106/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-26T21:35:13.480567+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a5540764187dea8608b41217f654ec0d",
-      "titulo": "Corda do Círio 2026 será vistoriada neste sábado (26) e segue para exposição na Estação das Docas",
-      "descricao": "Corda do Círio 2026 será vistoriada neste sábado (26) e segue para exposição na Estação das Docas",
-      "link": "https://www.oliberal.com/belem/corda-do-cirio-2026-sera-vistoriada-neste-sabado-26-e-segue-para-exposicao-na-estacao-das-docas-1.1172743",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172760:1790277534/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-26T21:35:13.480381+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8bfab55d904fdc24909990b43576b89d",
-      "titulo": "Vice-prefeita morre aos 40 anos; caso envolvia “amarração amorosa” com verba pública",
-      "descricao": "Vice-prefeita morre aos 40 anos após acidente; ela era investigada por pagar “amarração amorosa” com verba pública A vice-prefeita de Ribeira (SP), Juliana Maria Teixeira da Costa, morreu aos 40 anos após um acidente. Ela era investigada por supostos desvios de recursos públicos e uso de verba para 'amarração amorosa'. O post Vice-prefeita morre aos 40 anos; caso envolvia “amarração amorosa” com verba pública apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/vice-prefeita-morre-aos-40-anos-caso-envolvia-amarracao-amorosa-com-verba-publica/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_1790442976-g1-1042-png.jpg",
-      "data": "2026-09-26T21:10:26+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8a1f78daabe47f65de8b7113ffc60ba5",
-      "titulo": "Jendal atira Malungo de penhasco e anuncia chegada a Barro Preto em A Nobreza do Amor",
-      "descricao": "Jendal chega ao Brasil, atira Malungo de um penhasco e anuncia sua ida a Barro Preto nos próximos capítulos de A Nobreza do Amor. Foto: Globo Entre 28 de setembro e 3 de outubro, Tonho e Alika assumem a paixão, enquanto a venda do engenho e a chegada de Jendal movimentam a trama. O post Jendal atira Malungo de penhasco e anuncia chegada a Barro Preto em A Nobreza do Amor apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/jendal-atira-malungo-de-penhasco-e-anuncia-chegada-a-barro-preto-em-a-nobreza-do-amor/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Jendal-em-A-Nobreza-do-Amor-1.jpg",
-      "data": "2026-09-26T21:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0a001e65e19dcb70f22f5f2d6287f5a9",
-      "titulo": "Coligação de Hana acusa TV Liberal de barrar inserções sobre Daniel Santos",
-      "descricao": "Vídeos sobre Daniel e Gordo do Aurá são barrados pela TV Liberal, diz coligação Coligação O Pará Tá Junto, que apoia Hana Ghassan, divulgou nota de repúdio contra a TV Liberal por não veicular inserções eleitorais. O caso foi levado à Justiça Eleitoral para análise. O post Coligação de Hana acusa TV Liberal de barrar inserções sobre Daniel Santos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/coligacao-de-hana-acusa-tv-liberal-de-barrar-insercoes-sobre-daniel-santos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_1-12.jpg",
-      "data": "2026-09-26T20:42:51+00:00",
       "categoria": "PARÁ"
     },
     {
