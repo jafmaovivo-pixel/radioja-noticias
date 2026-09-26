@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-26T00:40:47.723765+00:00",
+  "atualizado": "2026-09-26T01:02:12.662484+00:00",
   "noticias": [
+    {
+      "id": "875e77f2d2f510a9657383cbf15b4b44",
+      "titulo": "Michel Pinho realiza aula pública sobre a história do Círio neste domingo (27)",
+      "descricao": "Michel Pinho realiza aula pública sobre a história do Círio neste domingo (27)",
+      "link": "https://www.oliberal.com/cultura/michel-pinho-realiza-aula-publica-sobre-a-historia-do-cirio-neste-domingo-27-1.1172992",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172996:1790341478/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-26T01:02:10.994009+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2485bc45c808d5ccad66cb3c3437cc87",
+      "titulo": "Círio 2026: passagens aéreas chegam a R$ 4 mil e diárias a R$ 3,4 mil em hotéis cinco estrelas",
+      "descricao": "Círio 2026: passagens aéreas chegam a R$ 4 mil e diárias a R$ 3,4 mil em hotéis cinco estrelas",
+      "link": "https://www.oliberal.com/economia/cirio-2026-passagens-aereas-chegam-a-r-4-mil-e-diarias-a-r-3-4-mil-em-hoteis-cinco-estrelas-1.1172995",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.309789:1790342106/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-26T01:02:10.597379+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a5540764187dea8608b41217f654ec0d",
+      "titulo": "Corda do Círio 2026 será vistoriada neste sábado (26) e segue para exposição na Estação das Docas",
+      "descricao": "Corda do Círio 2026 será vistoriada neste sábado (26) e segue para exposição na Estação das Docas",
+      "link": "https://www.oliberal.com/belem/corda-do-cirio-2026-sera-vistoriada-neste-sabado-26-e-segue-para-exposicao-na-estacao-das-docas-1.1172743",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172760:1790277534/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-26T01:02:08.975742+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b2d10bec7bf2c23b20cfccc1db251851",
+      "titulo": "Lotofácil: aposta de R$ 3,50 leva prêmio de R$ 8 milhões e 11 do Pará ficam por uma bola",
+      "descricao": "Lotofácil. Foto: Reprodução Uma aposta simples de R$ 3,50, registrada em São Bernardo do Campo (SP), acertou os 15 números do concurso 3789 da Lotofácil e levou sozinha o prêmio de R$ 8 milhões. O post Lotofácil: aposta de R$ 3,50 leva prêmio de R$ 8 milhões e 11 do Pará ficam por uma bola apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/lotofacil-aposta-de-r-350-leva-premio-de-r-8-milhoes-e-11-do-para-ficam-por-uma-bola/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/convertida_1200x628_49aa582c-loteria-lotofacil.jpg",
+      "data": "2026-09-26T00:47:11+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e49e5eedee37b8eb2b6993a864503917",
+      "titulo": "Ainda posso apostar neste fim de semana? Veja o que muda com o fim das bets",
+      "descricao": "Governo proibiu novas apostas nesta sexta-feira (25), mas plataformas terão prazo para permitir o resgate de valores pelos usuários O governo federal anunciou novas regras que proíbem a exploração, oferta e publicidade de apostas e jogos online no Brasil. Entenda o que muda para os apostadores e os prazos para retirada de valores. O post Ainda posso apostar neste fim de semana? Veja o que muda com o fim das bets apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/ainda-posso-apostar-neste-fim-de-semana-veja-o-que-muda-com-o-fim-das-bets/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/convertida_1200x628_images_-_2026-07-11T103034_601.jpg",
+      "data": "2026-09-26T00:42:25+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "bd6724593fdab8eb8fd4799ecac234f7",
       "titulo": "Proibição das bets exigirá bloqueio de sites e transações via Pix",
@@ -12,46 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "20039cbf78f4dc3e6c57668a4a8996ed",
-      "titulo": "Bets ameaçam ir à Justiça para recuperar R$ 2,55 bilhões pagos em outorgas",
-      "descricao": "Bets ameaçam ir à Justiça para recuperar R$ 2,55 bilhões pagos em outorgas",
-      "link": "https://www.oliberal.com/economia/bets-ameacam-ir-a-justica-para-recuperar-r-2-55-bilhoes-pagos-em-outorgas-1.1173284",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1173285:1790374612/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-26T00:40:46.428542+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b59e1cc03e3486b0f8d2a1c14c972269",
-      "titulo": "Você tem dinheiro em BETs? Saiba até quando é preciso sacar o valor",
-      "descricao": "Você tem dinheiro em BETs? Saiba até quando é preciso sacar o valor",
-      "link": "https://www.oliberal.com/economia/voce-tem-dinheiro-em-bets-saiba-ate-quando-e-preciso-sacar-o-valor-1.1173282",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.941025:1743794440/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-26T00:40:46.428441+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "36c557dc431dbef74dbf1e178321cd73",
-      "titulo": "Recall: parafuso pode quebrar e comprometer direção de carros Volkswagen e Audi",
-      "descricao": "Volkswagen e Audi fazem recall de 2,8 milhões de carros por risco na direção Volkswagen e Audi anunciam recall global de quase 3 milhões de veículos devido a uma falha no sistema de direção. Modelos como Tiguan, Golf e Q3 estão envolvidos. O post Recall: parafuso pode quebrar e comprometer direção de carros Volkswagen e Audi apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/recall-parafuso-pode-quebrar-e-comprometer-direcao-de-carros-volkswagen-e-audi/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Volkswagen-Golf-Variant-14-min.jpg",
-      "data": "2026-09-26T00:33:09+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "eff8d0264c0eaf4377d77a1711caf877",
-      "titulo": "Resultado da Super Sete hoje: veja os números sorteados do concurso 904 desta sexta-feira (25)",
-      "descricao": "Super Sete. Foto: Reprodução A Caixa Econômica Federal realizou o sorteio do concurso 904 da Super Sete, com prêmio principal acumulado em R$ 9 milhões. Saiba como apostar e as probabilidades de ganhar. O post Resultado da Super Sete hoje: veja os números sorteados do concurso 904 desta sexta-feira (25) apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/resultado-da-super-sete-hoje-veja-os-numeros-sorteados-do-concurso-904-desta-sexta-feira-25/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/convertida_1200x628_5250706_6b758aa210d83ab.jpg",
-      "data": "2026-09-26T00:25:32+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "dc592f77b477c8989ffd5cc908ee69e2",
       "titulo": "Dr. Daniel propõe interligar inteligência policial e criar programa 'Na Ativa' para reforçar segurança no Pará",
       "descricao": "Candidato ao governo do Pará, Dr. Daniel se reúne com sindicatos em Ananindeua O candidato do Podemos ao Governo do Pará, Dr. Daniel , disse nesta sexta-feira (25) que pretende interligar o serviço de inteligência da polícia para combater e identificar as rotas e fronteiras de entrada de drogas no estado. \"Na prática hoje a gente tem que interligar o serviço de inteligência da polícia com o serviço de combate, né? Fortalecer o serviço de inteligência para que a gente possa identificar as rotas no estado e as fronteiras por onde entram drogas. Para que aí sim a gente possa fazer a repressão\", afirmou. Daniel participou de uma reunião com representantes de sindicatos de agentes de segurança pública do estado para ouvir as demandas da categoria. O encontro foi em um centro comunitário no bairro Atalaia, em Ananindeua, onde ele conversou com os trabalhadores e representantes da Federação dos Sindicatos e Agentes de Segurança, além de assinar uma petição da categoria. ✅ Clique e siga o canal do g1 Pará no WhatsApp Durante o encontro, o candidato apresentou propostas para o setor, incluindo a promessa de criar delegacias 24 horas em todo o estado e o programa \"Na Ativa\", voltado para otimizar o efetivo policial. \"Nós vamos pegar o as forças de segurança que estejam na reserva e chamar eles para exercer as atividades burocrática. E os da ativa que estão nas atividades burocráticas, levar eles de volta para a ponta para combater o crime. Com isso vamos colocar na rua mais de 1.500 policiais\", anunciou. Dr. Daniel propõe interligar inteligência policial e criar programa 'Na Ativa' para reforçar segurança no Pará. Reprodução/TV Liberal O candidato também defendeu a expansão do uso de tecnologia na segurança pública por meio de um sistema de videomonitoramento inteligente para todo o Pará, relembrando sua experiência como gestor municipal. \"Quando fui prefeito de Ananindeua, eu fiz isso, criei o sistema de monitoramento que interligava as forças de segurança, a nossa guarda com o Semutran. E no estado dá para fazer o mesmo, a gente cria um sistema de videomonitoramento eficiente onde a gente possa, através da tecnologia, está identificando e levando mais segurança para pessoas e também coibindo o crime\", disse. Além das medidas estruturais, Dr. Daniel criticou o atual cenário da segurança no Pará e destacou que a valorização dos profissionais das polícias Civil e Militar será uma prioridade absoluta logo no início de sua gestão. \"Nosso objetivo é levar segurança na ponta para cada cidadão, integrando as polícias, investindo em inteligência. Investimento em inteligência você entra com a repressão, valorização profissional. [...] Valorizar os nossos profissionais é prioridade absoluta\", afirmou. Leia mais notícias do estado no g1 Pará",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/tz5KtEws76SZIVWP35COSVrKyKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/h/nr6uoFTBKnBxWWpg9iwg/image-2026-09-25t210633.582.png",
       "data": "2026-09-26T00:04:48+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ae88375d5be41ee00f28f1f51748c0de",
-      "titulo": "Festival Palco Cultura em Belém celebra música, dança e empreendedorismo",
-      "descricao": "O cantor Marcelo Wall é um dos artistas que cantam nesta sexta no Porto Futuro 2. FOTO: DIVULGAÇÃO O Festival Palco Cultura acontece em Belém nos dias 25, 26 e 27 de setembro, reunindo música, dança, teatro, manifestações culturais indígenas e uma feira de empreendedorismo autoral no Complexo Porto Futuro. O post Festival Palco Cultura em Belém celebra música, dança e empreendedorismo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/voce/festival-palco-cultura-em-belem-celebra-musica-danca-e-empreendedorismo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_Marcelo_Wall_2_1.jpg",
-      "data": "2026-09-25T23:52:47+00:00",
       "categoria": "PARÁ"
     },
     {
