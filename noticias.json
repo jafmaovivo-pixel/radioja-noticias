@@ -1,14 +1,14 @@
 {
-  "atualizado": "2026-09-26T19:02:30.779674+00:00",
+  "atualizado": "2026-09-26T19:33:18.563332+00:00",
   "noticias": [
     {
-      "id": "6051922b51a66a1ddf70b47783e54fcd",
-      "titulo": "PC prende suspeito de assalto a mulher dentro de supermercado",
-      "descricao": "PC prende suspeito de assalto a mulher dentro de supermercado",
-      "link": "https://www.oliberal.com/policia/pc-prende-homem-suspeito-de-envolvimento-em-assalto-a-mulher-dentro-de-supermercado-em-belem-1.1173382",
+      "id": "4b3f48fb4d2896e423918368b6b557b2",
+      "titulo": "Grupo Liberal lança LibMed, plataforma de telemedicina",
+      "descricao": "Grupo Liberal lança LibMed, plataforma de telemedicina",
+      "link": "https://www.oliberal.com/belem/grupo-liberal-lanca-libmed-plataforma-de-telemedicina-com-atendimento-24-horas-1.1173194",
       "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1173383:1790422588/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-26T19:02:28.360124+00:00",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1173204:1790363432/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-26T19:33:17.113591+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,7 +18,7 @@
       "link": "https://www.oliberal.com/economia/cirio-2026-passagens-aereas-chegam-a-r-4-mil-e-diarias-a-r-3-4-mil-em-hoteis-cinco-estrelas-1.1172995",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.309789:1790342106/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-26T19:02:28.359989+00:00",
+      "data": "2026-09-26T19:33:16.718811+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +28,17 @@
       "link": "https://www.oliberal.com/belem/corda-do-cirio-2026-sera-vistoriada-neste-sabado-26-e-segue-para-exposicao-na-estacao-das-docas-1.1172743",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/contentid/policy:1.1172760:1790277534/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-      "data": "2026-09-26T19:02:28.359851+00:00",
+      "data": "2026-09-26T19:33:16.718668+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6051922b51a66a1ddf70b47783e54fcd",
+      "titulo": "PC prende suspeito de assalto a mulher dentro de supermercado",
+      "descricao": "PC prende suspeito de assalto a mulher dentro de supermercado",
+      "link": "https://www.oliberal.com/policia/pc-prende-homem-suspeito-de-envolvimento-em-assalto-a-mulher-dentro-de-supermercado-em-belem-1.1173382",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/contentid/policy:1.1173383:1790422588/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+      "data": "2026-09-26T19:02:28.360124+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,16 +59,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/CNHpes2.jpg",
       "data": "2026-09-26T19:00:17+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "62d02b32c936f3647561f65f401207ea",
-      "titulo": "Operação Impulsus: Drones reforçam segurança em Belém e serão usados no Círio e Eleições",
-      "descricao": "Operação Impulsus mobilizou mais de 200 agentes e utilizou simultaneamente 15 drones para monitorar áreas de Belém neste sábado (26). A Operação Impulsus mobilizou mais de 200 agentes e 15 novos drones em Belém para reforçar a segurança nos distritos de Icoaraci e Outeiro e nos bairros da Pratinha e Tenoné. Os equipamentos também serão usados no Círio de Nazaré e nas Eleições 2026. O post Operação Impulsus: Drones reforçam segurança em Belém e serão usados no Círio e Eleições apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/operacao-impulsus-drones-reforcam-seguranca-em-belem-e-serao-usados-no-cirio-e-eleicoes/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/20260926114419-GF00027857-F00548069-%C2%A9-2026-Rodrigo-Pinheiro-_-Ag.-Para.jpg",
-      "data": "2026-09-26T18:35:11+00:00",
       "categoria": "PARÁ"
     },
     {
