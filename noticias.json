@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-27T21:43:41.101029+00:00",
+  "atualizado": "2026-09-28T00:06:55.404166+00:00",
   "noticias": [
+    {
+      "id": "9fe041877e7fc3f0d6f9c6e6454e38e0",
+      "titulo": "Parada do Orgulho LGBTI+ reúne multidão em Belém",
+      "descricao": "Parada do Orgulho LGBTI+ reúne multidão em Belém",
+      "link": "https://www.oliberal.com/belem/parada-do-orgulho-lgbti-reune-multid-o-e-celebra-diversidade-em-belem-1.1174102",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com//image/policy:1.1174103:1790546601/image.jpg?f=3x2",
+      "data": "2026-09-28T00:06:50.679580+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "455bb680aeec542650c12f7e23c18d97",
+      "titulo": "China e EUA reduzem tarifas e criam diálogo sobre inteligência artificial",
+      "descricao": "China e EUA reduzem tarifas e criam diálogo sobre inteligência artificial",
+      "link": "https://www.oliberal.com/mundo/china-e-eua-reduzem-tarifas-e-criam-dialogo-sobre-inteligencia-artificial-1.1174121",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com//image/policy:1.1037433:1776124834/image.jpg?f=3x2",
+      "data": "2026-09-28T00:06:50.371668+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "41c4be227712b5a3ba025c9bd9068e78",
+      "titulo": "Brusque e Ferroviária empatam e Paysandu precisa de vitórias e combinação; veja!",
+      "descricao": "Brusque e Ferroviária empatam e Paysandu precisa de vitórias e combinação; veja!",
+      "link": "https://www.oliberal.com/esportes/paysandu/brusque-e-ferroviaria-empatam-e-paysandu-precisa-de-vitorias-e-combinac-o-veja-1.1174123",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com//image/policy:1.1171127:1789946057/image.jpg?f=3x2",
+      "data": "2026-09-28T00:06:50.069163+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4bdd6b436874cbfe4d88baa7d41d45d1",
+      "titulo": "Paysandu ganha sobrevida na Série C após empate entre Brusque e Ferroviária",
+      "descricao": "O Brusque deixou a vitória escapar no fim O empate entre Brusque e Ferroviária manteve o Paysandu vivo na briga pelo acesso à Série B, mas a situação do Papão é complicada e exige combinação de resultados. O post Paysandu ganha sobrevida na Série C após empate entre Brusque e Ferroviária apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/paysandu-ganha-sobrevida-na-serie-c-apos-empate-entre-brusque-e-ferroviaria/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/808298744_18408258826094296_5193942925660111572_n.jpg",
+      "data": "2026-09-27T23:31:27+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e1adc3f0c4c70ca7483f001b72c842ee",
+      "titulo": "Lionel Messi joga? Columbus Crew x Inter Miami: veja onde assistir duelo pela MLS",
+      "descricao": "Messi e o Inter Miami jogam contra o San Diego FC pela MLS neste domingo. Foto: divulgação/reprodução Lionel Messi entra em campo neste domingo (27) pelo Inter Miami para enfrentar o Columbus Crew pela temporada regular da MLS. O craque argentino será titular e busca manter sua boa sequência de gols. O post Lionel Messi joga? Columbus Crew x Inter Miami: veja onde assistir duelo pela MLS apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/lionel-messi-joga-columbus-crew-x-inter-miami-veja-onde-assistir-duelo-pela-mls/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_images_22-2.jpg",
+      "data": "2026-09-27T21:55:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "ffce4a0aaa7a9b54e93d080230ec384f",
       "titulo": "Projeto de aulas públicas resgata história de Belém; conheça!",
@@ -12,36 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "5ac00f90dee09d985e683014ee3701e3",
-      "titulo": "Homem é morto a tiros enquanto pilotava motocicleta em Redenção",
-      "descricao": "Homem é morto a tiros enquanto pilotava motocicleta em Redenção",
-      "link": "https://www.oliberal.com/policia/homem-e-morto-a-tiros-enquanto-pilotava-motocicleta-em-redenc-o-1.1174098",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com//image/policy:1.1174099:1790544084/image.jpg?f=3x2",
-      "data": "2026-09-27T21:43:38.073720+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c48a13a4a755c598c0e3f930096de54e",
-      "titulo": "Pedro vai ser assassinado em Quem Ama Cuida? Veja o que acontecerá!",
-      "descricao": "Pedro vai ser assassinado em Quem Ama Cuida? Veja o que acontecerá!",
-      "link": "https://www.oliberal.com/cultura/pedro-vai-ser-assassinado-em-quem-ama-cuida-veja-o-que-acontecera-1.1174100",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com//image/policy:1.1174101:1790544736/image.jpg?f=3x2",
-      "data": "2026-09-27T21:43:37.862942+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f74195ca4aa362e5144f0fb8a244bae2",
-      "titulo": "Brusque x Ferroviária ao vivo e com imagens",
-      "descricao": "Hadson Nery fez um duro desabafo após a derrota do Paysandu para o Brusque e chamou jogadores do elenco bicolor de “frouxos” e “covardes”. Fotos: Reprodução. Brusque e Ferroviária se enfrentam neste domingo pela Série C. O jogo é decisivo para as equipes e pode definir o futuro do Paysandu na competição. A partida acontece na Arena Simon, às 18h30. O post Brusque x Ferroviária ao vivo e com imagens apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/brusque-x-ferroviaria-ao-vivo-e-com-imagens/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/PayxBrusque7.jpg",
-      "data": "2026-09-27T21:38:51+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "2c594fb3bb510a0403afee15a9bd1f01",
       "titulo": "Sespa abre PSS com 150 vagas para contratação temporária no Hospital Regional de Cametá",
       "descricao": "Sede da Sespa, em Belém. Reprodução / Agência Pará A Secretaria de Estado de Saúde Pública do Pará (Sespa) abriu um Processo Seletivo Simplificado (PSS) com 150 vagas para contratação temporária de profissionais que vão atuar no Hospital Regional de Cametá, no nordeste do Pará. As inscrições serão realizadas nos dias 29 e 30 de setembro, exclusivamente pela internet, no site do Sistema Integrado de Processo Seletivo Simplificado (Sipros). O extrato do edital foi publicado na sexta-feira (25) no Diário Oficial do Estado (DOE). As oportunidades são destinadas a cargos e funções dos níveis fundamental, médio, técnico e superior. Das 150 vagas, 102 estão previstas no Edital nº 4.1/2026, destinadas à ampla concorrência e a pessoas com deficiência (PcD). Outras 48 constam no Edital nº 4.2/2026 e são reservadas a pessoas pretas, pardas, indígenas e quilombolas (PPIQ). Segundo a Sespa, as vagas foram autorizadas excepcionalmente por causa da ampliação de um serviço hospitalar considerado essencial e de funcionamento inadiável. As contratações serão feitas de acordo com a Lei Complementar nº 07/1991 e alterações posteriores. Vagas para diferentes áreas Segundo informações divulgadas pelo prefeito de Cametá, Victor Cassiano, as contratações estão relacionadas à ampliação da estrutura do Hospital Regional e à implantação de novas Unidades de Terapia Intensiva (UTIs). Entre as funções previstas estão médicos, enfermeiros, técnicos de enfermagem, fisioterapeutas, farmacêuticos, biomédicos, nutricionistas, psicólogos, assistentes sociais, terapeutas ocupacionais, técnicos em radiologia, técnicos de patologia clínica, agentes administrativos, agentes de artes práticas e físico. Ainda segundo o prefeito, o processo seletivo terá análise documental e curricular, além de entrevistas. O cronograma divulgado por Cassiano prevê resultado final em 19 de outubro. A entrega da documentação e a assinatura dos contratos estão previstas para os dias 20 e 21 de outubro, e o início das atividades para 22 de outubro. Inscrições As inscrições serão feitas exclusivamente pela internet, das 0h de 29 de setembro até as 23h59 de 30 de setembro, por meio do site do Sipros. O edital completo deve reunir informações sobre cargos, requisitos, remuneração, distribuição das vagas e demais regras da seleção. ✅ Clique e siga o canal do g1 Pará no WhatsApp Veja mais notícias do g1 Pará Leia todas as notícias do estado no g1 Pará",
@@ -49,26 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/nbznp85FGdsrY6m-XaX3Q9ct6rs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/g/Xlev99Rfud7nc0EoTQhQ/sespa.jpg",
       "data": "2026-09-27T21:20:54+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2ffc14b32f5f2961ad93edbd851964d6",
-      "titulo": "Pode pedir voto no dia da eleição? Veja o que é proibido e permitido",
-      "descricao": "Boca de urna: veja o que é proibido no dia da eleição No dia das Eleições 2026, é proibido pedir votos ou distribuir propaganda, caracterizando crime de boca de urna. Eleitores podem denunciar irregularidades pelo aplicativo Pardal da Justiça Eleitoral. O post Pode pedir voto no dia da eleição? Veja o que é proibido e permitido apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/pode-pedir-voto-no-dia-da-eleicao-veja-o-que-e-proibido-e-permitido/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/55349370695_9846034525_k.jpg",
-      "data": "2026-09-27T21:16:30+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ac952c8d0c31904925b652d60b9ccfd1",
-      "titulo": "Missa no Grupo Liberal destaca que a fé cristã deve ser demonstrada por atitudes",
-      "descricao": "Missa no Grupo Liberal destaca que a fé cristã deve ser demonstrada por atitudes",
-      "link": "https://www.oliberal.com/belem/missa-no-grupo-liberal-destaca-que-a-fe-crist-deve-ser-demonstrada-por-atitudes-1.1173910",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com//image/policy:1.1174014:1790524807/image.jpg?f=3x2",
-      "data": "2026-09-27T18:45:25.271776+00:00",
       "categoria": "PARÁ"
     },
     {
