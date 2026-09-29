@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-09-29T05:55:12.670804+00:00",
+  "atualizado": "2026-09-29T11:45:30.653430+00:00",
   "noticias": [
+    {
+      "id": "b3ae4531510d59ec6cba3ef9c7734a8c",
+      "titulo": "Dia Mundial do Coração alerta para sinais silenciosos e importância da prevenção",
+      "descricao": "Dia Mundial do Coração alerta para sinais silenciosos e importância da prevenção",
+      "link": "https://www.oliberal.com/saude/dia-mundial-do-corac-o-alerta-para-sinais-silenciosos-e-importancia-da-prevenc-o-1.1174376",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1174379:1790632406/image.jpg?f=3x2",
+      "data": "2026-09-29T11:45:29.343436+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1fb85f6a5bd486460c74af3415ca12dd",
+      "titulo": "Mostra ‘Depois que tudo foi dito’ celebra em Belém a perenidade da arte",
+      "descricao": "Mostra ‘Depois que tudo foi dito’ celebra em Belém a perenidade da arte",
+      "link": "https://www.oliberal.com/cultura/mostra-depois-que-tudo-foi-dito-celebra-em-belem-a-perenidade-da-arte-1.1174416",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1174420:1790636032/image.jpg?f=3x2",
+      "data": "2026-09-29T11:45:29.015345+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c5c1e4d596d76904de2af4f454c9da70",
+      "titulo": "Fifa alega assédio da Uefa contra Gianni Infantino em petição a tribunal da Flórida",
+      "descricao": "Fifa alega assédio da Uefa contra Gianni Infantino em petição a tribunal da Flórida",
+      "link": "https://www.oliberal.com/esportes/fifa-alega-assedio-da-uefa-contra-gianni-infantino-em-petic-o-a-tribunal-da-florida-1.1174526",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/image.jpg?f=3x2",
+      "data": "2026-09-29T11:45:28.663800+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c0e33ef87b366f8ff24c2d6bd045038b",
+      "titulo": "Carla ou Jéssica? Vote agora em quem deve ganhar o MasterChef e como será a final",
+      "descricao": "Carla Araújo e Jéssica Cechella disputam o título da 13ª edição do MasterChef Brasil após conquistarem as duas vagas na semifinal. Foto: Renato Pizzutto/Band Carla Araújo e Jéssica Cechella prepararão entrada, prato principal e sobremesa nesta terça-feira (29); vencedora receberá R$ 300 mil e outros prêmios. O post Carla ou Jéssica? Vote agora em quem deve ganhar o MasterChef e como será a final apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/carla-ou-jessica-vote-agora-em-quem-deve-ganhar-o-masterchef-e-como-sera-a-final/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/Carla-e-Jessica-MasterChef-2026.jpg",
+      "data": "2026-09-29T11:38:38+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0286034661807084e9d96bbe9ff8f14e",
+      "titulo": "Fãs de K-drama ganham viagem para a Coreia do Sul; veja quem venceu",
+      "descricao": "Dramalândia, Netflix. Foto: Reprodução Três brasileiros foram escolhidos para viver uma experiência inspirada nos doramas em Seul; Pará está entre os estados que mais assistem. O post Fãs de K-drama ganham viagem para a Coreia do Sul; veja quem venceu apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/fas-de-k-drama-ganham-viagem-para-a-coreia-do-sul-veja-quem-venceu/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_AAAAQSnPkkOlNs185O9hbYvstzu_CmcGC4QpdL9avgvLytFLJKoqsfZ8w53YFw20MqSXQcrfh3uKd2o26XhlBH3vZrs4x6O42pg7v8IdQ1qGxKtGcHTTcrKl.jpg",
+      "data": "2026-09-29T11:34:52+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "671fdd89a6d222c056b8dcecc9a10794",
       "titulo": "Cantora tailandesa Lula reage após confusão com nome: 'Não sou presidente'",
@@ -9,26 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.1174473:1790646151/image.jpg?f=3x2",
       "data": "2026-09-29T05:55:09.915034+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "837017ab93cfc1484dfa5fec6e32cde5",
-      "titulo": "Flávio Bolsonaro nega projeto para tirar título de Nossa Senhora Aparecida",
-      "descricao": "Flávio Bolsonaro nega projeto para tirar título de Nossa Senhora Aparecida",
-      "link": "https://www.oliberal.com/politica/flavio-bolsonaro-nega-projeto-para-tirar-titulo-de-nossa-senhora-aparecida-1.1174469",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1174475:1790646715/image.jpg?f=3x2",
-      "data": "2026-09-29T05:55:09.466637+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "36cca676fc0561b7438a7c4699e13595",
-      "titulo": "'Se me deu, já bebi', diz Lula sobre uísque que teria ganhado de Vorcaro",
-      "descricao": "'Se me deu, já bebi', diz Lula sobre uísque que teria ganhado de Vorcaro",
-      "link": "https://www.oliberal.com/politica/se-me-deu-ja-bebi-diz-lula-sobre-uisque-que-teria-ganhado-de-vorcaro-1.1174479",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1174480:1790647839/image.jpg?f=3x2",
-      "data": "2026-09-29T05:55:09.031551+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -49,36 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/_DacTFIX_SaNuFDSjzPjSQ00zPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/G/1d1NS7SzWcLsPWfwW7Dw/fotojet-2025-12-16t075257.680.jpg",
       "data": "2026-09-29T03:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f8fea22ec1dc40aa431a5c9419a9be5f",
-      "titulo": "Morre Paulo César Pereira Marques, pai de Bruno Gagliasso",
-      "descricao": "Paulo César Pereira Marques, pai do ator Bruno Gagliasso, morreu aos 79 anos. Foto: Reprodução Paulo César Pereira Marques, pai do ator Bruno Gagliasso, estava internado havia cerca de 20 dias no Rio de Janeiro e morreu aos 79 anos. O post Morre Paulo César Pereira Marques, pai de Bruno Gagliasso apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/tdb/morre-paulo-cesar-pereira-marques-pai-de-bruno-gagliasso/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_morre-pai-bruno-gagliasso-2-1.jpg",
-      "data": "2026-09-29T01:34:28+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "28007281ecea520c32f72ee8dad4d967",
-      "titulo": "Lula diz que Hana “tem prova de sobra” de competência para governar o Pará",
-      "descricao": "Foto: Ricardo Stuckert. O presidente Luiz Inácio Lula da Silva (PT) participou de ato político em Belém, Pará, que reuniu milhares de pessoas na Praça da República. Lula fez elogios à governadora Hana Ghassan e abordou temas nacionais. O post Lula diz que Hana “tem prova de sobra” de competência para governar o Pará apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/lula-diz-que-hana-tem-prova-de-sobra-de-competencia-para-governar-o-para/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/55558193605_aed3c731c2_k.jpg",
-      "data": "2026-09-29T01:27:31+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ea3ee45b970b1c902d330d0e98e22e8d",
-      "titulo": "Wagner Moura e Kristen Stewart trabalharão juntos mais uma vez em filme de Olivier Assayas",
-      "descricao": "Wagner Moura e Kristen Stewart trabalharão juntos mais uma vez em filme de Olivier Assayas",
-      "link": "https://www.oliberal.com/cultura/wagner-moura-e-kristen-stewart-trabalhar-o-juntos-mais-uma-vez-em-filme-de-olivier-assayas-1.1174440",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928524:1765313474/image.jpg?f=3x2",
-      "data": "2026-09-29T00:02:26.863036+00:00",
       "categoria": "PARÁ"
     }
   ]
