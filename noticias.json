@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-10-01T01:23:05.621943+00:00",
+  "atualizado": "2026-10-01T07:20:41.072489+00:00",
   "noticias": [
+    {
+      "id": "7864b774bbdac8c62e4f1f2cae0653f7",
+      "titulo": "Fim das bets: Vitória tenta reverter indicativo de rescisão de patrocinadora após MP",
+      "descricao": "Fim das bets: Vitória tenta reverter indicativo de rescisão de patrocinadora após MP",
+      "link": "https://www.oliberal.com/esportes/fim-das-bets-vitoria-tenta-reverter-indicativo-de-rescis-o-de-patrocinadora-apos-mp-1.1175385",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1175400:1790823194/Captura de Tela 2026-09-30 às 23.52.55.png?f=187:100",
+      "data": "2026-10-01T07:20:38.589743+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bcee73ac254264d9ff31a450ba33b9e3",
+      "titulo": "Segup mobiliza mais de 14 mil agentes para operação Eleições 2026, no Pará",
+      "descricao": "Segup mobiliza mais de 14 mil agentes para operação Eleições 2026, no Pará",
+      "link": "https://www.oliberal.com/para/segup-mobiliza-mais-de-14-mil-agentes-para-operac-o-eleic-es-2026-no-para-1.1175396",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1175397:1790819812/Segup mobiliza mais de 14 mil agentes para operação Eleições 2026, no Pará.jpg?f=187:100",
+      "data": "2026-10-01T07:20:38.266444+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "00447f315f36f7d1d622cd2a3a77d7f0",
+      "titulo": "Sem Lionel Messi, Argentina goleia Bolívia com 1º gol de Flaco Lopez pela seleção",
+      "descricao": "Sem Lionel Messi, Argentina goleia Bolívia com 1º gol de Flaco Lopez pela seleção",
+      "link": "https://www.oliberal.com/esportes/sem-lionel-messi-argentina-goleia-bolivia-com-1-gol-de-flaco-lopez-pela-selec-o-1.1175398",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1175399:1790823052/argentina.jpeg?f=187:100",
+      "data": "2026-10-01T07:20:37.935111+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "694b9539e36b98dedd8efffc1820a5f7",
       "titulo": "Campanha de Lula pede a evangélicos orações pelo presidente até fim da apuração no 1º turno",
@@ -9,26 +39,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/image.jpg?f=187:100",
       "data": "2026-10-01T01:23:03.200644+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "88d56b37aae090c703785939a3ad719a",
-      "titulo": "Paul McCartney diz que teve colapso nervoso após o fim dos Beatles",
-      "descricao": "Paul McCartney diz que teve colapso nervoso após o fim dos Beatles",
-      "link": "https://www.oliberal.com/cultura/paul-mccartney-diz-que-teve-colapso-nervoso-apos-o-fim-dos-beatles-1.1175383",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928524:1765313474/image.jpg?f=187:100",
-      "data": "2026-10-01T01:23:02.992704+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ee82364a6c8219fab246cb6fa3841a16",
-      "titulo": "Leonardo Avalanche renuncia à candidatura ao Planalto e diz que não apoiará ninguém",
-      "descricao": "Leonardo Avalanche renuncia à candidatura ao Planalto e diz que não apoiará ninguém",
-      "link": "https://www.oliberal.com/politica/leonardo-avalanche-renuncia-a-candidatura-ao-planalto-e-diz-que-n-o-apoiara-ninguem-1.1175384",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/image.jpg?f=187:100",
-      "data": "2026-10-01T01:23:02.818881+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/9Hd_jzPuV6NYU7ShNCNW2ffvF9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/N/7iZvqrREiVhAUMYzdLjg/mabe1.jpg",
       "data": "2026-09-30T22:58:46+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f389076a39fbfe8fb7993e4dc725daf4",
-      "titulo": "Justiça manda Discord aumentar proteção de crianças e adolescentes",
-      "descricao": "Justiça manda Discord aumentar proteção de crianças e adolescentes",
-      "link": "https://www.oliberal.com/politica/justica-manda-discord-aumentar-protec-o-de-criancas-e-adolescentes-1.1175311",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1158688:1787104168/image.jpg?f=187:100",
-      "data": "2026-09-30T22:26:05.922723+00:00",
       "categoria": "PARÁ"
     }
   ]
