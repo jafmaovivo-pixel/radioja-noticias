@@ -1,6 +1,16 @@
 {
-  "atualizado": "2026-10-03T02:46:13.859134+00:00",
+  "atualizado": "2026-10-03T08:41:27.354619+00:00",
   "noticias": [
+    {
+      "id": "3b1b8656ce5efe5fb68336a8f8b508f2",
+      "titulo": "Lula sai favorecido nas redes sociais após cancelamento de debate, mostra AP Exata",
+      "descricao": "Lula sai favorecido nas redes sociais após cancelamento de debate, mostra AP Exata",
+      "link": "https://www.oliberal.com/politica/lula-sai-favorecido-nas-redes-sociais-apos-cancelamento-de-debate-mostra-ap-exata-1.1176339",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-03T08:41:25.703536+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "5d3282bc23ff9950138c0da3d0b32590",
       "titulo": "Jovem de 18 anos é assassinado a tiros em Parauapebas",
@@ -8,7 +18,7 @@
       "link": "https://www.oliberal.com/policia/jovem-de-18-anos-e-assassinado-a-tiros-em-parauapebas-1.1176334",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.1176335:1790991908/Jovem morto a tiros em parauapebas.JPG?f=187:100",
-      "data": "2026-10-03T02:46:11.498637+00:00",
+      "data": "2026-10-03T08:41:25.703405+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -18,17 +28,7 @@
       "link": "https://www.oliberal.com/esportes/guarani-aprova-mudanca-para-saf-na-esperanca-de-voltar-aos-dias-de-gloria-1.1176336",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS (1).png?f=187:100",
-      "data": "2026-10-03T02:46:09.238673+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3b1b8656ce5efe5fb68336a8f8b508f2",
-      "titulo": "Lula sai favorecido nas redes sociais após cancelamento de debate, mostra AP Exata",
-      "descricao": "Lula sai favorecido nas redes sociais após cancelamento de debate, mostra AP Exata",
-      "link": "https://www.oliberal.com/politica/lula-sai-favorecido-nas-redes-sociais-apos-cancelamento-de-debate-mostra-ap-exata-1.1176339",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-03T02:46:08.968912+00:00",
+      "data": "2026-10-03T08:41:25.703279+00:00",
       "categoria": "PARÁ"
     },
     {
