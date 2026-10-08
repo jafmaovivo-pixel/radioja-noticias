@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-08T01:25:45.979702+00:00",
+  "atualizado": "2026-10-08T07:39:44.259699+00:00",
   "noticias": [
+    {
+      "id": "b14de9f2de63c390a08596d6d57b92f2",
+      "titulo": "CRB supera o Atlético-GO em confronto direto e cola no G-6 da Série B",
+      "descricao": "CRB supera o Atlético-GO em confronto direto e cola no G-6 da Série B",
+      "link": "https://www.oliberal.com/esportes/crb-supera-o-atletico-go-em-confronto-direto-e-cola-no-g-6-da-serie-b-1.1178620",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1178623:1791426110/Captura de Tela 2026-10-07 às 23.21.36.png?f=187:100",
+      "data": "2026-10-08T07:39:42.001224+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a0063711dd4103ddd0e2622cb2084ecb",
+      "titulo": "Carpini vê evolução do Remo, mas lamenta empate e pênalti não marcado",
+      "descricao": "Carpini vê evolução do Remo, mas lamenta empate e pênalti não marcado",
+      "link": "https://www.oliberal.com/esportes/remo/carpini-ve-evolucao-do-remo-mas-lamenta-empate-e-penalti-nao-marcado-1.1178616",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1178617:1791424166/WhatsApp Image 2026-10-07 at 19.41.33.jpeg?f=187:100",
+      "data": "2026-10-08T07:39:41.611796+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "86c7c38f7aa7f157a97fc468d61efbdc",
+      "titulo": "São Paulo repete erros, perde para Cruzeiro e não mostra perspectiva de melhora no Brasileirão",
+      "descricao": "São Paulo repete erros, perde para Cruzeiro e não mostra perspectiva de melhora no Brasileirão",
+      "link": "https://www.oliberal.com/esportes/sao-paulo-repete-erros-perde-para-cruzeiro-e-nao-mostra-perspectiva-de-melhora-no-brasileirao-1.1178625",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1178627:1791427718/Captura de Tela 2026-10-07 às 23.48.27.png?f=187:100",
+      "data": "2026-10-08T07:39:41.151147+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "514464eaa00c6fbb3bc9a110f464f9a4",
+      "titulo": "Fotos: Traslado dos Carros reúne multidão e homenagens pelo caminho em Belém",
+      "descricao": "Círio 2026: Traslado dos Carros reúne 30 mil pessoas nas ruas de Belém. Foto: Pedro Valdez A primeira das 14 romarias oficiais do Círio 2026, o Traslado dos Carros, reuniu cerca de 30 mil pessoas em um percurso de 5,5 km, marcando o início da festividade religiosa. O post Fotos: Traslado dos Carros reúne multidão e homenagens pelo caminho em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cirio-de-nazare/fotos-traslado-dos-carros-reune-multidao-e-homenagens-pelo-caminho-em-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/WhatsApp-Video-2026-10-07-at-22.34.11.mp4",
+      "data": "2026-10-08T02:59:47+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "23310f6373db6ae82ac62af8b0f38e39",
+      "titulo": "Modelo Dandara Couto é encontrada após mobilização nas redes sociais",
+      "descricao": "Modelo Dandara Couto é encontrada após desaparecimento em SP A modelo Dandara Couto, de 27 anos, que estava desaparecida desde segunda-feira, foi encontrada na noite desta terça-feira em São Paulo. O post Modelo Dandara Couto é encontrada após mobilização nas redes sociais apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/brasil/modelo-dandara-couto-e-encontrada-apos-mobilizacao-nas-redes-sociais/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_SaveClip_App_814339181_18343897747250889_8955298601492696798_n.jpg",
+      "data": "2026-10-08T02:46:49+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "39d76e4dca08a99f967c27fe92dc2ece",
       "titulo": "Gustavo Henrique vê placar injusto e pede Corinthians atento no clássico: 'Camisa muito pesada'",
@@ -12,46 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "4c7ab439e9eb6c500844b3b092d236fd",
-      "titulo": "'Em breve falarei', diz Augusto Cury sobre apoio no segundo turno",
-      "descricao": "'Em breve falarei', diz Augusto Cury sobre apoio no segundo turno",
-      "link": "https://www.oliberal.com/politica/em-breve-falarei-diz-augusto-cury-sobre-apoio-no-segundo-turno-1.1178608",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-08T01:25:43.035353+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "10c34c5269666f5749396818ad7431a8",
-      "titulo": "Erick e Matheuzinho marcam duas vezes cada, Vitória goleia a Chapecoense e 'respira'",
-      "descricao": "Erick e Matheuzinho marcam duas vezes cada, Vitória goleia a Chapecoense e 'respira'",
-      "link": "https://www.oliberal.com/esportes/erick-e-matheuzinho-marcam-duas-vezes-cada-vitoria-goleia-a-chapecoense-e-respira-1.1178610",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS (1).png?f=187:100",
-      "data": "2026-10-08T01:25:42.817256+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "68d4348e5e419d59736b62de2af77e46",
-      "titulo": "Foto da NASA em Marte alimenta teoria sobre suposta civilização perdida no planeta Vermelho",
-      "descricao": "Imagem feita pela Perseverance, da NASA. Foto: Reprodução/ NASA Pesquisador apontou formações rochosas que parecem portas e até um possível “portal”, mas as imagens não comprovam estruturas artificiais. O post Foto da NASA em Marte alimenta teoria sobre suposta civilização perdida no planeta Vermelho apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/foto-da-nasa-em-marte-alimenta-teoria-sobre-suposta-civilizacao-perdida-no-planeta-vermelho/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_111714673-16191063-An_image_from_NASA_s_Perseverance_rover_has_led_some_viewers_to_-a-11_1791403103516-1.jpg",
-      "data": "2026-10-08T01:14:39+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4d559f465237d61ee8ce01f404418260",
-      "titulo": "O caminho do Remo: veja os 9 jogos que podem salvar o Leão do rebaixamento",
-      "descricao": "Remo evita derrota nos minutos finais e arranca empate contra o Grêmio. Foto: Oswaldo Forte O Remo segue na luta contra o rebaixamento na Série A, oito pontos atrás do primeiro time fora do Z-4. O Leão Azul enfrenta uma sequência de 11 jogos sem vencer e terá um calendário pesado pela frente. O post O caminho do Remo: veja os 9 jogos que podem salvar o Leão do rebaixamento apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/o-caminho-do-remo-veja-os-9-jogos-que-podem-salvar-o-leao-do-rebaixamento/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/IMG_7155.JPG.jpg",
-      "data": "2026-10-08T01:12:17+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "306cb697ef4839b52933f352c4e7e9b6",
       "titulo": "Nazinha, Nazica: Mestres ribeirinhos criam coleção de moda inspirada no Círio",
       "descricao": "Mestres ribeirinhos criam coleção de moda inspirada no Círio ILQF Nossa Senhora de Nazaré é a padroeira da Amazônia, mas, na intimidade dos devotos, também vira “Nazinha”, “Nazica” e outros apelidos carinhosos. Essa relação de afeto com a santa inspirou a nova coleção de moda criada por mestres abridores de letras do Pará para o Círio de Nazaré de 2026, em Belém. A coleção também celebra palavras que ajudam a reconhecer o Pará pelo jeito de falar. Gírias e expressões como “Égua”, “Mana” e “Pavulagem” aparecem nas estampas ao lado de “Círio” e de referências como “Açaí”, “Marajó”, “Belém”, “Ribeirinha” e “Amazônia”. As palavras ganharam as cores, sombras e formas características dos abridores de letras, mestres ribeirinhos que mantêm a tradição de pintar e ornamentar os nomes das embarcações de madeira que navegam pelos rios da região. Coleção de Círio traz estampas criadas por mestres abridores de letras do Pará ILQF A coleção foi desenvolvida pelo Instituto Letras que Flutuam em parceria com os mestres. As estampas aparecem em camisas e outros produtos, e a renda obtida com as vendas é destinada aos artistas associados ao Instituto. Para Fernanda Martins, fundadora do Letras que Flutuam, o Círio reúne diferentes manifestações da cultura paraense. “O Círio é um espetáculo da cultura popular que reúne muitos sotaques: vem gente do mundo todo. E é uma celebração do povo paraense, com a cara dessa fé cabocla, com essa estética amazônica. Uma arena onde diversas manifestações da cultura regional também se encontram, como a grafia dos abridores de letras, os brinquedos de miriti, e tantas outras linguagens que derivam da tradição ribeirinha”, afirma. Mestres ribeirinhos assinam a coleção de camisas e itens de moda inspirados no Círio de Nazaré ILQF O jeito paraense de falar As palavras escolhidas para a coleção percorrem a devoção, o território e o vocabulário paraense. “Nazinha” é uma das formas afetivas usadas para se referir a Nossa Senhora de Nazaré. A proximidade dos devotos com a padroeira também aparece em outros apelidos, como “Nazica” e “Naza”. Já “Égua” está entre as interjeições mais marcantes do vocabulário paraense e pode ganhar diferentes sentidos conforme a situação e a entonação, expressando surpresa, admiração, espanto ou indignação. “Mana” é usada informalmente como forma de tratamento. “Pavulagem”, por sua vez, pode estar associada à exibição, à vaidade ou ao comportamento de quem gosta de chamar atenção. “Curumim”, palavra de origem tupi, significa menino ou garoto. “Caboco”, grafia escolhida para uma das peças, é uma forma usada no Pará para “caboclo”. Outras palavras das estampas apontam para lugares, símbolos e referências da região, como “Marajó”, “Belém”, “Açaí”, “Amazônia” e “Ribeirinha”. O próprio “Círio” também aparece entre as criações feitas especialmente para a coleção. Letras que vêm dos rios A grafia usada nas peças tem origem no trabalho realizado pelos abridores de letras nas embarcações amazônicas. São esses artistas que pintam e ornamentam os nomes dos barcos de madeira, combinando letras, cores, sombras e desenhos. O conhecimento é transmitido entre gerações, e os mestres desenvolvem características próprias no desenho das letras e nos ornamentos. A pesquisa que deu origem ao Letras que Flutuam começou em 2008. O Instituto foi criado em 2024 e atua com pesquisa, documentação, formação e geração de renda relacionadas à cultura gráfica ribeirinha. O uso das letras dos mestres em produtos é anterior à coleção do Círio. Desde 2023, o Instituto desenvolve peças em parceria com os artistas. Em 2026, a nova coleção foi criada a partir da festividade e de referências da cultura paraense. “São produtos que se tornam uma ótima oportunidade para valorizar a cultura tradicional em prol dos detentores desse saber, que são os mestres ribeirinhos. É uma maneira da gente incluí-los no mercado da moda, gerando renda e reconhecimento”, afirma Fernanda Martins. Além das camisas, o trabalho dos mestres aparece em ecobags, cadernetas, adesivos, letras impressas e placas decorativas pintadas à mão. Onde encontrar A coleção pode ser encontrada no Canto das Letras, na Travessa Rui Barbosa, 257, sala 3, na Vila Prana, bairro do Reduto, em Belém. Durante o Círio, o espaço funciona de segunda a sexta-feira, das 9h às 17h. As peças também são vendidas pela rede social do Instituto Letras que Flutuam. ✅ Receba as notícias do g1 Pará direto no WhatsApp VÍDEOS com as principais notícias do Pará",
@@ -59,16 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/Xdc_OAr9R6HJrcuE85NO8zTH6mM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/F/9PnVxcQ6upr9dIY9CdCw/mulher-entre-fitas-coloridas-do-cirio.png",
       "data": "2026-10-07T22:15:24+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e1580ca7466b601ed147226752422d29",
-      "titulo": "Homem é preso por extorsão contra vítimas de aplicativo em Belém",
-      "descricao": "Homem é preso por extorsão contra vítimas de aplicativo em Belém",
-      "link": "https://www.oliberal.com/policia/homem-e-preso-por-extorsao-contra-vitimas-de-aplicativo-em-belem-1.1178394",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1178398:1791408028/Homem é preso por extorsão contra vítimas de aplicativo em Belém.jpeg?f=187:100",
-      "data": "2026-10-07T21:41:32.015616+00:00",
       "categoria": "PARÁ"
     },
     {
