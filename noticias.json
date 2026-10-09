@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-10-09T00:47:11.549176+00:00",
+  "atualizado": "2026-10-09T06:55:41.411059+00:00",
   "noticias": [
+    {
+      "id": "cd0e04cd2cd9319479db71d746916d57",
+      "titulo": "De joelhos, Gretchen cumpre promessa na Basílica de Nazaré",
+      "descricao": "De joelhos, Gretchen cumpre promessa na Basílica de Nazaré",
+      "link": "https://www.oliberal.com/cultura/de-joelhos-gretchen-cumpre-promessa-na-basilica-de-nazare-1.1179112",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1179114:1791512592/GRADES PARA MATÉRIAS (69).png?f=187:100",
+      "data": "2026-10-09T06:55:38.400625+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "982ec339fa9f4019f0658a18caae9cb2",
+      "titulo": "Savarino encerra jejum com hat-trick em goleada sobre o Coritiba e leva Fluminense ao 3º lugar",
+      "descricao": "Savarino encerra jejum com hat-trick em goleada sobre o Coritiba e leva Fluminense ao 3º lugar",
+      "link": "https://www.oliberal.com/esportes/savarino-encerra-jejum-com-hat-trick-em-goleada-sobre-o-coritiba-e-leva-fluminense-ao-3-lugar-1.1179116",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS (1).png?f=187:100",
+      "data": "2026-10-09T06:55:38.012796+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3c20e397065538d49a51f3ab636c2d63",
+      "titulo": "Palmeiras domina o Bahia, vence em casa e reduz distância para o Flamengo",
+      "descricao": "Palmeiras domina o Bahia, vence em casa e reduz distância para o Flamengo",
+      "link": "https://www.oliberal.com/esportes/palmeiras-domina-o-bahia-vence-em-casa-e-reduz-distancia-para-o-flamengo-1.1179117",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS (1).png?f=187:100",
+      "data": "2026-10-09T06:55:37.626986+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b6028721465f4ea0b3e6fff25aeb003d",
+      "titulo": "Prefeitura atualiza situação de prefeito após acidente grave na PA-127",
+      "descricao": "Prefeito capota carro após bater em caminhão parado na PA-127 O prefeito de São Domingos do Capim, Orivaldo Bateria, sofreu um grave acidente de trânsito na rodovia PA-127 e está em estado gravíssimo. Ele estava acompanhado da esposa e do motorista. O post Prefeitura atualiza situação de prefeito após acidente grave na PA-127 apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/para/prefeitura-atualiza-situacao-de-prefeito-apos-acidente-grave-na-pa-127/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_761986186_1566277231805163_1175961517551887579_n.jpg",
+      "data": "2026-10-09T00:53:05+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "8cbe601a20716c71b65548db92289958",
       "titulo": "Nossa Senhora Aparecida: Santuário de Belém divulga programação da festividade",
@@ -12,43 +52,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "50126b11004d574d3dec4cf28a579fda",
-      "titulo": "Zanin nega recurso de Eduardo Paes e mantém anulação de votos de Garotinho",
-      "descricao": "Zanin nega recurso de Eduardo Paes e mantém anulação de votos de Garotinho",
-      "link": "https://www.oliberal.com/politica/zanin-nega-recurso-de-eduardo-paes-e-mantem-anulacao-de-votos-de-garotinho-1.1179081",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-09T00:47:08.398779+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "846ddad2185e1966d7f6a67b40966f2f",
-      "titulo": "Auto do Círio 2026 une fé e memória vivas nas ruas de Belé",
-      "descricao": "Auto do Círio 2026 une fé e memória vivas nas ruas de Belé",
-      "link": "https://www.oliberal.com/cultura/auto-do-cirio-2026-une-fe-e-memoria-vivas-nas-ruas-de-bele-1.1179083",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1179084:1791505268/Auto do Círio Foto de Carmem Helena  Arquivo O Liberal.jpg?f=187:100",
-      "data": "2026-10-09T00:47:08.154062+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "30e065aff67eb6ba1c936587715c954e",
-      "titulo": "Remo denuncia “apito amigo” dos grandes e questiona arbitragem: “Até quando?”",
-      "descricao": "Contra o Grêmio, pênalti claro não marcado O Clube do Remo protestou contra a arbitragem da Série A do Campeonato Brasileiro, alegando ter sido prejudicado em diversas partidas. O Leão Azul questionou a aplicação do fair play e destacou decisões que custaram pontos importantes na luta contra o rebaixamento. O post Remo denuncia “apito amigo” dos grandes e questiona arbitragem: “Até quando?” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/remo-denuncia-apito-amigo-dos-grandes-e-questiona-arbitragem-ate-quando/",
+      "id": "7ef4c1392883c5f8d38789a01bf75e4e",
+      "titulo": "Neymar volta, faz dois gols e impede vitória do Flamengo sobre o Santos",
+      "descricao": "Neymar volta, faz dois gols e impede vitória do Flamengo sobre o Santos Neymar retorna aos gramados após lesão e marca dois gols de pênalti, garantindo o empate do Santos em 2 a 2 com o Flamengo na Vila Belmiro. O resultado encerrou a sequência de vitórias do Peixe no Brasileirão. O post Neymar volta, faz dois gols e impede vitória do Flamengo sobre o Santos apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/neymar-volta-faz-dois-gols-e-impede-vitoria-do-flamengo-sobre-o-santos/",
       "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_SaveClip_App_840168040_18634708555002330_4991936106647847219_n.jpg",
-      "data": "2026-10-09T00:19:48+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "34c86829f7d389534c382989d93bd677",
-      "titulo": "Resultado da Dia de Sorte hoje: veja os números sorteados do concurso 1318 desta quinta-feira (8)",
-      "descricao": "A aposta simples do Dia de Sorte custa R$ 2,50 e permite escolher sete dezenas entre 31 números, além da indicação obrigatória de um Mês da Sorte. Confira o resultado, saiba como apostar, números mais sorteados, e as chances de ganhar na Dia de Sorte com prêmio acumulado em R$ 3,7 milhões O post Resultado da Dia de Sorte hoje: veja os números sorteados do concurso 1318 desta quinta-feira (8) apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/loterias/resultado-da-dia-de-sorte-hoje-veja-os-numeros-sorteados-do-concurso-1318-desta-quinta-feira-8/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/diadesorte.jpg",
-      "data": "2026-10-09T00:17:52+00:00",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_833603896_1661883935656344_1377657028186637793_n.jpg",
+      "data": "2026-10-09T00:45:19+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/mkJQS7zbtsOd24cR_MqwStLj9UI=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/39/05/15040539",
       "data": "2026-10-08T22:48:18+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fedab8a39ee38d2237de5051073e119c",
-      "titulo": "Remo solicita áudio e vídeo do VAR em lance contra o Grêmio",
-      "descricao": "Remo solicita áudio e vídeo do VAR em lance contra o Grêmio",
-      "link": "https://www.oliberal.com/esportes/remo/remo-solicita-a-cbf-a-liberac-o-de-audio-e-video-do-var-em-lance-contra-o-gremio-1.1178953",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1178612:1791423520/Foto Wagner Santana. _MG_2197 (44).JPG?f=187:100",
-      "data": "2026-10-08T20:44:24.291205+00:00",
       "categoria": "PARÁ"
     }
   ]
