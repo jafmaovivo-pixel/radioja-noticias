@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-11T07:26:00.772701+00:00",
+  "atualizado": "2026-10-11T14:15:37.401909+00:00",
   "noticias": [
+    {
+      "id": "53bbd06a937f07666c2ab6d17c794c28",
+      "titulo": "Papa fará cirurgia após médicos detectarem nódulo",
+      "descricao": "Papa fará cirurgia após médicos detectarem nódulo",
+      "link": "https://www.oliberal.com/mundo/papa-le-o-xiv-fara-cirurgia-apos-medicos-detectarem-nodulo-no-pulm-o-1.1180967",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.961449:1791716089/497133748_17846330208473586_5070387980413583541_n.jpg?f=187:100",
+      "data": "2026-10-11T14:15:35.987033+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "397bafc78b165bf3c9b332ec971fa321",
+      "titulo": "Entenda o que aconteceu no jogo Brusque x Paysandu",
+      "descricao": "Entenda o que aconteceu no jogo Brusque x Paysandu",
+      "link": "https://www.oliberal.com/esportes/serie-c-paralisada-entenda-o-que-aconteceu-na-partida-entre-brusque-x-paysandu-1.1180969",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1180985:1791716630/010217660950aa047db21b8f01ad5ab1.jpg?f=187:100",
+      "data": "2026-10-11T14:15:35.767144+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e3017f5ef709331481b2b9c471a5a45b",
+      "titulo": "Grupo apoiado pelo Irã ataca aeroporto saudita e eleva tensão no Oriente Médio",
+      "descricao": "Grupo apoiado pelo Irã ataca aeroporto saudita e eleva tensão no Oriente Médio",
+      "link": "https://www.oliberal.com/mundo/grupo-apoiado-pelo-ira-ataca-aeroporto-saudita-e-eleva-tensao-no-oriente-medio-1.1181238",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1181251:1791726005/ataque aeroporto arábia saudita.PNG?f=187:100",
+      "data": "2026-10-11T14:15:35.612196+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f9551c7077c7a8bcb11578de64919f31",
+      "titulo": "Quina 7140 hoje: confira o resultado deste domingo (11)",
+      "descricao": "Quina. Foto: Reprodução/CAIXA O concurso 7140 da Quina disponibiliza quase R$ 32 milhões para quem acertar cinco números entre os 80 do volante. O post Quina 7140 hoje: confira o resultado deste domingo (11) apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/loterias/quina-7140-hoje-confira-o-resultado-deste-domingo-11/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/convertida_1200x628_Resultado-da-Quina-2-768x512-1.jpg",
+      "data": "2026-10-11T14:12:01+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f1de790fdca660bf827a02f284abeeca",
+      "titulo": "Lotofácil 3802 hoje: confira o resultado deste domingo (11)",
+      "descricao": "Lotofácil segue como uma das apostas preferidas dos brasileiros Sorteio foi realizado pela Caixa no Espaço da Sorte, em São Paulo, neste domingo, 11 de outubro. O post Lotofácil 3802 hoje: confira o resultado deste domingo (11) apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/lotofacil-3802-hoje-confira-o-resultado-deste-domingo-11/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/04/lotofacil-16-02-2026-2.webp",
+      "data": "2026-10-11T14:09:43+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "85811047a5e86b25d3f7961d67818048",
       "titulo": "F-1: Verstappen vence corrida Sprint em Singapura; Bortoleto abandona após batida",
@@ -12,53 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "d40253016bde8d27a84b4d0f193e48e0",
-      "titulo": "Arsenal sofre, mas vence o Leeds com gol de Bruno Guimarães",
-      "descricao": "Arsenal sofre, mas vence o Leeds com gol de Bruno Guimarães",
-      "link": "https://www.oliberal.com/esportes/arsenal-sofre-mas-vence-o-leeds-com-gol-de-bruno-guimaraes-1.1180826",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS (1).png?f=187:100",
-      "data": "2026-10-11T07:25:57.573028+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "81374407a1415a75b5d6cf71075a9283",
-      "titulo": "Cristiano Ronaldo é suspenso pela Federação Portuguesa após abandonar seleção",
-      "descricao": "Cristiano Ronaldo é suspenso pela Federação Portuguesa após abandonar seleção",
-      "link": "https://www.oliberal.com/esportes/cristiano-ronaldo-e-suspenso-pela-federacao-portuguesa-apos-abandonar-selecao-1.1180827",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS (1).png?f=187:100",
-      "data": "2026-10-11T07:25:57.158046+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "72aa4a6c75459a29768304778d368c45",
       "titulo": "Círio de Nazaré 2026: 2,3 milhões de pessoas são esperadas em percurso de 3,6 km em Belém",
-      "descricao": "Círio de Nazaré 2026: Berlinda de Nossa Senhora de Nazaré Toninho Castro/Arquivo Pessoal A maior e mais tradicional manifestação religiosa do Pará, a grande procissão do Círio de Nazaré, de 3,6 km, é realizada neste domingo (11). O evento representa a 7ª das 14 procissões oficiais da festividade mariana, com público estimado de 2,3 milhões de pessoas que devem lotar as ruas da capital paraense. Grande Procissão do Círio de Nazaré: acompanhe a transmissão A Missa do Círio está marcada para 6h, na Catedral Metropolitana de Belém, celebrada por Dom Júlio Endi Akamine, Arcebispo Metropolitano de Belém. Já a berlinda com a imagem peregrina de Nossa Senhora de Nazaré, é prevista para sair rumo à Basílica às 7h da Catedral de Belém. A procissão tem previsão de durar 6 horas. Com El Niño, Belém chega ao Círio em alerta para calor extremo Trasladação: veja como foi a procissão de sábado à noite No caminho, milhares de fiéis prestam homenagens à Nossa Senhora de Nazaré. Muitos levam seus ex-votos de graças alcançadas; vão de joelhos e contam com a solidariedade no percurso. O Círio de Nazaré tem pontos altos também com homenagens de papeis picado, cânticos. Muitas pessoas assistem à procissão de sacadas. Um dos símbolos da procissão é a corda. Os promesseiros se \"agarram\" na corda para puxar a berlinda até o fim da procissão. É um símbolo de sacrifício que os romeiros de Nazaré enfrentam para agradecer, pedir e saudar a padroeira da Amazônia. ✅ Receba as notícias do g1 Pará direto no WhatsApp Milhares de fiéis acompanham o Círio de Nazaré, no Pará Às 12h, está prevista a missa da chegada na Praça Santuário, por Dom Paulo Andreolli, Bispo Auxiliar da Arquidiocese. Após a Missa das 6h, a Basílica fecha as portas e só reabre com a chegada oficial do Círio. A imagem peregrina percorre o corredor histórico do centro da cidade até o bairro de Nazaré. O trajeto oficial passa pelos seguintes pontos: Catedral Metropolitana de Belém Rua Padre Champagnat Avenida Portugal Avenida Boulevard Castilhos França Avenida Presidente Vargas Avenida Nazaré Basílica Santuário de Nazaré Ruas interditadas e pontos de bloqueio Para assegurar o isolamento do percurso e a proteção dos promessairos, um forte esquema de segurança e controle de tráfego foi montado com o apoio de forças militares e órgãos estaduais e municipais. Confira os principais pontos de interdição no centro de Belém: Bloqueios da Marinha do Brasil: Fechamento total na Rua Padre Champagnat. Bloqueios do Exército Brasileiro: Interdições nos cruzamentos da Av. Portugal com a Rua 15 de Novembro; Av. Nazaré com Av. Generalíssimo Deodoro; Av. Nazaré com Alameda Dona Maria Leopoldina; Av. Nazaré com Tv. 14 de Março; e na Praça Justo Chermont com a Rua da Basílica. Bloqueios da Força Aérea Brasileira (FAB): Interrupções na Tv. Oriental do Mercado com R. 15 de Novembro; Tv. Oriental do Mercado com Av. Boulevard Castilhos França; Tv. Padre Eutíquio com Av. Boulevard Castilhos França; Tv. Campos Sales com Av. Boulevard Castilhos França; Tv. Frutuoso Guimarães com Av. Boulevard Castilhos França; além do fechamento ao longo da própria Av. Boulevard Castilhos França. VÍDEOS: veja todas as notícias do Pará Leia mais notícias do Círio de Nazaré 2026",
+      "descricao": "Círio 2026: Belém amanhece com missa do Círio TV Liberal/Reprodução A maior e mais tradicional manifestação religiosa do Pará, a grande procissão do Círio de Nazaré, de 3,6 km, é realizada neste domingo (11). O evento representa a 7ª das 14 procissões oficiais da festividade mariana, com público estimado de 2,3 milhões de pessoas que devem lotar as ruas da capital paraense. Grande Procissão do Círio de Nazaré: acompanhe a transmissão AO VIVO A Missa do Círio marcada para 6h, na Catedral Metropolitana de Belém, é celebrada por Dom Júlio Endi Akamine, Arcebispo Metropolitano de Belém. Já a berlinda com a imagem peregrina de Nossa Senhora de Nazaré, é prevista para sair rumo à Basílica às 7h da Catedral de Belém. A procissão tem previsão de durar 6 horas. Com El Niño, Belém chega ao Círio em alerta para calor extremo Trasladação: veja como foi a procissão de sábado à noite No caminho, milhares de fiéis prestam homenagens à Nossa Senhora de Nazaré. Muitos levam seus ex-votos de graças alcançadas; vão de joelhos e contam com a solidariedade no percurso. O Círio de Nazaré tem pontos altos também com homenagens de papeis picado, cânticos. Muitas pessoas assistem à procissão de sacadas. Um dos símbolos da procissão é a corda. Os promesseiros se \"agarram\" na corda para puxar a berlinda até o fim da procissão. É um símbolo de sacrifício que os romeiros de Nazaré enfrentam para agradecer, pedir e saudar a padroeira da Amazônia. ✅ Receba as notícias do g1 Pará direto no WhatsApp Veja trechos da Trasladação, realizada na noite de sábado Às 12h, está prevista a missa da chegada na Praça Santuário, por Dom Paulo Andreolli, Bispo Auxiliar da Arquidiocese. Após a Missa das 6h, a Basílica fecha as portas e só reabre com a chegada oficial do Círio. A imagem peregrina percorre o corredor histórico do centro da cidade até o bairro de Nazaré. O trajeto oficial passa pelos seguintes pontos: Catedral Metropolitana de Belém Rua Padre Champagnat Avenida Portugal Avenida Boulevard Castilhos França Avenida Presidente Vargas Avenida Nazaré Basílica Santuário de Nazaré Ruas interditadas e pontos de bloqueio Para assegurar o isolamento do percurso e a proteção dos promessairos, um forte esquema de segurança e controle de tráfego foi montado com o apoio de forças militares e órgãos estaduais e municipais. Confira os principais pontos de interdição no centro de Belém: Bloqueios da Marinha do Brasil: Fechamento total na Rua Padre Champagnat. Bloqueios do Exército Brasileiro: Interdições nos cruzamentos da Av. Portugal com a Rua 15 de Novembro; Av. Nazaré com Av. Generalíssimo Deodoro; Av. Nazaré com Alameda Dona Maria Leopoldina; Av. Nazaré com Tv. 14 de Março; e na Praça Justo Chermont com a Rua da Basílica. Bloqueios da Força Aérea Brasileira (FAB): Interrupções na Tv. Oriental do Mercado com R. 15 de Novembro; Tv. Oriental do Mercado com Av. Boulevard Castilhos França; Tv. Padre Eutíquio com Av. Boulevard Castilhos França; Tv. Campos Sales com Av. Boulevard Castilhos França; Tv. Frutuoso Guimarães com Av. Boulevard Castilhos França; além do fechamento ao longo da própria Av. Boulevard Castilhos França. Círio de Nazaré 2026: Berlinda de Nossa Senhora de Nazaré Toninho Castro/Arquivo Pessoal Círio de Nazaré: Missa do Círio tem início e Berlinda TV Liberal/Reprodução VÍDEOS: veja todas as notícias do Pará Leia mais notícias do Círio de Nazaré 2026",
       "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/11/cirio-de-nazare-2026-23-milhoes-de-pessoas-sao-esperadas-em-percurso-de-36-km-em-belem.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/Vz9-o9WUnAxptrqE5kw8B6fmxzE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/j/3RUgI4QOq7eZAohCiH5Q/berlinda-sexta-2026.jpg",
+      "imagem": "https://s2-g1.glbimg.com/3ljtBF1MS1bRCvJKtuB3J8rgUMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/2/pGMvAeT7GAMtto3l1F2g/cirio.jpg",
       "data": "2026-10-11T07:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "47eaeeafc4a69c05d2239d2fe24a89a7",
-      "titulo": "Paysandu cobra respostas da CBF após rodada conturbada da Série C",
-      "descricao": "Foto: Jorge Luís Totti/Paysandu O Paysandu acionou a CBF para obter documentos e esclarecimentos sobre a suspensão de jogos da Série C do Campeonato Brasileiro. O clube busca apurar as circunstâncias dos acontecimentos que marcaram a rodada. O post Paysandu cobra respostas da CBF após rodada conturbada da Série C apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/paysandu-cobra-respostas-da-cbf-apos-rodada-conturbada-da-serie-c/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/55581487059_1a05797d04_k.jpg",
-      "data": "2026-10-11T03:59:42+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3ca6dc455372763e27c36a831455f8ab",
-      "titulo": "Domingo do Círio: veja o que saber antes de acompanhar a procissão",
-      "descricao": "O Círio de Nazaré reúne milhões de fiéis nas ruas de Belém e movimenta diferentes setores da economia durante o período da festividade. Foto: Ricardo Amanajás /Arquivo Diário do Pará Milhões de devotos acompanham neste domingo a 234ª edição do Círio de Nazaré em Belém. A procissão sai da Catedral Metropolitana em direção à Basílica Santuário de Nazaré. O post Domingo do Círio: veja o que saber antes de acompanhar a procissão apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cirio-de-nazare/domingo-do-cirio-veja-o-que-saber-antes-de-acompanhar-a-procissao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_DP20251012_RA_0735.jpg",
-      "data": "2026-10-11T03:27:48+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/wWEQx4h8BihRKQvx1fBfSKttak0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/8M8WHRRFGP4BIeOUaJdg/whatsapp-image-2026-10-10-at-23.01.36.jpeg",
       "data": "2026-10-11T02:59:12+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "491a3b1d942097a81aa7b85109af7c8b",
-      "titulo": "Alckmin: Desafio é convencer quem não votou a comparecer no 2º turno",
-      "descricao": "Alckmin: Desafio é convencer quem não votou a comparecer no 2º turno",
-      "link": "https://www.oliberal.com/politica/alckmin-desafio-e-convencer-quem-nao-votou-a-comparecer-no-2-turno-1.1180775",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-11T01:24:16.534999+00:00",
       "categoria": "PARÁ"
     }
   ]
