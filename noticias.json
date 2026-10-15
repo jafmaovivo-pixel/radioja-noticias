@@ -1,6 +1,76 @@
 {
-  "atualizado": "2026-10-15T19:32:51.113982+00:00",
+  "atualizado": "2026-10-15T22:45:17.588178+00:00",
   "noticias": [
+    {
+      "id": "ca168139c78352f873d62be3eed335b9",
+      "titulo": "Datafolha: governo Lula tem avaliação negativa de 41% e positiva de 35%",
+      "descricao": "Datafolha: governo Lula tem avaliação negativa de 41% e positiva de 35%",
+      "link": "https://www.oliberal.com/politica/datafolha-governo-lula-tem-avaliacao-negativa-de-41-e-positiva-de-35-1.1183053",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1168154:1789315694/lulaoficial_1789241773_3984771131414753021_5863359496.jpg?f=187:100",
+      "data": "2026-10-15T22:45:15.193040+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6da3a47e6f6ea4dd210aacafa2bc0e5d",
+      "titulo": "Remo tem retrospecto equilibrado sem Marcelo Rangel; confira os números",
+      "descricao": "Remo tem retrospecto equilibrado sem Marcelo Rangel; confira os números",
+      "link": "https://www.oliberal.com/esportes/remo/remo-tem-retrospecto-equilibrado-sem-marcelo-rangel-confira-os-numeros-1.1183041",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1183058:1792102601/55508582412_f5194067bd_c.jpg?f=187:100",
+      "data": "2026-10-15T22:45:15.000737+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7c393d885a429046f8d2acb35561b8d1",
+      "titulo": "Pesquisa Datafolha: Flávio Bolsonaro tem 47% e Lula soma 45%",
+      "descricao": "Pesquisa Datafolha: Flávio Bolsonaro tem 47% e Lula soma 45%",
+      "link": "https://www.oliberal.com/politica/pesquisa-datafolha-flavio-bolsonaro-tem-47-e-lula-soma-45-1.1183059",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1182612:1792013660/DUAS.png?f=187:100",
+      "data": "2026-10-15T22:45:14.811777+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "667da81f08a579ae8bf167b32f20c7b7",
+      "titulo": "Dia C beneficia cerca de 200 crianças com distribuição de brinquedos em Ananindeua",
+      "descricao": "Além da doação de brinquedos, a programação incluiu a entrega de lanches e organização de brincadeiras, incluindo pula-pula. Sicredi Cerca de 200 crianças participaram de uma manhã de diversão e solidariedade no último sábado, 10 de outubro, em Ananindeua, durante a ação do Dia de Cooperar (Dia C), promovida pela Sicredi Ouro Verde MT/PA em parceria com a Igreja Assembleia de Deus do Maguari. A programação contou com distribuição de brinquedos, lanches e brincadeiras, incluindo pula-pula. Com o tema “Quando a escolha é cooperar, o mundo gira melhor”, a iniciativa aproximou a cooperativa das famílias da comunidade e reforçou os valores do cooperativismo por meio de uma ação voltada ao público infantil. Para Thiago Rocha Vidal, gerente geral da agência Sicredi Cidade Nova, a participação da comunidade foi fundamental para o resultado da iniciativa. “Cada brinquedo doado representa carinho, esperança e a possibilidade de levar alegria para muitas crianças e famílias. Para nós, foi muito gratificante viver esse momento e ver a alegria no rosto dessa criançada”, destacou. A ação também foi celebrada por Hellyson Soares, presbítero da Assembleia de Deus do Maguari. Segundo ele, além das crianças da congregação, o evento recebeu participantes convidados de outras localidades. “Toda criança gosta de ser reconhecida, receber um brinde, um presente. Nesta manhã, as crianças puderam se alegrar na presença de Deus e também com a participação do Sicredi, que tornou esse dia especial”, afirmou. Gláucia Moura, vice-líder do departamento infantil da igreja, também participou da programação com a filha. Para ela, iniciativas como essa ajudam a valorizar a infância e oferecer às crianças oportunidades de lazer, acolhimento e convivência. “É um momento de resgatar a verdadeira infância e mostrar para a criança que ela é importante. Foi uma ação muito boa, gratificante e maravilhosa. Ficamos felizes e agradecidos por essa parceria”, disse Gláucia, que também ressaltou a importância da oferta de alimentos para crianças em situação de vulnerabilidade social. Cooperativismo e compromisso social O Dia de Cooperar, conhecido como Dia C, é uma iniciativa do movimento cooperativista brasileiro que incentiva ações voluntárias e solidárias em benefício das comunidades. Realizado pelo Sistema OCB, o movimento reforça o papel das cooperativas na promoção do desenvolvimento social. A ação em Ananindeua integra esse propósito, mostrando como a união entre instituições e comunidade pode proporcionar experiências positivas e contribuir para o bem-estar das famílias.",
+      "link": "https://g1.globo.com/pa/para/especial-publicitario/sicredi-norte/sicredi-gente-que-coopera-cresce/noticia/2026/10/15/dia-c-beneficia-cerca-de-200-criancas-com-distribuicao-de-brinquedos-em-ananindeua.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/ekGoAZRWfBeb5FkK_mAGLlqHnB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/l/RA6ks1RGisopgTr3hhHA/dia-c.jpeg",
+      "data": "2026-10-15T22:38:22+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8831b21a18492476eefaf8a5b8156379",
+      "titulo": "Manu Bahtidão e Anderson Halliday: o fim de uma relação que começou conturbada",
+      "descricao": "Manu Bahtidão encerra relacionamento de 11 anos com Anderson Halliday. Foto: Reprodução Cantora surpreendeu fãs ao revelar o término com Anderson Halliday. Relacionamento começou com polêmica de traição no passado O post Manu Bahtidão e Anderson Halliday: o fim de uma relação que começou conturbada apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/manu-bahtidao-e-anderson-halliday-o-fim-de-uma-relacao-que-comecou-conturbada/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_1o2ik6fugm6hj41t7jsah6fir.jpg",
+      "data": "2026-10-15T22:37:23+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "31e10bc0284ad5b94c813df2414077da",
+      "titulo": "Ex de Belo teria pedido R$ 10 milhões para não revelar intimidades do cantor",
+      "descricao": "Rayane Figliuzzi teria exigido R$ 10 milhões para terminar o relacionamento com Belo sem revelar supostos segredos do cantor. Foto: Reprodução/Instagram Segundo o jornalista Matheus Baldi, Rayane Figliuzzi teria condicionado o fim do relacionamento ao pagamento de uma quantia milionária para não expor informações sobre o cantor O post Ex de Belo teria pedido R$ 10 milhões para não revelar intimidades do cantor apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/ex-de-belo-teria-pedido-r-10-milhoes-para-nao-revelar-intimidades-do-cantor/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_belo-rayane-figliuzzi-1-.jpg",
+      "data": "2026-10-15T22:31:15+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "fe98a5c21efb5267ee6fce67e9569bd4",
+      "titulo": "Veja a previsão para o fim de semana no Pará: Belém deve ter calor de até 35 °C e chuva no sábado",
+      "descricao": "Estação das Docas, em Belém. Alex Ribeiro Belém e região metropolitana devem ter pancadas de chuva nas tardes de sexta-feira (16) e sábado (17), mas o domingo (18) deve ser sem chuva. Na capital, as temperaturas previstas variam de 23 °C a 35 °C, segundo a Secretaria de Estado de Meio Ambiente e Sustentabilidade (Semas). No nordeste paraense, onde ficam praias e balneários, também há previsão de chuva em parte da região na sexta e no sábado. Já no sul do Pará, as pancadas devem ser mais frequentes durante o fim de semana, acompanhadas de trovoadas. O boletim foi elaborado nesta quinta-feira (15) e traz a previsão para os três dias. Confira por região: Belém e região metropolitana Sexta-feira: manhã sem chuva, pancadas isoladas à tarde e noite sem chuva. Sábado: manhã sem chuva e pancadas moderadas em pontos isolados à tarde. À noite, não deve chover. Domingo: variação de nuvens, sem previsão de chuva durante todo o dia. Em Belém, os termômetros devem marcar entre 23 °C e 35 °C. Nordeste paraense Quem pretende aproveitar praias e balneários deve observar a previsão para cada parte da região: Sexta-feira: manhã sem chuva. À tarde e à noite, há previsão de chuva e trovoadas nas regiões Bragantina, do Guamá e de Tomé-Açu. Sábado: manhã sem chuva. À tarde, deve chover nas regiões do Salgado, Bragantina e do Guamá. A noite deve ser sem chuva. Domingo: não há previsão de chuva ao longo do dia. Em Santa Luzia do Pará, as temperaturas devem variar de 23 °C a 35 °C. Marajó Sexta-feira: manhã sem chuva. À tarde e à noite, deve chover na região do Arari. Sábado: manhã sem chuva e previsão de chuva à tarde na porção central e norte do arquipélago. À noite, não deve chover. Domingo: não há previsão de chuva. Em Afuá, as temperaturas previstas ficam entre 25 °C e 34 °C. Sudeste paraense Na sexta-feira, há previsão de chuva e trovoadas ao longo do dia em Santana do Araguaia e Santa Maria das Barreiras. No sábado, pode chover desde a manhã na região de Redenção. À tarde e à noite, as pancadas com trovoadas devem atingir mais municípios e podem continuar pela madrugada. Os maiores volumes são esperados em Santana do Araguaia, Santa Maria das Barreiras, Tucumã, Conceição do Araguaia, Redenção, Tucuruí, Goianésia do Pará, Marabá e São Domingos do Araguaia. No domingo, a previsão é de chuva e trovoadas ao longo do dia na região de Redenção. Os maiores acumulados devem ocorrer em Santa Maria das Barreiras, Água Azul do Norte, Xinguara, Cumaru do Norte, Rio Maria, São Félix do Xingu, Floresta do Araguaia e Pau d’Arco. Em Conceição do Araguaia, as temperaturas devem variar de 26 °C a 35 °C. Sudoeste paraense Na sexta-feira, há previsão de chuva e trovoadas no sul de Novo Progresso, Altamira, Jacareacanga e Itaituba. O sábado deve começar com chuva fraca no sul da região. À tarde e à noite, são esperadas pancadas com trovoadas em Uruará, Pacajá, Medicilândia, Altamira e Brasil Novo. A chuva pode continuar pela madrugada. No domingo, a previsão é de pancadas com trovoadas ao longo do dia em Novo Progresso, Jacareacanga, Trairão, Rurópolis, Placas e Uruará. Em Aveiro, os termômetros devem variar de 25 °C a 37 °C. Baixo Amazonas e Calha Norte A sexta-feira deve ser sem chuva. No sábado, há previsão de chuva à tarde e à noite em Óbidos, Oriximiná e Alenquer. No domingo, podem ocorrer chuvas fracas e rápidas à tarde e à noite em Oriximiná, Óbidos, Terra Santa e Juruti. Em Faro, as temperaturas previstas ficam entre 25 °C e 37 °C. Maré alta Confira os horários de maré alta e baixa em Belém, Mosqueiro e Salinas, segundo a previsão da Diretoria de Hidrografia e Navegação da Marinha do Brasil. Salinas Sexta-feira (16): maré alta às 10h32 e às 22h38. Maré baixa às 4h40 e às 16h49. Sábado (17): maré alta às 11h12 e às 23h25. Maré baixa às 5h10 e às 17h25. Domingo (18): maré alta às 12h12. Maré baixa às 5h59 e às 18h10. Mosqueiro Sexta-feira (16): maré alta à 1h23 e às 13h57. Maré baixa às 7h44 e às 20h21. Sábado (17): maré alta à 1h44 e às 14h47. Maré baixa às 8h31 e às 21h06. Domingo (18): maré alta às 2h42 e às 15h47. Maré baixa às 9h19 e às 22h01. Belém Sexta-feira (16): maré alta à 1h53 e às 14h31. Maré baixa às 8h53 e às 20h53. Sábado (17): maré alta às 2h23 e às 15h14. Maré baixa às 9h21 e às 21h27. Domingo (18): maré alta às 3h08 e às 16h10. Maré baixa às 10h08 e às 22h12. ✅ Receba as notícias do g1 Pará direto no WhatsApp VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/10/15/belem-tem-previsao-de-calor-de-ate-35-c-e-chuva-no-sabado-veja-como-fica-o-tempo-no-para.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/QtJmXPWqvNnf_VNBHCIXe1r9d38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/f/iVO2czRsC34GM1PYw9DQ/whatsapp-image-2025-07-01-at-10.52.10.jpeg",
+      "data": "2026-10-15T22:00:10+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "121dbbe4f042c573247edd33b732ea5b",
       "titulo": "Diálogos mostram como CEO do Metrópoles negociou patrocínio de Vorcaro a transmissão da Série D",
@@ -9,76 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
       "data": "2026-10-15T19:32:49.675972+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "027b79c888c140e9de441fc5d1b2d77a",
-      "titulo": "Santa Edwiges e São Geraldo Magela são homenageados em Belém",
-      "descricao": "Santa Edwiges e São Geraldo Magela são homenageados em Belém",
-      "link": "https://www.oliberal.com/belem/santa-edwiges-e-sao-geraldo-magela-sao-homenageados-em-belem-1.1182969",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1182971:1792092348/Untitled-2.jpg?f=187:100",
-      "data": "2026-10-15T19:32:49.406440+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c0e1892401d70d7cfe7354c732beb752",
-      "titulo": "Quem criou a proposta do fim da escala 6x1? Conheça os nomes por trás da mudança",
-      "descricao": "Quem criou a proposta do fim da escala 6x1? Conheça os nomes por trás da mudança",
-      "link": "https://www.oliberal.com/politica/quem-criou-a-proposta-do-fim-da-escala-6x1-conheca-os-nomes-por-tras-da-mudanca-1.1182957",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1182963:1792091367/1_rick_azevedo-39488121.jpg?f=187:100",
-      "data": "2026-10-15T19:32:49.132049+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3ac11fc4dc74970a5e5c3ea2fe98ead4",
-      "titulo": "Nova porta-voz da Casa Branca teria apagado fotos de biquíni após assumir cargo",
-      "descricao": "Katie Zacharia foi anunciada em 9 de outubro para substituir Karoline Leavitt na Secretaria de Imprensa da Casa Branca. Crédito não informado. Fotos: Reprodução/Instagram Segundo o U.S. Sun, imagens desapareceram do Instagram de Katie Zacharia; ela não confirmou relação entre a remoção e a nomeação O post Nova porta-voz da Casa Branca teria apagado fotos de biquíni após assumir cargo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/katie-zacharia-fotos-biquini-instagram/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/Nova-porta-voz-da-Casa-Branca.png",
-      "data": "2026-10-15T19:27:28+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5bcde7e5bcc01d8857055c38a318e3c7",
-      "titulo": "Padre Fábio de Melo fala sobre depressão crônica e diz: “nunca acordei feliz”",
-      "descricao": "Padre Fábio de Melo falou sobre a convivência com a depressão crônica e a tristeza que sente ao acordar. Foto: Reprodução/Instagram No Sem Censura, da TV Brasil, religioso explicou como aprendeu a lidar com a depressão crônica e falou sobre a própria sensibilidade O post Padre Fábio de Melo fala sobre depressão crônica e diz: “nunca acordei feliz” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/dr-responde/padre-fabio-de-melo-depressao-cronica/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/Padre-Fabio-de-Melo.png",
-      "data": "2026-10-15T19:20:54+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "cd09cc82687625535bcbe08f218ec670",
-      "titulo": "Papa Leão XIV nomeia dom Paulo Andreolli bispo da diocese de Ponta de Pedras, no Pará",
-      "descricao": "Papa Leão XIV nomeia dom Paulo Andreolli bispo da diocese de Ponta de Pedras, no Marajó. Reprodução / Arquidiocese de Belém O Papa Leão XIV nomeou, nesta quinta-feira (15), dom Paulo Andreolli bispo da diocese de Ponta de Pedras, no arquipélago do Marajó, no Pará. Com a nomeação, ele deixa o ofício de bispo auxiliar da arquidiocese de Belém. Dom Paulo é italiano, missionário Xaveriano e se dedica ao trabalho pastoral, missionário e vocacional, com forte presença no Brasil, especialmente no Pará. Com a nomeação, ele se tornou o quarto bispo da diocese de Ponta de Pedras. ✅ Receba as notícias do g1 Pará direto no WhatsApp A Conferência Nacional dos Bispos do Brasil (CNBB) enviou saudação ao religioso. Na mensagem, a entidade afirmou que recebeu a notícia \"com alegria\" e expressou o desejo de que a nova etapa do pastoreio \"fortaleça ainda mais a sua presença como discípulo missionário a serviço do povo de Deus do norte do nosso país\". Quem é dom Paulo Andreolli Dom Paulo Andreolli nasceu em 16 de dezembro de 1972, em Pojana Maggiore, Vicenza, na Itália. É filho de Mario Andreolli e Giuliana Conte e tem duas irmãs, Elena e Laura. Aos 11 anos, em 1984, ingressou no Seminário Xaveriano de Vicenza, onde concluiu o ensino médio. Entre 1992 e 1994, realizou o noviciado em Ancona e, em seguida, estudou filosofia e teologia na Casa Mãe dos Xaverianos, em Parma. Ele fez os votos perpétuos em 5 de março de 2000, virou diácono no dia seguinte e se tornou padre em 17 de setembro de 2000. A primeira destinação pastoral foi na comunidade formativa de Desio, em Milão, na Itália, onde atuou como animador vocacional e missionário. No período, cursou pós-graduação em espiritualidade e acompanhamento espiritual na Faculdade da Itália Setentrional, em Milão. Em 17 de novembro de 2007, foi enviado ao Brasil. Atuou no Pará como vigário paroquial por cinco anos na cidade de São Félix do Xingu e como pároco por quatro anos em Tucumã, na atual Prelazia do Alto Xingu – Tucumã, com intensa dedicação aos jovens. A partir de 2017, seguiu na missão como animador vocacional e missionário na região do Pará, com atuação na comunidade formativa de Ananindeua e junto ao Conselho Missionário Regional – Pará e Amapá (COMIRE). Também atuou como conselheiro regional dos Xaverianos e colaborou com a Conferência dos Religiosos do Brasil (CRB – Subnúcleo 2), em Belém. Em 1º de fevereiro de 2023, o Papa Francisco nomeou padre Paulo Andreolli bispo auxiliar da arquidiocese de Belém do Pará, e atribuiu a ele também o título de bispo titular de Altava. A ordenação episcopal aconteceu em 15 de abril de 2023, na catedral metropolitana de Belém, em cerimônia presidida por dom Alberto Taveira Corrêa, arcebispo de Belém. Com a consagração, ele se tornou o oitavo bispo auxiliar da arquidiocese. VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/10/15/papa-leao-xiv-nomeia-dom-paulo-andreolli-bispo-da-diocese-de-ponta-de-pedras-no-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/ByyvZ3EmKc5_arRw58c-WH1VjGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/e/PyJlGqRlCykZ0W4XteKA/sem-titulo.png",
-      "data": "2026-10-15T16:10:52+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "997140c3ec3edb3310e342b7b1112306",
-      "titulo": "Parceira da Toyota e zerada em pódios: conheça a Haas, equipe de Rafael Câmara na F-1",
-      "descricao": "Parceira da Toyota e zerada em pódios: conheça a Haas, equipe de Rafael Câmara na F-1",
-      "link": "https://www.oliberal.com/esportes/parceira-da-toyota-e-zerada-em-podios-conheca-a-haas-equipe-de-rafael-camara-na-f-1-1.1182891",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
-      "data": "2026-10-15T15:55:16.191771+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b7be4a605fdf21bc840610586a6d48fc",
-      "titulo": "Quem é a delegada do Pará presa suspeita de repassar informações sigilosas ao PCC",
-      "descricao": "Delegada do Pará é presa. Reprodução / Polícia Civil A delegada da Polícia Civil do Pará (PC), Maria Virgínia Grimwood Pinto, foi presa nesta quinta-feira (15) no Distrito Federal, durante a operação \"Sinalagma”. Ela é suspeita de receber R$ 50 mil para repassar informações sigilosas à facção criminosa Primeiro Comando da Capital (PCC), segundo as investigações. O Ministério Público do Estado do Pará (MPPA) confirmou a prisão. A operação foi organizada pela Polícia Civil de Pernambuco, com a colaboração da PC do Pará e a participação do Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO), que acompanha o caso há cerca de seis meses. ✅ Receba as notícias do g1 Pará direto no WhatsApp A delegada foi presa no Setor Hoteleiro Norte, em Brasília. De acordo com as investigações, Maria Virgínia é suspeita de receber vantagens financeiras indevidas para fornecer informações sigilosas e oferecer proteção institucional a integrantes do PCC. Operação Sinalagma cumpre mandados em PE, no PA, em SP e no DF A apuração apontou possível ligação da delegada com Renato Henrique do Carmo, conhecido como \"Gordão\", apontado como uma das lideranças da organização criminosa na região de Muro Alto, em Ipojuca (PE), também preso na operação \"Sinalagma\". Além da prisão da delegada, os policiais cumprem, nesta quinta (15), dois mandados de prisão e 11 de busca e apreensão nas cidades de Recife, Belém, São Paulo e Brasília. Em Belém, os mandados de busca e apreensão foram cumpridos na casa de Maria Virgínia e no gabinete dela, localizado na Divisão de Polícia Administrativa (DPA), na sede da Delegacia-Geral da PC, na avenida Magalhães Barata. A operação mira o tráfico de drogas e outros crimes, como lavagem de dinheiro e ocultação de patrimônio, além de possíveis práticas de corrupção de agentes públicos e falsidade ideológica. Detalhes da investigação Segundo a polícia, as investigações identificaram indícios de lavagem de dinheiro e ocultação de patrimônio, com suspeitas de utilização de documentos falsos, empresas e contas bancárias de terceiros para movimentar recursos e dissimular sua origem. A apuração envolve a análise de dados, informações de inteligência e Relatórios de Inteligência Financeira do Conselho de Controle de Atividades Financeiras (Coaf). De acordo com o MPPA, os fatos atribuídos à delegada podem configurar crimes relacionados à corrupção, à violação de sigilo funcional e à colaboração com organização criminosa, entre outras possíveis infrações que dependem dos desdobramentos da investigação. A atuação do Ministério Público incluiu a colaboração na elaboração das peças investigativas e dos pedidos judiciais, além do acompanhamento da execução das medidas autorizadas pela Justiça. O que diz a polícia Em nota, a PC do Pará disse que \"prestou apoio à Polícia de Pernambuco para o cumprimento de diligências realizadas em território paraense, em que um dos alvos da operação trata-se da delegada de polícia\". Segundo a PC, assim que concluída a operação, os \"autos serão encaminhados à Corregedoria-Geral para análise e adoção das medidas correcionais cabíveis\". \"A PCPA reafirma seu compromisso com a legalidade, a transparência e o interesse público\", concluiu. VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/10/15/quem-e-a-delegada-do-para-presa-suspeita-de-repassar-informacoes-sigilosas-ao-pcc.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/mUeUiNwT8tNMZdSt5_3OfE2oq28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/a/QeBcPzSfGCyqFttMAPQw/1792074249595193.jpg",
-      "data": "2026-10-15T14:26:13+00:00",
       "categoria": "PARÁ"
     }
   ]
