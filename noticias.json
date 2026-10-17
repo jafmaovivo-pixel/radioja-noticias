@@ -1,6 +1,76 @@
 {
-  "atualizado": "2026-10-17T12:33:01.491708+00:00",
+  "atualizado": "2026-10-17T16:01:15.945010+00:00",
   "noticias": [
+    {
+      "id": "e47980a6ee024ca3b5c283fd84f4abcb",
+      "titulo": "Homem é atingido por 3 tiros no peito em tentativa de homicídio em Santarém",
+      "descricao": "Homem é atingido por 3 tiros no peito em tentativa de homicídio em Santarém",
+      "link": "https://www.oliberal.com/belem/homem-e-atingido-por-3-tiros-no-peito-em-tentativa-de-homicidio-em-santarem-1.1183732",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1183733:1792251477/Foto%20%20Arquivo%20O%20Liberal.png?f=187:100",
+      "data": "2026-10-17T16:01:14.349037+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1ab8e8f1819c6d80a98589976e89897b",
+      "titulo": "Meta admite falhas na campanha de Lula, mas nega interferência nas eleições",
+      "descricao": "Meta admite falhas na campanha de Lula, mas nega interferência nas eleições",
+      "link": "https://www.oliberal.com/politica/meta-admite-falhas-na-campanha-de-lula-mas-nega-interferencia-nas-eleicoes-1.1183734",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-17T16:01:14.131500+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "27f74d1ee307cab1c1612b6d558a636f",
+      "titulo": "João Fonseca encerra ano sem títulos, acumula lesões e vê rivais superá-lo",
+      "descricao": "João Fonseca encerra ano sem títulos, acumula lesões e vê rivais superá-lo",
+      "link": "https://www.oliberal.com/esportes/joao-fonseca-encerra-ano-sem-titulos-acumula-lesoes-e-ve-rivais-supera-lo-1.1183735",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
+      "data": "2026-10-17T16:01:13.724091+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "be1f7fc087c49d0ad087d3f6433be3c3",
+      "titulo": "Ciclista de 60 anos morre após colisão com moto em ponte na BR-230, em Marabá",
+      "descricao": "Ciclista de 60 anos morre após colisão com moto em ponte na BR-230, em Marabá TV Liberal Um ciclista de 60 anos morreu após se envolver em um acidente com uma motocicleta na manhã deste sábado (17), na ponte sobre o rio Itacaiúnas, na BR-230, em Marabá, no sudeste do Pará. A vítima, identificada como Luís Ramos dos Santos, seguia para o trabalho quando ocorreu a colisão, por volta das 7h. Segundo testemunhas, o ciclista trafegava pela ponte quando teria sido atingido por uma motocicleta ocupada por dois jovens. Luís morreu no local. O motociclista e o passageiro ficaram feridos e foram socorridos ao Hospital Municipal de Marabá. O estado de saúde dos dois não foi divulgado. Luís morava no bairro Amapá e, segundo informações repassadas no local, estava perto de se aposentar. O genro da vítima, Fernando Pereira da Silva, disse acreditar que o sogro foi atropelado pela motocicleta e que aguarda o esclarecimento das circunstâncias do acidente. Uma equipe da Polícia Rodoviária Federal (PRF) esteve no local para atender à ocorrência e levantar informações sobre a colisão. Até o momento, não há confirmação sobre as causas do acidente ou a responsabilidade dos envolvidos. O corpo do ciclista foi encaminhado ao Instituto Médico Legal (IML) de Marabá para os procedimentos periciais. O acidente também provocou lentidão no trânsito da BR-230. A ponte sobre o rio Itacaiúnas dá acesso ao núcleo Cidade Nova, e a circulação na região já estava limitada devido ao isolamento parcial da segunda ponte. As circunstâncias da colisão são apuradas pela PRF. VÍDEOS: veja todas as notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/10/17/ciclista-de-60-anos-morre-apos-colisao-com-moto-em-ponte-na-br-230-em-maraba.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/OupPIt6PhAeCxIiYOXXNdCBP1LY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/P/NkMLnMSza9BaRpb3XGIQ/acidente.png",
+      "data": "2026-10-17T15:37:24+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "07519b114a621fea1d1edcc087caca02",
+      "titulo": "João Fonseca encerra temporada 2026 e só volta a competir no ano que vem",
+      "descricao": "João Fonseca já encerrou a temporada Carioca de 20 anos cancela participação na Basileia e em Paris após ano marcado por lesões nas costas, punho, ombro e abdômen O post João Fonseca encerra temporada 2026 e só volta a competir no ano que vem apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/joao-fonseca-adia-retorno-so-volta-as-quadras-2027/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/05/convertida_1200x628_afp__20260426__a92l7qp__v1__highres__tennisatpespmadridopen-647x450-1.jpg",
+      "data": "2026-10-17T15:30:23+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2555a28046915f1bdf0a81f7c6052e92",
+      "titulo": "Mãe e filha são atingidas por caminhão em rodovia no Pará e uma delas tem braço e perna amputados",
+      "descricao": "Mãe e filha são atingidas por caminhão em rodovia no Pará TV Liberal Duas mulheres, mãe e filha, ficaram gravemente feridas após a motocicleta em que estavam se envolver em um acidente com um caminhão na manhã deste sábado (17), na PA-256, próximo à ponte sobre o Rio Uraim, na entrada de Paragominas, no sudeste do Pará. Uma das vítimas teve uma perna e um braço amputados em decorrência dos ferimentos. Segundo relatos de testemunhas aos agentes de trânsito, as duas mulheres trafegavam pela rodovia quando a motocicleta foi atingida na traseira pelo caminhão. O motorista teria deixado o local sem prestar socorro às vítimas. As mulheres foram atendidas por equipes do Serviço de Atendimento Móvel de Urgência (Samu) e encaminhadas ao Hospital Regional Público do Leste, em Paragominas. Até a última atualização desta reportagem, não havia informações sobre o estado de saúde das vítimas. Após o acidente, equipes da Polícia Militar localizaram o caminhão e o motorista no bairro Bela Vista. O homem foi conduzido à delegacia do município para prestar depoimento. O trecho da PA-256 onde ocorreu a colisão possui sinalização e fiscalização eletrônica por radar, com velocidade máxima permitida de 40 km/h. As circunstâncias do acidente deverão ser apuradas pelas autoridades. VÍDEOS: veja todas as notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/10/17/mae-e-filha-ficam-gravemente-feridas-apos-moto-ser-atingida-por-caminhao-na-pa-256-em-paragominas.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/vSymsRt3sPGJzmTEw00QH1fd9xA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/t/xcFIBERGWBxF02ZFELlQ/moto.png",
+      "data": "2026-10-17T15:18:03+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e6119166f70b0cf20a670d45384faa02",
+      "titulo": "Círio das Crianças 2026: transforme papelão em asas de anjo com este passo a passo",
+      "descricao": "Círio das Crianças reúne milagres e promessas em manhã de emoção em Belém. Foto: Celso Rodrigues/Diário do Pará. Aprenda a fazer asas de anjo em casa com materiais simples e baratos para as crianças usarem no Círio das Crianças, que acontece neste domingo (18), em Belém. O post Círio das Crianças 2026: transforme papelão em asas de anjo com este passo a passo apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cirio-de-nazare/cirio-das-criancas-2026-transforme-papelao-em-asas-de-anjo-com-este-passo-a-passo/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_DP20251019_CR_0496-scaled-1.jpg",
+      "data": "2026-10-17T15:04:30+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "df17ab160dd55e3f93b3954336d49dcc",
       "titulo": "Irã e Egito discutem insegurança em Ormuz e conflito no Iêmen em encontro entre chanceleres",
@@ -9,76 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
       "data": "2026-10-17T12:33:00.334417+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "895b93463b2c15bc8457eace53f1d1d6",
-      "titulo": "Zelensky diz que Rússia atacou infraestrutura energética da Ucrânia e pede sanções dos EUA",
-      "descricao": "Zelensky diz que Rússia atacou infraestrutura energética da Ucrânia e pede sanções dos EUA",
-      "link": "https://www.oliberal.com/mundo/zelensky-diz-que-russia-atacou-infraestrutura-energetica-da-ucrania-e-pede-sancoes-dos-eua-1.1183709",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-17T12:33:00.050183+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "63654c470e3b4b643f57ec7a37b1d030",
-      "titulo": "Mourinho defende Vini Jr. no Real: 'No lugar dele, eu teria forçado uma transferência'",
-      "descricao": "Mourinho defende Vini Jr. no Real: 'No lugar dele, eu teria forçado uma transferência'",
-      "link": "https://www.oliberal.com/esportes/mourinho-defende-vini-jr-no-real-no-lugar-dele-eu-teria-forcado-uma-transferencia-1.1183710",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
-      "data": "2026-10-17T12:32:59.773178+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d35d60e36fe9163b4a30a12b899ddbcb",
-      "titulo": "Ciclo Romaria tem show de bicicletas estilizadas com símbolos do Círio",
-      "descricao": "Devotos capricham na decoração das bicicletas para homenagear Nossa Senhora. Foto: Wagner Almeida A Ciclo Romaria, oitava procissão do Círio 2026, reuniu milhares de devotos em Belém neste sábado (17). O percurso de 14 km saiu da Basílica Santuário de Nazaré e retornou ao mesmo local. O post Ciclo Romaria tem show de bicicletas estilizadas com símbolos do Círio apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cirio-de-nazare/ciclo-romaria-tem-show-de-bicicletas-estilizadas-com-simbolos-do-cirio/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/MG_5198.jpg",
-      "data": "2026-10-17T12:29:10+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "edfbb635d73af67b1551c59b02627303",
-      "titulo": "Globo pode demitir Paulo Vieira após críticas a almoço com Flávio Bolsonaro, diz Bacci",
-      "descricao": "Humorista questionou a imparcialidade da emissora e afirmou que não pôde visitar o camarim de Lula durante sabatina O post Globo pode demitir Paulo Vieira após críticas a almoço com Flávio Bolsonaro, diz Bacci apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/tdb/paulo-vieira-globo-possivel-demissao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/Paulo-Vieira.jpg",
-      "data": "2026-10-17T12:23:07+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e5a68dbfa2b7c3503b03f405ea60e511",
-      "titulo": "TSE nega pedido de Flávio Bolsonaro para barrar atos políticos em universidades",
-      "descricao": "TSE nega pedido de Flávio Bolsonaro para barrar atos políticos em universidades",
-      "link": "https://www.oliberal.com/politica/tse-nega-pedido-de-flavio-bolsonaro-para-barrar-atos-politicos-em-universidades-1.1183597",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1183604:1792202216/lula05.jpg?f=187:100",
-      "data": "2026-10-17T08:54:41.581577+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c27029650b7a3a7c145cdc96d483f3aa",
-      "titulo": "Vitória no Senado e derrota no Governo: por que Helder Barbalho não conseguiu eleger Hana Ghassan no PA",
-      "descricao": "Vitória no Senado e derrota no Governo: por que Helder não conseguiu eleger Hana no Pará A eleição para o governo do Pará em 2026 deixou uma contradição no tabuleiro político do estado: enquanto o ex-governador Helder Barbalho (MDB) demonstrou força ao se eleger senador e ainda puxar o aliado Chicão (União Brasil) para a 2ª vaga em Brasília, o seu projeto de continuidade no Palácio do Governo sofreu uma reviravolta. A atual governadora e ex-candidata à reeleição, Hana Ghassan (MDB), que assumiu o cargo após a saída de Helder para disputar o Senado, foi derrotada ainda no 1º turno por Dr. Daniel Santos (Podemos). Com 97,46% das urnas apuradas, o ex-prefeito de Ananindeua foi eleito com 2.303.759 votos (51,75%), mais de 250 mil votos à frente da emedebista, que tinha 2.052.759 votos (46,11%). A derrota de Hana expõe um desafio para o grupo de Helder Barbalho: o tamanho da força política de um líder não garante, por si só, a eleição de seu sucessor. O g1 ouviu especialistas para identificar os principais fatores que contribuíram para a derrota de Hana. Entre os motivos estão: Eleitorado nas grandes cidades: a força da estrutura política e dos aliados locais construída por Helder manteve-se nos municípios menores, onde Hana venceu na maioria, mas o eleitorado dos grandes colégios eleitorais optou majoritariamente por Dr. Daniel. Dificuldade de construir identidade própria: Hana assumiu o governo em abril de 2026 e teve um período curto para se apresentar ao eleitorado com autonomia. Ascensão de Dr. Daniel como \"antibarbalista\": ex-prefeito de Ananindeua se consolidou como polo antagonista e pautou debates centrais na campanha. Possível erro de estratégia na aliança nacional: apesar de fazer parte da aliança de Lula e receber o apoio público do presidente, Hana teve pouca associação visual e política com o presidente durante a campanha, segundo os analistas. Enquanto isso, Daniel se aproximou de Flávio Bolsonaro (PL). Desgaste político e busca por alternância: a permanência do mesmo grupo político no poder por quase 10 anos gerou um desgaste natural, alimentando a percepção de concentração de poder. À esquerda, Hana Ghassan e Helder Barbalho; à direita, Dr Daniel Santos. Ascom Hana Ghassan / Ascom Ananindeua Embora a eleição para o governo do Pará tenha sido decidida ainda no 1º turno, a movimentação política de Dr. Daniel no estado continua. Na segunda (19), ele deve participar de um evento com Flávio em Marabá, numa tentativa de reforçar o palanque do candidato em um estado onde Lula foi o mais votado no 1º turno. Em outra frente, Helder Barbalho segue reafirmando o apoio a Lula na disputa presidencial: “Respeito as posições divergentes, mas faço questão de deixar clara a minha”, afirmou em uma publicação nas redes sociais. Já Hana Ghassan segue à frente do governo do Pará até dia 31 de dezembro. Após a derrota, a governadora afirmou na quinta (15) que pretende conduzir a transição para a próxima administração de forma \"democrática, pacífica e transparente\". Do 'palanque' no interior às urnas das grandes cidades Dados do Tribunal Superior Eleitoral (TSE) mostram que Hana Ghassan saiu vitoriosa na maioria dos 144 municípios paraenses, vencendo em 80 deles (locais com menos eleitores). No entanto, Dr. Daniel obteve desempenhos melhores nos grandes colégios eleitorais do estado, como Belém e Ananindeua, cidades da região metropolitana. Analistas explicam que há um comportamento eleitoral diferente entre interior e centros urbanos. Nos municípios menores, predomina a força do \"palanque tradicional\", que são acordos políticos com prefeitos, vereadores e lideranças regionais. Já nas grandes cidades, o eleitorado é mais influenciado pelo debate público, redes sociais, exposição midiática e queixas sobre serviços públicos. Para o professor Gustavo Ribeiro (UFPA), esse desenho geográfico revela a diferença entre a força do \"palanque tradicional\" e a autonomia do eleitorado urbano. \"O que o ex-governador Helder Barbalho conseguiu fazer foi organizar uma grande base de apoio ao seu governo, que continuou no período da Hana. A construção do palanque se manteve firme nas menores cidades. Mas você tem um eleitorado nas maiores cidades que tende a ter uma certa independência das disputas locais\", analisa Ribeiro. Em Ananindeua, segunda maior cidade do estado, Daniel teve avaliação positiva sobre a gestão municipal, o que, segundo os analistas, também pode ter influenciado na vitória dele nas cidades da região metropolitana de Belém. Falta de 'marca própria' Diferentemente de outros nomes apoiados por Helder Barbalho em pleitos recentes, como Igor Normando na Prefeitura de Belém ou Chicão na disputa ao Senado, Hana Ghassan enfrentou a necessidade de construir uma \"marca própria\" durante a campanha eleitoral. Primo do ex-governador, Normando, por exemplo, era secretário de Articulação da Cidadania (SEAC) no governo Helder antes de se tornar candidato a prefeito. Ele tinha como principal marca da gestão e da campanha em 2024 as Usinas da Paz, locais importantes que abrigam serviços gratuitos de lazer, esporte e capacitação profissional para a população em bairros da periferia. Foi eleito com 56,38% dos votos, vencendo Eder Mauro (PL). Já Hana ocupou, enquanto vice-governadora, posições de destaque na gestão estadual, como a presidência do Comitê da COP 30, conferência global realizada em novembro de 2025 em Belém, e assumido o governo em abril de 2026 após a desincompatibilização de Helder, mas ainda precisava se apresentar ao grande público. \"Há uma diferença bem específica entre alguém como Chicão ou Igor Normando e a governadora Hana. Chicão e Igor tinham marcas políticas próprias já dadas, que puderam acrescentar à campanha. No caso de Hana, o apoio não contou com esse aspecto. É diferente você ter que apresentar a candidata, construir a reputação pública do ponto de vista do eleitorado e fazê-la ganhar a sucessão. É mais difícil\", explica Gustavo Ribeiro. O cientista político Rodolfo Marques também aponta dificuldades na consolidação de uma identidade eleitoral. Ele destaca quatro fatores: a dificuldade de construir identidade política própria; desgaste \"natural\" de um grupo político no poder há quase 10 anos; a capacidade de Daniel apresentar \"alternativa competitiva\"; e a articulação da direita para vencer o \"barbalismo\". \"Hana assumiu o governo em abril de 2026 e teve um período curto para se apresentar ao eleitorado como uma liderança capaz de comandar o Estado com relativa autonomia\", afirma. De aliado interno ao polo do 'antibarbalismo' Conhecido pelo perfil pragmático, Helder construiu hegemonia ampla e diversa no Pará, abrigando na base aliada partidos e lideranças da esquerda, do centro e da direita. Mas, na ciência política, cenários de forte concentração de poder costumam gerar tendência à bipolarização. \"O governo Helder e seu grupo político se estabeleceram como um grande polo da política paraense. Estava faltando aparecer o polo antagonista que, pela dinâmica do sistema, iria aparecer em algum momento. E o Dr. Daniel se mostrou mais competente para se apresentar em relação a isso. Ele se consolidou como o antibarbalismo\", afirma o professor Gustavo Ribeiro. É aí que entra a trajetória de Dr. Daniel Santos. Médico de 40 anos, ele começou a carreira no próprio grupo de Helder. Foi deputado estadual presidente da Alepa e se elegeu prefeito de Ananindeua em 2020 com apoio direto de Barbalho. Dr. Daniel e Helder Barbalho: de aliados a adversários Arte g1 \"A trajetória do Daniel é um dos aspectos mais interessantes dessa eleição. Mostra como uma liderança que emerge dentro de uma determinada coalizão pode construir a própria autonomia. Ele rompeu com o grupo do Helder e passou a ocupar um espaço de oposição que tinha condições de ampliar, porque já conhecia a dinâmica política\", pontua Rodolfo Marques. \"Daniel acabou construindo um polo de reorganização da oposição paraense\", diz Marques. Pauta da oposição e erro na aliança nacional Além de articular o apoio de setores da direita, do agronegócio e de simpatizantes do bolsonarismo, Dr. Daniel conseguiu levar para o centro da campanha temas que atingiam diretamente a gestão de Helder. Entre os principais pontos explorados na campanha estiveram as críticas à concessão do abastecimento de água (Águas do Pará) e à cobrança de pedágios nas rodovias estaduais - ambas políticas implementadas no governo de Helder. Especialistas também apontam um \"erro estratégico\" na campanha governista quanto ao uso de alianças nacionais. Embora Lula tenha sido o candidato à Presidência mais votado no Pará, Hana teve pouca associação visual e política com o presidente durante a campanha, segundo os analistas. Uma das poucas exceções foi um comício na Praça da República, em Belém, em que Hana reforçou a parceria entre Lula e Helder; e o apoio de Lula à candidatura dela. \"A governadora Hana colocou todos os ovos na caçamba do apoio do ex-governador Helder Barbalho. Houve um erro estratégico tremendo para um estado no qual o presidente Lula obteve mais votos do que o eleitorado de oposição: ela não tentou se acercar mais da campanha do presidente Lula\", analisa Gustavo Ribeiro. \"Se tivesse conseguido trazer mais do eleitorado de Lula, o resultado poderia ter sido diferente\", ele complementa. Os limites do capital político Apesar do revés no Palácio do Governo, analistas ponderam que o resultado das urnas não significa a derrocada definitiva da influência dos Barbalho no Pará, mas demonstra os limites da transferência automática de votos. \"Eu não interpreto o resultado como uma rejeição ao Helder Barbalho, mas como um sinal de que o capital político, seja ele de quem for, tem seus próprios limites\", conclui Rodolfo Marques. Dr. Daniel assume o Governo do Pará em 6 de janeiro de 2027, tendo como vice Ellayne de Almeida (Podemos), liderança conservadora na região do oeste do estado. Entre os primeiros atos anunciados está a rescisão do contrato de concessão do saneamento no estado. VEJA TAMBÉM: Felipe Nunes, diretor da Quaest, analisa resultados das Eleições no Pará Liberal Notícia entrevista ao vivo Felipe Nunes, diretor da Quaest; veja íntegra VÍDEOS: veja todas as notícias do Pará",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/17/vitoria-no-senado-e-derrota-no-governo-por-que-helder-barbalho-nao-conseguiu-eleger-hana-ghassan-no-pa.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/Z8Y7n54wxK5dXEufr559YpyE7aM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/D/WULIWzTfy6oWbin9L0rg/1792191447460471.jpg",
-      "data": "2026-10-17T07:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a2fdd75641ae321a393f1dfe16f1b56e",
-      "titulo": "Previsão do tempo hoje para Belém (PA): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para este sábado (17) para Belém (PA) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 34ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol e chuva. À noite, pancadas de chuva. Previsão do tempo para amanhã em Belém, domingo (18) Para este domingo (18), a previsão é de sol com algumas nuvens. Não chove. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
-      "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/10/17/previsao-do-tempo-hoje-para-belem-pa-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/LCXrsloTspcA9DfOBZ4uMj4iSxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/S/rcYJiVROykOU34rFN4wA/previsao-tempo-bel-m-20261017-070130.jpeg",
-      "data": "2026-10-17T04:02:23+00:00",
       "categoria": "PARÁ"
     }
   ]
