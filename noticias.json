@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-17T18:38:04.699244+00:00",
+  "atualizado": "2026-10-17T21:07:16.436941+00:00",
   "noticias": [
+    {
+      "id": "6c017c539f426393f5d6b5f3a6900bee",
+      "titulo": "Pará é pioneiro em concessões florestais para restauração de áreas degradadas",
+      "descricao": "Pará é pioneiro em concessões florestais para restauração de áreas degradadas",
+      "link": "https://www.oliberal.com/economia/para-e-pioneiro-em-concessoes-florestais-para-restauracao-de-areas-degradadas-1.1183217",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1104836:1780936603/Sem%20título.png?f=187:100",
+      "data": "2026-10-17T21:07:13.230441+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "eeb573aebbb0f8ecfdb13679ad559ae0",
+      "titulo": "Trump promete 'poderes inacreditáveis' e se coloca no centro da campanha eleitoral nos EUA",
+      "descricao": "Trump promete 'poderes inacreditáveis' e se coloca no centro da campanha eleitoral nos EUA",
+      "link": "https://www.oliberal.com/mundo/trump-promete-poderes-inacreditaveis-e-se-coloca-no-centro-da-campanha-eleitoral-nos-eua-1.1183769",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1138491:1785275604/Instagram%20@realdonaldtrump.png?f=187:100",
+      "data": "2026-10-17T21:07:13.054296+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1c94e557d92bb1bbb608a5dbb4ffe190",
+      "titulo": "Paris registra incêndios, saques e mais de 200 detidos em protestos",
+      "descricao": "Paris registra incêndios, saques e mais de 200 detidos em protestos",
+      "link": "https://www.oliberal.com/mundo/paris-registra-incendios-saques-e-mais-de-200-detidos-em-protestos-1.1183778",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-17T21:07:12.748063+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c6f8edfadfe22b93958faf4c359f49df",
+      "titulo": "Romaria da Juventude chega à reta final. Veja vídeos e fotos de cima do trio elétrico",
+      "descricao": "A expectativa é que 60 mil jovens estejam na caminhada em 2026. São centenas vindos de diversas paróquias de Belém e Região Metropolitana O post Romaria da Juventude chega à reta final. Veja vídeos e fotos de cima do trio elétrico apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cirio-de-nazare/romaria-da-juventude-chega-a-reta-final-veja-videos-e-fotos-de-cima-do-trio-eletrico/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/WhatsApp-Video-2026-10-17-at-17.53.20.mp4",
+      "data": "2026-10-17T21:04:10+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6127f7737c848448eb9cade40e1f1447",
+      "titulo": "INSS muda regras de aposentadoria, pensão por morte e auxílio-acidente",
+      "descricao": "Segurados devem conferir data, horário e endereço do atendimento pelo Meu INSS antes de comparecer à agência da Previdência Social indicada. Novas regras do INSS esclarecem critérios para benefícios previdenciários e reduzem prazo para responder a exigências. O post INSS muda regras de aposentadoria, pensão por morte e auxílio-acidente apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/inss-muda-regras-de-aposentadoria-pensao-por-morte-e-auxilio-acidente/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/INSSagressao6-1.webp",
+      "data": "2026-10-17T21:02:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "c766d346cc9d6ec41b22843e61939289",
       "titulo": "PT diz que Flávio 'legisla a favor' do crime em projeto que prevê fim da marcação de munições",
@@ -12,36 +62,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "bf304f814325ba462fd0f60f5bf274c2",
-      "titulo": "José Sarney recebe alta após cirurgia abdominal e nove dias internado",
-      "descricao": "José Sarney recebe alta após cirurgia abdominal e nove dias internado",
-      "link": "https://www.oliberal.com/politica/jose-sarney-recebe-alta-apos-cirurgia-abdominal-e-nove-dias-internado-1.1183749",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1174338:1790627124/WhatsApp%20Image%202026-09-28%20at%2017.23.56.jpeg?f=187:100",
-      "data": "2026-10-17T18:38:02.600448+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "aa21c73fd2c59348fd2ffdf3dee17866",
-      "titulo": "Mulher perde a perna e o braço em grave acidente de trânsito em Paragominas",
-      "descricao": "Mulher perde a perna e o braço em grave acidente de trânsito em Paragominas",
-      "link": "https://www.oliberal.com/belem/mulher-perde-a-perna-e-o-braco-em-grave-acidente-de-transito-em-paragominas-1.1183750",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1183751:1792261724/Sem%20título.png?f=187:100",
-      "data": "2026-10-17T18:38:02.272167+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f61865cd2b65dd3e421d785a6d2f5b74",
-      "titulo": "Centenas de iPhones aparecem boiando no mar após navio afundar; assista",
-      "descricao": "Pescadores encontram centenas de iPhones à deriva no Estreito de Ormuz após o naufrágio do cargueiro GFS Pride, atingido em meio ao conflito na região. Centenas de iPhones foram encontrados flutuando no Estreito de Ormuz, no Oriente Médio, após o naufrágio de um navio cargueiro. A embarcação GFS Pride foi atingida e afundou, espalhando sua carga de aproximadamente 2,5 mil contêineres pelo mar. O post Centenas de iPhones aparecem boiando no mar após navio afundar; assista apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/mundo/centenas-de-iphones-aparecem-boiando-no-mar-apos-navio-afundar-assista/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/iphoneafunda7.jpg",
-      "data": "2026-10-17T18:19:44+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "03000aa17be620a83bd323e0ba4ffc93",
       "titulo": "Bebê de 10 meses e outras sete pessoas ficam feridos em batida entre ônibus e caminhão na Transamazônica",
       "descricao": "Colisão entre ônibus e caminhão deixa oito feridos em Medicilândia Um bebê de 10 meses e outras sete pessoas ficaram feridos em uma colisão frontal entre um ônibus de passageiros e um caminhão-baú na manhã deste sábado (17), na BR-230, a rodovia Transamazônica, em Medicilândia, no sudoeste do Pará. O acidente ocorreu na altura do quilômetro 96, em um trecho sem asfalto. O ônibus da empresa Ouro e Prata seguia em direção a Uruará, enquanto o caminhão trafegava no sentido contrário, rumo a Medicilândia. Segundo testemunhas, o ônibus estaria na contramão no momento da batida. O relato ainda precisa ser apurado. A poeira intensa no trecho também foi apontada como uma possível dificuldade para a visibilidade dos motoristas, mas as circunstâncias da colisão ainda serão investigadas. Com o impacto, a frente dos dois veículos ficou destruída. Algumas janelas do ônibus precisaram ser quebradas para permitir a saída dos passageiros. No caminhão, o motorista conseguiu sair, mas o homem que estava ao lado dele ficou preso às ferragens e precisou ser resgatado. Atendimento às vítimas Duas ambulâncias do Serviço de Atendimento Móvel de Urgência (Samu) de Medicilândia levaram inicialmente quatro pessoas ao Hospital Municipal. Entre elas estava o bebê de 10 meses, que sofreu escoriações na cabeça. Também foram atendidos uma mulher com traumatismo na coluna cervical, um passageiro com cortes no rosto e o ocupante do caminhão, que sofreu fraturas na perna e no pé esquerdo. Segundo as informações do atendimento, os quatro estavam conscientes e apresentavam quadro estável. Cerca de duas horas após a colisão, o Samu foi acionado novamente para atender outros quatro passageiros, que haviam buscado ajuda na casa de um agricultor. Eles também foram encaminhados ao Hospital Municipal. Não foram informados detalhes sobre os ferimentos desse grupo. VÍDEOS: veja todas as notícias do Pará",
@@ -49,26 +69,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/_oaOkrfZs9hiywl2I4mWn7rAU3A=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/26/79/15097926",
       "data": "2026-10-17T17:58:06+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e430dcb0fc72d09031a8e5e2375c4dd2",
-      "titulo": "Ufopa abre inscrições para 2.088 vagas em 60 cursos gratuitos; veja como participar",
-      "descricao": "Universidade Federal do Oeste do Pará abre seleção para 2.088 vagas em 60 cursos de graduação gratuitos, com inscrições até 17 de janeiro de 2027. A Universidade Federal do Oeste do Pará (Ufopa) lançou o Processo Seletivo Regular Unificado (PSR) 2027, oferecendo 2.088 vagas em 60 cursos de graduação gratuitos. As inscrições são gratuitas e vão até 17 de janeiro de 2027. O post Ufopa abre inscrições para 2.088 vagas em 60 cursos gratuitos; veja como participar apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/ufopa-abre-inscricoes-para-2-088-vagas-em-60-cursos-gratuitos-veja-como-participar/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/PSRUFOPA3.webp",
-      "data": "2026-10-17T17:55:11+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e47980a6ee024ca3b5c283fd84f4abcb",
-      "titulo": "Homem é atingido por 3 tiros no peito em tentativa de homicídio em Santarém",
-      "descricao": "Homem é atingido por 3 tiros no peito em tentativa de homicídio em Santarém",
-      "link": "https://www.oliberal.com/belem/homem-e-atingido-por-3-tiros-no-peito-em-tentativa-de-homicidio-em-santarem-1.1183732",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1183733:1792251477/Foto%20%20Arquivo%20O%20Liberal.png?f=187:100",
-      "data": "2026-10-17T16:01:14.349037+00:00",
       "categoria": "PARÁ"
     },
     {
