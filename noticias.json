@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-18T17:39:04.220162+00:00",
+  "atualizado": "2026-10-18T19:49:33.973464+00:00",
   "noticias": [
+    {
+      "id": "952ab03cdd9d0bc06f3b362974cba1b7",
+      "titulo": "Homem é encontrado morto com perfurações em Santarém",
+      "descricao": "Homem é encontrado morto com perfurações em Santarém",
+      "link": "https://www.oliberal.com/policia/homem-e-encontrado-morto-com-perfuracoes-em-santarem-1.1183950",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1183952:1792347537/WhatsApp%20Image%202026-10-18%20at%2015.08.33.jpeg?f=187:100",
+      "data": "2026-10-18T19:49:32.834326+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b3b52e623ad263c61cac063ebc110bae",
+      "titulo": "Larissa Castro é a Gata da Capa do Jornal Amazônia deste domingo, 18",
+      "descricao": "Larissa Castro é a Gata da Capa do Jornal Amazônia deste domingo, 18",
+      "link": "https://www.oliberal.com/cultura/moda-e-beleza/larissa-castro-e-a-gata-da-capa-do-jornal-amazonia-deste-domingo-18-1.1183954",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1183955:1792351135/Larissa%20Castro%20Lucas%20Queiroz%201.JPG?f=187:100",
+      "data": "2026-10-18T19:49:32.564889+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e9202a841ed9f2d1a342a6ef6a011e26",
+      "titulo": "Discussão entre mulheres termina com uma delas morta em Tucuruí",
+      "descricao": "Discussão entre mulheres termina com uma delas morta em Tucuruí",
+      "link": "https://www.oliberal.com/policia/discussao-entre-mulheres-termina-com-uma-delas-morta-em-tucurui-1.1183961",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1183964:1792352227/WhatsApp%20Image%202026-10-18%20at%2016.06.21.jpeg?f=187:100",
+      "data": "2026-10-18T19:49:32.291933+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "35ab223df288a10a3d0b316372b776fd",
+      "titulo": "Remo x Bragantino: veja onde assistir ao vivo e as escalações",
+      "descricao": "Remo ainda mira a reação para sair do Z4. Foto: Samara Miranda/Remo O Clube do Remo enfrenta o Red Bull Bragantino neste domingo (18) pela 31ª rodada do Brasileirão. O Leão Azul precisa somar pontos para tentar escapar da zona de rebaixamento. O post Remo x Bragantino: veja onde assistir ao vivo e as escalações apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/remo-x-bragantino-veja-onde-assistir-ao-vivo-e-as-escalacoes/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_848632831_1971307527375632_4125450731266413676_n.jpg",
+      "data": "2026-10-18T19:24:48+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "55deaaa1765b96cf4fc2b9ac5385c483",
+      "titulo": "Três homens descem de carro e executam homem a tiros na Marambaia, em Belém",
+      "descricao": "Trio em Ônix branco mata homem na Marambaia, em Belém Patrick de Oliveira do Rosário Varela foi morto a tiros na madrugada deste domingo (18), no bairro da Marambaia, em Belém. A polícia investiga a hipótese de acerto de contas. O post Três homens descem de carro e executam homem a tiros na Marambaia, em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/policia/tres-homens-descem-de-carro-e-executam-homem-a-tiros-na-marambaia-em-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_Foto_ZAP_MARAMBAIA-_PAtrick_de_Oliveira_morto_por_ocupantes_de_um_carro_branco_na_Marambaia-1.jpg",
+      "data": "2026-10-18T18:54:24+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "d381ff9017740863e4d01a486f8116ed",
       "titulo": "Flávio diz que vai 'esfregar' crimes de Lula em debate e que Brasil está sem presidente",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
       "data": "2026-10-18T17:39:01.980630+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f87f6f31e76ed62062df66c153ab7dab",
-      "titulo": "Felca ressurge após 7 meses afastado das redes sociais: 'Me escondi por tempo demais'",
-      "descricao": "Felca ressurge após 7 meses afastado das redes sociais: 'Me escondi por tempo demais'",
-      "link": "https://www.oliberal.com/cultura/felca-ressurge-apos-7-meses-afastado-das-redes-sociais-me-escondi-por-tempo-demais-1.1183938",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1005329:1755014620/felca01-1iupxo7jpw57l.jpeg?f=187:100",
-      "data": "2026-10-18T17:39:01.810844+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4aabf375d6f167b8aa1b47cea4d6f72e",
-      "titulo": "Missa no Grupo Liberal: padre Claudio Pighin alerta para o respeito a Deus",
-      "descricao": "Missa no Grupo Liberal: padre Claudio Pighin alerta para o respeito a Deus",
-      "link": "https://www.oliberal.com/belem/missa-no-grupo-liberal-padre-claudio-pighin-alerta-para-o-respeito-a-deus-1.1183936",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1183939:1792343108/Missa.jpg?f=187:100",
-      "data": "2026-10-18T17:39:01.640672+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "06952dc90498a430f1f4732d9b06acf8",
-      "titulo": "Real Madrid recebe o Sevilla no Bernabéu pela 9ª rodada de LaLiga; veja onde assistir",
-      "descricao": "O Real tem jogo decisivo neste domingo Equipes aparecem lado a lado na tabela: time de Mourinho em quarto, com 18 pontos, e os andaluzes logo atrás, com 14 O post Real Madrid recebe o Sevilla no Bernabéu pela 9ª rodada de LaLiga; veja onde assistir apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/ao-vivo/real-madrid-x-sevilla-escalacoes-onde-assistir-campeonato-espanhol/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_849785840_2029852677728150_2030987798994517728_n.jpg",
-      "data": "2026-10-18T17:37:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "287bc8ac52e1af282c62de52d8ecc9d9",
-      "titulo": "Vorcaro quis comprar parte do estádio do Palmeiras em negócio milionário; entenda",
-      "descricao": "Daniel Vorcaro, ex-banqueiro ligado ao Banco Master, teve a lista de passageiros de seu avião submetida a uma restrição de acesso por até 100 anos. Foto: reprodução Mensagens mostram interesse de Vorcaro em comprar parte do estádio do Palmeiras. O post Vorcaro quis comprar parte do estádio do Palmeiras em negócio milionário; entenda apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/vorcaro-quis-comprar-parte-do-estadio-do-palmeiras-em-negocio-milionario-entenda/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_images_-_2026-10-15T161505_169.jpg",
-      "data": "2026-10-18T17:36:18+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e2ea0608308ec7c1200005d543d08959",
-      "titulo": "Reino Unido: Chefe do Exército diz que governo deve preparar população para tempos de guerra",
-      "descricao": "Reino Unido: Chefe do Exército diz que governo deve preparar população para tempos de guerra",
-      "link": "https://www.oliberal.com/mundo/reino-unido-chefe-do-exercito-diz-que-governo-deve-preparar-populacao-para-tempos-de-guerra-1.1183910",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-18T14:43:21.528321+00:00",
       "categoria": "PARÁ"
     },
     {
