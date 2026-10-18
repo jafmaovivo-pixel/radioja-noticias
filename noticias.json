@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-18T01:16:11.617951+00:00",
+  "atualizado": "2026-10-18T06:08:46.130815+00:00",
   "noticias": [
+    {
+      "id": "603864d0fde7c0999a277ae8dc8e1cb5",
+      "titulo": "São Paulo melhora no segundo tempo, derrota o Vasco e sonha com vaga na Libertadores",
+      "descricao": "São Paulo melhora no segundo tempo, derrota o Vasco e sonha com vaga na Libertadores",
+      "link": "https://www.oliberal.com/esportes/sao-paulo-melhora-no-segundo-tempo-derrota-o-vasco-e-sonha-com-vaga-na-libertadores-1.1183839",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
+      "data": "2026-10-18T06:08:44.205985+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b0101bfa9938b1268ef4a10372ce2093",
+      "titulo": "Rayssa Leal garante vaga na decisão do Mundial de Skate Street no Paraguai",
+      "descricao": "Rayssa Leal garante vaga na decisão do Mundial de Skate Street no Paraguai",
+      "link": "https://www.oliberal.com/esportes/rayssa-leal-garante-vaga-na-decisao-do-mundial-de-skate-street-no-paraguai-1.1183840",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
+      "data": "2026-10-18T06:08:43.883480+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "873c9fee9179029468070b85e5d93165",
+      "titulo": "Artur encerra jejum e pede São Paulo ambicioso: 'É hora de olhar para cima'",
+      "descricao": "Artur encerra jejum e pede São Paulo ambicioso: 'É hora de olhar para cima'",
+      "link": "https://www.oliberal.com/esportes/artur-encerra-jejum-e-pede-sao-paulo-ambicioso-e-hora-de-olhar-para-cima-1.1183841",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
+      "data": "2026-10-18T06:08:43.563327+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b591d7e2993ea0d628f0bfa345568adb",
+      "titulo": "Previsão do tempo hoje para Belém (PA): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
+      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para este domingo (18) para Belém (PA) é de sol e muitas nuvens à tarde. À noite o céu ainda fica com muita nebulosidade, mas não chove. As máximas são de 35ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com muitas nuvens. À noite, muitas nuvens. Previsão do tempo para amanhã em Belém, segunda (19) Para esta segunda (19), a previsão é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
+      "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-belem-pa-sol-e-muitas-nuvens-a-tarde-a-noite-o-ceu-ainda-fica-com-muita-nebulosidade-mas-nao-chove.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/GDRtxKd7fLXfTUlLHiSOx7YAhoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/J/ZPisCFTQKOBCuKAFoofQ/previsao-tempo-bel-m-20261018-010158.jpeg",
+      "data": "2026-10-18T04:02:25+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d66b005ac6e8beb80cc462ebd253da62",
+      "titulo": "O que você precisa saber sobre “Crystal Lake”, a série de “Sexta-Feira 13” que acaba de estrear",
+      "descricao": "Série oficial ligada ao universo de “Sexta-Feira 13” Produção da A24 vai explorar a origem de Pamela Voorhees e mergulhar no passado sombrio de Crystal Lake com muito sangue O post O que você precisa saber sobre “Crystal Lake”, a série de “Sexta-Feira 13” que acaba de estrear apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/tdb/o-que-voce-precisa-saber-sobre-crystal-lake-a-serie-de-sexta-feira-13-que-acaba-de-estrear/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/05/Crystal-Lake.webp",
+      "data": "2026-10-18T01:52:57+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "f3c8c90036a1171d7656d8522c24efe0",
       "titulo": "Dr. Daniel reúne equipe de transição e articula apoio político no Pará",
@@ -9,26 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.1183831:1792285161/WhatsApp%20Image%202026-10-17%20at%2021.59.04.jpeg?f=187:100",
       "data": "2026-10-18T01:16:08.290025+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7f1b35245806bbad3a8ad72a77d32b29",
-      "titulo": "A 8 dias do 2º turno, lobista diz querer fazer delação e que Lulinha reuniu-se com ministros",
-      "descricao": "A 8 dias do 2º turno, lobista diz querer fazer delação e que Lulinha reuniu-se com ministros",
-      "link": "https://www.oliberal.com/politica/a-8-dias-do-2-turno-lobista-diz-querer-fazer-delacao-e-que-lulinha-reuniu-se-com-ministros-1.1183832",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-18T01:16:07.828638+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "adb3fcc4978eafdd2df09cf5707d53fe",
-      "titulo": "Relação com Lula nunca foi comercial, e sim institucional, afirma lobista a 8 dias do 2º turno",
-      "descricao": "Relação com Lula nunca foi comercial, e sim institucional, afirma lobista a 8 dias do 2º turno",
-      "link": "https://www.oliberal.com/politica/relacao-com-lula-nunca-foi-comercial-e-sim-institucional-afirma-lobista-a-8-dias-do-2-turno-1.1183833",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-18T01:16:07.439055+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,26 +72,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "af76a98bc87ce690eb1918cc804ea44c",
-      "titulo": "Elon Musk apresenta carro que promete voar e acelerar a 100 km/h em menos de 1 segundo",
-      "descricao": "Elon Musk aposta no novo Tesla Roadster, esportivo elétrico que promete aceleração de 0 a 100 km/h em menos de um segundo. Foto: divulgação/reprodução Novo esportivo elétrico da Tesla promete atingir 370 km/h, usar propulsores ligados à SpaceX e chegar à produção em 2028; entenda as novidades. O post Elon Musk apresenta carro que promete voar e acelerar a 100 km/h em menos de 1 segundo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/mundo/elon-musk-apresenta-carro-que-promete-voar-e-acelerar-a-100-km-h-em-menos-de-1-segundo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_Roadster_53-e1792150228441.jpg",
-      "data": "2026-10-18T00:58:47+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e7d76b8fe9e23e6b28248a21da19bd08",
-      "titulo": "Educação financeira para casais: diálogo e planejamento ajudam a evitar conflito",
-      "descricao": "Educação financeira para casais: diálogo e planejamento ajudam a evitar conflito",
-      "link": "https://www.oliberal.com/economia/educacao-financeira-para-casais-dialogo-e-planejamento-ajudam-a-evitar-conflito-1.1183800",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1183801:1792278293/finanças.jpeg?f=187:100",
-      "data": "2026-10-17T23:14:04.998730+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "78c2ac98935129204b3adb400a405094",
       "titulo": "Círio 2026: Ciclo Romaria e Romaria da Juventude levam milhares de devotos às ruas de Belém",
       "descricao": "Veja detalhes sobre Ciclo Romaria, Romaria da Juventude e Romaria das crianças em Belém Duas procissões oficiais que envolvem o Círio de Nazaré 2026 movimentaram as ruas da cidade neste sábado (17): a Ciclo Romaria, que reuniu carca de 16 mil devotos sobre duas rodas, e a 24ª Romaria da Juventude, que levou aproximadamente 60 mil jovens da paróquia Santa Cruz até a Basílica Santuário. Para os dois momentos, a berlinda que abriga a imagem peregrina de Nossa Senhora de Nazaré ganhou cores que traduzem alegria, energia e jovialidade. Rosas, bocas-de-leão, antúrios e alstromérias em tons de rosa e branco se entrelaçam numa ornamentação delicada e vibrante, preparada para acompanhar a fé de ciclistas e jovens pelas ruas de Belém. A decoração é assinada por Simone Cosme. Fé sobre duas rodas Bicicleta ganhadora do concurso de 2026. Ascom DFN A Ciclo Romaria premiou as bicicletas mais enfeitadas e os grupos mais animados. Centenas de ciclistas capricharam na decoração da bicicleta, com uma maquete que reproduz a Basílica Santuário de Nazaré e a Catedral Metropolitana de Belém: homenagens à santa feitas com as próprias mãos. Na concentração, os grupos chamavam a atenção. Um deles reuniu cerca de 120 pessoas, que vêm junta para pedalar, agradecer e renovar a devoção à Nossa Senhora. ✅ Clique e siga o canal do g1 Pará no WhatsApp A imagem peregrina saiu da Basílica e seguiu para a berlinda, enquanto os sinos anunciavam a partida, às 8h. Bicicletas ornamentadas e grupos uniformizados tomaram então as ruas da cidade. A Ciclo Romaria faz parte do calendário oficial do Círio desde 2004. São 14 quilômetros de percurso, concluídos em cerca de duas horas. Círio 2026: veja ruas interditadas em Belém para as romarias deste fim de semana Depois da volta à Praça Santuário, veio a premiação dos destaques. O vencedor da bicicleta mais enfeitada foi Raimundo, pelo segundo ano consecutivo, que contou que deu trabalho preparar tudo, mas a fé falou mais alto. O esforço valeu a pena: ele foi com uma bicicleta e voltou com duas; uma foi a premiação do concurso deste ano. Juventude em missão Milhares de jovens lotam ruas do percurso da Romaria da Juventude de 2026. Allan Bentes Às 16h, foi a vez da 24ª Romaria da Juventude, nona procissão oficial do Círio 2026. A caminhada começou na paróquia Santa Cruz, após missa de envio celebrada às 15h por dom Paulo Andreolli, bispo nomeado recentemente para a diocese de Ponta de Pedras. A procissão percorreu 4,6 km pela avenida Almirante Barroso, travessa Humaitá, avenida Duque de Caxias, travessa Antônio Barreto, travessa Castelo Branco, avenida Governador José Malcher, avenida Generalíssimo Deodoro e avenida Nazaré, até a chegada à Basílica Santuário. Foram cerca de 2h30 de caminhada. Organizada pela Diretoria da Festa de Nazaré (DFN), em parceria com as paróquias e comunidades da Arquidiocese de Belém, a romaria leva às ruas o tema do Círio 2026, \"Maria, missionária que nos dá Jesus\", inspirando os jovens a serem como Maria, missionários do evangelho. Círio de Nazaré 2026: Ciclo Romaria e Romaria da Juventude. Ascom / DFN e Antenor Filho / TV Liberal VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/vdTC8pe0YgTV85sgSlGobMBjq70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/1qX38OSB6OB1696VKoDg/geral-g1-45-.png",
       "data": "2026-10-17T22:10:09+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "536bff862cc5304db29841290d29dc37",
-      "titulo": "Fundação Carlos Gomes abre 20 bolsas para orquestra do Festival Internacional de Música do Pará",
-      "descricao": "Músicos podem se inscrever na seletiva até segunda-feira (19). Alex Ribeiro / Ag Para Estão abertas as inscrições para a seleção de 20 bolsistas para compor a orquestra do 38º Festival Internacional de Música do Pará (Fimupa). A iniciativa é da Fundação Carlos Gomes e do Instituto Estadual Carlos Gomes. Pessoas interessadas podem se inscrever até segunda-feira (19). Os músicos selecionados participarão de ensaios, apresentações públicas, atividades preparatórias e demais ações artísticas vinculadas à participação da orquestra do festival. ✅ Clique e siga o canal do g1 Pará no WhatsApp A seleção oferece 20 vagas, distribuídas em violinos (13), violas (2), contrabaixos (2), trompete (2) e fagote (1). As inscrições deverão ser realizadas exclusivamente pelo e-mail disponível no link. O edital completo, com informações sobre documentos necessários, audição, critérios de pontuação e cronograma geral da seleção, está publicado no link. O festival Agora no g1 Nesta edição, o 38º Fimupa será realizado no período de 2 a 8 de novembro. No concerto da orquestra do Festival, serão apresentadas diversas obras, como \"Abertura da Ópera Candide\", de Bernstein e \"Sinfonia nº 4 em fá menor\", de Tchaikovsky. A orquestra será regida pelo maestro paraense Miguel Campos Neto, ex-aluno de música do Instituto Estadual Carlos Gomes (IECG). Esta é a primeira vez que ele irá reger a orquestra do Fimupa. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/10/17/fundacao-carlos-gomes-abre-20-bolsas-para-orquestra-do-festival-internacional-de-musica-do-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/giyn8ldXO7nq2Ui555T5uyAyWxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/k/A4sV7bRsiBYz3Eal8BVA/20251115222526-gf00025547-f00468234.webp",
-      "data": "2026-10-17T21:19:17+00:00",
       "categoria": "PARÁ"
     }
   ]
