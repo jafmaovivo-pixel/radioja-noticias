@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-18T06:08:46.130815+00:00",
+  "atualizado": "2026-10-18T11:27:26.721532+00:00",
   "noticias": [
+    {
+      "id": "20d6c4c2804603b7f2dfbff84cc7cf2e",
+      "titulo": "Remo encara o Bragantino pressionado por vitória no Mangueirão",
+      "descricao": "Remo encara o Bragantino pressionado por vitória no Mangueirão",
+      "link": "https://www.oliberal.com/esportes/remo/remo-encara-o-bragantino-pressionado-por-vitoria-no-mangueirao-1.1183060",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1111938:1776640677/WhatsApp%20Image%202026-04-19%20at%2019.51.08.jpeg?f=187:100",
+      "data": "2026-10-18T11:27:24.454895+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "38115fb5d0c0200214540a35deefcd21",
+      "titulo": "Flávio comemora entrevista de lobista e deputada do PL quer proteção para testemunha",
+      "descricao": "Flávio comemora entrevista de lobista e deputada do PL quer proteção para testemunha",
+      "link": "https://www.oliberal.com/politica/flavio-comemora-entrevista-de-lobista-e-deputada-do-pl-quer-protecao-para-testemunha-1.1183856",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-18T11:27:24.244392+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "41323816e93a4d3f9d589ffa6cbedd74",
+      "titulo": "EUA: Rubio diz que Trump terá 60 dias para avaliar impactos de sanções contra Rússia",
+      "descricao": "EUA: Rubio diz que Trump terá 60 dias para avaliar impactos de sanções contra Rússia",
+      "link": "https://www.oliberal.com/mundo/eua-rubio-diz-que-trump-tera-60-dias-para-avaliar-impactos-de-sancoes-contra-russia-1.1183857",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-18T11:27:24.035849+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "88ffb788f55ea7a8e01d1cef9fab4e70",
+      "titulo": "Remo encara Bragantino em jogo decisivo e faz apelo ao Fenômeno Azul",
+      "descricao": "Remo tenta encerrar jejum de dez rodadas contra o Bragantino no Mangueirão. Foto: Samara Miranda/ascom Remo Na 19ª posição e sem vencer há dez rodadas, Leão Azul recebe o Massa Bruta neste domingo, no Mangueirão, com retornos importantes e a ausência do goleiro Marcelo Rangel. O post Remo encara Bragantino em jogo decisivo e faz apelo ao Fenômeno Azul apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/remo-encara-bragantino-em-jogo-decisivo-e-faz-apelo-ao-fenomeno-azul/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_855612682_1109977908420502_4959545451328120944_n.jpg",
+      "data": "2026-10-18T11:16:20+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f0a4e53d788c1b1c1ac33b19127e1ecf",
+      "titulo": "UFC Edmonton entra para a história com 11 lutas seguidas sem decisão dos juízes",
+      "descricao": "Mike Malott nocauteia Buckley e fecha noite histórica no UFC Edmonton Evento no Canadá teve 12 das 13 lutas encerradas antes da decisão dos juízes, e Mike Malott nocauteou Joaquin Buckley na luta principal. O post UFC Edmonton entra para a história com 11 lutas seguidas sem decisão dos juízes apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/ufc-edmonton-entra-para-a-historia-com-11-lutas-seguidas-sem-decisao-dos-juizes/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_SaveClip_App_850412913_18342150649287554_1658486119223064607_n.jpg",
+      "data": "2026-10-18T11:06:09+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "603864d0fde7c0999a277ae8dc8e1cb5",
       "titulo": "São Paulo melhora no segundo tempo, derrota o Vasco e sonha com vaga na Libertadores",
@@ -12,63 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "b0101bfa9938b1268ef4a10372ce2093",
-      "titulo": "Rayssa Leal garante vaga na decisão do Mundial de Skate Street no Paraguai",
-      "descricao": "Rayssa Leal garante vaga na decisão do Mundial de Skate Street no Paraguai",
-      "link": "https://www.oliberal.com/esportes/rayssa-leal-garante-vaga-na-decisao-do-mundial-de-skate-street-no-paraguai-1.1183840",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
-      "data": "2026-10-18T06:08:43.883480+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "873c9fee9179029468070b85e5d93165",
-      "titulo": "Artur encerra jejum e pede São Paulo ambicioso: 'É hora de olhar para cima'",
-      "descricao": "Artur encerra jejum e pede São Paulo ambicioso: 'É hora de olhar para cima'",
-      "link": "https://www.oliberal.com/esportes/artur-encerra-jejum-e-pede-sao-paulo-ambicioso-e-hora-de-olhar-para-cima-1.1183841",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
-      "data": "2026-10-18T06:08:43.563327+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "b591d7e2993ea0d628f0bfa345568adb",
       "titulo": "Previsão do tempo hoje para Belém (PA): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
       "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para este domingo (18) para Belém (PA) é de sol e muitas nuvens à tarde. À noite o céu ainda fica com muita nebulosidade, mas não chove. As máximas são de 35ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com muitas nuvens. À noite, muitas nuvens. Previsão do tempo para amanhã em Belém, segunda (19) Para esta segunda (19), a previsão é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
       "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-belem-pa-sol-e-muitas-nuvens-a-tarde-a-noite-o-ceu-ainda-fica-com-muita-nebulosidade-mas-nao-chove.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/GDRtxKd7fLXfTUlLHiSOx7YAhoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/J/ZPisCFTQKOBCuKAFoofQ/previsao-tempo-bel-m-20261018-010158.jpeg",
+      "imagem": "https://s2-g1.glbimg.com/7Bz-z0G4YT6prpu3qAl_rUzf4Aw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/1/EYApd5Qv64YvzskncHFA/previsao-tempo-bel-m-20261018-070130.jpeg",
       "data": "2026-10-18T04:02:25+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d66b005ac6e8beb80cc462ebd253da62",
-      "titulo": "O que você precisa saber sobre “Crystal Lake”, a série de “Sexta-Feira 13” que acaba de estrear",
-      "descricao": "Série oficial ligada ao universo de “Sexta-Feira 13” Produção da A24 vai explorar a origem de Pamela Voorhees e mergulhar no passado sombrio de Crystal Lake com muito sangue O post O que você precisa saber sobre “Crystal Lake”, a série de “Sexta-Feira 13” que acaba de estrear apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/tdb/o-que-voce-precisa-saber-sobre-crystal-lake-a-serie-de-sexta-feira-13-que-acaba-de-estrear/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/05/Crystal-Lake.webp",
-      "data": "2026-10-18T01:52:57+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f3c8c90036a1171d7656d8522c24efe0",
-      "titulo": "Dr. Daniel reúne equipe de transição e articula apoio político no Pará",
-      "descricao": "Dr. Daniel reúne equipe de transição e articula apoio político no Pará",
-      "link": "https://www.oliberal.com/para/dr-daniel-reune-equipe-de-transicao-e-articula-apoio-politico-no-para-1.1183830",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1183831:1792285161/WhatsApp%20Image%202026-10-17%20at%2021.59.04.jpeg?f=187:100",
-      "data": "2026-10-18T01:16:08.290025+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c155e773f64e26f9b0c121a7076ace93",
-      "titulo": "Palmeiras faz 2 a 0 no Athletico, resiste com dez e dorme líder do Brasileirão",
-      "descricao": "O jogador Mauricio, da SE Palmeiras, comemora seu gol contra a equipe do C Athletico Paranaense, durante partida válida pela trigésima primeira rodada, do Campeonato Brasileiro, Série A, na Arena da Baixada. (Foto: Cesar Greco/Palmeiras/by Canon) Mesmo com um jogador a menos, o Palmeiras venceu o Athletico-PR por 2 a 0 e assumiu provisoriamente a liderança do Campeonato Brasileiro, colocando pressão sobre o Flamengo. O post Palmeiras faz 2 a 0 no Athletico, resiste com dez e dorme líder do Brasileirão apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/palmeiras-faz-2-a-0-no-athletico-resiste-com-dez-e-dorme-lider-do-brasileirao/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/17102026_cg_palmeiras_destaque_5785_13.png",
-      "data": "2026-10-18T01:03:18+00:00",
       "categoria": "PARÁ"
     },
     {
