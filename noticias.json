@@ -1,6 +1,66 @@
 {
-  "atualizado": "2026-10-19T00:16:50.187459+00:00",
+  "atualizado": "2026-10-19T04:58:14.046485+00:00",
   "noticias": [
+    {
+      "id": "4fa344ad3655ca99fffb83520e8edf78",
+      "titulo": "Flávio diz que reajuste do Bolsa Família feito pelo governo Lula será mantido caso seja eleito",
+      "descricao": "Flávio diz que reajuste do Bolsa Família feito pelo governo Lula será mantido caso seja eleito",
+      "link": "https://www.oliberal.com/politica/flavio-diz-que-reajuste-do-bolsa-familia-feito-pelo-governo-lula-sera-mantido-caso-seja-eleito-1.1184155",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-19T04:58:10.997670+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "945083e078282f748ca9b2ae5b8e7140",
+      "titulo": "Zé Ivaldo cobra efetividade do Remo e admite que time sentiu pressão da torcida",
+      "descricao": "Zé Ivaldo cobra efetividade do Remo e admite que time sentiu pressão da torcida",
+      "link": "https://www.oliberal.com/esportes/remo/ze-ivaldo-cobra-efetividade-do-remo-e-admite-que-time-sentiu-pressao-da-torcida-1.1184164",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1182301:1791935367/55562191162_1e71f6d27d_c.jpg?f=187:100",
+      "data": "2026-10-19T04:58:10.804054+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "062ac0fd92683b3c593ac31d4ca2dabb",
+      "titulo": "Mourinho indica Vini Jr. como titular na Champions e defende brasileiro: 'É espetacular'",
+      "descricao": "Mourinho indica Vini Jr. como titular na Champions e defende brasileiro: 'É espetacular'",
+      "link": "https://www.oliberal.com/esportes/mourinho-indica-vini-jr-como-titular-na-champions-e-defende-brasileiro-e-espetacular-1.1184165",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
+      "data": "2026-10-19T04:58:10.453316+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "588905cb993b48576caa7e8acbdf27a6",
+      "titulo": "Previsão do tempo hoje para Belém (PA): sol com algumas nuvens; não chove",
+      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta segunda-feira (19) para Belém (PA) é de sol com algumas nuvens. Não chove. As máximas são de 34ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuvens. À noite, algumas nuvens. Previsão do tempo para amanhã em Belém, terça (20) Para esta terça (20), a previsão é de sol com algumas nuvens. Não chove. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
+      "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/10/19/previsao-do-tempo-hoje-para-belem-pa-sol-com-algumas-nuvens-nao-chove.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/xfUFxDAGNw6gpSRa93uE2-4JsBo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/q/ppzZiESASla411SYquRw/previsao-tempo-bel-m-20261019-010148.jpeg",
+      "data": "2026-10-19T04:01:59+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5a87de88d10ae7a9ae45ecf22984ff45",
+      "titulo": "Band chega a 15 pontos e ultrapassa a Globo durante debate presidencial",
+      "descricao": "Crédito: Renato Pizzutto/Band A Band superou a TV Globo em audiência durante o primeiro debate do segundo turno entre Lula e Flávio Bolsonaro, atingindo 15 pontos na Grande São Paulo. O post Band chega a 15 pontos e ultrapassa a Globo durante debate presidencial apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/band-chega-a-15-pontos-e-ultrapassa-a-globo-durante-debate-presidencial/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/55598165056_c0a2fcd910_k.jpg",
+      "data": "2026-10-19T02:04:37+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "a898326564d40bcf74b7437078d23906",
+      "titulo": "Como foi o primeiro debate entre Lula e Flávio Bolsonaro na Band",
+      "descricao": "Crédito: Renato Pizzutto/Band O primeiro debate do segundo turno entre Lula e Flávio Bolsonaro foi marcado por divergências sobre segurança pública, economia, saúde e políticas sociais. Os candidatos trocaram críticas e apresentaram propostas para tentar conquistar o eleitorado. O post Como foi o primeiro debate entre Lula e Flávio Bolsonaro na Band apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/como-foi-o-primeiro-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/55598560335_a52631bd80_k.jpg",
+      "data": "2026-10-19T01:47:17+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "7f643dbd338977f3747746de33395af0",
       "titulo": "Vila Nova e Novorizontino empatam e dominam o topo da Série B do Brasileiro",
@@ -12,46 +72,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "4a1b8c77cd29405a1ad37516b6092a4b",
-      "titulo": "Neymar revela que quase disputou Mundial pelo Fluminense: 'Tive uma conversa com o presidente'",
-      "descricao": "Neymar revela que quase disputou Mundial pelo Fluminense: 'Tive uma conversa com o presidente'",
-      "link": "https://www.oliberal.com/esportes/neymar-revela-que-quase-disputou-mundial-pelo-fluminense-tive-uma-conversa-com-o-presidente-1.1184083",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.711402:1758852234/Neymar.jpg?f=187:100",
-      "data": "2026-10-19T00:16:48.149350+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c34d5b9d70ee4d21b819a4878f8b16a7",
-      "titulo": "Subtenente do Corpo de Bombeiros é preso em flagrante por violência doméstica",
-      "descricao": "Subtenente do Corpo de Bombeiros é preso em flagrante por violência doméstica",
-      "link": "https://www.oliberal.com/policia/subtenente-do-corpo-de-bombeiros-e-preso-em-flagrante-por-violencia-domestica-1.1184063",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1137974:1782494895/violenciua.png?f=187:100",
-      "data": "2026-10-19T00:16:47.878519+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "13d584a7a661d34a505b8d309b3a3a75",
-      "titulo": "Esposa de Leonardo, Poliana Rocha posa de topless aos 49 anos",
-      "descricao": "Mãe de Zé Felipe, Poliana Rocha posa de topless aos 49 anos Poliana Rocha, esposa do cantor Leonardo, causou alvoroço nas redes sociais ao postar uma foto de topless. A influenciadora, de 49 anos, exibiu o bronzeado em dia e recebeu muitos elogios. O post Esposa de Leonardo, Poliana Rocha posa de topless aos 49 anos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/tdb/esposa-de-leonardo-poliana-rocha-posa-de-topless-aos-49-anos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_fotos-materias-2026-10-18t124943_313.jpg",
-      "data": "2026-10-19T00:11:01+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e6d0eb933a8cdd3e51f366119c693574",
-      "titulo": "Por que o Mapa Astral não consegue prever a morte de uma pessoa",
-      "descricao": "Será que o Mapa Astral revela a hora da morte de alguém? Essa é uma das dúvidas que mais aparece na astrologia. Segundo a astróloga, o fim da própria vida escapa ao mapa pela mesma razão que nunca vira lembrança: ninguém processa a própria extinção. O post Por que o Mapa Astral não consegue prever a morte de uma pessoa apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/mapa-astral-previsao-de-morte-astrologia/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/horoscopo-de-hoje-16-de-outubro-de-2026.png",
-      "data": "2026-10-19T00:08:07+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "e804fee8082031330165ace7c098e32c",
       "titulo": "Idoso é preso suspeito de estupro de vulnerável em Salvaterra, no Marajó",
       "descricao": "Idoso é preso suspeito de estupro de vulnerável em Salvaterra, no Marajó Um homem de 82 anos foi preso na manhã deste sábado, 17, suspeito de abusar sexualmente de uma criança de 9 anos em uma comunidade quilombola de Salvaterra, no arquipélago do Marajó, no Pará. Segundo testemunhas, o suspeito seria avô adotivo da vítima. ✅ Clique e siga o canal do g1 Pará no WhatsApp De acordo com a Polícia Militar, os policiais foram acionados por moradores, que teriam interrompido o abuso antes da chegada da guarnição. Ainda segundo a PM, o homem apresentava ferimentos leves, supostamente provocados por agressões de moradores. A criança, os responsáveis, testemunhas e o suspeito foram encaminhados à Delegacia de Polícia Civil de Salvaterra, onde o caso foi registrado. O Conselho Tutelar do município também foi acionado e acompanha a ocorrência para garantir assistência psicológica e proteção à criança e aos familiares. VÍDEOS: veja as principais notícias do Pará",
@@ -59,26 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/aPALVUjRVPKZ8MN-8gGma4GMv_c=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/10/03/15100310",
       "data": "2026-10-18T23:02:17+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b243e62f490ffb201fea3597f3fad6f5",
-      "titulo": "Cruzeiro bate o Grêmio com hat-trick de Kaio Jorge e chega forte na briga pelo G-4",
-      "descricao": "Cruzeiro bate o Grêmio com hat-trick de Kaio Jorge e chega forte na briga pelo G-4",
-      "link": "https://www.oliberal.com/esportes/cruzeiro-bate-o-gremio-com-hat-trick-de-kaio-jorge-e-chega-forte-na-briga-pelo-g-4-1.1184000",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
-      "data": "2026-10-18T22:00:50.349873+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "558be0bdedf0c6bb4f53fc831e24aa3e",
-      "titulo": "Círio de Nazaré 2026: Belém volta a ter ruas tomadas por milhares de fiéis na Romaria das Crianças",
-      "descricao": "Círio de Nazaré: Romaria das Crianças reúne milhares de pessoas em Belém Belém voltou a ter as ruas tomadas por milhares de fiéis e devotos de Nossa Senhora de Nazaré em mais uma procissão das 14 que integram as fetividades do Círio de Nazaré 2026. Neste domingo (18) ocorreu a 34ª Romaria das Crianças, quando centenas de crianças e adolescentes vão às ruas acompanhados de suas famílias. Segundo a organização, a estimativa é que a 10ª romaria do Círio tenha reunido mais de 300 mil pessoas. “A Romaria das Crianças é a procissão mais doce do Círio. É ali que muitos pequenos vivem o primeiro encontro com Nossa Senhora de Nazaré, vestidos de anjo, no colo dos pais ou de mãos dadas com os avós”, informou Mário Tuma Júnior, diretor de Procissões da Diretoria da Festa de Nazaré. ✅ Clique e siga o canal do g1 Pará no WhatsApp Após uma missa, a procissão saiu da Praça Santuário pro volta das 8h e passou ruas na região central até voltar à Basílica de Nossa Senhora de Nazaré. Ao longo da procissão, centenas de crianças estavam vestidas de anjos. Muitas delas ocuparam quatro Carro dos Anjos. Cada um deles com uma estátua de anjo era ocupada por cerca de 20 crianças de 2 a 10 anos. Além dos carros dos anjos, hava também carrinhos de som, barcos com crianças da Guarda Mirim de Nazaré, além dos pais e outros responsáveis acompanhando a procissão. As famílias passaram pela Avenida Nazaré, rumo à Basílica, por volta das 10h. A berlinda com a imagem peregrina de Nossa foi conduzida ao londo de toda Romaria das Crianças, com decoração feita por Paulo Morelli, com destaque para rosas brancas, como se o andor da imagem fosse uma nuvem. Círio de Nazaré 2026: Carro dos Anjos com crianças na romaria em Belém Valéria Martins/g1 Círio de Nazaré 2026: Romaria das Crianças reuniu fiéis em Belém Beatriz Reis/g1 Círio de Nazaré 2026: Romaria das Crianças reúne famílias em Belém Rosana Pinto/Ascom Diretoria Festa de Nazaré Círio de Nazaré 2026: Barca com \"anjos\" na Romaria das Crianças em Belém Valéria Martins/g1 Círio de Nazaré 2026: Romaria das Crianças reuniu fiéis em Belém Beatriz Reis/g1 Círio de Nazaré 2026: Romaria das crianças reuniu milhares de fiéis acompanhando berlinda e carros dos anjos Valéria Martins/g1 Círio de Nazaré 2026: Romaria das Crianças reuniu fiéis em Belém Beatriz Reis/g1 Círio 2026: Romaria das Crianças saiu e voltou para a Praça Santuário de Nazaré, em Belém Rosana Pinto/Ascom Diretoria Festa de Nazaré A primeira edição da Romaria das Crianças foi em outubro de 1990, com cerca de 1.500 participantes. Neste fim de semana também ocorreram outras procissões, com duas delas no sábado (17). No próximo fim de semana serão realizadas as últimas procissões da chamada quadra Nazarena. Círio 2026: veja ruas interditadas em Belém para as romarias deste fim de semana VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
-      "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/18/cirio-2026-romaria-das-criancas-leva-milhares-de-fieis-as-ruas-em-belem.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/KjdsK9brsDOu2Tn0laOgBoZDhqs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/3/Tt12N2RRWuATnQxW2nEA/whatsapp-image-2026-10-18-at-10.06.20-2-.jpeg",
-      "data": "2026-10-18T14:13:55+00:00",
       "categoria": "PARÁ"
     }
   ]
