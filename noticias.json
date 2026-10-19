@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-19T04:58:14.046485+00:00",
+  "atualizado": "2026-10-19T10:29:37.346338+00:00",
   "noticias": [
+    {
+      "id": "a8278508c5268c40ef9216ebc0619a5e",
+      "titulo": "Morre Benito di Paula, ícone do samba brasileiro, aos 84 anos",
+      "descricao": "Morre Benito di Paula, ícone do samba brasileiro, aos 84 anos",
+      "link": "https://www.oliberal.com/cultura/morre-benito-di-paula-icone-do-samba-brasileiro-aos-84-anos-1.1184129",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1184134:1792372053/Captura%20de%20Tela%202026-10-18%20às%2022.06.59.png?f=187:100",
+      "data": "2026-10-19T10:29:35.053208+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b035c7b255fb1e045d17d379081d7d8b",
+      "titulo": "Remo empata com Red Bull Bragantino e agoniza na zona de rebaixamento",
+      "descricao": "Remo empata com Red Bull Bragantino e agoniza na zona de rebaixamento",
+      "link": "https://www.oliberal.com/esportes/remo/remo-empata-com-red-bull-bragantino-e-agoniza-na-zona-de-rebaixamento-da-serie-a-1.1184138",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1184140:1792372426/WhatsApp%20Image%202026-10-18%20at%2021.01.59.jpeg?f=187:100",
+      "data": "2026-10-19T10:29:34.894532+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d2c3646e515326789ca1c749d3515b2c",
+      "titulo": "Decepcionante, triste, vergonhoso, infeliz: como eleitores analisaram o debate presidencial",
+      "descricao": "Decepcionante, triste, vergonhoso, infeliz: como eleitores analisaram o debate presidencial",
+      "link": "https://www.oliberal.com/politica/decepcionante-triste-vergonhoso-infeliz-como-eleitores-analisaram-o-debate-presidencial-1.1184171",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-19T10:29:34.624991+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e78d76a4954cd3575f83526369d1387b",
+      "titulo": "Bolsa Família turbinado: novo valor começa a cair no Caixa Tem nesta segunda (19)",
+      "descricao": "Aplicativo Caixa Tem permite consultar saldo, movimentar benefícios, realizar Pix e transferências, além de pagar contas e boletos pelo celular. A Caixa Econômica Federal inicia nesta segunda-feira (19) o pagamento do Bolsa Família de outubro com valores reajustados, conforme o calendário do programa. O benefício mínimo passou de R$ 600 para R$ 691. O post Bolsa Família turbinado: novo valor começa a cair no Caixa Tem nesta segunda (19) apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/bolsa-familia-turbinado-novo-valor-comeca-a-cair-no-caixa-tem-nesta-segunda-19/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/CaixaTem4.jpg",
+      "data": "2026-10-19T10:15:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "005d5a518adc8cc78b4802be2ff5f4ee",
+      "titulo": "Pé-de-Meia: R$ 200 começam a cair na conta nesta segunda (19)",
+      "descricao": "3️⃣ Cadastro obrigatório Fazer parte de uma família inscrita no CadÚnico. Benefício de R$ 200 será pago a estudantes conforme o mês de nascimento. O post Pé-de-Meia: R$ 200 começam a cair na conta nesta segunda (19) apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/pe-de-meia-r-200-comecam-a-cair-na-conta-nesta-segunda-19/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://diariodopara.com.br/wp-content/uploads/2026/01/crop_16_1767880632.jpg",
+      "data": "2026-10-19T10:00:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "4fa344ad3655ca99fffb83520e8edf78",
       "titulo": "Flávio diz que reajuste do Bolsa Família feito pelo governo Lula será mantido caso seja eleito",
@@ -12,63 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "945083e078282f748ca9b2ae5b8e7140",
-      "titulo": "Zé Ivaldo cobra efetividade do Remo e admite que time sentiu pressão da torcida",
-      "descricao": "Zé Ivaldo cobra efetividade do Remo e admite que time sentiu pressão da torcida",
-      "link": "https://www.oliberal.com/esportes/remo/ze-ivaldo-cobra-efetividade-do-remo-e-admite-que-time-sentiu-pressao-da-torcida-1.1184164",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1182301:1791935367/55562191162_1e71f6d27d_c.jpg?f=187:100",
-      "data": "2026-10-19T04:58:10.804054+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "062ac0fd92683b3c593ac31d4ca2dabb",
-      "titulo": "Mourinho indica Vini Jr. como titular na Champions e defende brasileiro: 'É espetacular'",
-      "descricao": "Mourinho indica Vini Jr. como titular na Champions e defende brasileiro: 'É espetacular'",
-      "link": "https://www.oliberal.com/esportes/mourinho-indica-vini-jr-como-titular-na-champions-e-defende-brasileiro-e-espetacular-1.1184165",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
-      "data": "2026-10-19T04:58:10.453316+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "588905cb993b48576caa7e8acbdf27a6",
-      "titulo": "Previsão do tempo hoje para Belém (PA): sol com algumas nuvens; não chove",
-      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta segunda-feira (19) para Belém (PA) é de sol com algumas nuvens. Não chove. As máximas são de 34ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuvens. À noite, algumas nuvens. Previsão do tempo para amanhã em Belém, terça (20) Para esta terça (20), a previsão é de sol com algumas nuvens. Não chove. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
+      "id": "7f1f42a5ca142dc723a9e78ffdb819cc",
+      "titulo": "Previsão do tempo hoje para Belém (PA): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta segunda-feira (19) para Belém (PA) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 34ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol com muitas nuvens. À noite, muitas nuvens. Previsão do tempo para amanhã em Belém, terça (20) Para esta terça (20), a previsão é de sol e muitas nuvens à tarde. À noite o céu ainda fica com muita nebulosidade, mas não chove. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
       "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/10/19/previsao-do-tempo-hoje-para-belem-pa-sol-com-algumas-nuvens-nao-chove.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/xfUFxDAGNw6gpSRa93uE2-4JsBo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/q/ppzZiESASla411SYquRw/previsao-tempo-bel-m-20261019-010148.jpeg",
+      "imagem": "https://s2-g1.glbimg.com/FfYYe-uS33eVVSo04tQY_Z433lU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/l/eh4DJsRqWRmcjyfIVWAQ/previsao-tempo-bel-m-20261019-070139.jpeg",
       "data": "2026-10-19T04:01:59+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5a87de88d10ae7a9ae45ecf22984ff45",
-      "titulo": "Band chega a 15 pontos e ultrapassa a Globo durante debate presidencial",
-      "descricao": "Crédito: Renato Pizzutto/Band A Band superou a TV Globo em audiência durante o primeiro debate do segundo turno entre Lula e Flávio Bolsonaro, atingindo 15 pontos na Grande São Paulo. O post Band chega a 15 pontos e ultrapassa a Globo durante debate presidencial apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/band-chega-a-15-pontos-e-ultrapassa-a-globo-durante-debate-presidencial/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/55598165056_c0a2fcd910_k.jpg",
-      "data": "2026-10-19T02:04:37+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a898326564d40bcf74b7437078d23906",
-      "titulo": "Como foi o primeiro debate entre Lula e Flávio Bolsonaro na Band",
-      "descricao": "Crédito: Renato Pizzutto/Band O primeiro debate do segundo turno entre Lula e Flávio Bolsonaro foi marcado por divergências sobre segurança pública, economia, saúde e políticas sociais. Os candidatos trocaram críticas e apresentaram propostas para tentar conquistar o eleitorado. O post Como foi o primeiro debate entre Lula e Flávio Bolsonaro na Band apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/como-foi-o-primeiro-debate-entre-lula-e-flavio-bolsonaro-na-band/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/55598560335_a52631bd80_k.jpg",
-      "data": "2026-10-19T01:47:17+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7f643dbd338977f3747746de33395af0",
-      "titulo": "Vila Nova e Novorizontino empatam e dominam o topo da Série B do Brasileiro",
-      "descricao": "Vila Nova e Novorizontino empatam e dominam o topo da Série B do Brasileiro",
-      "link": "https://www.oliberal.com/esportes/vila-nova-e-novorizontino-empatam-e-dominam-o-topo-da-serie-b-do-brasileiro-1.1184072",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
-      "data": "2026-10-19T00:16:48.419846+00:00",
       "categoria": "PARÁ"
     },
     {
