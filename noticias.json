@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-21T05:30:46.832495+00:00",
+  "atualizado": "2026-10-21T10:46:55.373499+00:00",
   "noticias": [
+    {
+      "id": "b1c30c7f48bdd0ab10253e893fd84d11",
+      "titulo": "Paysandu recebe América-RN com vantagem por vaga na Copa do Brasil Sub-20",
+      "descricao": "Paysandu recebe América-RN com vantagem por vaga na Copa do Brasil Sub-20",
+      "link": "https://www.oliberal.com/esportes/paysandu/paysandu-recebe-america-rn-com-vantagem-por-vaga-na-copa-do-brasil-sub-20-1.1184894",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1184912:1792537236/SUB20PAPAO.jpg?f=187:100",
+      "data": "2026-10-21T10:46:53.274480+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d7314e43aeb755370daf28866a1f1031",
+      "titulo": "Advogado amigo de Flávio Bolsonaro operou R$ 5 bilhões com bets em 2025",
+      "descricao": "Advogado amigo de Flávio Bolsonaro operou R$ 5 bilhões com bets em 2025",
+      "link": "https://www.oliberal.com/politica/advogado-amigo-de-flavio-bolsonaro-operou-r-5-bilhoes-com-bets-em-2025-1.1184954",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1149152:1784851114/Sem%20título.png?f=187:100",
+      "data": "2026-10-21T10:46:52.927042+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2ff7e3ee256edd85ab78cd916d5bfad7",
+      "titulo": "Ataque em mercado em região disputada pelo Sudão e pelo Sudão do Sul mata 153 pessoas",
+      "descricao": "Ataque em mercado em região disputada pelo Sudão e pelo Sudão do Sul mata 153 pessoas",
+      "link": "https://www.oliberal.com/mundo/ataque-em-mercado-em-regiao-disputada-pelo-sudao-e-pelo-sudao-do-sul-mata-153-pessoas-1.1184955",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-21T10:46:52.580040+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7074ee10432f4b0864a7639e0d17213a",
+      "titulo": "Pará terá novos remédios contra o câncer de graça pelo SUS; veja a lista",
+      "descricao": "Nove medicamentos contra o câncer chegam ao SUS; Pará está entre os estados atendidos O Ministério da Saúde ampliou a assistência oncológica no país, ofertando nove medicamentos gratuitos pelo SUS para pacientes com câncer no Pará e em outros 16 estados. A medida beneficia mais de 116 mil pessoas. O post Pará terá novos remédios contra o câncer de graça pelo SUS; veja a lista apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/para/para-tera-novos-remedios-contra-o-cancer-de-graca-pelo-sus-veja-a-lista/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/medicamentos.jpg",
+      "data": "2026-10-21T10:29:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3cfe0d0782dc0cff8eb05fa2070be5d5",
+      "titulo": "Quina acumula mais uma vez e coloca R$ 55 milhões em jogo nesta quarta-feira",
+      "descricao": "Foto: Reprodução A Quina acumulou e o prêmio principal está estimado em R$ 55 milhões para o sorteio desta quarta-feira (21). Saiba como apostar e resgatar seus ganhos. O post Quina acumula mais uma vez e coloca R$ 55 milhões em jogo nesta quarta-feira apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/loterias/quina-acumula-mais-uma-vez-e-coloca-r-55-milhoes-em-jogo-nesta-quarta-feira/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/03/Foto-Materia-Diario-8-1.png",
+      "data": "2026-10-21T10:22:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "aa7eb6e9168f6b6a3d88db513312afa4",
       "titulo": "Advogado Danilo Brasil Lopes suspeito de esfaquear ex-mulher em Nazaré é preso",
@@ -12,63 +62,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "1ea1b7b12f4dd53016e49901b33566dd",
-      "titulo": "Léo Jardim falha no fim, Boca Juniors vira no agregado e Vasco dá adeus à Sul-Americana",
-      "descricao": "Léo Jardim falha no fim, Boca Juniors vira no agregado e Vasco dá adeus à Sul-Americana",
-      "link": "https://www.oliberal.com/esportes/leo-jardim-falha-no-fim-boca-juniors-vira-no-agregado-e-vasco-da-adeus-a-sul-americana-1.1184949",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
-      "data": "2026-10-21T05:30:45.241567+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fc61a83f7e3ccd711bf65c4ed977e1a3",
-      "titulo": "Precarização de contratação de médicos piora atendimento no PSM da 14 de Março",
-      "descricao": "Precarização de contratação de médicos piora atendimento no PSM da 14 de Março",
-      "link": "https://www.oliberal.com/belem/precarizacao-de-contratacao-de-medicos-piora-atendimento-no-psm-da-14-de-marco-1.1184950",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1108563:1775859780/Foto%20Wagner%20Santana.%20_MG_2254%20(14).JPG?f=187:100",
-      "data": "2026-10-21T05:30:44.932396+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "56b2a743e3edf81e1b061327796de41e",
       "titulo": "Previsão do tempo hoje para Belém (PA): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta quarta-feira (21) para Belém (PA) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 35ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol com muitas nuvens. À noite, muitas nuvens. Previsão do tempo para amanhã em Belém, quinta (22) Para esta quinta (22), a previsão é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
+      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta quarta-feira (21) para Belém (PA) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 35ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol com muitas nuvens. À noite, muitas nuvens. Previsão do tempo para amanhã em Belém, quinta (22) Para esta quinta (22), a previsão é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
       "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/10/21/previsao-do-tempo-hoje-para-belem-pa-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/I2TLWjUlUfMOSLQNgY_sXAOWG7g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/o/MIpHduRa2S7uivvQzxAA/previsao-tempo-bel-m-20261021-010216.jpeg",
+      "imagem": "https://s2-g1.glbimg.com/ix6NlwaU9eq-ghR2uI8p0tSrGSo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/E/wSByqKQWGKdHagXvVBQw/previsao-tempo-bel-m-20261021-070235.jpeg",
       "data": "2026-10-21T04:02:29+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0499f8d4b87ed2681c3f6ce8c6ebcdcd",
-      "titulo": "Governo do Egito confirma prisão de Malévola por “exibição pornográfica” após vídeos viralizarem",
-      "descricao": "Malévola presa no Egito por gestos e insinuações sexuais Foto: Reprodução Autoridades egípcias acusam a brasileira e outra turista de 'exibição pornográfica', insinuações sexuais e assédio a transeuntes. O post Governo do Egito confirma prisão de Malévola por “exibição pornográfica” após vídeos viralizarem apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/tdb/governo-do-egito-confirma-prisao-de-malevola-por-exibicao-pornografica-apos-videos-viralizarem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_malevola-alvesnone_jpg_1200x0_q85_upscale.jpg",
-      "data": "2026-10-21T02:00:04+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "273c3ab0e3080d756ddc4eeb571d6800",
-      "titulo": "Mega-Sena acumula e prêmio chega a R$ 200 milhões; apostas do Pará ganham na quina",
-      "descricao": "A perda do bilhete e o desconhecimento das regras ou do resultado estão entre as razões para deixar uma premiação sem resgate. Foto: Reprodução A Mega-Sena acumulou no concurso 3.072 e pode pagar R$ 200 milhões no próximo sorteio. Três apostas do Pará acertaram a quina e levarão R$ 38,3 mil cada. O post Mega-Sena acumula e prêmio chega a R$ 200 milhões; apostas do Pará ganham na quina apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/loterias/mega-sena-acumula-e-premio-chega-a-r-200-milhoes-apostas-do-para-ganham-na-quina/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_convertida_1200x628_Mega-Sena-loteria-6-novembro-2020-assessoria-1.jpg",
-      "data": "2026-10-21T01:53:43+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c43e7e95e3aacbe57b909d9ca4c977d7",
-      "titulo": "Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil",
-      "descricao": "Conselho da Meta aponta falhas recorrentes em moderação eleitoral no Brasil",
-      "link": "https://www.oliberal.com/politica/conselho-da-meta-aponta-falhas-recorrentes-em-moderacao-eleitoral-no-brasil-1.1184927",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1184928:1792542576/Captura%20de%20Tela%202026-10-20%20às%2021.29.22.png?f=187:100",
-      "data": "2026-10-21T00:45:47.167601+00:00",
       "categoria": "PARÁ"
     },
     {
