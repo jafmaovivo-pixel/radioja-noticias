@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-22T23:45:17.453985+00:00",
+  "atualizado": "2026-10-23T02:25:29.446708+00:00",
   "noticias": [
+    {
+      "id": "4d4b4dbc8444db9df7172ca66e193177",
+      "titulo": "Felipe Neto oficializa casamento com Juliane Carvalho",
+      "descricao": "Felipe Neto oficializa casamento com Juliane Carvalho",
+      "link": "https://www.oliberal.com/cultura/felipe-neto-oficializa-casamento-com-juliane-carvalho-1.1185697",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1185698:1792719399/SaveClip.App_857956917_18652812421020305_1540799769654005799_n.png?f=187:100",
+      "data": "2026-10-23T02:25:26.274543+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ef66e0bd54d04b9b3ee48c4527e9ecf5",
+      "titulo": "Aos 69 anos, desembargador sai de Belém rumo a Brasília de bicicleta",
+      "descricao": "Aos 69 anos, desembargador sai de Belém rumo a Brasília de bicicleta",
+      "link": "https://www.oliberal.com/belem/aos-69-anos-desembargador-sai-de-belem-rumo-a-brasilia-de-bicicleta-1.1185702",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1185704:1792721130/GRADES%20PARA%20MATÉRIAS%20(80).png?f=187:100",
+      "data": "2026-10-23T02:25:25.925558+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "59fe4333050b1c7ec7da97e88e1528c5",
+      "titulo": "Mulher morre após ser atropelada por ônibus escolar em Castanhal",
+      "descricao": "Mulher morre após ser atropelada por ônibus escolar em Castanhal",
+      "link": "https://www.oliberal.com/policia/mulher-morre-apos-ser-atropelada-por-onibus-escolar-em-castanhal-1.1185703",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1185705:1792721284/Mulher%20morre%20após%20ser%20atropelada%20por%20ônibus%20escolar%20em%20Castanhal.jpeg?f=187:100",
+      "data": "2026-10-23T02:25:25.578004+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b9c878a6415edeb10d7157c407ee1038",
+      "titulo": "Lotofácil 3811 tem três ganhadores do prêmio principal; 12 apostas do Pará acertam 14 números",
+      "descricao": "Após o prazo de resgate, os valores não retirados seguem para o Fies, programa de financiamento do ensino superior privado. Foto: Reprodução Jogos registrados em sete municípios paraenses garantiram prêmios de até R$ 2,3 mil; duas apostas foram feitas na mesma lotérica de Tailândia O post Lotofácil 3811 tem três ganhadores do prêmio principal; 12 apostas do Pará acertam 14 números apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/loterias/lotofacil-tem-tres-ganhadores-do-premio-principal-12-apostas-do-para-acertam-14-numeros/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_convertida_1200x628_49aa582c-loteria-lotofacil.jpg",
+      "data": "2026-10-23T02:14:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4a07f5fcad1e76a21f8d3f22b70bb5b2",
+      "titulo": "Mega-Sena acumula em R$ 230 milhões; quatro apostas do Pará acertam a quina",
+      "descricao": "A Mega-Sena oferece aos apostadores a chance de ganhar prêmios milionários ao acertar as seis dezenas sorteadas Jogos registrados em Altamira, Belém e São Félix do Xingu garantiram prêmio de R$ 23,1 mil cada; confira os ganhadores. O post Mega-Sena acumula em R$ 230 milhões; quatro apostas do Pará acertam a quina apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/loterias/mega-sena-acumula-em-r-230-milhoes-quatro-apostas-do-para-acertam-a-quina/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://diariodopara.com.br/wp-content/uploads/2024/09/aT3P446t-Mega-Sena-scaled-1.jpg",
+      "data": "2026-10-23T01:45:06+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "daa26dd47dfa599f6143a297cc93761a",
       "titulo": "Lula: Temos uma batalha para fazer e meu exército está afiado",
@@ -9,26 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.1183045:1792100677/846050291_1580304800051998_7934353637290715491_n.png?f=187:100",
       "data": "2026-10-22T23:45:16.074306+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "888c79d37fa35ca61fea183b1b35fc7d",
-      "titulo": "Justiça Federal, no Pará, dá 24 horas para União garantir voto de indígenas",
-      "descricao": "Justiça Federal, no Pará, dá 24 horas para União garantir voto de indígenas",
-      "link": "https://www.oliberal.com/politica/justica-federal-no-para-da-24-horas-para-uniao-garantirvoto-de-indigenas-1.1185659",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1185660:1792712492/O%20Liberal%20Arquivo.png?f=187:100",
-      "data": "2026-10-22T23:45:15.689773+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9c5d4431448214e7b46f503c4189b144",
-      "titulo": "'007’ testa quatro atores para viver próximo James Bond, diz site; saiba os nomes",
-      "descricao": "'007’ testa quatro atores para viver próximo James Bond, diz site; saiba os nomes",
-      "link": "https://www.oliberal.com/cultura/007-testa-quatro-atores-para-viver-proximo-james-bond-diz-site-saiba-os-nomes-1.1185661",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.442004:1633369202/20210928%20ANANINCINEMA%203.jpg?f=187:100",
-      "data": "2026-10-22T23:45:15.303331+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,26 +72,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "f051e7da9d10544aa1089c0e89bfe943",
-      "titulo": "Milleo completa 40 anos em Belém e relembra início com carrinho de cachorro-quente",
-      "descricao": "Registro antigo compartilhado pelo Milleo lembra a trajetória do negócio, que completa quatro décadas em Belém. Foto: Reprodução/Instagram Em publicação com fotos antigas, estabelecimento recorda as primeiras vendas em Mosqueiro e os encontros que marcaram gerações de clientes. O post Milleo completa 40 anos em Belém e relembra início com carrinho de cachorro-quente apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/milleo-lanches-40-anos-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/Milleo-1.jpg",
-      "data": "2026-10-22T23:34:07+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "93baa01f70efe7873c44a6b7dcb80af4",
-      "titulo": "Paysandu avança às quartas da Copa do Brasil Sub-20; veja se há premiação em dinheiro",
-      "descricao": "Paysandu chega às quartas da Copa do Brasil Sub-20; veja o que ganha Foto: Jorge Luís Totti/Paysandu O Paysandu avançou às quartas de final da Copa do Brasil Sub-20, mas o regulamento da competição não prevê premiação em dinheiro para os clubes. O post Paysandu avança às quartas da Copa do Brasil Sub-20; veja se há premiação em dinheiro apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/paysandu-avanca-as-quartas-da-copa-do-brasil-sub-20-veja-se-ha-premiacao-em-dinheiro/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/55604149346_a01458da03_k.jpg",
-      "data": "2026-10-22T23:25:54+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "92551b6cdc415855530de90d11119cbb",
       "titulo": "Helicóptero da Marinha interrompe voo e faz pouso por segurança durante logística das eleições no Pará",
       "descricao": "Helicóptero da Marinha faz pouso forçado em área remota no arquipélago do Marajó, PA Um helicóptero da Marinha do Brasil precisou interromper um voo e fazer um pouso de precaução na região da foz do rio Arari, área remota do arquipélago do Marajó, no Pará. Ninguém ficou ferido e a Marinha vai investigar o ocorrido. A aeronave voltava de uma missão de apoio ao Tribunal Superior Eleitoral para o transporte de urnas e materiais para a votação de domingo e precisou interromper o voo para \"garantir a segurança da aeronave\", segundo o Comando do 4º Distrito Naval, que não detalhou qual problema ocorrido. O caso foi na quarta-feira (21) em um local distante aproximadamente 20 milhas náuticas, o equivalente a 37 quilômetros, da Base Aérea de Belém. A aeronave regressava do transporte de tropas em apoio às ações de Garantia da Votação e da Apuração. ✅ Receba as notícias do g1 Pará direto no WhatsApp Segundo o Comando do 4º Distrito Naval, a aeronave, um UH-15 Super Cougar, pertencente ao 1º Esquadrão de Helicópteros de Emprego Geral do Norte. \"O pouso de precaução é uma medida preventiva adotada quando há necessidade de interromper o voo e pousar em local adequado para verificar as condições de segurança e aeronavegabilidade da aeronave. Será realizada uma investigação de segurança aeronáutica para apurar as circunstâncias da ocorrido\", informou a Marinha em nota. Ainda de acordo com a Marinha, a tripulação ficou bem e não houve danos aos sistemas de bordo. Helicóptero da Marinha interrompe voo enquando ajudava na logística de eleição no Pará TV Liberal/Reprodução VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/4bPyhBnzlIw3cEF8umGY3VXkv-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/H/sI9tk0RHGqp7uq4UdccA/helicoptero.jpg",
       "data": "2026-10-22T23:20:46+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a03bb6deac9f7fb599a3c004854982e6",
-      "titulo": "Globo define regras para o debate entre Flávio Bolsonaro e Lula; saiba como vai funcionar",
-      "descricao": "Globo define regras para o debate entre Flávio Bolsonaro e Lula; saiba como vai funcionar",
-      "link": "https://www.oliberal.com/politica/globo-define-regras-para-o-debate-entre-flavio-bolsonaro-e-lula-saiba-como-vai-funcionar-1.1185574",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1124834:1792670243/UMA.png?f=187:100",
-      "data": "2026-10-22T20:39:40.326468+00:00",
       "categoria": "PARÁ"
     }
   ]
