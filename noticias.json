@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-24T16:07:53.641139+00:00",
+  "atualizado": "2026-10-24T18:53:20.618994+00:00",
   "noticias": [
+    {
+      "id": "7421bda86f9ff524a594df660e2247e7",
+      "titulo": "TSE manda retirar vídeo que mostra suspeitos de tráfico presos pela PM com camisas do PT",
+      "descricao": "TSE manda retirar vídeo que mostra suspeitos de tráfico presos pela PM com camisas do PT",
+      "link": "https://www.oliberal.com/politica/tse-manda-retirar-video-que-mostra-suspeitos-de-trafico-presos-pela-pm-com-camisas-do-pt-1.1186374",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-24T18:53:17.339523+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0db5b40733b9778f492a1cc8b7e90672",
+      "titulo": "Temas pró-Lula ocupam seis primeiras posições no X durante live de Janones",
+      "descricao": "Temas pró-Lula ocupam seis primeiras posições no X durante live de Janones",
+      "link": "https://www.oliberal.com/politica/temas-pro-lula-ocupam-seis-primeiras-posicoes-no-x-durante-live-de-janones-1.1186377",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.836556:1720813430/X.JPG?f=187:100",
+      "data": "2026-10-24T18:53:16.943180+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1f3a0d394f4a858a656930aa5ff648a1",
+      "titulo": "Padre Claudio Pighin destaca ligação entre amor a Deus e ao próximo",
+      "descricao": "Padre Claudio Pighin destaca ligação entre amor a Deus e ao próximo",
+      "link": "https://www.oliberal.com/belem/padre-claudio-pighin-destaca-ligacao-entre-amor-a-deus-e-ao-proximo-1.1186378",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.818675:1792867378/image/santa%20missa%20em%20o%20liberal%20(1).jpeg?f=187:100",
+      "data": "2026-10-24T18:53:16.549711+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "eeeb97be342521954a7c591471a00daf",
+      "titulo": "Conheça as 10 raças de cães mais temidas do mundo e entenda por que algumas exigem cuidados especiais",
+      "descricao": "Pit bull, rottweiler, pastor-alemão e fila-brasileiro estão entre as raças conhecidas pela força e pelo instinto de proteção, mas a educação e a socialização são fundamentais para o comportamento dos animais. Agressividade em cães não é determinada apenas pela raça, mas por fatores como genética, socialização e treinamento. Especialistas desmistificam preconceitos e destacam a importância da criação responsável para uma convivência segura. O post Conheça as 10 raças de cães mais temidas do mundo e entenda por que algumas exigem cuidados especiais apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/conheca-as-10-racas-de-caes-mais-temidas-do-mundo-e-entenda-por-que-algumas-exigem-cuidados-especiais/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/caes-geral.jpg",
+      "data": "2026-10-24T18:46:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "fe32958cfaa4a9dae879b0d194ec69d9",
+      "titulo": "Palmeiras x Santa Fe (feminino): veja onde assistir duelo pelas quartas da Libertadores",
+      "descricao": "A partida será disputada em Quito, no Equador. O Palmeiras enfrenta o Santa Fe, da Colômbia, neste sábado (24), pelas quartas de final da Libertadores Feminina 2026. A partida será em Quito, no Equador. O post Palmeiras x Santa Fe (feminino): veja onde assistir duelo pelas quartas da Libertadores apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/ao-vivo/palmeiras-x-santa-fe-feminino-veja-onde-assistir-duelo-pelas-quartas-da-libertadores/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/IMG_2920.jpeg",
+      "data": "2026-10-24T18:44:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "a3ed4ca228374d539a0ac1a51f58708e",
       "titulo": "Casal fica gravemente ferido após motocicleta atingir trator em Ananindeua",
@@ -9,46 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.1186345:1792855371/acidentre-mario-covas.png?f=187:100",
       "data": "2026-10-24T16:07:51.304741+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "437c3f0cc8cd0edda4e79f63f57a3d0d",
-      "titulo": "Copa Líder de Tênis reúne atletas do Pará e de outros estados em Belém",
-      "descricao": "Copa Líder de Tênis reúne atletas do Pará e de outros estados em Belém",
-      "link": "https://www.oliberal.com/esportes/maisesportes/copa-lider-de-tenis-reune-atletas-do-para-e-de-outros-estados-em-belem-1.1186343",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1108632:1775869439/WhatsApp%20Image%202026-04-10%20at%2021.35.02%20(2).jpeg?f=187:100",
-      "data": "2026-10-24T16:07:50.919501+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f4fa1224631d8be4bf808569a9d273b1",
-      "titulo": "Janones: Vorcaro recrutava refugiadas da guerra para encontros privados com homens ricos",
-      "descricao": "Janones: Vorcaro recrutava refugiadas da guerra para encontros privados com homens ricos",
-      "link": "https://www.oliberal.com/politica/janones-vorcaro-recrutava-refugiadas-da-guerra-para-encontros-privados-com-homens-ricos-1.1186346",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-24T16:07:50.548608+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ee3b2a7b75f87db679d2069d94a8a67c",
-      "titulo": "Ouro e milhões! Saiba quanto ganha Rebeca Andrade fora da ginástica",
-      "descricao": "Rebeca Andrade. Foto: Reprodução Aos 27 anos, maior medalhista olímpica do Brasil soma premiações, publicidade e salário mensal, enquanto planeja aposentadoria O post Ouro e milhões! Saiba quanto ganha Rebeca Andrade fora da ginástica apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/ouro-e-milhoes-saiba-quanto-ganha-rebeca-andrade-fora-da-ginastica/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_rebeca.jpg",
-      "data": "2026-10-24T15:22:25+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8afa281df974daf4f3232b3cb6cbdd96",
-      "titulo": "Ex-BBB casado é flagrado em encontro íntimo mulher envolvida em polêmica de agressão; veja",
-      "descricao": "Big Brother Brasil. Foto: Divulgação Casado e com dois filhos, ex-BBB tem encontro extraconjugal exposto em vídeo. O post Ex-BBB casado é flagrado em encontro íntimo mulher envolvida em polêmica de agressão; veja apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/ex-bbb-casado-e-flagrado-em-encontro-intimo-mulher-envolvida-em-polemica-de-agressao-veja/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_logo-principal-3d.jpg",
-      "data": "2026-10-24T14:55:19+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/vIba__vI-Xr4HvamPJdjSQq3r0Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/8/XE0vvXQbW9y10gBmFHpw/whatsapp-image-2026-10-24-at-09.20.35-1-.jpeg",
       "data": "2026-10-24T12:47:41+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "42051b39faa305ad6172c94e977ba7a9",
-      "titulo": "Ministério da Defesa da Ucrânia registra o restabelecimento da velocidade do Starshield",
-      "descricao": "Ministério da Defesa da Ucrânia registra o restabelecimento da velocidade do Starshield",
-      "link": "https://www.oliberal.com/mundo/ministerio-da-defesa-da-ucrania-registra-o-restabelecimento-da-velocidade-do-starshield-1.1186249",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-24T12:08:51.143537+00:00",
       "categoria": "PARÁ"
     }
   ]
