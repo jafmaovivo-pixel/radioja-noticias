@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-24T07:28:28.509280+00:00",
+  "atualizado": "2026-10-24T12:08:52.867287+00:00",
   "noticias": [
+    {
+      "id": "42051b39faa305ad6172c94e977ba7a9",
+      "titulo": "Ministério da Defesa da Ucrânia registra o restabelecimento da velocidade do Starshield",
+      "descricao": "Ministério da Defesa da Ucrânia registra o restabelecimento da velocidade do Starshield",
+      "link": "https://www.oliberal.com/mundo/ministerio-da-defesa-da-ucrania-registra-o-restabelecimento-da-velocidade-do-starshield-1.1186249",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-24T12:08:51.143537+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d10c54d2b4f2b5c2980e83469b6ea4e8",
+      "titulo": "Feijão fica 59% mais caro e carne sobe 16,26% em Belém",
+      "descricao": "Feijão fica 59% mais caro e carne sobe 16,26% em Belém",
+      "link": "https://www.oliberal.com/economia/feijao-fica-59-mais-caro-e-carne-sobe-16-26-em-belem-1.1185094",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1185096:1792601502/foto%20capa%20carne.jpeg?f=187:100",
+      "data": "2026-10-24T12:08:50.984180+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "64beb17a72b29ad36f5947fa3cb00d33",
+      "titulo": "Ataque a tiros em igreja ortodoxa na Jordânia mata sete e deixa 40 feridos",
+      "descricao": "Ataque a tiros em igreja ortodoxa na Jordânia mata sete e deixa 40 feridos",
+      "link": "https://www.oliberal.com/mundo/ataque-a-tiros-em-igreja-ortodoxa-na-jordania-mata-sete-e-deixa-40-feridos-1.1186252",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-24T12:08:50.699859+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "818f048805c83d999d4cb60ce86f1e19",
+      "titulo": "Estádio icônico que recebeu grandes jogos do Brasil terá modernização milionária",
+      "descricao": "Serra Dourada terá reforma de R$ 400 milhões após 50 anos; veja o que muda O Estádio Serra Dourada, em Goiânia, passa por modernização de R$ 400 milhões para se tornar um complexo de padrão internacional, com obras previstas até 2028. O post Estádio icônico que recebeu grandes jogos do Brasil terá modernização milionária apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/estadio-iconico-que-recebeu-grandes-jogos-do-brasil-tera-modernizacao-milionaria/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_link-1.jpg",
+      "data": "2026-10-24T12:04:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e5b3034bf609596d579c5117f21fe3f6",
+      "titulo": "“Crystal Lake” e a origem do mal",
+      "descricao": "Nova série explora o passado de Pamela e Jason Voorhees - Foto: Divulgação A série \"Crystal Lake\" mexe na mitologia da franquia “Sexta-Feira 13” e traz novas versões de Pamela e Jason Voorhees. O post “Crystal Lake” e a origem do mal apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/videolocadora/crystal-lake-e-a-origem-do-mal/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_Crystal_Lake.jpg",
+      "data": "2026-10-24T12:00:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "307bdac8898c2d0ec3cc32a1bfcc101c",
       "titulo": "Lula diz que Flávio Bolsonaro fará tesouraço no SUS; senador promete investimentos",
@@ -9,26 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.1186220:1792809684/Captura%20de%20Tela%202026-10-23%20às%2023.16.15.png?f=187:100",
       "data": "2026-10-24T07:28:27.325312+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a01a30fc2f428770b338906610410bc4",
-      "titulo": "Lula quer acabar com bets; Flávio promete novo modelo para a Caixa",
-      "descricao": "Lula quer acabar com bets; Flávio promete novo modelo para a Caixa",
-      "link": "https://www.oliberal.com/politica/lula-quer-acabar-com-bets-flavio-promete-novo-modelo-para-a-caixa-1.1186221",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1186227:1792811084/WhatsApp%20Image%202026-10-23%20at%2022.55.01.jpeg?f=187:100",
-      "data": "2026-10-24T07:28:27.137389+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4f9e83437f24ddcaf69f15c8ea369f24",
-      "titulo": "Flávio Bolsonaro fala de 'esgoto a céu aberto' em Belém durante debate",
-      "descricao": "Flávio Bolsonaro fala de 'esgoto a céu aberto' em Belém durante debate",
-      "link": "https://www.oliberal.com/politica/flavio-bolsonaro-fala-de-esgoto-a-ceu-aberto-em-belem-durante-debate-1.1186225",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1186227:1792811084/WhatsApp%20Image%202026-10-23%20at%2022.55.01.jpeg?f=187:100",
-      "data": "2026-10-24T07:28:26.789394+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,43 +72,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "beef50a3ea6de6a87de462a19f27500e",
-      "titulo": "Previsão do tempo hoje para Belém (PA): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para este sábado (24) para Belém (PA) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 35ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol, pancadas de chuva e trovoadas. À noite, pancadas de chuva e trovoadas. Previsão do tempo para amanhã em Belém, domingo (25) Para este domingo (25), a previsão é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
+      "id": "b4748650950c7317eb6f384ac4433d0a",
+      "titulo": "Previsão do tempo hoje para Belém (PA): sol com aumento de nuvens ao longo do dia; à noite ocorrem pancadas de chuva",
+      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para este sábado (24) para Belém (PA) é de sol com aumento de nuvens ao longo do dia. À noite ocorrem pancadas de chuva. As máximas são de 34ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuvens. À noite, pancadas de chuva e trovoadas. Previsão do tempo para amanhã em Belém, domingo (25) Para este domingo (25), a previsão é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
       "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/10/24/previsao-do-tempo-hoje-para-belem-pa-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
       "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/q1B8vbuS0pKG8q80a83WzI5KGhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/aRsVGCSjAUtAvEUEnn5w/previsao-tempo-bel-m-20261024-010217.jpeg",
+      "imagem": "https://s2-g1.glbimg.com/XKGe-bsHJM9qdA11YU1ByoJFivM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/m/O6HNaqRTC8ajiuDBAAXA/previsao-tempo-bel-m-20261024-070137.jpeg",
       "data": "2026-10-24T04:02:26+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3d5200620c0ffce2a4edb22e24a01246",
-      "titulo": "Flávio: Estava errado sobre licença-maternidade; hoje, votaria completamente diferente",
-      "descricao": "Flávio: Estava errado sobre licença-maternidade; hoje, votaria completamente diferente",
-      "link": "https://www.oliberal.com/politica/flavio-estava-errado-sobre-licenca-maternidade-hoje-votaria-completamente-diferente-1.1186211",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-24T02:23:03.850767+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "21d37c0bf2e1c4e62930456bec6e3ec3",
-      "titulo": "Flávio ironiza os “nove dedos” de Lula; entenda como presidente sofreu acidente",
-      "descricao": "Lula perdeu dedo em acidente de trabalho em 1964 Foto: Ricardo Stuckert Flávio Bolsonaro fez referência aos “nove dedos” de Lula em debate, gerando críticas e acusações de capacitismo. Entenda o acidente de trabalho que causou a amputação do dedo do presidente. O post Flávio ironiza os “nove dedos” de Lula; entenda como presidente sofreu acidente apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/flavio-ironiza-os-nove-dedos-de-lula-entenda-como-presidente-sofreu-acidente/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/55599604472_6f1902ed20_k.jpg",
-      "data": "2026-10-24T02:00:19+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e153263f84220da411072359a92e3ca3",
-      "titulo": "A hora de apoiar ou guardar a lembrança: os jogos decisivos do Remo na Série A",
-      "descricao": "Foto: Gustavo Aleixo/Cruzeiro O Clube do Remo enfrenta um dilema na Série A do Campeonato Brasileiro após 32 anos de espera. Com apenas seis jogos restantes, o time busca um milagre para evitar o rebaixamento, mas não vence há quase três meses. O post A hora de apoiar ou guardar a lembrança: os jogos decisivos do Remo na Série A apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/a-hora-de-apoiar-ou-guardar-a-lembranca-os-jogos-decisivos-do-remo-na-serie-a/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_55608225356_8e7e4a2639_k.jpg",
-      "data": "2026-10-24T01:52:26+00:00",
       "categoria": "PARÁ"
     }
   ]
