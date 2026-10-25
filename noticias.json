@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-24T23:27:41.671370+00:00",
+  "atualizado": "2026-10-25T01:23:50.233056+00:00",
   "noticias": [
+    {
+      "id": "66f56d8562303b4e30f6ae9a64508337",
+      "titulo": "Flávio repete afirmação falsa sobre mesários votarem no lugar de eleitores ausentes",
+      "descricao": "Flávio repete afirmação falsa sobre mesários votarem no lugar de eleitores ausentes",
+      "link": "https://www.oliberal.com/politica/flavio-repete-afirmacao-falsa-sobre-mesarios-votarem-no-lugar-de-eleitores-ausentes-1.1186453",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-25T01:23:47.553589+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0fb698ac700b73e88c34361889b7dc1f",
+      "titulo": "Seedorf admite Corinthians abalado, mas aposta em reação: 'Conhecemos nossa força'",
+      "descricao": "Seedorf admite Corinthians abalado, mas aposta em reação: 'Conhecemos nossa força'",
+      "link": "https://www.oliberal.com/esportes/seedorf-admite-corinthians-abalado-mas-aposta-em-reacao-conhecemos-nossa-forca-1.1186454",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
+      "data": "2026-10-25T01:23:47.180757+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2cb968719f7b7cf8f45fe07cc8dd2870",
+      "titulo": "Fluminense é surpreendido pela Chapecoense e vê G-4 do Brasileirão se distanciar",
+      "descricao": "Fluminense é surpreendido pela Chapecoense e vê G-4 do Brasileirão se distanciar",
+      "link": "https://www.oliberal.com/esportes/fluminense-e-surpreendido-pela-chapecoense-e-ve-g-4-do-brasileirao-se-distanciar-1.1186455",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
+      "data": "2026-10-25T01:23:46.838311+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "567aee3e65543bb550d36ea7dd1b681b",
+      "titulo": "+Milionária 401: prêmio milionário movimenta sorteio deste sábado",
+      "descricao": "+Milionária. Foto: Reprodução A Caixa Econômica Federal sorteou neste sábado (24/10) o concurso 401 da +Milionária, com prêmio acumulado em R$ 108 milhões. O post +Milionária 401: prêmio milionário movimenta sorteio deste sábado apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/loterias/milionaria-401-premio-milionario-movimenta-sorteio-deste-sabado/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/convertida_1200x628_convertida_1200x628_resultado-milionaria-340-numeros-trevos.jpg",
+      "data": "2026-10-25T01:00:34+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b2fe975cdeb6e1f49abae49f618fe99b",
+      "titulo": "GOL é acusada de cancelar voos para o Nordeste na véspera das eleições",
+      "descricao": "GOL enfrenta denúncias de passageiros sobre cancelamentos de voos com destino ao Nordeste na véspera do segundo turno. Foto: divulgação/reprodução Cancelamento de viagens entre Porto Alegre e Salvador provocou protestos e acusações nas redes sociais. Companhia aérea apresentou justificativa e negou que tenha suspendido uma operação generalizada para o Nordeste. O post GOL é acusada de cancelar voos para o Nordeste na véspera das eleições apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/gol-e-acusada-de-cancelar-voos-para-o-nordeste-na-vespera-das-eleicoes/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_SaveClip_App_867425826_18078274922735244_7510187700806110297_n.jpg",
+      "data": "2026-10-25T00:55:58+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "03fc44086e28a57223f92d06586340be",
       "titulo": "Quaest: Omar Aziz tem 59% dos votos válidos para governo do Amazonas e Maria do Carmo, 41%",
@@ -9,46 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
       "data": "2026-10-24T23:27:38.998114+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1c8f9be16f0fa8605751e3bd8ae20064",
-      "titulo": "Quaest: Vicentinho tem 59% dos votos válidos ao governo do TO; Professora Dorinha, 41%",
-      "descricao": "Quaest: Vicentinho tem 59% dos votos válidos ao governo do TO; Professora Dorinha, 41%",
-      "link": "https://www.oliberal.com/politica/quaest-vicentinho-tem-59-dos-votos-validos-ao-governo-do-to-professora-dorinha-41-1.1186440",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-24T23:27:38.668607+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4b62b57bb8d474c36b64304b4c57f849",
-      "titulo": "Pesquisa Quaest no Acre: Mailza Assis tem 62% e Alan Rick 38% dos votos válidos",
-      "descricao": "Pesquisa Quaest no Acre: Mailza Assis tem 62% e Alan Rick 38% dos votos válidos",
-      "link": "https://www.oliberal.com/politica/pesquisa-quaest-no-acre-mailza-assis-tem-62-e-alan-rick-38-dos-votos-validos-1.1186441",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-24T23:27:38.270782+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "89f18b06c914d83b38be5b476ab337ad",
-      "titulo": "UFC 333 tem nocaute em invicto, decisão apertada e vitórias brasileiras",
-      "descricao": "Volkanovski acaba com invencibilidade, e Petr Yan mantém cinturão no UFC 333 Alexander Volkanovski e Petr Yan defenderam seus cinturões no UFC 333, em Abu Dhabi. O evento também teve vitórias de brasileiros no card preliminar. O post UFC 333 tem nocaute em invicto, decisão apertada e vitórias brasileiras apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/ufc-333-tem-nocaute-em-invicto-decisao-apertada-e-vitorias-brasileiras/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_SaveClip_App_862427349_1692775975550046_5301500414793488869_n.jpg",
-      "data": "2026-10-24T23:25:31+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "de26f31b1bbc67358f857fe2436c3edf",
-      "titulo": "Maringá vence a Ferroviária e conquista título inédito da Série C",
-      "descricao": "Maringá vence a Ferroviária e conquista título inédito da Série C O Maringá-PR conquistou o título da Série C do Campeonato Brasileiro de 2026 ao vencer a Ferroviária por 2 a 1. O Dogão levantou a primeira taça nacional de seus 16 anos de história. O post Maringá vence a Ferroviária e conquista título inédito da Série C apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/maringa-vence-a-ferroviaria-e-conquista-titulo-inedito-da-serie-c/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/08/convertida_1320x768_SaveClip_App_731702801_18542542801073876_6214625971750784026_n.jpg",
-      "data": "2026-10-24T23:21:37+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/3t_MALiFxlP6P1hIQMrFTYb-7lc=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/90/98/15119890",
       "data": "2026-10-24T21:55:17+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "540b799593ad4f5a5a21231ff2f12001",
-      "titulo": "Quaest: Celina Leão tem 61% e Leandro Grass 39% dos votos válidos no DF na véspera do 2º turno",
-      "descricao": "Quaest: Celina Leão tem 61% e Leandro Grass 39% dos votos válidos no DF na véspera do 2º turno",
-      "link": "https://www.oliberal.com/politica/quaest-celina-leao-tem-61-e-leandro-grass-39-dos-votos-validos-no-df-na-vespera-do-2-turno-1.1186405",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-24T21:18:26.358691+00:00",
       "categoria": "PARÁ"
     }
   ]
