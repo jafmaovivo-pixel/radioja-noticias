@@ -1,6 +1,76 @@
 {
-  "atualizado": "2026-10-25T23:23:36.788725+00:00",
+  "atualizado": "2026-10-26T01:25:09.436127+00:00",
   "noticias": [
+    {
+      "id": "43b95bb8b4410359c79681160b5b4d30",
+      "titulo": "Rio Grande do Norte elege Cadu de Lula governador do estado",
+      "descricao": "Rio Grande do Norte elege Cadu de Lula governador do estado",
+      "link": "https://www.oliberal.com/politica/rio-grande-do-norte-elege-cadu-de-lula-governador-do-estado-1.1186827",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1186829:1792977325/Cadu%20do%20Lula%20-%20divulgação.jpeg?f=187:100",
+      "data": "2026-10-26T01:25:08.328054+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9a1525b865a1d6396e6df22b9921f20b",
+      "titulo": "Michelle Bolsonaro comemora eleição de Celina Leão como governadora do DF",
+      "descricao": "Michelle Bolsonaro comemora eleição de Celina Leão como governadora do DF",
+      "link": "https://www.oliberal.com/brasil/michelle-bolsonaro-comemora-eleicao-de-celina-leao-como-governadora-do-df-1.1186825",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1186826:1792976912/Captura%20de%20tela%202026-10-25%20220611.png?f=187:100",
+      "data": "2026-10-26T01:25:08.164440+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "dcaef1e1e28a18efda5cc9c989b1a3b1",
+      "titulo": "Congresso mais à direita aumenta dependência de Lula do Centrão no 4º mandato",
+      "descricao": "Congresso mais à direita aumenta dependência de Lula do Centrão no 4º mandato",
+      "link": "https://www.oliberal.com/politica/congresso-mais-a-direita-aumenta-dependencia-de-lula-do-centrao-no-4-mandato-1.1186828",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
+      "data": "2026-10-26T01:25:08.003229+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "358cc463ff4a73b4227518b455f8fbcc",
+      "titulo": "Faro (PA): resultado do local de votação por zonas eleitorais no 2º turno",
+      "descricao": "Faro (PA) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não lembra qual é sua zona e seção eleitoral? Consulte aqui.. Veja abaixo a lista de todas as zonas eleitorais de Faro (PA): 89ª zona eleitoral Esta reportagem foi produzida de modo automatizado, com base nos dados do TSE e com o apoio de um sistema de inteligência artificial, sob supervisão de jornalistas (clique aqui para saber mais). Se houver novas informações relevantes, a reportagem pode ser atualizada. Caso você perceba algum erro, por favor nos informe por meio do formulário disponível neste link. Eleições 2026 Urna eletrônica para votação nas eleições brasileiras Marcelo Camargo/Agência Brasil",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/25/faro-pa-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg",
+      "data": "2026-10-26T01:18:39+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bc2cd575b9b0454ce60963c58bd444e0",
+      "titulo": "Terra Alta (PA): resultado do local de votação por zonas eleitorais no 2º turno",
+      "descricao": "Terra Alta (PA) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não lembra qual é sua zona e seção eleitoral? Consulte aqui.. Veja abaixo a lista de todas as zonas eleitorais de Terra Alta (PA): 32ª zona eleitoral Esta reportagem foi produzida de modo automatizado, com base nos dados do TSE e com o apoio de um sistema de inteligência artificial, sob supervisão de jornalistas (clique aqui para saber mais). Se houver novas informações relevantes, a reportagem pode ser atualizada. Caso você perceba algum erro, por favor nos informe por meio do formulário disponível neste link. Eleições 2026 Urna eletrônica para votação nas eleições brasileiras Marcelo Camargo/Agência Brasil",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/25/terra-alta-pa-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg",
+      "data": "2026-10-26T01:17:57+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1b930ff01e634249ecf95834d8d8a725",
+      "titulo": "Belém entra em festa com buzinaços e apoiadores de Lula nas ruas",
+      "descricao": "Minutos antes de o TSE confirmar a reeleição, centenas de eleitores já estavam nas ruas esperando a definição para comemorar. Foto: Carol Menezes/Diário do Pará Apoiadores do presidente Luiz Inácio Lula da Silva (PT) foram às ruas de Belém neste domingo, 25, para celebrar o resultado do segundo turno das eleições. O post Belém entra em festa com buzinaços e apoiadores de Lula nas ruas apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/belem-entra-em-festa-com-buzinacos-e-apoiadores-de-lula-nas-ruas/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/IMG-20261025-WA0061.jpeg",
+      "data": "2026-10-26T01:00:48+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3a63604f7e18157347779364281a2e75",
+      "titulo": "Ananindeua vira o jogo: Lula supera Flávio Bolsonaro e vence com 52,61%",
+      "descricao": "Lula dá a volta por cima em Ananindeua e supera Flávio Foto: Ricardo Stuckert. Lula venceu Flávio Bolsonaro no segundo turno das eleições presidenciais de 2026 em Ananindeua, revertendo a vantagem inicial do adversário e conquistando 52,61% dos votos na cidade. O post Ananindeua vira o jogo: Lula supera Flávio Bolsonaro e vence com 52,61% apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/eleicoes-2026/ananindeua-vira-o-jogo-lula-supera-flavio-bolsonaro-e-vence-com-5261/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/55558057794_90f9ef7ed1_k.jpg",
+      "data": "2026-10-26T00:31:31+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "e61eb7af17045892e69e88b6ef572c35",
       "titulo": "Nunes Marques leva mais de 2h para analisar pedido sobre horário de votação",
@@ -9,76 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.700038:1780937104/WhatsApp%20Image%202023-06-30%20at%2013.28.41.jpeg?f=187:100",
       "data": "2026-10-25T23:23:34.955939+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "795a24d48fe4669b579456937d6496af",
-      "titulo": "Quem é Pablo Souza, secretário de Salvador que teve prisão decretada e está em Paris",
-      "descricao": "Quem é Pablo Souza, secretário de Salvador que teve prisão decretada e está em Paris",
-      "link": "https://www.oliberal.com/politica/quem-e-pablo-souza-secretario-de-salvador-que-teve-prisao-decretada-e-esta-em-paris-1.1186780",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-25T23:23:34.717846+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c555c1e9a199edde3f48a8a045e424c2",
-      "titulo": "André Janones fala sobre denúncia contra \"tentativa de golpe\" no segundo turno",
-      "descricao": "André Janones fala sobre denúncia contra \"tentativa de golpe\" no segundo turno",
-      "link": "https://www.oliberal.com/politica/andre-janones-fala-sobre-denuncia-contra-tentativa-de-golpe-no-segundo-turno-1.1186781",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.924304:1750513230/AGENCIAS.png?f=187:100",
-      "data": "2026-10-25T23:23:34.493115+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3089d698b66a6a3051f096bdd8e4546a",
-      "titulo": "Vicentinho Júnior vence no Tocantins e derrota Professora Dorinha",
-      "descricao": "Eleições 2026: Vicentinho Júnior vence no Tocantins Vicentinho Júnior (PSDB) foi eleito governador do Tocantins neste domingo (25), derrotando Professora Dorinha (União Brasil) no segundo turno das Eleições 2026. O post Vicentinho Júnior vence no Tocantins e derrota Professora Dorinha apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/vicentinho-junior-vence-no-tocantins-e-derrota-professora-dorinha/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_863452003_1645792057019572_5390766277551566438_n.jpg",
-      "data": "2026-10-25T23:18:15+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ae4ea576549ee2cb347058fec13a2925",
-      "titulo": "Celina Leão é eleita e se torna a primeira governadora eleita do DF",
-      "descricao": "Celina Leão (PP) foi eleita governadora do Distrito Federal neste domingo, tornando-se a primeira mulher a comandar o Executivo local por eleição direta. O post Celina Leão é eleita e se torna a primeira governadora eleita do DF apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/eleicoes-2026/celina-leao-e-eleita-e-se-torna-a-primeira-governadora-eleita-do-df/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/whatsapp-image-2026-08-10-at-175554-1-34413515-1536x1151-1.webp",
-      "data": "2026-10-25T23:15:30+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2bfdf728d139570ae4fbd7b5a9709e70",
-      "titulo": "Círio de Nazaré termina com show de fogos e anúncio do tema para 2027: 'Maria, mãe da palavra que se fez carne'",
-      "descricao": "Queima de fogos na Basílica Santuário marca o fim do Círio de Nazaré 2026. Reprodução / Pascom A 234ª edição do Círio de Nazaré começou a se despedir dos fiéis na noite deste domingo (25), em Belém, com uma programação emocionante na Basílica Santuário. Além do tradicional show de luzes e fogos que marca o encerramento da quinzena nazarena, o público conheceu o tema que vai conduzir a festividade mariana em 2027: \"Maria, Mãe da Palavra que se fez Carne\". As celebrações do Círio na capital paraense se estendem por mais de duas semanas, englobando um total de 14 romarias oficiais. A caminhada devocional teve início no dia 8 de outubro e terá seu ato final nesta segunda-feira (26), com a procissão do Recírio. O ponto alto da festa ocorreu nos dias 10 e 11 de outubro, com a realização da Trasladação e da grande procissão do Círio de Nazaré. ✅ Receba as notícias do g1 Pará direto no WhatsApp Tema do Círio 2027 Círio de Nazaré 2026: Queima de fogos marca encerramento da festa em Belém. Ascom / DFN O anúncio do tema para o Círio de Nazaré 2027 foi um dos momentos mais aguardados da noite. A temática faz referência direta aos 20 anos da realização da V Conferência Geral do Episcopado Latino-americano e do Caribe, ocorrida em Aparecida (SP) em maio de 2007. Inspirado nas diretrizes do \"Documento de Aparecida\", o tema de 2027 propõe uma reflexão sobre a \"animação bíblica da pastoral\". A proposta, segundo a organização da festividade, é destacar a figura da Virgem Maria como a discípula perfeita, que ouve, medita e vivencia a Palavra de Deus. Além da revelação do tema, a cerimônia deste domingo também marcou a nomeação do novo coordenador do Círio para o biênio 2027/2028, que continuará sendo Antônio Luís Ferro de Sousa, conhecido como Toninho. Missa e espetáculo piromusical A programação de encerramento começou com uma missa solene na Basílica Santuário, presidida por Dom Júlio Endi Akamine, arcebispo metropolitano. Logo após a celebração religiosa e os anúncios oficiais, o público acompanhou um show piromusical de quatro minutos. De acordo com a Diretoria da Festa de Nazaré (DFN), o espetáculo contou com 3.100 efeitos visuais e 850 disparos de fogos controlados por computador, sincronizando luzes e cores ao ritmo da trilha sonora. Por questões de segurança, o funcionamento dos brinquedos do Arraial de Nazaré, situado ao lado da Basílica, foi interrompido temporariamente durante a queima de fogos. Fim do Círio Musical A noite também marcou a última apresentação do Círio Musical, evento que levou shows diários à Concha Acústica da Praça Santuário ao longo de 15 dias. A despedida dos palcos ficou sob a responsabilidade do padre Francisco Cavalcante, pároco de Nazaré, que se apresentou acompanhado pelo Ministério de Música da Guarda de Nossa Senhora de Nazaré. Recírio Embora a solenidade de encerramento tenha ocorrido no domingo, o cronograma oficial da Festividade de Nazaré termina de fato nesta segunda-feira (26) com o Recírio. Devido à data, a Região Metropolitana de Belém opera sob decreto de ponto facultativo até as 12h, o que altera o funcionamento de repartições públicas e serviços - (veja o que abre e o que fecha no dia do Recírio). Confira a programação do Recírio: 6h30: Subida da Imagem Original de Nossa Senhora de Nazaré ao Glória (altar-mor da Basílica); 7h: Missa solene na Praça Santuário; 8h: Saída da procissão do Recírio em direção ao Colégio Gentil Bittencourt. Círio de Nazaré 2026: Fiéis enchem praça Santuário na chegada da berlinda com Imagem peregrina Juliana Bessa/G1 VÍDEOS: veja todas as notícias do Pará h Leia mais notícias do estado no g1 Pará",
-      "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/25/cirio-de-nazare-termina-com-show-de-fogos-e-anuncio-do-tema-para-2027-maria-mae-da-palavra-que-se-fez-carne.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/3tTMRl-BgO30lNPhodxCVSnTq_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/1/XWQJmITra6S9bHFTF1rw/img-0010.jpg.jpeg",
-      "data": "2026-10-25T23:02:12+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "02b979886bdd6ddadfe4d6593d0f5f41",
-      "titulo": "2ª zona eleitoral de Santa Cruz do Arari (PA): votos por local de votação no 2º turno",
-      "descricao": "A 2ª zona eleitoral de Santa Cruz do Arari (PA) tem 9 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no local e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios.. Para checar qual é a sua zona e a sua seção eleitoral, clique aqui. Escolha o local de votação: EEEF João Apolinário Batista Pamplona Emef. de Santa Cruz do Arari (Santa Rita) Emef. Francisco Calandrini Muribeca (São Marcos) Emef. Nossa Senhora do Brasil EMEF Nossa Senhora do Perpétuo Socorro Emef. Senador Álvaro Adolfo EMEI Dom Angelo Maria Rivato EMEIF Jose Almir Alves Prefeitura Municipal de Santa Cruz do Arari Esta reportagem foi produzida de modo automatizado, com base nos dados do TSE e com o apoio de um sistema de inteligência artificial, sob supervisão de jornalistas (clique aqui para saber mais). Se houver novas informações relevantes, a reportagem pode ser atualizada. Caso você perceba algum erro, por favor nos informe por meio do formulário disponível neste link. Eleições 2026 Urna eletrônica para votação nas eleições brasileiras Marcelo Camargo/Agência Brasil",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/25/2a-zona-eleitoral-de-santa-cruz-do-arari-pa-votos-por-local-de-votacao-no-2o-turno.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg",
-      "data": "2026-10-25T22:51:39+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "37fa0a09de5b4b3f230de5a173a99431",
-      "titulo": "Veja o que abre e fecha no domingo de eleições e no Recírio na Grande Belém",
-      "descricao": "Veja o que abre e fecha no domingo de eleições e no Recírio na Grande Belém",
-      "link": "https://www.oliberal.com/para/veja-o-que-abre-e-fecha-no-domingo-de-eleic-es-e-no-recirio-na-grande-belem-1.1185817",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1167349:1789075608/Foto%20Ag.%20Pará%20Divulgação%20Arquivo.png?f=187:100",
-      "data": "2026-10-25T21:05:36.892015+00:00",
       "categoria": "PARÁ"
     }
   ]
