@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-27T02:14:40.956567+00:00",
+  "atualizado": "2026-10-27T08:05:26.344196+00:00",
   "noticias": [
+    {
+      "id": "d5638f399e3be5197b084c1a621348fd",
+      "titulo": "Flamengo marca de pênalti no último lance, bate o Atlético-MG e mantém liderança do Brasileirão",
+      "descricao": "Flamengo marca de pênalti no último lance, bate o Atlético-MG e mantém liderança do Brasileirão",
+      "link": "https://www.oliberal.com/esportes/flamengo-marca-de-penalti-no-ultimo-lance-bate-o-atletico-mg-e-mantem-lideranca-do-brasileirao-1.1187278",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1140453:1783090607/55218338708_c81a6635d8_c.jpg?f=187:100",
+      "data": "2026-10-27T08:05:24.221496+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "91a6a5ccc657952bdd57df7575336742",
+      "titulo": "Motociclista morre após colisão com carro no nordeste paraense",
+      "descricao": "Motociclista morre após colisão com carro no nordeste paraense",
+      "link": "https://www.oliberal.com/policia/motociclista-morre-apos-colisao-com-carro-no-nordeste-paraense-1.1187279",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1187280:1793067608/WhatsApp%20Image%202026-10-26%20at%2020.01.10.jpeg?f=187:100",
+      "data": "2026-10-27T08:05:24.221319+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "30b93e82fc68b624db5108bd3370faa8",
+      "titulo": "Incêndio de grandes proporções atinge área de serraria em Portel, no Marajó",
+      "descricao": "Incêndio de grandes proporções atinge área de serraria em Portel, no Marajó",
+      "link": "https://www.oliberal.com/policia/incendio-de-grandes-proporcoes-atinge-area-de-serraria-em-portel-no-marajo-1.1187282",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1187283:1793069587/WhatsApp%20Image%202026-10-26%20at%2023.44.43.jpeg?f=187:100",
+      "data": "2026-10-27T08:05:23.902522+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bf2d0e92dac6e06fbaa3a6823e4eff4e",
+      "titulo": "Previsão do tempo hoje para Belém (PA): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta terça-feira (27) para Belém (PA) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 35ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol e chuva. À noite, pancadas de chuva. Previsão do tempo para amanhã em Belém, quarta (28) Para esta quarta (28), a previsão é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
+      "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/10/27/previsao-do-tempo-hoje-para-belem-pa-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/rvPR3LBrZNhPG5P9IadStSaGBnM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/n/jYJoFkQiSulbL8sn8ZMQ/previsao-tempo-bel-m-20261027-010153.jpeg",
+      "data": "2026-10-27T04:02:04+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9f4db83842e09c6b759267c068e528cf",
+      "titulo": "Quina acumula e aposta de Belém ganha mais de R$ 4 mil; confira",
+      "descricao": "Jogo da Quina. Foto: Reprodução Sem ganhador na faixa principal, prêmio estimado para o próximo sorteio é de R$ 2 milhões; bilhete registrado em Belém acertou quatro números O post Quina acumula e aposta de Belém ganha mais de R$ 4 mil; confira apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/loterias/quina-acumula-e-aposta-de-belem-ganha-mais-de-r-4-mil-confira/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/convertida_1200x628_Quina-Loterias-da-Caixa-1.jpg",
+      "data": "2026-10-27T02:27:51+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "067ed666dffc24978fbf7d6c25d4fde7",
       "titulo": "Corpo de homem é encontrado em área de mata em Ananindeua",
@@ -9,26 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.1187272:1793062908/WhatsApp%20Image%202026-10-26%20at%2021.02.36.jpeg?f=187:100",
       "data": "2026-10-27T02:14:39.036407+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ca7ef7e86932eb5a1c72b17f4a56b016",
-      "titulo": "Líder da oposição na Câmara pede explicações sobre pedido da PF para Flávio entregar passaporte",
-      "descricao": "Líder da oposição na Câmara pede explicações sobre pedido da PF para Flávio entregar passaporte",
-      "link": "https://www.oliberal.com/politica/lider-da-oposicao-na-camara-pede-explicacoes-sobre-pedido-da-pf-para-flavio-entregar-passaporte-1.1187275",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1097004:1778076654/flavio-bolsonaro-bruno-peresagen.png?f=187:100",
-      "data": "2026-10-27T02:14:38.712028+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d5638f399e3be5197b084c1a621348fd",
-      "titulo": "Flamengo marca de pênalti no último lance, bate o Atlético-MG e mantém liderança do Brasileirão",
-      "descricao": "Flamengo marca de pênalti no último lance, bate o Atlético-MG e mantém liderança do Brasileirão",
-      "link": "https://www.oliberal.com/esportes/flamengo-marca-de-penalti-no-ultimo-lance-bate-o-atletico-mg-e-mantem-lideranca-do-brasileirao-1.1187278",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1140453:1783090607/55218338708_c81a6635d8_c.jpg?f=187:100",
-      "data": "2026-10-27T02:14:38.389087+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,16 +72,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "1a3aae08a6123d04c07507a6c4336368",
-      "titulo": "Após 32 anos, McDonald’s encerra parceria com a Fifa e ficará fora da Copa de 2030",
-      "descricao": "Após 32 anos, McDonald’s encerra parceria com a Fifa e ficará fora da Copa de 2030 O McDonald's encerrou sua parceria de patrocínio com a Fifa após 32 anos, não renovando o contrato para a Copa do Mundo de 2030. A decisão reflete uma revisão da estratégia de marketing da rede de fast-food. O post Após 32 anos, McDonald’s encerra parceria com a Fifa e ficará fora da Copa de 2030 apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/apos-32-anos-mcdonalds-encerra-parceria-com-a-fifa-e-ficara-fora-da-copa-de-2030/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://diariodopara.com.br/wp-content/uploads/2023/02/mcdonalds.webp",
-      "data": "2026-10-27T01:45:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "845feb726493ad63235e354ebe3cd8c0",
       "titulo": "De Belo Horizonte a Belém: paraense enfrenta dois dias de ônibus para votar",
       "descricao": "De Belo Horizonte a Belém: paraense enfrenta dois dias de ônibus para votar. TV Liberal/Reprodução A estudante paraense Kimera Mirage passou dois dias em uma viagem de ônibus de Belo Horizonte a Belém para votar no segundo turno das eleições, neste domingo, no Pará. Ela foi uma dos 4 milhões e 986 mil eleitores que compareceram às urnas, onde mais de 6 milhões estavam aptos a votar. “Eu tava em dúvida sobre votar nesse momento, mas, diante do cenário que se apresentou no primeiro turno, achei pertinente vir votar”, afirmou. ✅ Receba as notícias do g1 Pará direto no WhatsApp Em Belém e Ananindeua, os dois maiores municípios da Região Metropolitana, cerca de 1,7 milhão de eleitores foram às urnas. A movimentação começou cedo, com filas em alguns locais antes da abertura dos portões. No campus da Universidade Federal do Pará (UFPA), em Belém, eleitores aguardavam em fila antes da abertura dos portões. Depois das 8h, a votação foi tranquila na maioria das dez zonas eleitorais da capital. Em uma faculdade particular na Marambaia, que concentra o maior número de eleitores de Belém, a votação foi rápida e sem filas. A estudante Julyanne Figueiredo contou que levou cinco minutos para votar. “Nossa, cinco minutos. Entrei e saí”, disse. Estudante viaja mais de dois dias de ônibus para votar em Belém Em uma das seções, uma urna eletrônica apresentou problema no sistema de carregamento após cerca de uma hora de votação e precisou ser trocada. A procura pelos locais de votação também começou cedo em Ananindeua. Em frente a uma escola, a rua foi interditada por medida de segurança. Em uma das seções, o terminal do mesário apresentou falha e precisou ser substituído. O supervisor Charles Santos informou que apenas um equipamento havia apresentado problema com a biometria e que a situação tinha sido solucionada. No local, o tempo médio de votação foi de cinco minutos. A chefe de cozinha Maria Rodrigues relatou tranquilidade. “Tá tranquilo, nesse momento tá bem tranquilo”, afirmou. A aposentada Maria de Fátima Freitas, de 70 anos, também compareceu às urnas, apesar da dificuldade de locomoção. “Eu nunca deixei de votar, desde os meus 18 anos”, contou. VÍDEOS com as principais notícias do Pará",
@@ -59,26 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/CxWApfNABRtV0PR0N4Wx921jSfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/i/kRDv2ISLOmxPBYhG1xHA/image-2026-10-26t213818.472.png",
       "data": "2026-10-27T00:32:52+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "04f74d32fa338e878c5d24e4631b14b8",
-      "titulo": "Alexia Putellas vence a Bola de Ouro pela terceira vez; Lorena é top 30",
-      "descricao": "Alexia Putellas vence a Bola de Ouro pela terceira vez; Lorena é top 30",
-      "link": "https://www.oliberal.com/esportes/alexia-putellas-vence-a-bola-de-ouro-pela-terceira-vez-lorena-e-top-30-1.1187247",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.928522:1750518873/AGENCIAS%20(1).png?f=187:100",
-      "data": "2026-10-26T23:26:37.762561+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4bf2b5b4db6ecbad61556f0ef48089de",
-      "titulo": "Hana Ghassan parabeniza Lula por reeleição à Presidência",
-      "descricao": "Hana Ghassan (MDB) governadora do Pará. Reprodução / Agência Pará A governadora do Pará, Hana Ghassan (MDB), parabenizou o presidente Luiz Inácio Lula da Silva (PT) pela reeleição conquistada no segundo turno das eleições presidenciais. Pelas redes sociais, após a confirmação do resultado pelo Tribunal Superior Eleitoral (TSE), Hana destacou a importância da soberania do voto e celebrou o processo democrático. \"O Brasil é soberano e o povo decidiu nas urnas. Parabenizo o presidente Lula pela reeleição, resultado que expressa a vontade do povo paraense e do povo brasileiro. Esta é a democracia: o voto de cada cidadão é respeitado. Viva a democracia!\", declarou a governadora. O posicionamento de Hana acompanha o alinhamento de seu grupo político, liderado pelo ex-governador e senador eleito Helder Barbalho (MDB), que fez campanha ativa em apoio à candidatura de Lula. ✅ Receba as notícias do g1 Pará direto no WhatsApp Pelas redes sociais, Governadora do Pará Hana Ghassan parabenizou o presidente Lula pela reeleição Reprodução/ Redes sociais Vitória de Lula e derrota de Hana no Pará Lula fez campanha no Pará ao lado de Hana Ghassan Reprodução/ Redes sociais Na votação nacional, Lula foi reeleito com 64 milhões de votos (51,79% dos votos válidos), superando Flávio Bolsonaro (PL), que obteve 59 milhões (48,21%). No Pará, o presidente reeleito venceu com 55,02% dos votos válidos, contra 44,98% do candidato do PL. O petista liderou a votação em 96 dos 144 municípios paraenses, enquanto Flávio Bolsonaro venceu em 48 cidades. Apesar da vitória de Lula no estado, Hana Ghassan que assumiu o governo do Pará em abril após o afastamento de Helder para concorrer ao Senado, não conseguiu se eleger para seguir no cargo. Ela foi derrotada ainda no primeiro turno pelo ex-prefeito de Ananindeua, Dr. Daniel Santos (Podemos), que obteve 51,75% dos votos (2.303.759 votos), contra 46,11% (2.052.759 votos) de Hana. Transição de governo Hana Ghassan segue no comando do Palácio do Governo até o dia 31 de dezembro. A governadora afirmou que pretende conduzir o processo de transição para a gestão de Dr. Daniel Santos de forma \"democrática, pacífica e transparente\". O novo governador assume o cargo em 6 de janeiro de 2027. Vitória no Senado e derrota no Governo: por que Helder não conseguiu eleger Hana no Pará VÍDEOS com as principais notícias do Pará",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/hana-ghassan-parabeniza-lula-por-reeleicao-a-presidencia.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/sNSX6JHMP78mJfZ0kFsJP1h6yjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/c/LFJoI8R3afuZkVqbwaEw/hana-ghassan-tuma.jpeg",
-      "data": "2026-10-26T22:02:23+00:00",
       "categoria": "PARÁ"
     }
   ]
