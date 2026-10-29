@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-10-29T00:30:44.856264+00:00",
+  "atualizado": "2026-10-29T06:36:23.215189+00:00",
   "noticias": [
+    {
+      "id": "90e8bcdc781b69bf7501fea5dcfc3929",
+      "titulo": "São Paulo fraqueja fisicamente após buscar empate, vê domínio adversário e perde para o Bahia",
+      "descricao": "São Paulo fraqueja fisicamente após buscar empate, vê domínio adversário e perde para o Bahia",
+      "link": "https://www.oliberal.com/esportes/sao-paulo-fraqueja-fisicamente-apos-buscar-empate-ve-dominio-adversario-e-perde-para-o-bahia-1.1188212",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1188214:1793242644/Captura%20de%20Tela%202026-10-28%20às%2023.57.30.png?f=187:100",
+      "data": "2026-10-29T06:36:21.306521+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "beccbd3bf5e0d7f5f3a2bb8094de8f57",
+      "titulo": "Leonel Picco celebra gol ao lado da família no Mangueirão: 'Emoção grande'",
+      "descricao": "Leonel Picco celebra gol ao lado da família no Mangueirão: 'Emoção grande'",
+      "link": "https://www.oliberal.com/esportes/remo/leonel-picco-celebra-gol-ao-lado-da-familia-no-mangueirao-emocao-grande-1.1188215",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1188216:1793242993/WhatsApp%20Image%202026-10-28%20at%2022.53.33%20(1).jpeg?f=187:100",
+      "data": "2026-10-29T06:36:20.961195+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f0a9c9a49c680d2ded73ce6ac75b3eda",
+      "titulo": "'Hoje vejo um time competitivo', destaca Thiago Carpini após vitória do Remo",
+      "descricao": "'Hoje vejo um time competitivo', destaca Thiago Carpini após vitória do Remo",
+      "link": "https://www.oliberal.com/esportes/remo/hoje-vejo-um-time-competitivo-destaca-thiago-carpini-apos-vitoria-do-remo-1.1188218",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/image/policy:1.1188219:1793245255/WhatsApp%20Image%202026-10-28%20at%2022.29.38.jpeg?f=187:100",
+      "data": "2026-10-29T06:36:20.617908+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "69a7686fa44cc59a7ec54e71d2ee01e8",
+      "titulo": "Remo vence o Botafogo, mas precisa de arrancada e tropeços dos rivais para não cair",
+      "descricao": "Remo na luta contra a queda: veja os próximos jogos Foto: Oswaldo Forte Com vitória sobre o Botafogo, o Clube do Remo mantém viva a esperança de permanecer na elite do futebol brasileiro em 2027. O Leão Azul está na penúltima colocação. O post Remo vence o Botafogo, mas precisa de arrancada e tropeços dos rivais para não cair apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/remo-vence-o-botafogo-mas-precisa-de-arrancada-e-tropecos-dos-rivais-para-nao-cair/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/IMG-20261028-WA0114.jpg",
+      "data": "2026-10-29T02:33:12+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ef9714b852b9173b79ea989ccff1dec4",
+      "titulo": "Remo encerra jejum de três meses, vence o Botafogo e ainda acredita na permanência",
+      "descricao": "Remo bate o Botafogo por 2 a 1 e segue na luta contra a queda Foto: Oswaldo Forte O Clube do Remo venceu o Botafogo por 2 a 1 no Mangueirão, nesta quarta-feira, e reacendeu a esperança de escapar do rebaixamento no Campeonato Brasileiro, mas a situação ainda é delicada. O post Remo encerra jejum de três meses, vence o Botafogo e ainda acredita na permanência apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/remo-encerra-jejum-de-tres-meses-vence-o-botafogo-e-ainda-acredita-na-permanencia/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/IMG-20261028-WA0117.jpg",
+      "data": "2026-10-29T02:29:15+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "ed6813be7bc44ad14ee88f7e49783a93",
       "titulo": "Após carta de Flávio, Ricardo Nunes diz que presidente 'é aquele que o TSE declarou eleito'",
@@ -9,46 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/image/policy:1.1009764:1755856697/ricardo%20nunes%20o%20globo.png?f=187:100",
       "data": "2026-10-29T00:30:43.086212+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "82847d07e700fa9ed81708d8ef6b9ca6",
-      "titulo": "Integrantes de torcida organizada protagonizam cenas de violência em Belém",
-      "descricao": "Integrantes de torcida organizada protagonizam cenas de violência em Belém",
-      "link": "https://www.oliberal.com/policia/integrantes-de-torcida-organizada-protagonizam-cenas-de-violencia-em-belem-1.1188060",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1188064:1793230767/Integrantes%20de%20torcida%20organizada%20protagonizam%20cenas%20de%20violência%20em%20Belém.jpeg?f=187:100",
-      "data": "2026-10-29T00:30:42.814022+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f8ff2517b46ab7b56206fe7ee2cbfdce",
-      "titulo": "Palestra em Belém aborda uso de rejeitos da bauxita na construção civil",
-      "descricao": "Palestra em Belém aborda uso de rejeitos da bauxita na construção civil",
-      "link": "https://www.oliberal.com/belem/palestra-em-belem-aborda-uso-de-rejeitos-da-bauxita-na-construcao-civil-1.1188068",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.1188070:1793231652/palestra%20bauxita%20reaproveitamento%20professor%20edivaldo%20santiago.jpeg?f=187:100",
-      "data": "2026-10-29T00:30:42.498847+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1743add70d718d226ffae0d380c5f71f",
-      "titulo": "Resultado da Lotomania 2993: veja os números sorteados nesta quarta-feira (28)",
-      "descricao": "Resultado da Lotomania hoje. Foto: Reprodução Confira o resultado, saiba como apostar, números mais sorteados, e as chances de ganhar na Lotomania com prêmio acumulado em R$ 1 milhão. O post Resultado da Lotomania 2993: veja os números sorteados nesta quarta-feira (28) apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/loterias/resultado-da-lotomania-2993-veja-os-numeros-sorteados-nesta-quarta-feira-28/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/convertida_1320x768_resultado-lotomania-loterias-caixa-rimg.jpg",
-      "data": "2026-10-29T00:23:41+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4b4adce177032f6bde964b65d56fa689",
-      "titulo": "Resultado da Super Sete 916: veja os números sorteados nesta quarta-feira (28)",
-      "descricao": "Super Sete, as colunas da sorte. Foto: Reprodução Confira o resultado, saiba como apostar, números mais sorteados, e as chances de ganhar na Super Sete com prêmio acumulado em R$ 12,6 milhões O post Resultado da Super Sete 916: veja os números sorteados nesta quarta-feira (28) apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/resultado-da-super-sete-916-veja-os-numeros-sorteados-nesta-quarta-feira-28/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/07/convertida_1200x628_loteria-supersete_jpg_optimal.jpg",
-      "data": "2026-10-29T00:20:12+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/woi_17ZKieTWV05PYSsl5KahaeQ=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/81/96/15139681",
       "data": "2026-10-28T23:13:04+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "71c4797c7e2b5288c03d753ad0da09b1",
-      "titulo": "É inaceitável que trabalhador seja pressionado no trabalho por opção política, diz Luiz Marinho",
-      "descricao": "É inaceitável que trabalhador seja pressionado no trabalho por opção política, diz Luiz Marinho",
-      "link": "https://www.oliberal.com/politica/e-inaceitavel-que-trabalhador-seja-pressionado-no-trabalho-por-opcao-politica-diz-luiz-marinho-1.1187971",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/image/policy:1.985331:1751316430/30042025-pzzb6720.jpg?f=187:100",
-      "data": "2026-10-28T20:39:58.968065+00:00",
       "categoria": "PARÁ"
     }
   ]
