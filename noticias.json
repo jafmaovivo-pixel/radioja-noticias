@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-11-01T03:02:11.404588+00:00",
+  "atualizado": "2026-11-01T10:40:36.041854+00:00",
   "noticias": [
+    {
+      "id": "657bc2cd78ea120234a50e11ade20652",
+      "titulo": "Cerpa esconde da Justiça dívida de R$ 5 bilhões",
+      "descricao": "Cerpa esconde da Justiça dívida de R$ 5 bilhões",
+      "link": "https://www.oliberal.com/para/cerpa-esconde-da-justica-divida-de-r-5-bilh-es-1.1189223",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1189226%3A1793474381%2Fvista%2520aerea%2520fabrica%2520cerpa%2520_%2520arquivo%2520o%2520liberal.jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-01T10:40:32.533954+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ab88466aced226f318f2658106ec64ff",
+      "titulo": "Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo",
+      "descricao": "Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo",
+      "link": "https://www.oliberal.com/mundo/eleicao-do-congresso-nos-eua-poe-a-prova-trump-e-sua-influencia-no-mundo-1.1189324",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.924304%3A1750513230%2FAGENCIAS.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-01T10:40:27.072201+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9cda411cf2fb130a77b67697d4dc7d4c",
+      "titulo": "No fim de uma era, partidos chegam a uma encruzilhada nos EUA",
+      "descricao": "No fim de uma era, partidos chegam a uma encruzilhada nos EUA",
+      "link": "https://www.oliberal.com/mundo/no-fim-de-uma-era-partidos-chegam-a-uma-encruzilhada-nos-eua-1.1189325",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.924304%3A1750513230%2FAGENCIAS.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-01T10:40:26.725965+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "eade4ef4a5699c363782b7608e89696b",
+      "titulo": "Solenidade de Todos os Santos: por que a Igreja celebra a data em 1º de novembro",
+      "descricao": "Solenidade de Todos os Santos: por que a Igreja celebra a data em 1º de novembro Celebração remonta ao século IV e foi transferida para 1º de novembro pelo Papa Gregório IV, no ano de 835 O post Solenidade de Todos os Santos: por que a Igreja celebra a data em 1º de novembro apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/toda/saber-viver/solenidade-todos-os-santos-origem-significado/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/CAPA-BONS-FLUIDOS-49.png",
+      "data": "2026-11-01T10:35:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "427092f0daa4f9b9c0a21bde101aa554",
+      "titulo": "Horóscopo de hoje, 1º de novembro: veja as previsões para os 12 signos",
+      "descricao": "Horóscopo de 1º de novembro reúne orientações sobre convivência, prioridades e revisão de expectativas para os 12 signos. Previsões da astrologia para os 12 signos abordam revisão de expectativas, cuidados com gastos e resolução de pendências. O post Horóscopo de hoje, 1º de novembro: veja as previsões para os 12 signos apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/horoscopo-de-hoje-1o-de-novembro-veja-as-previsoes-para-os-12-signos/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Horoscopo-9.jpg",
+      "data": "2026-11-01T08:20:49+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "8ff55e0017f1c651587ad007659cc07f",
       "titulo": "F1: Liam Lawson é desclassificado do qualificatório no México e Bortoleto larga na 13ª posição",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-01T03:02:09.253323+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d94ad174de6aa6ce81511b5db71be547",
-      "titulo": "Cruzeiro impõe mais um vice ao Corinthians e vence a Libertadores pela primeira vez",
-      "descricao": "Cruzeiro impõe mais um vice ao Corinthians e vence a Libertadores pela primeira vez",
-      "link": "https://www.oliberal.com/esportes/cruzeiro-impoe-mais-um-vice-ao-corinthians-e-vence-a-libertadores-pela-primeira-vez-1.1189320",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-01T03:02:08.911700+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "72d02ce8bf4e5eaa6bbb6bd06766339c",
-      "titulo": "Artilheira do Cruzeiro, Byanka Brasil chora e revela que pensou em não ir para a Libertadores",
-      "descricao": "Artilheira do Cruzeiro, Byanka Brasil chora e revela que pensou em não ir para a Libertadores",
-      "link": "https://www.oliberal.com/esportes/artilheira-do-cruzeiro-byanka-brasil-chora-e-revela-que-pensou-em-nao-ir-para-a-libertadores-1.1189321",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-01T03:02:08.568372+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "49dd33cc19a2debccf6c2b2a5f7747a1",
-      "titulo": "Cruzeiro vence o Corinthians nos pênaltis e conquista a Libertadores Feminina",
-      "descricao": "Foto: Gustavo Martins/ Cruzeiro O Cruzeiro conquistou a Libertadores Feminina pela primeira vez ao vencer o Corinthians nos pênaltis, após um empate emocionante por 4 a 4 no tempo regulamentar. O post Cruzeiro vence o Corinthians nos pênaltis e conquista a Libertadores Feminina apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/cruzeiro-vence-o-corinthians-nos-penaltis-e-conquista-a-libertadores-feminina/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/55623962881_c6241cded1_4k.jpg",
-      "data": "2026-11-01T02:13:08+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "75ba788f28201fe775b7cbaab78f8037",
-      "titulo": "PM encontra drogas, rádios e máquinas de cartão em imóvel de Ananindeua",
-      "descricao": "Dois homens tentam fugir da PM e acabam flagrados com drogas no Atalaia Dois homens foram detidos em Ananindeua após ação da Polícia Militar que apreendeu drogas, rádios comunicadores e materiais para embalagem de entorpecentes. O post PM encontra drogas, rádios e máquinas de cartão em imóvel de Ananindeua apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/pm-encontra-drogas-radios-e-maquinas-de-cartao-em-imovel-de-ananindeua/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/WhatsApp_Image_2026-10-29_at_17.00.51.jpeg",
-      "data": "2026-11-01T01:40:49+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c0312421b15085fc2cbf299b6270ef37",
-      "titulo": "Casa de Militão é assaltada durante El Clásico e ladrões levam mais de R$ 2 milhões em joias",
-      "descricao": "Casa de Militão é assaltada durante El Clásico e ladrões levam mais de R$ 2 milhões em joias",
-      "link": "https://www.oliberal.com/esportes/casa-de-militao-e-assaltada-durante-el-clasico-e-ladroes-levam-mais-de-r-2-milhoes-em-joias-1.1189269",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1107933%3A1775761870%2FCaptura%2520de%2520tela%25202026-04-09%2520161059.png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-10-31T23:50:32.435786+00:00",
       "categoria": "PARÁ"
     },
     {
