@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-11-01T20:55:03.624886+00:00",
+  "atualizado": "2026-11-02T00:00:25.986139+00:00",
   "noticias": [
+    {
+      "id": "5098a4cf6eaffc43b21e4ef62f2ecfc1",
+      "titulo": "Fã de Ayrton Senna e rival de Rafael Câmara na base: conheça Kimi Antonelli, novo campeão da F1",
+      "descricao": "Fã de Ayrton Senna e rival de Rafael Câmara na base: conheça Kimi Antonelli, novo campeão da F1",
+      "link": "https://www.oliberal.com/esportes/fa-de-ayrton-senna-e-rival-de-rafael-camara-na-base-conheca-kimi-antonelli-novo-campeao-da-f1-1.1189505",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-02T00:00:24.018862+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8cca88d003d9540e05aa1338c279eeb6",
+      "titulo": "Alcolumbre avalia acordo para libertar Bolsonaro em busca de apoio no Senado",
+      "descricao": "Alcolumbre avalia acordo para libertar Bolsonaro em busca de apoio no Senado",
+      "link": "https://www.oliberal.com/politica/alcolumbre-avalia-acordo-para-libertar-bolsonaro-em-busca-de-apoio-no-senado-1.1189504",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1189506%3A1793575457%2Fimage%2520(2).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-02T00:00:23.807197+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "fe68ff47811fbb7043ea5b3e9bbfb1f8",
+      "titulo": "Grêmio derrota Atlético-MG e abre boa vantagem por vaga na final da Copa do Brasil",
+      "descricao": "Grêmio derrota Atlético-MG e abre boa vantagem por vaga na final da Copa do Brasil",
+      "link": "https://www.oliberal.com/esportes/gremio-derrota-atletico-mg-e-abre-boa-vantagem-por-vaga-na-final-da-copa-do-brasil-1.1189507",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-02T00:00:23.624565+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "622fe0a6a4a0d1fac6a469b6c28f56da",
+      "titulo": "Descubra sua flor de nascimento e o que ela diz sobre você",
+      "descricao": "Flores revelam personalidade. Foto: Divulgação Lista completa reúne flores principais e secundárias de cada mês, com significados que revelam traços de personalidade e simbolismos culturais O post Descubra sua flor de nascimento e o que ela diz sobre você apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/tdb/descubra-sua-flor-de-nascimento-e-o-que-ela-diz-sobre-voce-2/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/04/convertida_1200x628_florigoraphy_blog_banner.jpg",
+      "data": "2026-11-01T23:47:12+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "47b8009c68c9b6936faea47c6a05ebe8",
+      "titulo": "Flagra no Barreiro: homem se masturba dentro de carro ao observar jovens e acaba preso",
+      "descricao": "Homem foi preso após ser flagrado praticando ato obsceno dentro de um veículo no bairro do Barreiro, em Belém. Foto: reprodução Moradora registrou a situação em vídeo após perceber o comportamento do suspeito perto de duas jovens; imagens ajudaram a repercutir o caso. O post Flagra no Barreiro: homem se masturba dentro de carro ao observar jovens e acaba preso apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/flagra-no-barreiro-homem-se-masturba-dentro-de-carro-ao-observar-jovens-e-acaba-preso/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_Carro_azul_e_escolta_policial.jpg",
+      "data": "2026-11-01T23:46:12+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "ec786c75559d261ebab99afd326f7eb8",
       "titulo": "'A Lei Maria da Penha precisa avançar na prevenção', diz desembargadora",
@@ -9,26 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/assets/oliberal/oliberal-thumb-social-1200.png",
       "data": "2026-11-01T20:55:02.487158+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "905bf4b73e665c6b64d41eb62d11a528",
-      "titulo": "Águas do Pará é notificada e diz que abastecimento retornou em Belém",
-      "descricao": "Águas do Pará é notificada e diz que abastecimento retornou em Belém",
-      "link": "https://www.oliberal.com/para/aguas-do-para-e-notificada-e-diz-que-abastecimento-retornou-em-belem-1.1189458",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.448551%3A1634597350%2F14739389333_61f51f72bd_o.jpg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-01T20:55:02.307551+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c28d242d119cc0a7b0fb134b86752f9e",
-      "titulo": "Irã: novas armas foram testadas e país está pronto para 'qualquer eventualidade', diz chanceler",
-      "descricao": "Irã: novas armas foram testadas e país está pronto para 'qualquer eventualidade', diz chanceler",
-      "link": "https://www.oliberal.com/mundo/ira-novas-armas-foram-testadas-e-pais-esta-pronto-para-qualquer-eventualidade-diz-chanceler-1.1189461",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.924304%3A1750513230%2FAGENCIAS.png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-01T20:55:01.641343+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,26 +72,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "a6cb30c45e8e0341cf5a366475a0bfbe",
-      "titulo": "Homem é surpreendido por dupla em moto e morto com mais de dez tiros no Pará",
-      "descricao": "Homem é morto com mais de dez tiros em Ananindeua Vítima de 48 anos foi atacada por dois homens em uma motocicleta, em frente a uma oficina no bairro do Icuí-Guajará. Polícia Civil investiga o homicídio. O post Homem é surpreendido por dupla em moto e morto com mais de dez tiros no Pará apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/homem-e-surpreendido-por-dupla-em-moto-e-morto-com-mais-de-dez-tiros-no-para/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_Foto_J_R_Avelar-_Wellington_Lacerda_morto_com_mais_de_dez_tiros_3.jpg",
-      "data": "2026-11-01T20:30:40+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1b216017184c4b345bc784651f383e1b",
-      "titulo": "Dezenas de facas são apreendidas em megaoperação policial em Itaituba",
-      "descricao": "PM realiza megaoperação contra crimes em Itaituba, no Pará A Polícia Militar realizou uma megaoperação em Itaituba, no sudoeste do Pará, com foco no combate à criminalidade e na prevenção de ocorrências violentas. Batizada de Operação Força Total, a ação percorreu bairros com maior incidência de registros criminais, abordou suspeitos, fiscalizou bares e casas noturnas e intensificou o patrulhamento no trânsito. A operação foi […] O post Dezenas de facas são apreendidas em megaoperação policial em Itaituba apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/dezenas-de-facas-sao-apreendidas-em-megaoperacao-policial-em-itaituba/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_Foto_ZAP_ITAITUBA-_Dezenas_de_facas_tercados_punhauis_canivetes_estoques_apreendidos.jpg",
-      "data": "2026-11-01T20:17:01+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "d82f5a5d13ca0cd17976fc8669dbbe0c",
       "titulo": "Justiça determina que concessionária Águas do Pará adote medidas emergenciais em Belém",
       "descricao": "Vários bairros da capital paraense ficaram sem água durante o fim de semana. Pedro França/Agência Senado A Justiça do Pará determinou, na manhã deste domingo (1º), que a concessionária Águas do Pará adote medidas emergenciais imediatas para restabelecer o fornecimento de água e garantir transparência sobre a pane no sistema que afeta Belém. A decisão atende a um pedido apresentado pela Procuradoria-Geral do Município (PGM) na noite de sábado (31), após moradores de cerca de 20 bairros relatarem falta de água durante o fim de semana. O impasse começou após uma manutenção programada pela concessionária, prevista inicialmente para ocorrer entre as 20h de sexta-feira (30) e as 5h de sábado (31), em cinco bairros. O serviço, no entanto, deixou vários bairros de Belém desabastecidos. ✅ Clique e siga o canal do g1 PA no WhatsApp A Prefeitura de Belém recorreu à Justiça alegando que a demora e a falta de informações claras prejudicaram a população. Em nota enviada ao g1, a Águas do Pará informou que ainda não foi notificada da decisão judicial e afirmou que o abastecimento já foi totalmente normalizado em todos os bairros afetados desde o fim da tarde de sábado (31) (leia o posicionamento completo abaixo). Prazos e multas de até R$ 250 mil A decisão, realizada pela juíza Diana Cristina Ferreira da Cunha, determina um cronograma que deve ser cumprido pela Águas do Pará sob pena de multas: Em até 2 horas: Apresentar relatório técnico detalhado por bairro e divulgar em canais oficiais a lista de áreas afetadas e pontos de distribuição de água (com atualização a cada seis horas). Em até 6 horas: Garantir fornecimento emergencial por caminhões-pipa, priorizando hospitais, postos de saúde, abrigos e pessoas acamadas. Em até 12 horas: Comprovar nos autos as ações realizadas, detalhando rotas e volume de água distribuído. O que diz a Águas do Pará Em nota, a concessionária explicou que a interrupção no fornecimento foi necessária para a realização de uma \"intervenção de alta complexidade técnica\" na rede de distribuição localizada no bairro da Condor. Segundo a empresa, os trabalhos começaram às 20h de sexta-feira (30) e foram concluídos às 17h de sábado (31), mobilizando uma equipe de 33 profissionais. A Águas do Pará informou que o abastecimento já está normalizada nos seguintes bairros: Comércio, Campina, Cidade Velha, Reduto, Batista Campos, Jurunas, Umarizal, Nazaré, Guamá, Cremação, Condor, São Brás, Fátima, Terra Firme, Canudos e partes da Pedreira e do Marco. A empresa informou ainda que, durante a paralisação, manteve o atendimento emergencial com caminhões-pipa prioritariamente para serviços essenciais, lamentou os transtornos e reforçou que segue em diálogo com a Prefeitura e com a Agência de Regulação e Controle dos Serviços Públicos do Estado (Arcon). Abastecimento de água é interrompido em bairros de Belém VÍDEOS: veja todas as notícias do Pará",
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/7sAmS3cQz6ZvaYD1-D1e2e147JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/T/X8nxqAQqqcy8mFqzxi1g/edicao-imagens-g1-1-.jpg",
       "data": "2026-11-01T19:26:37+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7a1eedf10780cc3d3746c46a59a57df6",
-      "titulo": "Padre Cláudio Pighin destaca as bem-aventuranças como caminho para a verdadeira",
-      "descricao": "Padre Cláudio Pighin destaca as bem-aventuranças como caminho para a verdadeira",
-      "link": "https://www.oliberal.com/belem/padre-claudio-pighin-destaca-as-bem-aventurancas-como-caminho-para-a-verdadeira-1.1189379",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1189382%3A1793548643%2FWhatsApp%2520Image%25202026-11-01%2520at%252012.57.33.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-01T16:56:32.054588+00:00",
       "categoria": "PARÁ"
     }
   ]
