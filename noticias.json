@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-11-02T00:00:25.986139+00:00",
+  "atualizado": "2026-11-02T06:30:50.367785+00:00",
   "noticias": [
+    {
+      "id": "8fa53560a929546f3ca3463c66ba00d9",
+      "titulo": "Sandy e Junior anunciam novidade e aumentam expectativa de reencontro em 2027",
+      "descricao": "Sandy e Junior anunciam novidade e aumentam expectativa de reencontro em 2027",
+      "link": "https://www.oliberal.com/cultura/sandy-e-junior-anunciam-novidade-e-aumentam-expectativa-de-reencontro-em-2027-1.1189516",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1189517%3A1793580945%2Fimage%2520(4).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-02T06:30:48.826902+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2ba9b83ba5e90b7cc6a7e27964609635",
+      "titulo": "Diretor do Vasco critica arbitragem de Daronco após derrota para o Palmeiras: 'Vergonhosa'",
+      "descricao": "Diretor do Vasco critica arbitragem de Daronco após derrota para o Palmeiras: 'Vergonhosa'",
+      "link": "https://www.oliberal.com/esportes/diretor-do-vasco-critica-arbitragem-de-daronco-apos-derrota-para-o-palmeiras-vergonhosa-1.1189519",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-02T06:30:48.504740+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ecc33ba4fd32a6dfb03ea14c0d8b0364",
+      "titulo": "André Janones descarta ministério no governo Lula: 'Está cravado'",
+      "descricao": "André Janones descarta ministério no governo Lula: 'Está cravado'",
+      "link": "https://www.oliberal.com/politica/andre-janones-descarta-ministerio-no-governo-lula-esta-cravado-1.1189518",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1110475%3A1776282465%2Fagenciabrasil.ebc.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-02T06:30:48.185752+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "df4d04fb5cd5fe80f9ca0447ce57d478",
+      "titulo": "Chef do ‘Chef de Alto Nível’ denuncia boicote a projeto social e recebe apoio popular",
+      "descricao": "Chef Julio Ritta, reagiu a uma provocação do deputado federal reeleito Nikolas Ferreira (PL-MG). Foto: Reprodução Julio Ritta afirma que empresários retiraram doações após seu posicionamento político. Mesmo com cortes de recursos, chef manteve atendimentos O post Chef do ‘Chef de Alto Nível’ denuncia boicote a projeto social e recebe apoio popular apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/chef-do-chef-de-alto-nivel-denuncia-boicote-a-projeto-social-e-recebe-apoio-popular/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_chef-ritta-nikolas.jpg",
+      "data": "2026-11-02T01:45:46+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "7320dccfa43f8b20bd1be8a2602a8c6b",
+      "titulo": "Aos 20 anos, Kimi Antonelli quebra recorde de Vettel e faz história na F1",
+      "descricao": "1. Kimi Antonelli faz história com título mundial pela Mercedes Kimi Antonelli, de 20 anos, se tornou o campeão mais jovem da história da Fórmula 1 ao conquistar o título mundial de 2026 pela Mercedes. O italiano garantiu a taça no GP do México. O post Aos 20 anos, Kimi Antonelli quebra recorde de Vettel e faz história na F1 apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/aos-20-anos-kimi-antonelli-quebra-recorde-de-vettel-e-faz-historia-na-f1/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_883892461_1159938726462914_7202647900036722930_n.jpg",
+      "data": "2026-11-02T01:25:44+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "5098a4cf6eaffc43b21e4ef62f2ecfc1",
       "titulo": "Fã de Ayrton Senna e rival de Rafael Câmara na base: conheça Kimi Antonelli, novo campeão da F1",
@@ -9,56 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-02T00:00:24.018862+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8cca88d003d9540e05aa1338c279eeb6",
-      "titulo": "Alcolumbre avalia acordo para libertar Bolsonaro em busca de apoio no Senado",
-      "descricao": "Alcolumbre avalia acordo para libertar Bolsonaro em busca de apoio no Senado",
-      "link": "https://www.oliberal.com/politica/alcolumbre-avalia-acordo-para-libertar-bolsonaro-em-busca-de-apoio-no-senado-1.1189504",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1189506%3A1793575457%2Fimage%2520(2).png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-02T00:00:23.807197+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "fe68ff47811fbb7043ea5b3e9bbfb1f8",
-      "titulo": "Grêmio derrota Atlético-MG e abre boa vantagem por vaga na final da Copa do Brasil",
-      "descricao": "Grêmio derrota Atlético-MG e abre boa vantagem por vaga na final da Copa do Brasil",
-      "link": "https://www.oliberal.com/esportes/gremio-derrota-atletico-mg-e-abre-boa-vantagem-por-vaga-na-final-da-copa-do-brasil-1.1189507",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-02T00:00:23.624565+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "622fe0a6a4a0d1fac6a469b6c28f56da",
-      "titulo": "Descubra sua flor de nascimento e o que ela diz sobre você",
-      "descricao": "Flores revelam personalidade. Foto: Divulgação Lista completa reúne flores principais e secundárias de cada mês, com significados que revelam traços de personalidade e simbolismos culturais O post Descubra sua flor de nascimento e o que ela diz sobre você apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/tdb/descubra-sua-flor-de-nascimento-e-o-que-ela-diz-sobre-voce-2/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/04/convertida_1200x628_florigoraphy_blog_banner.jpg",
-      "data": "2026-11-01T23:47:12+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "47b8009c68c9b6936faea47c6a05ebe8",
-      "titulo": "Flagra no Barreiro: homem se masturba dentro de carro ao observar jovens e acaba preso",
-      "descricao": "Homem foi preso após ser flagrado praticando ato obsceno dentro de um veículo no bairro do Barreiro, em Belém. Foto: reprodução Moradora registrou a situação em vídeo após perceber o comportamento do suspeito perto de duas jovens; imagens ajudaram a repercutir o caso. O post Flagra no Barreiro: homem se masturba dentro de carro ao observar jovens e acaba preso apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/flagra-no-barreiro-homem-se-masturba-dentro-de-carro-ao-observar-jovens-e-acaba-preso/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_Carro_azul_e_escolta_policial.jpg",
-      "data": "2026-11-01T23:46:12+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ec786c75559d261ebab99afd326f7eb8",
-      "titulo": "'A Lei Maria da Penha precisa avançar na prevenção', diz desembargadora",
-      "descricao": "'A Lei Maria da Penha precisa avançar na prevenção', diz desembargadora",
-      "link": "https://www.oliberal.com/politica/a-lei-maria-da-penha-precisa-avancar-na-prevencao-diz-desembargadora-1.1188832",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/assets/oliberal/oliberal-thumb-social-1200.png",
-      "data": "2026-11-01T20:55:02.487158+00:00",
       "categoria": "PARÁ"
     },
     {
