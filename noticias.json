@@ -1,16 +1,6 @@
 {
-  "atualizado": "2026-11-07T02:11:47.866698+00:00",
+  "atualizado": "2026-11-07T08:58:58.185528+00:00",
   "noticias": [
-    {
-      "id": "895569b3a3c787256eb62e82eed10676",
-      "titulo": "Theatro da Paz referenda a Amazônia como Patrimônio Mundial da Unesco",
-      "descricao": "Theatro da Paz referenda a Amazônia como Patrimônio Mundial da Unesco",
-      "link": "https://www.oliberal.com/cultura/theatro-da-paz-referenda-a-amazonia-como-patrimonio-mundial-da-unesco-1.1191620",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191625%3A1794015842%2FIMG_1301.JPG%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-07T02:11:46.653175+00:00",
-      "categoria": "PARÁ"
-    },
     {
       "id": "8d12eff80481f25d54777ac00a864b59",
       "titulo": "Foragido da justiça de Mato Grosso é preso pela PM em Castanhal",
@@ -18,7 +8,7 @@
       "link": "https://www.oliberal.com/policia/foragido-da-justica-de-mato-grosso-e-preso-pela-pm-em-castanhal-1.1191634",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191636%3A1794016578%2FWhatsApp%2520Image%25202026-11-06%2520at%252022.53.46.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-07T02:11:46.339237+00:00",
+      "data": "2026-11-07T08:58:56.713906+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -28,7 +18,37 @@
       "link": "https://www.oliberal.com/esportes/o-que-e-uma-reprimenda-na-f1-entenda-advertencia-recebida-por-rafa-camara-no-gp-de-sp-1.1191638",
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-07T02:11:45.984972+00:00",
+      "data": "2026-11-07T08:58:56.713759+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "020ae4c983a31b586009a6ce0a111279",
+      "titulo": "Romarinho, filho de Romário, anuncia aposentadoria aos 33 anos e mira presidência do America-RJ",
+      "descricao": "Romarinho, filho de Romário, anuncia aposentadoria aos 33 anos e mira presidência do America-RJ",
+      "link": "https://www.oliberal.com/esportes/romarinho-filho-de-romario-anuncia-aposentadoria-aos-33-anos-e-mira-presidencia-do-america-rj-1.1191644",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191646%3A1794019344%2FCaptura%2520de%2520Tela%25202026-11-06%2520a%CC%80s%252023.42.01.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-07T08:58:56.713555+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5f9222dd63fcf66cd827f8fa8213e19d",
+      "titulo": "Previsão do tempo hoje para Belém (PA): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para este sábado (7) para Belém (PA) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 34ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol, pancadas de chuva e trovoadas. À noite, pancadas de chuva e trovoadas. Previsão do tempo para amanhã em Belém, domingo (8) Para este domingo (8), a previsão é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
+      "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-belem-pa-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/tT8h90X0WVSae_Qwi8wFT21Di4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/G/fkAa64RImmFOVXV6jA7w/previsao-tempo-bel-m-20261107-010211.jpeg",
+      "data": "2026-11-07T04:02:21+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "895569b3a3c787256eb62e82eed10676",
+      "titulo": "Theatro da Paz referenda a Amazônia como Patrimônio Mundial da Unesco",
+      "descricao": "Theatro da Paz referenda a Amazônia como Patrimônio Mundial da Unesco",
+      "link": "https://www.oliberal.com/cultura/theatro-da-paz-referenda-a-amazonia-como-patrimonio-mundial-da-unesco-1.1191620",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191625%3A1794015842%2FIMG_1301.JPG%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-07T02:11:46.653175+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -59,26 +79,6 @@
       "fonte": "Diário do Pará",
       "imagem": "https://uploads.diariodopara.com.br/imagens/2026/06/diadesorte.jpg",
       "data": "2026-11-07T00:52:08+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "a23ec18df579f1645761b047470ab11d",
-      "titulo": "Cerimônia no Theatro da Paz marca entrega do título de Patrimônio Mundial da Unesco",
-      "descricao": "Theatro da Paz recebe o título oficial de Patrimônio Mundial da Unesco O Theatro da Paz, em Belém, recebe oficialmente nesta sexta-feira (6) o título de Patrimônio Mundial da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco). A solenidade, aberta ao público, começou às 19h, no próprio teatro. A programação reúne apresentações musicais e de dança, além da participação prevista de autoridades e representantes de instituições culturais. ✅ Clique e siga o canal do g1 PA no WhatsApp Patrimônio cultural do Brasil desde 1963, o Theatro da Paz foi reconhecido pela Unesco em candidatura conjunta com o Teatro Amazonas, de Manaus (AM). Os dois integram o bem chamado “Teatros da Amazônia”. Por que os teatros foram reconhecidos? A decisão ocorreu em junho de 2026, durante a 48ª sessão do Comitê do Patrimônio Mundial, em Busan, na Coreia do Sul. O reconhecimento considera a história compartilhada pelos teatros como duas das primeiras grandes casas de ópera das Américas. Entre as características destacadas estão: A relação com o ciclo econômico da borracha no Norte do Brasil; A memória socioeconômica desse período; A combinação entre a arquitetura neoclássica e a identidade amazônica. Theatro da Paz é considerado o maior símbolo do ciclo da borracha em Belém Vitor Serrano/BBC News A solenidade tem apresentação prevista do Grupo Parafolclórico Flor da Amazônia, no hall de entrada do teatro. A programação também inclui: Amazônia Jazz Band; Banda Warilou; Banda Sayonara eGigi Furtado. Quem participa da cerimônia? Entre as autoridades com presença prevista estão Deyvesson Gusmão, presidente do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), e Cristina Vasconcelos, superintendente do órgão no Pará. Também são esperados Isabel de Paula, coordenadora de cultura da Unesco no Brasil, e Danilo Bandeira, secretário-geral adjunto da Comissão Nacional do Brasil para a Unesco, como representante do Ministério das Relações Exteriores. A solenidade prevê ainda a participação de representantes do Ministério da Cultura, do governo do Pará, do Teatro Amazonas e do Theatro da Paz. VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/06/cerimonia-no-theatro-da-paz-marca-entrega-do-titulo-de-patrimonio-mundial-da-unesco.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/K11CScHbC5RmCezzAQZInrJX4xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/B/xO1dd2RLO8Z3UatbtlkQ/8.webp",
-      "data": "2026-11-06T22:57:12+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "58819ed0a50e07852e536c3eff987a35",
-      "titulo": "Novo executivo do Paysandu mira acesso e promete trabalho: 'Conte comigo'",
-      "descricao": "Novo executivo do Paysandu mira acesso e promete trabalho: 'Conte comigo'",
-      "link": "https://www.oliberal.com/esportes/paysandu/novo-executivo-do-paysandu-mira-acesso-e-promete-trabalho-conte-comigo-1.1191536",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191547%3A1794002626%2FRD.jpg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-06T22:29:58.207742+00:00",
       "categoria": "PARÁ"
     }
   ]
