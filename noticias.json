@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-11-07T23:12:53.712717+00:00",
+  "atualizado": "2026-11-08T02:34:59.244562+00:00",
   "noticias": [
+    {
+      "id": "adbbfa1045af74d8b795d62ef4fbb911",
+      "titulo": "Casos de covid-19 crescem no Brasil, diz Ministério da Saúde; veja onde",
+      "descricao": "Casos de covid-19 crescem no Brasil, diz Ministério da Saúde; veja onde",
+      "link": "https://www.oliberal.com/para/casos-de-covid-19-crescem-no-brasil-diz-ministerio-da-saude-veja-onde-1.1191800",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.781150%3A1794099088%2Fdownload%2520(4).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-08T02:34:57.316648+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "027416dda7a95aef1e92e4291990f5f3",
+      "titulo": "Papa denuncia morte de crianças em bairro violento do Uruguai",
+      "descricao": "Papa denuncia morte de crianças em bairro violento do Uruguai",
+      "link": "https://www.oliberal.com/mundo/papa-denuncia-morte-de-criancas-em-bairro-violento-do-uruguai-1.1191804",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.924304%3A1750513230%2FAGENCIAS.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-08T02:34:56.925306+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8cd8b2425bd2bc2261ff5c20f26217b0",
+      "titulo": "Mulher é atropelada enquanto retornava da padaria, em Icoaraci",
+      "descricao": "Mulher é atropelada enquanto retornava da padaria, em Icoaraci",
+      "link": "https://www.oliberal.com/policia/mulher-e-atropelada-enquanto-retornava-da-padaria-em-icoaraci-1.1191808",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191809%3A1794101975%2FATROPELAMENTO%2520-%2520ICOARACI.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-08T02:34:56.536103+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d4a4a18a135c3598af880fa8bcb02388",
+      "titulo": "Xuxa cancela ida ao Teleton 2026 por causa de temporal no Rio e faz apelo por doações",
+      "descricao": "Apresentadora estava pronta para embarcar quando foi orientada a não viajar; ela pretendia cantar 'Doce Mel' e 'Ilariê' ao lado de Patrícia Abravanel Apresentadora estava pronta para embarcar quando foi orientada a não viajar; ela pretendia cantar 'Doce Mel' e 'Ilariê' ao lado de Patrícia Abravanel O post Xuxa cancela ida ao Teleton 2026 por causa de temporal no Rio e faz apelo por doações apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/xuxa-fora-teleton-2026-temporal-rio-apelo-doacoes/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/convertida_1320x768_SaveClip_App_761947484_18616037803056367_7758752189235154457_n.jpg",
+      "data": "2026-11-08T01:41:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b969d91633231760c3b14b8934fefe1f",
+      "titulo": "Surto de doença de Chagas deixa um morto e outros seis infectados no Pará",
+      "descricao": "Vinho de patauá: surto de Chagas em Óbidos já provocou uma morte Prefeitura de Óbidos, no Pará, confirma a morte de paciente internado em Oriximiná durante surto de doença de Chagas. O município tem outros seis casos confirmados. O post Surto de doença de Chagas deixa um morto e outros seis infectados no Pará apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/para/surto-de-doenca-de-chagas-deixa-um-morto-e-outros-seis-infectados-no-para/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_pataua-65c6304d6a628109ba17485462973809-1024-1024.jpg",
+      "data": "2026-11-08T00:09:07+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "5453f23349cab50508967ff17255712e",
       "titulo": "Terminal da Tamandaré soma 900 mil passageiros em um ano",
@@ -9,26 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191789%3A1794091977%2Fbarco.PNG%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-07T23:12:50.236290+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "175cee1761e7c25f44b8394c1869c74e",
-      "titulo": "Pará gera mais de 34 mil empregos formais e lidera no Norte",
-      "descricao": "Pará gera mais de 34 mil empregos formais e lidera no Norte",
-      "link": "https://www.oliberal.com/para/para-gera-mais-de-34-mil-empregos-formais-e-lidera-no-norte-1.1191791",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191792%3A1794092529%2Fobras.PNG%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-07T23:12:50.042433+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d36c56d86c1532ea8bc721c42df7b5d4",
-      "titulo": "Neuer estabelece recorde no Bayern, mas falha novamente e deixa o campo machucado",
-      "descricao": "Neuer estabelece recorde no Bayern, mas falha novamente e deixa o campo machucado",
-      "link": "https://www.oliberal.com/esportes/neuer-estabelece-recorde-no-bayern-mas-falha-novamente-e-deixa-o-campo-machucado-1.1191793",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.565066%3A1658439395%2FWhatsApp%2520Image%25202022-07-21%2520at%252018.36.27.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-07T23:12:49.699347+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -42,43 +72,13 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "db8da97fed2db7208ea1dc9d37997334",
-      "titulo": "Casos graves de covid-19 avançam em cinco estados, aponta Fiocruz",
-      "descricao": "Casos graves de covid-19 avançam em cinco estados, aponta Fiocruz Boletim InfoGripe identifica sinais de crescimento em Mato Grosso, DF, SP, RJ e Santa Catarina, embora a incidência siga baixa em quatro deles O post Casos graves de covid-19 avançam em cinco estados, aponta Fiocruz apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/dr-responde/covid-19-cinco-estados-aumento-casos-graves-fiocruz/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/05/convertida_1200x628_COVID3.jpg",
-      "data": "2026-11-07T23:00:42+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "848abb779dba432d8a831140eb72a794",
-      "titulo": "Novorizontino vence o Fortaleza e conquista acesso inédito à Série A",
-      "descricao": "O Novorizontino escreveu neste sábado (7) a página mais importante de sua história. O Novorizontino venceu o Fortaleza por 2 a 1, de virada e com três expulsões, e garantiu acesso inédito à Série A do Brasileirão em 2027. O post Novorizontino vence o Fortaleza e conquista acesso inédito à Série A apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/novorizontino-vence-o-fortaleza-e-conquista-acesso-inedito-a-serie-a/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/IMG_3914.jpeg",
-      "data": "2026-11-07T22:28:50+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "49db292b269b2d5e18f206bf3efea2e3",
       "titulo": "Grupo suspeito de fraudar portabilidade salarial de servidores e aposentados no PA e no TO é preso",
-      "descricao": "Grupo preso segue sob investigação. PC PA A Polícia Civil (PC) do Pará cumpriu mandados de prisão preventiva e de busca e apreensão na Grande Belém contra um grupo suspeito de aplicar fraudes de portabilidade salarial contra servidores no Pará e no Tocantins. A operação Vicário foi deflagrada na quinta-feira (5), em ação conjunta com a PC do Tocantins. Ao todo, três ordens judiciais foram cumpridas na capital paraense e Ananindeua, na Grande Belém, e uma quarta foi executada em Araguaína (TO). O número exato de pessoas presas não foi divulgado. Como o golpe funcionava As investigações apontam que o grupo usava dados pessoais de servidores públicos e aposentados para abrir contas bancárias fictícias e, a partir delas, solicitar a portabilidade dos salários sem o conhecimento dos titulares. \"Assim que o crédito entrava, o dinheiro era fracionado entre várias contas de passagem, manobra destinada a dificultar o rastreamento e a recuperação dos valores\", explicou o delegado Glaudson Rodrigues, responsável pela investigação. Nas buscas, foram apreendidos três aparelhos celulares. A Justiça autorizou a extração dos dados desses dispositivos e das contas em nuvem dos investigados. ✅ Receba as notícias do g1 Pará direto no WhatsApp Bloqueio de bens e crimes investigados Agora no g1 Para garantir o ressarcimento das vítimas, a Justiça deferiu, a pedido da Polícia Civil do Pará, o sequestro e o bloqueio de bens e valores dos investigados até o limite de R$ 20.416,06, total estimado do prejuízo. Os investigados poderão responder pelos crimes de estelionato mediante fraude eletrônica, uso de documento falso, lavagem de capitais e associação criminosa. Os presos foram encaminhados para a unidade policial, onde passaram pelos procedimentos cabíveis. Eles seguem à disposição da Justiça\", finalizou o delegado. A Polícia Civil afirma que a operação reafirma o compromisso da corporação com a repressão aos crimes patrimoniais praticados no ambiente cibernético, em cooperação com as polícias civis de outros estados. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
+      "descricao": "Grupo preso segue sob investigação. PC PA A Polícia Civil (PC) do Pará cumpriu mandados de prisão preventiva e de busca e apreensão na Grande Belém contra um grupo suspeito de aplicar fraudes de portabilidade salarial contra servidores no Pará e no Tocantins. A operação Vicário foi deflagrada na quinta-feira (5), em ação conjunta com a PC do Tocantins. Ao todo, três ordens judiciais foram cumpridas na capital paraense e Ananindeua, na Grande Belém, e uma quarta foi executada em Araguaína (TO). O número exato de pessoas presas não foi divulgado. Como o golpe funcionava As investigações apontam que o grupo usava dados pessoais de servidores públicos e aposentados para abrir contas bancárias fictícias e, a partir delas, solicitar a portabilidade dos salários sem o conhecimento dos titulares. \"Assim que o crédito entrava, o dinheiro era fracionado entre várias contas de passagem, manobra destinada a dificultar o rastreamento e a recuperação dos valores\", explicou o delegado Glaudson Rodrigues, responsável pela investigação. Nas buscas, foram apreendidos três aparelhos celulares. A Justiça autorizou a extração dos dados desses dispositivos e das contas em nuvem dos investigados. ✅ Receba as notícias do g1 Pará direto no WhatsApp Bloqueio de bens e crimes investigados Agora no g1 Para garantir o ressarcimento das vítimas, a Justiça deferiu, a pedido da Polícia Civil do Pará, o sequestro e o bloqueio de bens e valores dos investigados até o limite de R$ 20.416,06, total estimado do prejuízo. Os investigados poderão responder pelos crimes de estelionato mediante fraude eletrônica, uso de documento falso, lavagem de capitais e associação criminosa. Os presos foram encaminhados para a unidade policial, onde passaram pelos procedimentos cabíveis. \"Eles seguem à disposição da Justiça\", finalizou o delegado. A Polícia Civil afirma que a operação reafirma o compromisso da corporação com a repressão aos crimes patrimoniais praticados no ambiente cibernético, em cooperação com as polícias civis de outros estados. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
       "link": "https://g1.globo.com/pa/para/noticia/2026/11/07/grupo-suspeito-de-fraudar-portabilidade-salarial-de-servidores-e-aposentados-no-pa-e-no-to-e-preso.ghtml",
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/KjCPOp5QHODL0KAXrBT9_EwqzhM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/1/pkfEYyQ2AQxBZ62Ow34w/geral-g1-63-.png",
       "data": "2026-11-07T22:01:53+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7c755e3c295fca8f4b44cfbc0b17bfb4",
-      "titulo": "BNDES investiu R$ 18,5 bilhões no Pará em três anos e meio, afirma diretora",
-      "descricao": "BNDES investiu R$ 18,5 bilhões no Pará em três anos e meio, afirma diretora",
-      "link": "https://www.oliberal.com/economia/bndes-investiu-r-18-5-bilhoes-no-para-em-tres-anos-e-meio-afirma-diretora-1.1191205",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191208%3A1793966931%2Ffoto%2520entrevista%2520principal.jpg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-07T19:30:35.191221+00:00",
       "categoria": "PARÁ"
     }
   ]
