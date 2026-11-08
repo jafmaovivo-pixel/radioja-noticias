@@ -1,6 +1,76 @@
 {
-  "atualizado": "2026-11-08T16:26:46.502897+00:00",
+  "atualizado": "2026-11-08T20:39:38.012911+00:00",
   "noticias": [
+    {
+      "id": "4e8509acd597de872c81288417fae370",
+      "titulo": "Jovem de 18 anos morre em acidente entre carro e motocicleta em Parauapebas",
+      "descricao": "Jovem de 18 anos morre em acidente entre carro e motocicleta em Parauapebas",
+      "link": "https://www.oliberal.com/policia/jovem-de-18-anos-morre-em-acidente-entre-carro-e-motocicleta-em-parauapebas-1.1191962",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191963%3A1794167576%2FWhatsApp%2520Image%25202026-11-08%2520at%252016.46.16.jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-08T20:39:36.235152+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "19c4a37525b6c402fdb4048a7d83d7b9",
+      "titulo": "Paciente morre vítima de Doença de Chagas em Óbidos, no Pará",
+      "descricao": "Paciente morre vítima de Doença de Chagas em Óbidos, no Pará",
+      "link": "https://www.oliberal.com/para/paciente-morre-vitima-de-doenca-de-chagas-em-obidos-no-para-1.1191966",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191967%3A1794169360%2FPaciente%2520morre%2520v%C3%ADtima%2520de%2520Doen%C3%A7a%2520de%2520Chagas%2520em%2520%C3%93bidos%2C%2520no%2520Par%C3%A1.jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-08T20:39:36.090228+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3d4a0928d9e06f3b3de918fa6213ee61",
+      "titulo": "Mãe apoia filho autista no Enem em Belém: 'Família e educação andam juntas'",
+      "descricao": "Mãe apoia filho autista no Enem em Belém: 'Família e educação andam juntas'",
+      "link": "https://www.oliberal.com/belem/mae-apoia-filho-autista-no-enem-em-belem-familia-e-educacao-andam-juntas-1.1191969",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191970%3A1794169796%2FWhatsApp%2520Image%25202026-11-08%2520at%252017.26.54.jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-08T20:39:35.947776+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "eadfb943438317ef4aa2b5ad6b5ddb71",
+      "titulo": "Sede do Rancho Não Posso Me Amofiná vai a leilão nesta segunda-feira",
+      "descricao": "Sede da escola de samba Rancho vai a leilão por R$ 1,6 milhão A sede do Grêmio Recreativo Jurunense Rancho Não Posso Me Amofiná, tradicional escola de samba de Belém, será leiloada nesta segunda-feira (9) pelo TRT-8. O imóvel foi avaliado em R$ 1,6 milhão. O post Sede do Rancho Não Posso Me Amofiná vai a leilão nesta segunda-feira apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/perfil-do-rancho-fala-em-deus-e-compartilha-charge-que-retrata-mulher-como-galinha-veja/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://diariodopara.com.br/wp-content/uploads/2025/03/imagem_otimizada-1.jpg",
+      "data": "2026-11-08T20:35:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ee27e73f81acf2ab341f6e1f66f415ef",
+      "titulo": "Suspeito de matar policial federal de 82 anos é preso em Belém",
+      "descricao": "Câmeras registraram tudo: o que falta esclarecer sobre morte de policial em Belém Um dos suspeitos de assassinar o policial federal aposentado Leonildo Dias, de 82 anos, foi preso em Belém. A vítima foi morta a tiros durante tentativa de assalto. O post Suspeito de matar policial federal de 82 anos é preso em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/policia/suspeito-de-matar-policial-federal-de-82-anos-e-preso-em-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_Foto_ZAP_MARCO-_O_policial_Leonildo_Dias_assassinado_durante_um_assalto_em_Belem.jpg",
+      "data": "2026-11-08T20:28:48+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "0a281dd17cdf2b52162e3651c709ceb2",
+      "titulo": "'Não consegui desenvolver’ e ‘tranquilo’: estudantes contam como foi a redação do Enem em Belém",
+      "descricao": "ENEM 2026 -DOMINGO (8) – BELÉM – Estudantes paraenses avaliam tema da redação. Marcus Passos / g1 O tema da redação dividiu as impressões de três estudantes que fizeram o primeiro dia do Exame Nacional do Ensino Médio (Enem) em Belém neste domingo (8). Enquanto dois treineiros disseram ter sido surpreendidos pela proposta, uma candidata de 51 anos considerou o texto tranquilo de desenvolver. O tema da redação do Exame Nacional do Ensino Médio (Enem) 2026 é “A valorização do Sistema Único de Saúde (SUS) como direito universal\". ✅ Receba as notícias do g1 Pará direto no WhatsApp Richard Rocha Ferreira, de 18 anos, e Marcelo Elorran, de 17, esperavam um tema relacionado à tecnologia. A reação à proposta, porém, foi diferente. Richard disse que não conseguiu desenvolver o texto. E Marcelo acredita que fez uma boa redação, apesar de considerar a prova trabalhosa e cansativa. Já Michelle Araújo avaliou que a redação abriu espaço para discutir melhorias no Sistema Único de Saúde (SUS), assunto que, segundo ela, foi abordado na proposta. 📝 ‘Não consegui desenvolver’ Na primeira participação no Enem, Richard fez a prova como treineiro. Aluno do segundo ano do ensino médio, ele contou que esperava escrever sobre tecnologia. Ao ser questionado sobre como lidou com o tema apresentado, disse que não conseguiu desenvolver. Apesar da dificuldade na redação, o estudante avaliou positivamente a estreia no exame. “A experiência foi ótima”. Richard terminou a prova por volta das 16h. Ele disse que pretende cursar artes cênicas na Universidade Federal do Pará (UFPA). 😓 ‘Bem trabalhosa’ e ‘cansativa’ Marcelo também participou do Enem pela primeira vez, como treineiro. Aluno do segundo ano do ensino médio, disse que a expectativa de uma redação sobre tecnologia surgiu a partir de anúncios que viu no site do exame. “Esperava que seria tecnologia, pelos anúncios que eles lançavam no site. Daí eu esperava muito que era tecnologia e acabou que foi um assunto totalmente diferente”, contou. Mesmo com a surpresa, Marcelo acredita que conseguiu desenvolver os argumentos. “Deu, deu pra fazer uma boa redação.” Sobre a prova em geral, o estudante disse que foi “bem trabalhosa” e “cansativa”. Embora tenha participado apenas como treino, ele disse que vinha estudando desde a inscrição. 💬 ‘Tranquilo, deu para desenvolver’ Michelle saiu da prova com uma avaliação positiva da redação. Segundo ela, a proposta sobre o SUS permitiu discutir a valorização dos serviços e apresentar sugestões para melhorar o atendimento à população. “Tranquilo (o tema), deu para desenvolver e muito bom, por sinal”, afirmou. Para a estudante, o texto foi uma oportunidade de abordar políticas públicas pela perspectiva de quem utiliza os serviços. “O que a gente avalia de um jeito, o poder público pode avaliar de outro. E isso pode servir até de sugestões lá para frente”, disse. Esta foi a segunda participação de Michelle no Enem. A primeira ocorreu em 2024. Aluna de psicopedagogia a distância em uma instituição particular, ela acredita que a rotina de estudos em casa ajudou na preparação, principalmente em português e interpretação de texto. Michelle pretende usar a nota do exame para tentar uma bolsa em psicologia pelo Programa Universidade para Todos (ProUni). Para ela, a idade não deve impedir a volta à sala de aula. A presença de pessoas com mais de 50 anos em busca de uma nova carreira, afirmou, é um incentivo para retomar os estudos. \"É uma coisa que você tem que fazer, não pelos outros, mas por você mesmo. Buscar o conhecimento nunca é demais.”",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/08/nao-consegui-desenvolver-e-tranquilo-estudantes-contam-como-foi-a-redacao-do-enem-em-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/-iZOrnqCOjviF4uKiMlH5LRhanY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/W/jippAWTUSFzBxUoKnGkA/1794168614156723.jpg",
+      "data": "2026-11-08T20:11:41+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "da3974f94d73041d67e7b892c3b0dd3d",
+      "titulo": "Candidata do Enem passa mal em sala sem ventilação e é orientada a pedir reaplicação da prova em Belém",
+      "descricao": "Candidata do Enem passa mal em sala sem ventilação em Belém O calor e a falta de ventilação em um dos locais de aplicação do Exame Nacional do Ensino Médio (Enem) geraram transtornos para candidatos neste domingo (8) em uma escola particular de Belém. Uma estudante, ouvida pelo g1, relatou ter passado mal dentro de uma das salas de aula devido à ausência de ar-condicionado e ventiladores insuficientes. ENEM 2026: acompanhe a cobertura Segundo a candidata Isabella Ramos, a coordenação do local orientou os alunos a deixaram o local a partir das 15h30 e a solicitar a reaplicação da prova do Enem junto ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). Tia da estudante, Leila Ramos conta que foi buscar a sobrinha, que realizava o exame como treineira, por volta das 16h, após receber um aviso de que ela já havia deixado o local. \"Eu não entendi de imediato o motivo de ela ter saído tão cedo. Quando ela chegou, me relatou que a sala tinha 47 alunos e apenas dois ventiladores funcionando. As pessoas começaram a passar mal de tanto calor\", explicou Leila. No Pará, cerca de 300 mil pessoas se inscreveram no Enem 2026. Neste domingo, os candidatos respondem a questões de linguagens e ciências humanas, além de produzir uma redação. O segundo dia de provas está marcado para 15 de novembro. LEIA TAMBÉM: Com mão fraturada e cirurgia marcada para o dia seguinte, jovem faz Enem na UFPA Mãe acompanha filho autista que faz Enem para tentar vaga na universidade Aos 60 anos, candidato faz Enem e incentiva estudantes: 'Não desista do sonho' ENEM 2026 -DOMINGO (8) – BELÉM –Estudante relata que passou mal em sala sem ar-condicionado e ventiladores insuficientes em Belém. Rebeca Costa / g1 'Ninguém conseguia se concentrar', diz candidata Maria Isabella descreveu o cenário de mal-estar que tomou conta do ambiente logo no início da tarde. Segundo a estudante, a falta de climatização não foi um problema restrito a apenas uma sala de aula. \"Estava um calor insuportável. As pessoas começaram a reclamar que o ar-condicionado não estava funcionando. E não era só na nossa sala, não tinha nem ventilador suficiente para dar conta. E começaram as reclamações, não conseguíamos mais fazer a prova, \", relatou a jovem. Como pedir a reaplicação do Enem? De acordo com o edital do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), candidatos que se sentirem prejudicados por problemas logísticos ou de infraestrutura que comprometam a realização do exame podem solicitar a reaplicação das provas. O pedido deve ser feito de forma oficial através da Página do Participante dentro do prazo estipulado pelo Inep. Cada caso é analisado individualmente pelo instituto. O g1 pediu o posicionamento do Inep e da escola onde a prova estava sendo aplicada, mas ainda não havia obtido retorno até a última atualização da reportagem. A equipe de reportagem também tentou falar com a coordenação da escola, mas não foi atendida na portaria. LEIA TAMBÉM: Ministro da Educação garante nova oportunidade em dezembro para estudantes que perderam Enem por questões climáticas Ministro garante reaplicação do Enem após eventos climáticos VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/08/enem-candidata-passa-mal-em-sala-sem-ventilacao-e-e-orientada-a-pedir-reaplicacao-da-prova-em-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/TeqECcgI6yjHmQqLPPFlx8xad3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/b/UyI0jJRTSHVzBQ4ZMedA/whatsapp-image-2026-11-08-at-16.36.16.jpeg",
+      "data": "2026-11-08T19:52:18+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "43e4c0c99f8bbf9042ba5533f49b6208",
       "titulo": "Empregos formais no setor de turismo crescem 16,7% no Pará",
@@ -9,76 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.961108%3A1788212508%2F16705_835f97be-56e4-7219-504f-ade0d28731ba%2520%C2%A9%25202023%2520Alex%2520Ribeiro%2520_%2520Ag.%2520Para%CC%81.jpg%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-08T16:26:41.203752+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b51744e0186bc1f5e000beb80887426f",
-      "titulo": "Policial federal morto em tentativa de assalto é velado neste domingo (08)",
-      "descricao": "Policial federal morto em tentativa de assalto é velado neste domingo (08)",
-      "link": "https://www.oliberal.com/policia/policial-federal-morto-em-tentativa-de-assalto-e-velado-neste-domingo-08-1.1191869",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191870%3A1794153818%2F0edf3a11-dfe9-4ebb-8b78-cee6541d733a.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-08T16:26:41.014863+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b16a074f4dae057dcd7356caa658f917",
-      "titulo": "Padaria lamenta morte de policial aposentado e retoma atividades",
-      "descricao": "Padaria lamenta morte de policial aposentado e retoma atividades",
-      "link": "https://www.oliberal.com/policia/padaria-lamenta-morte-de-policial-aposentado-e-retoma-atividades-1.1191872",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1191745%3A1794079597%2FWhatsApp%2520Image%25202026-11-07%2520at%252015.39.30.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-08T16:26:40.828470+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "66742c27569d6089ddbaca8ec7ff6301",
-      "titulo": "Quem será o novo presidente do Remo? Glauber Gonçalves e Gilmar Nascimento disputam comando do clube neste domingo",
-      "descricao": "Glauber Gonçalves, candidato da situação, e Gilmar Nascimento, representante da oposição, disputam neste domingo (8) a presidência do Clube do Remo para os próximos três anos. Associados do Clube do Remo participam neste domingo (8) das eleições que definirão o presidente para o triênio 2027-2029. Glauber Gonçalves e Gilmar Nascimento disputam o cargo. O post Quem será o novo presidente do Remo? Glauber Gonçalves e Gilmar Nascimento disputam comando do clube neste domingo apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/quem-sera-o-novo-presidente-do-remo-glauber-goncalves-e-gilmar-nascimento-disputam-comando-do-clube-neste-domingo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Eleicao-do-Clube-do-Remo_-Duas-Chapas.png",
-      "data": "2026-11-08T16:08:42+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "178d2cbd826725da47bf84c67a720231",
-      "titulo": "Ama doramas? Cinco novidades chegam ao streaming ainda em novembro",
-      "descricao": "Milagres da Sala de Emergência Romance, comédia, suspense e histórias policiais estão entre as novidades reservadas para os fãs de doramas neste mês. A programação de novembro traz novas produções e continuações de séries conhecidas. O post Ama doramas? Cinco novidades chegam ao streaming ainda em novembro apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/voce/ama-doramas-cinco-novidades-chegam-ao-streaming-ainda-em-novembro/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/f1bba957-d6c2-4f51-9888-10c0e2429510.jpeg",
-      "data": "2026-11-08T16:07:23+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1af767b3a98b6899fcf1c4cbd699d610",
-      "titulo": "Mãe acompanha filho autista que faz Enem para tentar vaga na universidade em Belém",
-      "descricao": "ENEM 2026 - DOMINGO (8) – BELÉM (PA) – Genilson Yuri Rodrigues Vale, de 18 anos, estudante autista, é acompanhado pela mãe, Iranai de Bravo, antes do primeiro dia de provas do Enem 2026, no Instituto Federal do Pará (IFPA), na avenida Almirante Barroso, em Belém. Marcus Passos/g1 Pará Depois de participar duas vezes como treineiro, Genilson Yuri Rodrigues Vale, de 18 anos, faz neste domingo (8), no Instituto Federal do Pará (IFPA), na avenida Almirante Barroso, em Belém, o primeiro Exame Nacional do Ensino Médio (Enem) concorrendo a uma vaga no ensino superior. Autista, o estudante conta com o acompanhamento da mãe, Iranai de Bravo, de 45 anos, que esteve ao lado dele antes da prova. Genilson cursa o ensino médio integrado ao técnico em design de interiores no IFPA. Segundo Iranai, o filho tem dificuldade com ambientes barulhentos e realiza algumas atividades escolares com adaptações. Para o Enem, a família solicitou uma hora adicional de prova, devido ao tempo que ele precisa para a leitura das questões. “É importante porque, como ele tem uma dificuldade maior na leitura, ele lê um pouco mais devagar. Então, a questão do tempo também dá uma certa ansiedade”, explicou a mãe. Iranai contou que acompanha o filho nas aulas do curso técnico e precisou buscar apoio para que ele conseguisse acompanhar as atividades escolares, incluindo a anotação de trabalhos. Entre as áreas de graduação consideradas pela família estão artes visuais, história e desenvolvimento de sistemas, cursos relacionados aos interesses do estudante. Mudança de carreira Também no IFPA, Eli Carla Menezes Campos, de 24 anos, chegou para fazer a prova com o objetivo de ingressar no curso de engenharia química. Ela contou que já cursou odontologia, mas decidiu mudar de área e voltou a se preparar para o Enem. “Eu fiz muitas provas, fiz muitas redações, então eu tô confiante de que eu vou conseguir passar no curso que eu quero”, afirmou. Eli Carla disse que fez cursinho e simulados para se preparar. Para a redação deste domingo, aposta em um tema relacionado à cidadania e tecnologia. A candidata também levou café para ajudar a manter a concentração durante a prova. No Pará, cerca de 300 mil pessoas se inscreveram no Enem 2026, segundo o Ministério da Educação (MEC). O primeiro dia reúne questões de linguagens, ciências humanas e redação. As provas de matemática e ciências da natureza serão aplicadas em 15 de novembro. LEIA TAMBÉM: ENEM 2026: acompanhe a cobertura É obrigatório levar o cartão de confirmação do Enem? ✅ Receba as notícias do g1 Pará direto no WhatsApp VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/08/mae-acompanha-filho-autista-que-faz-enem-para-tentar-vaga-na-universidade-em-belem.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/Z_I6ZwvjHp39xJB2Aims1VM24fQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/r/GHD7ApS36hOhyOkQN3dw/whatsapp-image-2026-11-08-at-12.06.57.jpeg",
-      "data": "2026-11-08T16:07:22+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1fde05a163bc39f0cc56c34aaf068a9a",
-      "titulo": "Aos 60 anos, candidato faz Enem em Belém e incentiva estudantes: 'Não desista do sonho'",
-      "descricao": "Candidato em Belém tenta Enem pela quinta vez: 'não desista do sonho' Aos 60 anos, Luiz Menezes tenta pela quinta vez o Exame Nacional do Ensino Médio (Enem) para realizar o sonho de ser professor de matemática. Neste domingo (8), ele chegou ao campus Guamá da Universidade Federal do Pará (UFPA), em Belém, para participar do primeiro dia de provas. Luiz contou que precisou dividir o tempo de estudos com outro curso e acabou deixando a preparação para o Enem em segundo plano. Por isso, chegou ao dia da prova sem muita confiança no resultado. “A minha expectativa não é boa. A minha preparação foi muito oscilante”, relatou o candidato. Apesar das dificuldades, Luiz mantém o objetivo de ingressar no ensino superior e espera conseguir uma boa nota na redação. “É o sonho que eu estou batalhando para isso. Eu vou realizar”, afirmou. Para quem também tenta conquistar uma vaga na universidade, o candidato deixou um conselho: “Primeiramente, ter um sonho e realizar esse sonho. E, segundo, estudar muito. E ser disciplinado. Que não desista do sonho, porque o sonho passa a ser o teu guia”. No Pará, cerca de 300 mil pessoas se inscreveram no Enem 2026, segundo o Ministério da Educação (MEC). Neste primeiro dia, os participantes respondem a questões de linguagens e ciências humanas, além de produzir uma redação. O segundo dia de provas será em 15 de novembro, com questões de matemática e ciências da natureza. LEIA TAMBÉM: ENEM 2026: acompanhe a cobertura É obrigatório levar o cartão de confirmação do Enem? ✅ Receba as notícias do g1 Pará direto no WhatsApp VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/08/aos-60-anos-candidato-faz-enem-em-belem-e-incentiva-estudantes-nao-desista-do-sonho.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/0IFJ4qW5CWunCV_2NASX5C5gicA=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/96/00/15170096",
-      "data": "2026-11-08T16:01:45+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "adbbfa1045af74d8b795d62ef4fbb911",
-      "titulo": "Casos de covid-19 crescem no Brasil, diz Ministério da Saúde; veja onde",
-      "descricao": "Casos de covid-19 crescem no Brasil, diz Ministério da Saúde; veja onde",
-      "link": "https://www.oliberal.com/para/casos-de-covid-19-crescem-no-brasil-diz-ministerio-da-saude-veja-onde-1.1191800",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.781150%3A1794099088%2Fdownload%2520(4).png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-08T09:40:26.837169+00:00",
       "categoria": "PARÁ"
     }
   ]
