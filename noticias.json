@@ -1,6 +1,76 @@
 {
-  "atualizado": "2026-11-11T08:35:51.146049+00:00",
+  "atualizado": "2026-11-11T16:44:42.041759+00:00",
   "noticias": [
+    {
+      "id": "bf2518be20e984cd3e3fdb916679d685",
+      "titulo": "Lula não faz último discurso previsto nesta quarta na COP31 em razão de problemas na voz",
+      "descricao": "Lula não faz último discurso previsto nesta quarta na COP31 em razão de problemas na voz",
+      "link": "https://www.oliberal.com/politica/lula-nao-faz-ultimo-discurso-previsto-nesta-quarta-na-cop31-em-razao-de-problemas-na-voz-1.1193033",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1152641%3A1790350772%2FWhatsApp%2520Image%25202026-08-29%2520at%252020.00.43%2520(1).jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-11T16:44:39.106646+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1ec4048578a9e94146e06c9cdf2709e6",
+      "titulo": "'Pequeno Manual Antirracista – A Peça' volta a Belém com atriz Luana Xavier",
+      "descricao": "'Pequeno Manual Antirracista – A Peça' volta a Belém com atriz Luana Xavier",
+      "link": "https://www.oliberal.com/cultura/pequeno-manual-antirracista-a-peca-volta-a-belem-com-atriz-luana-xavier-1.1193024",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1193035%3A1794414539%2FLuana%2520Xavier%2520_%2520Cr%C3%A9ditos_%2520Rayane%2520Mainara.jpg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-11T16:44:38.941344+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1614c2e001311cee106114abb39a6010",
+      "titulo": "Vitor Pereira se arrepende de ida ao Flamengo após deixar o Corinthians: 'Erro tremendo'",
+      "descricao": "Vitor Pereira se arrepende de ida ao Flamengo após deixar o Corinthians: 'Erro tremendo'",
+      "link": "https://www.oliberal.com/esportes/vitor-pereira-se-arrepende-de-ida-ao-flamengo-apos-deixar-o-corinthians-erro-tremendo-1.1193036",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-11T16:44:38.773291+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6a1291dc1afae331435dbacccdfc7967",
+      "titulo": "Médico de 30 anos sai de festa para comprar cerveja, pede ajuda e é encontrado morto em esterqueira",
+      "descricao": "Esterqueira onde o corpo do médico foi encontrado tem cerca de três metros de profundidade e armazena dejetos de animais. Foto: Reprodução/NSC TV José Augusto Nogueira Ribas trabalhava em um hospital de Chapecó e desapareceu na madrugada de segunda-feira, 9. Polícia Civil investiga as circunstâncias da morte e aguarda resultados de exames periciais. O post Médico de 30 anos sai de festa para comprar cerveja, pede ajuda e é encontrado morto em esterqueira apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/policia/quem-era-o-medico-de-30-anos-encontrado-morto-apos-desaparecer-em-area-rural/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_images_2.jpg",
+      "data": "2026-11-11T16:00:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "de75db0726d89a570943f3a4d66d02a7",
+      "titulo": "O que sobrou da casa do acusado de matar mãe e filha no Benguí? Veja as imagens",
+      "descricao": "Fotografias mostram o estado da casa após a revolta provocada pelo duplo homicídio em Belém. Foto: Celso Rodrigues/Diário do Pará Imagens mostram o resultado da ação de populares contra a residência do homem preso pelo assassinato de Fernanda Keila e da filha, de cinco anos, em Belém. O post O que sobrou da casa do acusado de matar mãe e filha no Benguí? Veja as imagens apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/policia/o-que-sobrou-da-casa-do-acusado-de-matar-mae-e-filha-no-bengui-veja-as-imagens/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/WhatsApp-Video-2026-11-10-at-19.59.56.mp4",
+      "data": "2026-11-11T15:54:13+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "523923cb83683c4cfba4286fdc02d3ee",
+      "titulo": "Quilombola idoso desaparece no Acará, no PA, e comunidades fazem buscas há quase 10 dias",
+      "descricao": "Família faz buscas por quilombola idoso que está desaparecido no PA Um quilombola de 68 anos está desaparecido há quase 10 dias na zona rural de Acará, cidade no nordeste do Pará. Familiares e amigos de comunidades na região fazem buscas por Nei José Ferreira do Espírito Santos, que saiu de casa na manhã de dois de novembro, na comunidade quilombola Trindade II, e não foi mais visto. Ele tem diagnóstico de Alzheimer e fazia tratamento de saúde. No dia do desaparecimento, Nei estava apenas de shorts, descalço e segurando um caneco. A comunidade Trindade II fica na altura do km 24 da Alça Viária, via importante que liga a Região Metropolitana de Belém à cidades do nordeste paraense. Os bombeiros iniciaram as buscas no dia seguinte ao desaparecimento e encerraram os trabalhos na quinta-feira (5), após três dias de operação com cães farejadores e drones. Segundo o sobrinho de Nei, Oseas do Rosário, um boletim ocorrência foi feito na sexta (6), e a Polícia Civil (PC) deve investigar o caso. Como foi o desaparecimento Nei José está desaparecido há quase 10 dias. Arquivo pessoal De acordo com Oseas, o tio costumava sair todos os dias para caminhar. Naquele dois de novembro, porém, ele seguiu bem cedo para um local onde não tinha o hábito de ir: uma área de mata na comunidade vizinha, a Trindade I. Câmeras de segurança de uma casa registraram as últimas imagens dele, enquanto passava pelo local, que fica a cerca de 500 metros da residência em que o idoso mora — vídeo acima. O idoso vive com a irmã, de 72 anos, e um sobrinho. ✅ Receba as notícias do g1 Pará direto no WhatsApp Buscas e mobilização Nos primeiros dias, moradores das comunidades vizinhas se organizaram para procurar o quilombola no mato ao redor. Em alguns dias, entre 80 e 120 homens participaram das buscas, sem resultado. \"As comunidades vizinhas se juntaram nos primeiros dias e procuram no mato ao redor. Vários homens, teve dia que reuniu 80 a 120 pessoas procurando e nada\", contou Vera do Socorro, presidente da Associação Quilombola do Jabaquara, comunidade vizinha à de Nei. Policiais militares participaram das buscas com os bombeiros. Arquivo pessoal / Oseas do Rosário Os bombeiros do município de Acará foram acionados e fizeram buscas com cão e drone, também sem localizar o quilombola. A operação foi encerrada na sexta-feira (6). O g1 solicitou mais informações às autoridades, mas não obteve respostas até a publicação desta reportagem. Sem pistas do paradeiro de Nei, alguns membros das comunidades levantaram a hipótese de que ele tenha recebido carona e sido levado para outro lugar. Informações que possam ajudar a encontrar Nei José podem ser repassadas pelo disque-denúncia, número 181, com garantia de sigilo absoluto e anonimato, ou pela Polícia Civil (PC), pelo número 197. VÍDEOS com as principais notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/11/quilombola-idoso-desaparece-no-acara-no-pa-e-comunidades-fazem-buscas-ha-quase-10-dias.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/rVfy0dxd3-JnQ_obpDZyTonfY98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/S/rbaj9FSXASme4b9oCY6A/geral-g1-70-.png",
+      "data": "2026-11-11T14:35:01+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "64dff9b48259fe558aa609e34655be03",
+      "titulo": "Áreas de lazer com churrasqueira e piscina improvisada às margens de canal são demolidas em Belém",
+      "descricao": "Construções irregulares às margens de canais são demolidas em Belém após denúncias A Prefeitura de Belém demoliu duas construções irregulares às margens do canal da Antônio Baena, no bairro de Fátima. A ação foi realizada pela Secretaria Executiva de Ordem Pública após denúncias de ocupação de áreas públicas para atividades comerciais, lazer particular e aluguel para eventos. Uma das construções ficava na rua Antônio Baena, entre as avenidas Marquês de Herval e Visconde de Inhaúma. No local, havia churrasqueira, depósito, chuveiro e até uma caixa-d'água utilizada como piscina. Segundo a Secretaria de Ordem Pública, a estrutura ocupava irregularmente um espaço público e foi alvo de fiscalização. Moradores relataram que a construção de alvenaria foi feita com a colaboração da comunidade e era utilizada para atividades sociais e lazer de crianças da região. Segundo o secretário executivo de Ordem Pública e Defesa Civil, Vitor Magalhães, a operação faz parte de um trabalho de fiscalização para identificar e combater ocupações irregulares em áreas públicas. Durante as fiscalizações, identificamos outras 14 estruturas semelhantes no entorno do canal, que também serão alvo das medidas administrativas e de remoção. Nosso objetivo é impedir a ocupação irregular desses espaços e garantir que as margens dos canais cumpram sua função pública”, afirmou Vitor Magalhães. ✅ Clique e siga o canal do g1 Pará no WhatsApp Prefeitura remove construções irregulares às margens de canal em Belém Leonardo Araújo Uma das construções demolidas tinha uma estrutura de alvenaria construída sobre um trecho da margem do canal. O espaço passou por aterramento e nivelamento do solo para ficar na altura da rua. Depois, foram erguidas paredes baixas e instalada uma cobertura. De acordo com relatos de moradores, o local era utilizado para festas e alugado para eventos particulares. A segunda ocupação também avançava sobre a área pública próxima ao canal. As construções foram alvo de reclamações de moradores e ganharam repercussão nas redes sociais. As denúncias apontavam o uso privado de terrenos públicos e possíveis danos às margens do canal, além de problemas relacionados à drenagem da água da chuva. A Prefeitura de Belém informou ainda que a Secretaria Executiva de Licenciamento é responsável pela análise e emissão de alvarás para obras residenciais e intervenções em espaços públicos. O órgão também realiza consultas prévias e avalia projetos urbanísticos. A operação de ordenamento urbano deve ser realizada também em outros pontos da capital. Vídeos com as principais notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/11/estruturas-irregulares-as-margens-do-canal-da-antonio-baena-sao-demolidas-em-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/06WhJr2v5BF82oUHz4H08TGpxxg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/a/KISouvRGmldUkyRtBlBA/foto-10-11-2026-17-19-57-1536x1024.jpg",
+      "data": "2026-11-11T14:03:45+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "1aa4109a4600946bff1f7cc83fbf19e0",
       "titulo": "Novos incêndios voltam a ameaçar terras indígenas em Alter do Chão, em Santarém",
@@ -9,76 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1192875%3A1794361651%2FFloresta%2520com%2520inc%C3%AAndios%2520em%2520Alter%2520do%2520Ch%C3%A3o.png%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-11T08:35:50.155879+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "88a977397ac38116f1fb0bd42d721784",
-      "titulo": "Incra reconhece direito de 1.083 famílias quilombolas de comunidades no Pará",
-      "descricao": "Incra reconhece direito de 1.083 famílias quilombolas de comunidades no Pará",
-      "link": "https://www.oliberal.com/para/incra-reconhece-direito-de-1-083-familias-quilombolas-de-comunidades-no-para-1.1192876",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.209190%3A1586990810%2F%252020191101xPANFAMILIAR%2520-%2520igor%2520mota%2520-%2520arquivo.jpg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-11T08:35:50.004002+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8463e80b5bbb2c73be98b04f52e936e5",
-      "titulo": "Homem morre em casa após receber alta de hospital por esfaqueamento em Santarém",
-      "descricao": "Homem morre em casa após receber alta de hospital por esfaqueamento em Santarém",
-      "link": "https://www.oliberal.com/policia/homem-morre-em-casa-apos-receber-alta-de-hospital-por-esfaqueamento-em-santarem-1.1192877",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1192878%3A1794364196%2Fhomem%2520que%2520morreu%2520em%2520casa.jpg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-11T08:35:49.853504+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "120371d01bd568e8276ce64d25fda62c",
-      "titulo": "Horóscopo de hoje, 11 de novembro: veja as previsões para os 12 signos",
-      "descricao": "O horóscopo desta quarta-feira (11) apresenta as previsões para os 12 signos, com orientações sobre relacionamentos, trabalho, finanças e vida pessoal. Previsões dos 12 signos destacam momentos de introspecção, encontros, organização da rotina, planejamento financeiro e atenção aos objetivos profissionais. O post Horóscopo de hoje, 11 de novembro: veja as previsões para os 12 signos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/horoscopo-de-hoje-11-de-novembro-veja-as-previsoes-para-os-12-signos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Horoscopo-de-hoje-2-de-outubro.png",
-      "data": "2026-11-11T08:23:29+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "6123045280713fdbfea58fd11ef43e0d",
-      "titulo": "Previsão do tempo hoje para Belém (PA): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta quarta-feira (11) para Belém (PA) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 34ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e trovoadas. À noite, pancadas de chuva e trovoadas. Previsão do tempo para amanhã em Belém, quinta (12) Para esta quinta (12), a previsão é de sol com algumas nuvens. Chove rápido durante o dia e à noite. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
-      "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/11/11/previsao-do-tempo-hoje-para-belem-pa-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/LlvQ7wMkOt5NLEPHu1_mmn46WDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/FFs5PeQh2qeupcLA3b2g/previsao-tempo-bel-m-20261111-010222.jpeg",
-      "data": "2026-11-11T04:02:32+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2087e1a232e78fe953759bccd42c2de8",
-      "titulo": "Caso Pethrus: condenado a 33 anos pela morte de menino de 4 anos é preso em Belém",
-      "descricao": "Pethrus foi sequestrado aos 4 anos e encontrado morto; condenado é preso Antônio Sérgio Barata da Silva, condenado a mais de 33 anos pela morte do menino Pethrus, de 4 anos, foi preso em Belém por determinação do STJ. O post Caso Pethrus: condenado a 33 anos pela morte de menino de 4 anos é preso em Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/policia/caso-pethrus-condenado-a-33-anos-pela-morte-de-menino-de-4-anos-e-preso-em-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_p1k61v0iqietg4f3pcp76l1jlf6.jpg",
-      "data": "2026-11-11T03:01:14+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "de4b6c4e64e98962e9ce347375a923a5",
-      "titulo": "‘Encontrar forças para seguir em frente’, diz Rony após morte do pai no Pará",
-      "descricao": "Pai de Rony, atacante do Santos, é morto no PA: o que se sabe sobre o crime O atacante Rony, do Santos, lamentou nas redes sociais a morte do pai, Marigerson Barbosa Carneiro, de 72 anos, esfaqueado nesta segunda-feira (9), em Terra Alta, no nordeste do Pará. No comunicado, o jogador disse que recebeu a notícia com profunda tristeza e dor no coração. “Neste momento, meu desejo é estar ao lado dos meus familiares, honrar a memória do meu pai e encontrar forças para seguir em frente”, afirmou o jogador. O corpo de Marigerson é velado nesta terça-feira (10). O sepultamento será na manhã de quarta-feira (11), em Magalhães Barata, também no nordeste paraense. O Santos Futebol Clube lamentou a morte em uma publicação nas redes sociais. O clube manifestou solidariedade ao atacante e à família e se colocou à disposição para prestar auxílio. Entenda o caso Marigerson foi esfaqueado durante uma discussão com Selma Soares Cordovil, de 48 anos. Vizinhos acionaram a Polícia Militar e prestaram os primeiros socorros ao idoso. Ele foi levado a um posto médico, mas não resistiu aos ferimentos. Uma faca de aproximadamente 20 centímetros, apontada como a arma utilizada no crime, foi apreendida na casa da vítima. Polícia investiga se garota de programa matou pai do jogador Rony após não receber pagamento PCPA Segundo a Polícia Civil, Selma confessou o crime e disse que atacou Marigerson após não receber o pagamento combinado por um encontro sexual. Ainda conforme a polícia, ela afirmou, em depoimento, que não se arrepende da ação. O g1 tenta contato com a defesa dela, mas não teve retorno até a última atualização desta reportagem. Pai de Rony, atacante do Santos, é morto no PA: o que se sabe e o que falta esclarecer sobre o crime Distância na infância, fome e reencontro pelo futebol: como era a relação de Rony, do Santos, com o pai morto no Pará Vítima foi atingida por trás, diz delegada De acordo com a delegada de Homicídios de Castanhal, Marília Macedo, que investiga o caso, a suspeita surpreendeu Marigerson por trás e o atingiu com um único golpe. “Nós escutamos uma testemunha presencial, uma testemunha ocular do crime, que informou que presenciou quando a autora chegou por trás da vítima e deu um único golpe de faca no pescoço, o que foi fatal”, afirmou a delegada. Selma foi presa em flagrante e vai responder por homicídio doloso duplamente qualificado. Ela foi transferida para o Centro de Recuperação Feminino, em Ananindeua, na Região Metropolitana de Belém. ✅ Clique e siga o canal do g1 Pará no WhatsApp No termo da audiência de custódia, a Justiça considerou a confissão dela entre os elementos legais que fundamentaram a decisão sobre a prisão. “A própria autuada afirmou, em sede policial, que, ‘em relação ao golpe de faca desferido no pescoço da vítima, aduziu: eu dei pra matar mesmo’”, detalha um trecho do documento ao qual o g1 teve acesso. Pai do atacante Rony, do Santos, é morto a facadas no interior do Pará. Reprodução/Redes sociais O caso foi registrado na delegacia de Polícia Civil do município e transferido para Castanhal, onde foi instaurado o inquérito. Em nota oficial, Rony agradeceu ao clube, a amigos e a familiares pelo apoio neste momento, que classificou como um dos mais difíceis da vida dele. Nas redes sociais, o jogador do Santos afirmou ter recebido a notícia com \"profunda tristeza e dor no coração\". Ele foi liberado pelo clube e acompanha o velório do pai. Pai do atacante Rony é morto no nordeste do Pará g1 Vídeos com as principais notícias do Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/11/encontrar-forcas-para-seguir-em-frente-diz-rony-apos-morte-do-pai-no-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/c1sm29O8DYhSTnmon-bWn2iTgTE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/I/8YBlcnRGi0U0WJ6vyv8A/1794316647350054.jpg",
-      "data": "2026-11-11T03:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "42faeb861ad8c0c009040cd301fbc36b",
-      "titulo": "Casa de homem suspeito de matar mãe e filha é destruída em Belém",
-      "descricao": "Casa de homem suspeito de matar mãe e filha é destruída em Belém",
-      "link": "https://www.oliberal.com/policia/moradores-destroem-casa-de-suspeito-de-matar-m-e-e-crianca-de-5-anos-em-belem-1.1192847",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1192850%3A1794353996%2FWhatsApp%2520Image%25202026-11-10%2520at%252020.39.22.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-11T01:34:47.044842+00:00",
       "categoria": "PARÁ"
     }
   ]
