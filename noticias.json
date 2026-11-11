@@ -1,6 +1,76 @@
 {
-  "atualizado": "2026-11-11T01:34:50.321139+00:00",
+  "atualizado": "2026-11-11T08:35:51.146049+00:00",
   "noticias": [
+    {
+      "id": "1aa4109a4600946bff1f7cc83fbf19e0",
+      "titulo": "Novos incêndios voltam a ameaçar terras indígenas em Alter do Chão, em Santarém",
+      "descricao": "Novos incêndios voltam a ameaçar terras indígenas em Alter do Chão, em Santarém",
+      "link": "https://www.oliberal.com/policia/novos-incendios-voltam-a-ameacar-terras-indigenas-em-alter-do-chao-em-santarem-1.1192857",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1192875%3A1794361651%2FFloresta%2520com%2520inc%C3%AAndios%2520em%2520Alter%2520do%2520Ch%C3%A3o.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-11T08:35:50.155879+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "88a977397ac38116f1fb0bd42d721784",
+      "titulo": "Incra reconhece direito de 1.083 famílias quilombolas de comunidades no Pará",
+      "descricao": "Incra reconhece direito de 1.083 famílias quilombolas de comunidades no Pará",
+      "link": "https://www.oliberal.com/para/incra-reconhece-direito-de-1-083-familias-quilombolas-de-comunidades-no-para-1.1192876",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.209190%3A1586990810%2F%252020191101xPANFAMILIAR%2520-%2520igor%2520mota%2520-%2520arquivo.jpg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-11T08:35:50.004002+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "8463e80b5bbb2c73be98b04f52e936e5",
+      "titulo": "Homem morre em casa após receber alta de hospital por esfaqueamento em Santarém",
+      "descricao": "Homem morre em casa após receber alta de hospital por esfaqueamento em Santarém",
+      "link": "https://www.oliberal.com/policia/homem-morre-em-casa-apos-receber-alta-de-hospital-por-esfaqueamento-em-santarem-1.1192877",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1192878%3A1794364196%2Fhomem%2520que%2520morreu%2520em%2520casa.jpg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-11T08:35:49.853504+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "120371d01bd568e8276ce64d25fda62c",
+      "titulo": "Horóscopo de hoje, 11 de novembro: veja as previsões para os 12 signos",
+      "descricao": "O horóscopo desta quarta-feira (11) apresenta as previsões para os 12 signos, com orientações sobre relacionamentos, trabalho, finanças e vida pessoal. Previsões dos 12 signos destacam momentos de introspecção, encontros, organização da rotina, planejamento financeiro e atenção aos objetivos profissionais. O post Horóscopo de hoje, 11 de novembro: veja as previsões para os 12 signos apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/horoscopo-de-hoje-11-de-novembro-veja-as-previsoes-para-os-12-signos/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Horoscopo-de-hoje-2-de-outubro.png",
+      "data": "2026-11-11T08:23:29+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6123045280713fdbfea58fd11ef43e0d",
+      "titulo": "Previsão do tempo hoje para Belém (PA): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta quarta-feira (11) para Belém (PA) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 34ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e trovoadas. À noite, pancadas de chuva e trovoadas. Previsão do tempo para amanhã em Belém, quinta (12) Para esta quinta (12), a previsão é de sol com algumas nuvens. Chove rápido durante o dia e à noite. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
+      "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/11/11/previsao-do-tempo-hoje-para-belem-pa-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/LlvQ7wMkOt5NLEPHu1_mmn46WDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/FFs5PeQh2qeupcLA3b2g/previsao-tempo-bel-m-20261111-010222.jpeg",
+      "data": "2026-11-11T04:02:32+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "2087e1a232e78fe953759bccd42c2de8",
+      "titulo": "Caso Pethrus: condenado a 33 anos pela morte de menino de 4 anos é preso em Belém",
+      "descricao": "Pethrus foi sequestrado aos 4 anos e encontrado morto; condenado é preso Antônio Sérgio Barata da Silva, condenado a mais de 33 anos pela morte do menino Pethrus, de 4 anos, foi preso em Belém por determinação do STJ. O post Caso Pethrus: condenado a 33 anos pela morte de menino de 4 anos é preso em Belém apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/policia/caso-pethrus-condenado-a-33-anos-pela-morte-de-menino-de-4-anos-e-preso-em-belem/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_p1k61v0iqietg4f3pcp76l1jlf6.jpg",
+      "data": "2026-11-11T03:01:14+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "de4b6c4e64e98962e9ce347375a923a5",
+      "titulo": "‘Encontrar forças para seguir em frente’, diz Rony após morte do pai no Pará",
+      "descricao": "Pai de Rony, atacante do Santos, é morto no PA: o que se sabe sobre o crime O atacante Rony, do Santos, lamentou nas redes sociais a morte do pai, Marigerson Barbosa Carneiro, de 72 anos, esfaqueado nesta segunda-feira (9), em Terra Alta, no nordeste do Pará. No comunicado, o jogador disse que recebeu a notícia com profunda tristeza e dor no coração. “Neste momento, meu desejo é estar ao lado dos meus familiares, honrar a memória do meu pai e encontrar forças para seguir em frente”, afirmou o jogador. O corpo de Marigerson é velado nesta terça-feira (10). O sepultamento será na manhã de quarta-feira (11), em Magalhães Barata, também no nordeste paraense. O Santos Futebol Clube lamentou a morte em uma publicação nas redes sociais. O clube manifestou solidariedade ao atacante e à família e se colocou à disposição para prestar auxílio. Entenda o caso Marigerson foi esfaqueado durante uma discussão com Selma Soares Cordovil, de 48 anos. Vizinhos acionaram a Polícia Militar e prestaram os primeiros socorros ao idoso. Ele foi levado a um posto médico, mas não resistiu aos ferimentos. Uma faca de aproximadamente 20 centímetros, apontada como a arma utilizada no crime, foi apreendida na casa da vítima. Polícia investiga se garota de programa matou pai do jogador Rony após não receber pagamento PCPA Segundo a Polícia Civil, Selma confessou o crime e disse que atacou Marigerson após não receber o pagamento combinado por um encontro sexual. Ainda conforme a polícia, ela afirmou, em depoimento, que não se arrepende da ação. O g1 tenta contato com a defesa dela, mas não teve retorno até a última atualização desta reportagem. Pai de Rony, atacante do Santos, é morto no PA: o que se sabe e o que falta esclarecer sobre o crime Distância na infância, fome e reencontro pelo futebol: como era a relação de Rony, do Santos, com o pai morto no Pará Vítima foi atingida por trás, diz delegada De acordo com a delegada de Homicídios de Castanhal, Marília Macedo, que investiga o caso, a suspeita surpreendeu Marigerson por trás e o atingiu com um único golpe. “Nós escutamos uma testemunha presencial, uma testemunha ocular do crime, que informou que presenciou quando a autora chegou por trás da vítima e deu um único golpe de faca no pescoço, o que foi fatal”, afirmou a delegada. Selma foi presa em flagrante e vai responder por homicídio doloso duplamente qualificado. Ela foi transferida para o Centro de Recuperação Feminino, em Ananindeua, na Região Metropolitana de Belém. ✅ Clique e siga o canal do g1 Pará no WhatsApp No termo da audiência de custódia, a Justiça considerou a confissão dela entre os elementos legais que fundamentaram a decisão sobre a prisão. “A própria autuada afirmou, em sede policial, que, ‘em relação ao golpe de faca desferido no pescoço da vítima, aduziu: eu dei pra matar mesmo’”, detalha um trecho do documento ao qual o g1 teve acesso. Pai do atacante Rony, do Santos, é morto a facadas no interior do Pará. Reprodução/Redes sociais O caso foi registrado na delegacia de Polícia Civil do município e transferido para Castanhal, onde foi instaurado o inquérito. Em nota oficial, Rony agradeceu ao clube, a amigos e a familiares pelo apoio neste momento, que classificou como um dos mais difíceis da vida dele. Nas redes sociais, o jogador do Santos afirmou ter recebido a notícia com \"profunda tristeza e dor no coração\". Ele foi liberado pelo clube e acompanha o velório do pai. Pai do atacante Rony é morto no nordeste do Pará g1 Vídeos com as principais notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/11/encontrar-forcas-para-seguir-em-frente-diz-rony-apos-morte-do-pai-no-para.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/c1sm29O8DYhSTnmon-bWn2iTgTE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/I/8YBlcnRGi0U0WJ6vyv8A/1794316647350054.jpg",
+      "data": "2026-11-11T03:00:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "42faeb861ad8c0c009040cd301fbc36b",
       "titulo": "Casa de homem suspeito de matar mãe e filha é destruída em Belém",
@@ -9,76 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1192850%3A1794353996%2FWhatsApp%2520Image%25202026-11-10%2520at%252020.39.22.jpeg%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-11T01:34:47.044842+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "359631c5ec890e63f830267ea6c28f62",
-      "titulo": "Moradores destroem casa de suspeito de matar mãe e criança de 5 anos em Belém",
-      "descricao": "Moradores destroem casa de suspeito de matar mãe e criança de 5 anos em Belém",
-      "link": "https://www.oliberal.com/policia/moradores-destroem-casa-de-suspeito-de-matar-mae-e-crianca-de-5-anos-em-belem-1.1192847",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1192850%3A1794353996%2FWhatsApp%2520Image%25202026-11-10%2520at%252020.39.22.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-11T01:34:46.859972+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9654f4fd9c01567035e6ad8541919c58",
-      "titulo": "Campanha de Lula recebeu R$ 1,9 milhão em repasses após eleição, e Flávio obteve R$1 milhão",
-      "descricao": "Campanha de Lula recebeu R$ 1,9 milhão em repasses após eleição, e Flávio obteve R$1 milhão",
-      "link": "https://www.oliberal.com/politica/campanha-de-lula-recebeu-r-1-9-milhao-em-repasses-apos-eleicao-e-flavio-obteve-r-1-milhao-1.1192861",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1177233%3A1791385590%2FGRADES%2520PARA%2520MAT%C3%89RIAS%2520(9).png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-11T01:34:46.672435+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b2b829a709aebf35c47ea4f97f5ff965",
-      "titulo": "Moradores destroem casa de suspeito de matar a facadas mãe e filha em Belém",
-      "descricao": "Moradores destroem e incendeiam casa de suspeito de matar mãe e filha em Belém. Reprodução/Redes sociais Moradores destruíram, na noite desta terça-feira (10), na casa do homem suspeito de matar a facadas Fernanda Keila Dias dos Santos e a filha dela, Maria Rafaela dos Santos Pacheco, de cinco anos, no bairro do Benguí, em Belém. Vídeos mostram dezenas de pessoas quebrando móveis e retirando objetos do imóvel. A situação foi controlada após a chegada da polícia e do Corpo de Bombeiros. Não há informações sobre prisões relacionadas à destruição da casa. ✅ Receba as notícias do g1 Pará direto no WhatsApp O crime ocorreu na manhã de segunda-feira (9), e o suspeito foi preso em flagrante. Os corpos de mãe e filha foram velados desde segunda-feira (9). O sepultamento estava previsto para as 16h, nesta terça-feira (10), no cemitério São Jorge, no bairro da Marambaia, em Belém. Segundo as investigações, o suspeito, que era vizinho das vítimas, invadiu a residência delas, na rua São José, e atacou mãe e filha no quarto onde estavam. O perito criminal Jorge Lopes informou que as análises preliminares apontam que a mulher foi atingida por 26 facadas, e a criança, por 11. Velório de mãe e filha ocorre em igreja no Benguí (foto à esquerda). Reprodução / Google Street View / Redes sociais Ainda segundo o perito, os rastros de sangue indicam que o homem entrou pelos fundos da residência. Há uma espécie de corredor que liga a casa do suspeito à parte de trás do imóvel das vítimas, onde uma janela estava quebrada. Outros três filhos de Fernanda também estavam na casa e dormiam em outros cômodos. Eles acordaram com os barulhos do ataque, entraram em luta corporal com o suspeito e, em seguida, saíram para pedir socorro. O homem foi encontrado na própria casa e preso em flagrante pela Polícia Militar (PM). Ele está à disposição da Justiça. Familiares das vítimas que conheciam o suspeito relataram que ele estaria em “surto por uso de drogas”. A motivação do crime ainda será esclarecida pela investigação. Mãe e filha são mortas a facadas no Bengui, em Belém VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/10/moradores-destroem-casa-de-suspeito-de-matar-mae-e-filha-em-belem.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/17VryBzaU_-SUj9TRaFv7Vd9mnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/C/R19QDqRiuI5sG2rUqtqw/1794360081746291.jpg",
-      "data": "2026-11-11T01:23:26+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c899c2821ce51c0eb0effe5df1bb9cc7",
-      "titulo": "Mulheres com câncer de mama poderão ter novas oportunidades de emprego",
-      "descricao": "Projeto cria incentivo ao emprego para mulheres com câncer de mama O Senado aprovou projeto que cria o Programa Empresa Rosa e o Selo Rosa para incentivar empresas a contratar mulheres com câncer de mama. O texto segue para sanção. O post Mulheres com câncer de mama poderão ter novas oportunidades de emprego apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/concursos-e-empregos/mulheres-com-cancer-de-mama-poderao-ter-novas-oportunidades-de-emprego/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/10/cancer_mama-1.jpg",
-      "data": "2026-11-11T01:15:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "601ace1bdb4afa138430e5b0b7d9a521",
-      "titulo": "Governo defende redução da maioridade penal para 16 anos em crimes hediondos",
-      "descricao": "Vinicius Loures / Câmara dos Deputados Representantes do Ministério da Justiça defenderam, em audiência na Câmara, reduzir a maioridade penal para 16 anos apenas em crimes hediondos, e não em todos os casos. O post Governo defende redução da maioridade penal para 16 anos em crimes hediondos apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/governo-defende-reducao-da-maioridade-penal-para-16-anos-em-crimes-hediondos/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/img20261110155547419.jpg",
-      "data": "2026-11-11T00:41:57+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f37e9440865aae260592b8688fdba6be",
-      "titulo": "Pai de Rony estava de costas quando foi esfaqueado no pescoço, diz delegada",
-      "descricao": "Pai de Rony, atacante do Santos, é morto no PA: o que se sabe sobre o crime O pai do atacante Rony, jogador do Santos, estava de costas quando foi supreendido e esfaqueado, segundo a Polícia Civil. Marigerson Barbosa Carneiro, de 72 anos, chegou a ser socorrido, mas não resistiu e morreu. O corpo do idoso foi velado nesta terça-feira (10) e será sepultado na manhã desta quarta-feira (11) em Magalhães Barata, no nordeste paraense. De acordo com a delegada de Homicídios de Castanhal, Marília Macedo, que investiga o caso, a suspeita do crime surpreendeu a vítima por trás e com um único golpe. \"Nós escutamos uma testemunha presencial, uma testemunha ocular do crime, que informou que presenciou quando a autora chegou por trás da vítima e deu um único golpe de faca no pescoço, o que foi fatal\", afirmou a delegada. Selma Soares Cordovil, de 48 anos, foi presa em flagrante na segunda (9). Na audiência de custódia realizada nesta terça, a Justiça decretou a prisão preventiva dela. O g1 tenta contato com a defesa dela, mas não teve retorno até a última atualização desta reportagem. Pai de Rony, atacante do Santos, é morto no PA: o que se sabe e o que falta esclarecer sobre o crime Distância na infância, fome e reencontro pelo futebol: como era a relação de Rony, do Santos, com o pai morto no Pará Segundo a polícia, ela confessou o crime e deve responder por homicídio doloso duplamente qualificado. A faca usada no crime também foi apreendida. No termo de audiência de custódia, a Justiça considerou a confissão dela entre os elementos legais suficientes para converter a prisão em flagrante em convertida. \"A própria autuada afirmou, em sede policial, que, 'em relação ao golpe de faca desferido no pescoço da vítima, aduziu: eu dei pra matar mesmo'\", detalha um trecho documento que o g1 teve acesso. ✅ Clique e siga o canal do g1 Pará no WhatsApp A motivação do crime ainda é investigada e considera a hipótese de que o crime possa ter sido motivado pela falta de pagamento combinado após um susposto encontro sexual em Terra Alta, nordeste do Pará, cidade onde ocorreu o crime. \"A investigada confessou a prática delitiva e informou que a discussão que havia tido com a vítima seria motivada por dinheiro\", afirmou ainda a delegada. Polícia investiga se garota de programa matou pai do jogador Rony após não receber pagamento PCPA O caso foi registrado na delegacia de Polícia Civil do município e transferido para Castanhal, onde foi instaurado o inquérito. Em nota oficial, Rony agradeceu ao clube, a amigos e a familiares pelo apoio neste momento, que classificou como um dos mais difíceis da vida dele. Nas redes sociais, o jogador do Santos afirmou ter recebido a notícia com \"profunda tristeza e dor no coração\". Ele foi liberado pelo clube e acompanha o velório do pai. Pai do atacante Rony é morto no nordeste do Pará g1 Pai do atacante Rony, do Santos, é morto a facadas no interior do Pará. Reprodução/Redes sociais Vídeos com as principais notícias do Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/10/pai-de-rony-estava-de-costas-quando-foi-esfaqueado-no-pescoco-diz-delegada.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/RMog9h5tGSQiQiJix6bgpOVcCzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/j/9m0Gx1TVSGG0YmtHDx1g/jogador.jpg",
-      "data": "2026-11-10T23:08:53+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "567b3d3ff01bae15223953e1e7021896",
-      "titulo": "Carney admite \"áreas difíceis\" nas negociações do acordo do Canadá com os EUA",
-      "descricao": "Carney admite \"áreas difíceis\" nas negociações do acordo do Canadá com os EUA",
-      "link": "https://www.oliberal.com/mundo/carney-admite-areas-dificeis-nas-negociacoes-do-acordo-do-canada-com-os-eua-1.1192747",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.999652%3A1753963745%2FWhatsApp%2520Image%25202025-07-31%2520at%252009.07.30.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-10T21:33:01.687798+00:00",
       "categoria": "PARÁ"
     }
   ]
