@@ -1,6 +1,76 @@
 {
-  "atualizado": "2026-11-18T08:01:51.140908+00:00",
+  "atualizado": "2026-11-18T17:23:26.100186+00:00",
   "noticias": [
+    {
+      "id": "d3bd3ce84fd0fec785d6eda0c49062e5",
+      "titulo": "Conexão Arandu leva oficinas gratuitas, carimbó e rodas de memória a Primavera",
+      "descricao": "Conexão Arandu leva oficinas gratuitas, carimbó e rodas de memória a Primavera",
+      "link": "https://www.oliberal.com/cultura/conexao-arandu-leva-oficinas-gratuitas-carimbo-e-rodas-de-memoria-a-primavera-1.1195611",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1195612%3A1795020824%2FRosilene%2520-%2520coordenadora%2520do%2520projeto%2520ARANDU%2520-%2520Divulga%C3%A7%C3%A3o%2520Projeto%2520Arandu%2520-%2520Foto%2520feita%2520em%2520Irituia%2520%2520(2).jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-18T17:23:25.319621+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "66a2307d4fd415633d3dd248a127f040",
+      "titulo": "Seleção brasileira perde posição e fecha 2026 em sétimo lugar no ranking da Fifa",
+      "descricao": "Seleção brasileira perde posição e fecha 2026 em sétimo lugar no ranking da Fifa",
+      "link": "https://www.oliberal.com/esportes/selecao-brasileira-perde-posicao-e-fecha-2026-em-setimo-lugar-no-ranking-da-fifa-1.1195615",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1127914%3A1780146699%2F54923801810_3a7166c4c1_b.jpg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-18T17:23:25.020456+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6082f33cd3090b0c581ef8550e6e0efb",
+      "titulo": "Após prisão nos EUA, polícia filipina pede indiciamento do pai de Meghan Markle",
+      "descricao": "Após prisão nos EUA, polícia filipina pede indiciamento do pai de Meghan Markle",
+      "link": "https://www.oliberal.com/mundo/apos-prisao-nos-eua-policia-filipina-pede-indiciamento-do-pai-de-meghan-markle-1.1195618",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.228780%3A1578767286%2F1477404553%2520(1).jpg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-18T17:23:24.732621+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "1e12a0da3353efc083cab061040bcc2d",
+      "titulo": "R$ 60 milhões em jogo! Quina Friday terá regra diferente dos sorteios comuns",
+      "descricao": "Vendas exclusivas abrem no feriado de 20 de novembro e os sorteios regulares da modalidade ficam suspensos até a edição especial Vendas exclusivas abrem no feriado de 20 de novembro e os sorteios regulares da modalidade ficam suspensos até a edição especial O post R$ 60 milhões em jogo! Quina Friday terá regra diferente dos sorteios comuns apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/noticias/loterias/quina-friday-sorteio-especial-60-milhoes-quando-vai-ser/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_como-funciona-quina-dinheiro-960x540-1.jpg",
+      "data": "2026-11-18T17:21:56+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "ee66f26a453f0be52008b9c1485fb19f",
+      "titulo": "Trairão abre processos seletivos com salários de até R$ 4,2 mil; veja como participar",
+      "descricao": "Prefeitura de Trairão, no Pará, abre três processos seletivos com oportunidades em diferentes áreas da administração municipal. Foto: divulgação/reprodução Processos seletivos da Prefeitura de Trairão, no Pará, oferecem oportunidades em diferentes secretarias municipais e contemplam candidatos com escolaridade fundamental, média, técnica e superior. Inscrições presenciais começam em 23 de novembro. O post Trairão abre processos seletivos com salários de até R$ 4,2 mil; veja como participar apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/concursos-e-empregos/trairao-abre-processos-seletivos-com-salarios-de-ate-r-42-mil-veja-como-participar/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_prefeitura-de-trairao-pa.jpg",
+      "data": "2026-11-18T17:16:37+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "b2671373dc223ce739e2409a21174ec4",
+      "titulo": "Estudante de publicidade da UFPA vence prêmio da Globo com projeto sobre 'tecnologia ancestral' na educação",
+      "descricao": "Estudante do Pará vence categoria PPA/LED do Prêmio Profissionais do Ano O estudante paraense Lucas Espírito Santo Cunha, do curso de publicidade e propaganda da Universidade Federal do Pará (UFPA), é o vencedor da categoria LED Luz na Educação, do Prêmio Profissionais do Ano, promovido pela Globo. A cerimônia de premiação ocorreu na noite desta terça-feira (17), em São Paulo (SP). Natural de Barcarena, na região metropolitana de Belém, Lucas conquistou o júri com o projeto “Tecnologia do Reparo”, superando concorrentes de todo o país. ✅ Receba as notícias do g1 Pará direto no WhatsApp Foi a primeira vez que a premiação abriu espaço para estudantes universitários, por meio de uma parceria com a Academia LED, do movimento Globo-Luz na Educação. Ao todo, a categoria recebeu 184 trabalhos inscritos, mobilizando mais de 570 participantes. Lucas foi o único representante da região Norte entre os quatro finalistas e garantiu o primeiro lugar. Estudante paraense vence categoria do Prêmio Profissionais do Ano da Globo, em São Paulo. Reprodução / TV Liberal O que é a 'Tecnologia do Reparo'? Longe de algoritmos, telas ou conexão com a internet, a proposta de Lucas resgata uma ferramenta humana e ancestral: o ato de reparar no outro. Inspirado nas vivências em Barcarena e nos saberes das comunidades ribeirinhas do Pará, o estudante propõe o cuidado e a observação atenta como bases para o aprendizado. \"Reparar, no sentido de perceber, notar e acolher. É a professora que é vizinha da comunidade e percebe quando o comportamento do aluno muda, quando ele está triste ou quando algo externo está afetando seu desempenho em sala de aula\", explica. PPA: Prêmio Profissionais do Ano reconhece talentos da publicidade Para o estudante, essa sensibilidade é uma tecnologia de cuidado indispensável, que deve anteceder qualquer recurso digital no ambiente escolar. O projeto defende que a empatia e a conexão humana são os verdadeiros motores da transformação educacional. Do Pará para as telas de todo o Brasil Como prêmio pela conquista, o projeto \"Tecnologia do Reparo\" ganhará vida fora do papel. A proposta será produzida pela Globo e passará a ser exibida nos intervalos comerciais da emissora em todo o território nacional a partir de 2027. A conquista de Lucas também coroa o papel do ensino público superior na Amazônia. O trabalho vencedor foi desenvolvido sob a tutoria e orientação da professora Ana Paula Mendes Pereira de Vilhena, da Faculdade de Comunicação (Facom) da UFPA. VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/18/estudante-de-publicidade-da-ufpa-vence-premio-da-globo-com-projeto-sobre-tecnologia-ancestral-na-educacao.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/HKQFPLaDQ4iDguZsSWZwiOm9LVo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/0/QlLBfZSrSBAZUrC5s9LA/whatsapp-image-2026-11-18-at-12.14.38.jpeg",
+      "data": "2026-11-18T17:09:05+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "04be171b34caa7ecbe0a3e224a9e57ca",
+      "titulo": "Polícia prende dupla suspeita de integrar organização que adulterava veículos roubados no Rio e revendia em Belém",
+      "descricao": "Operação prendeu suspeitos e apreendeu itens. PCPA A Polícia Civil (PC) do Pará prendeu dois homens suspeitos de integrar uma organização criminosa interestadual que adulterava veículos roubados no Rio de Janeiro e revendia em Belém. As prisões ocorreram na manhã desta quarta-feira (18), em Belém, durante o cumprimento de dois mandados de prisão preventiva e de busca e apreensão. A ação foi feita pela Delegacia de Repressão a Furtos e Roubos de Veículos Automotores (DRFRVA), com apoio operacional da Coordenadoria de Operações e Recursos Especiais (CORE). Como a investigação começou Segundo o delegado Mateus Leão, responsável pela operação, as investigações começaram após a apreensão de uma caminhonete avaliada em R$ 230 mil. O veículo havia sido roubado nas proximidades da Penha, no Rio de Janeiro, e transportado para Belém. Nos endereços alvo de busca e apreensão foram encontrados mais de 100 munições de vários calibres, uma espingarda, dinheiro em espécie, celulares e documentos referentes a cobranças. Os dois homens foram levados à unidade especializada e passaram pelos procedimentos legais. Segundo a PC, eles vão responder por adulteração de sinal identificador de veículo automotor, organização criminosa e receptação. A PC informou que a investigação continua para prender os demais integrantes do grupo. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/18/policia-prende-dupla-suspeita-de-integrar-organizacao-que-adulterava-veiculos-roubados-no-rio-e-revendia-em-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/mB0hGN5oDkzOfVgEaBoBj1fRKk4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/z/wn2bWATnOpz2Rjd2qGcg/geral-g1-75-.png",
+      "data": "2026-11-18T15:06:11+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "b9563418d3508b798162ff3bfce202ac",
       "titulo": "Seduc abre processo seletivo de estudantes do estado para o Colégio Militar",
@@ -9,76 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1188615%3A1793313886%2FJusti%C3%A7a%2520%C3%A9%2520acionada%2520para%2520garantir%2520vagas%2520no%2520Col%C3%A9gio%2520Militar%2520de%2520Bel%C3%A9m.jpeg%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-18T08:01:48.628706+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "55669e8dbf7b238c5eb96460bc564768",
-      "titulo": "Em Belém, CASALIV conecta profissionais e marcas em espaços de inspiração",
-      "descricao": "Em Belém, CASALIV conecta profissionais e marcas em espaços de inspiração",
-      "link": "https://www.oliberal.com/belem/em-belem-casalivconecta-profissionais-e-marcas-em-espacos-de-inspiracao-1.1195447",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1195448%3A1794967489%2F_MG_5481.JPG%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-18T08:01:48.461846+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "39d4cb503edfb5694cba3213045efc4e",
-      "titulo": "Câmara de Barcarena aprova programa de estagiários a partir dos 60 anos",
-      "descricao": "Câmara de Barcarena aprova programa de estagiários a partir dos 60 anos",
-      "link": "https://www.oliberal.com/para/camara-de-barcarena-aprova-programa-de-estagiarios-a-partir-dos-60-anos-1.1195446",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1195452%3A1794968280%2Fc%C3%A2mara%2520de%2520barcarena%2520aprova%2520projeto.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-18T08:01:48.148410+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "4529666aa244a1d026b32860511224f5",
-      "titulo": "Coca-Cola caseira: receita natural com cascas de frutas e especiarias viraliza",
-      "descricao": "O segredo está num xarope concentrado com laranja, limão, gengibre e açúcar mascavo, finalizado com água com gás na hora de servir. O segredo está num xarope concentrado com laranja, limão, gengibre e açúcar mascavo, finalizado com água com gás na hora de servir. O post Coca-Cola caseira: receita natural com cascas de frutas e especiarias viraliza apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/coca-cola-caseira-receita-natural-cascas-de-frutas-especiarias/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_Gemini_Generated_Image_6xsbsg6xsbsg6xsb.jpg",
-      "data": "2026-11-18T07:51:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "1cc4b16a9dc14f57089286f7f68b7497",
-      "titulo": "Linhas da palma da mão têm significado real? Veja o que a medicina diz",
-      "descricao": "Pregas palmares dão flexibilidade às mãos e já existem desde o nascimento Para a ciência, as pregas palmares têm função anatômica: e certos traços chegam a sinalizar condições genéticas O post Linhas da palma da mão têm significado real? Veja o que a medicina diz apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/toda/saber-viver/linhas-palma-mao-indicam-problemas-saude/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/greyerbaby-hands-423794_1920.jpg",
-      "data": "2026-11-18T07:15:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f422fbdf82c7a4758466fc2ad50c4295",
-      "titulo": "Previsão do tempo hoje para Belém (PA): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta quarta-feira (18) para Belém (PA) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 35ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de chuva e trovoadas. À noite, pancadas de chuva e trovoadas. Previsão do tempo para amanhã em Belém, quinta (19) Para esta quinta (19), a previsão é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
-      "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-belem-pa-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/5vL--84w-cYgP2vzLwaoWkYLQHw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/AfL2HwRq6Tonsi1XCGEA/previsao-tempo-bel-m-20261118-010210.jpeg",
-      "data": "2026-11-18T04:02:30+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "baf72b65c6015f1ea05b7dfe14ed2871",
-      "titulo": "Maior parque aquático do Pará inicia concretagem e abre no 1º semestre de 2027",
-      "descricao": "Vista aérea das obras do Vale das Minas Park, na entrada de Parauapebas, em outubro de 2026 Vale das Minas Park Durante meses, a pergunta em Parauapebas foi uma só: vai sair mesmo? Agora, quem responde é o canteiro de obras. Na sexta-feira (23), caminhões-betoneira e uma bomba-lança começaram a concretar a piscina natural, a primeira das grandes estruturas aquáticas do parque. O Vale das Minas Park já soma R$ 32 milhões investidos: R$ 20 milhões na área de mais de 110 mil m² e R$ 12 milhões em obras. A primeira etapa do maior parque aquático do Pará tem abertura prevista para o primeiro semestre de 2027. O ritmo confirma o que o mercado já tinha sinalizado no lançamento, quando o parque somou mais de R$ 1 milhão em vendas em apenas quatro horas e passou de 500 associados nos primeiros meses. “Para mim, este dia é a materialização de tudo que foi pensado. Para isso aqui ser possível, teve gente que decidiu acreditar nesse sonho, que hoje é uma realidade”, afirma Gabriel Castro, diretor comercial do Vale das Minas Park. O que já saiu do papel Quem passa pela PA-275, na entrada da cidade e a 350 metros da linha férrea, já vê a obra subir. O aterro do terreno está concluído, e as principais edificações da primeira etapa estão em fase de verticalização, e parte delas já recebe o fechamento das paredes: a loja, o vestiário, o PDV da praça de alimentação e o pórtico de entrada, com bilheteria, recepção e catracas de acesso. Edificações da primeira etapa já recebem o fechamento das paredes Vale das Minas Park Nas piscinas, as fôrmas e as armações das duas principais atrações aquáticas da primeira etapa, a piscina natural e a piscina infantil, foram concluídas, e a concretagem começou pela piscina natural. Primeiro, o concreto é lançado na base da piscina; depois, na parte superior da estrutura; por fim, vem a limpeza. Bomba-lança sobre a piscina natural no primeiro dia de concretagem, sexta-feira (23) Vale das Minas Park “Vai ser um grande volume de concreto. As piscinas são bem robustas. A piscina infantil é uma das maiores da região e uma das maiores que a gente está executando”, afirma o engenheiro civil Saulo H. Silva, da Partum Engenharia, construtora responsável pelo empreendimento. Diário de obra: o engenheiro Saulo H. Silva, da Partum, mostra o andamento e os próximos passos. Vídeo: Vale das Minas Park A Partum é uma das maiores construtoras de parques aquáticos do Brasil. O lançamento e as vendas são conduzidos pela consultoria especializada responsável pelo Guará Acqua Park, na região metropolitana de Belém. Quem constrói e quem opera o Vale das Minas já fez esse caminho antes. Em dia de concretagem, o canteiro fica cheio. Segundo Jeferson Lima, técnico de segurança do trabalho da obra, a operação reúne pedreiros, carpinteiros, ferreiros e serventes, que se identificam pela cor do capacete: azul para o pedreiro, amarelo para o ajudante, marrom para o ferreiro e vermelho para o carpinteiro. “A obra está andando conforme o previsto, e estamos adiantados em relação ao nosso planejamento”, diz Gabriel Castro. Equipe da Partum trabalha sobre a armação da piscina no dia da concretagem Vale das Minas Park Os próximos passos até a abertura, no primeiro semestre de 2027 Depois da concretagem, a obra entra na fase que muda a cara do parque. Segundo o engenheiro, a sequência prevê a instalação dos brinquedos da piscina infantil e a tematização da piscina natural e das edificações. O PDV da praça de alimentação será todo tematizado, com acabamento em pedras artificiais, ao lado de uma piscina natural com pedras naturais e artificiais. No lago, começa a montagem das duas torres do Cable Park, a estrutura que puxa os praticantes de Cable Wakeboard sobre a água. O projeto também inclui câmeras e outros sistemas de segurança em todo o parque. “É um grande espaço de lazer e entretenimento, com toda essa infraestrutura que a gente está preparando especialmente para os sócios e futuros sócios: grandes piscinas, excelentes edificações e segurança acima de tudo”, resume Saulo. Concreto lançado na armação da piscina natural Vale das Minas Park Equipe espalha o concreto, com as edificações ao fundo Vale das Minas Park Do tamanho de 15 campos de futebol São mais de 110 mil m², área equivalente a cerca de 15 campos de futebol oficiais. Para comparar: o Beach Park, em Aquiraz (CE), uma das maiores referências do país, ocupa 170 mil m² e recebe mais de 1,7 milhão de visitantes por ano. O Vale das Minas nasce com cerca de dois terços desse tamanho, no coração do Sul e Sudeste do Pará. Projeto ocupa mais de 110 mil m² Vale das Minas Park O que chega na primeira etapa A primeira etapa é a que concentra mais entregas: são 12 instalações, segundo Gabriel Castro. Quatro delas são as grandes obras do parque: a piscina natural, com cachoeira integrada, o lago com Cable Wakeboard, o tobogã Skyloop e o play kids. Atrações da primeira etapa A lista se completa com piscina infantil, quadras de vôlei e beach tênis, praça de alimentação tematizada, vestiário, loja e o pórtico de entrada. Duas das atrações a região nunca teve. A primeira é o maior play kids do Pará, com mais de 1.500 m² de brinquedos em fibra da Speedkids, a maior fabricante do segmento no Brasil. Play kids de 1.500 m² está previsto para a primeira etapa Vale das Minas Park A segunda é a primeira pista de Cable Wakeboard do Norte do país, esporte em que o praticante desliza sobre a água puxado por um cabo aéreo. Popular na Europa, a modalidade cresce rápido no Brasil. Primeira pista de Cable Wakeboard do Norte fica pronta na primeira etapa Vale das Minas Park Para quem vive na região, um fim de semana em parque aquático desse porte sempre exigiu horas de estrada ou uma passagem de avião. A partir do primeiro semestre de 2027, ele estará na entrada da cidade, a 10 minutos do centro. Região dos Carajás vive seu momento mais próspero O parque nasce em uma das regiões mais dinâmicas do Brasil. Parauapebas, na região dos Carajás, abriga a maior mina de minério de ferro do mundo, respondeu por 30,2% das exportações do Pará em 2023 e tem o segundo maior estoque de empregos formais do estado, com mais de 70 mil vínculos ativos. O efeito aparece na população. Segundo o IBGE, Parauapebas passou de 267,8 mil habitantes no Censo de 2022 para 305,8 mil em 2025, alta de 14%. Em média, são 35 novos moradores por dia. Com esse cenário, 2027 promete ser um dos anos mais prósperos da história recente do Pará. Mais gente chegando significa mais renda circulando e uma demanda que a cidade ainda não atendia: lazer de qualidade para a família, perto de casa. Parauapebas ganhou cerca de 38 mil moradores em três anos Vale das Minas Park O que um grande parque faz por uma cidade Outras cidades já mostraram esse caminho. Em Olímpia (SP), o turismo em torno das águas termais e do Thermas dos Laranjais chegou a movimentar R$ 350 milhões por ano, segundo reportagem do g1. Um parque desse porte atrai visitantes de fora e movimenta hotéis, restaurantes e o comércio ao redor. É nesse movimento que empreendimentos como o Vale das Minas se destacam, colocando turismo e lazer no centro do desenvolvimento do Sul e Sudeste do Pará. Quem viu a cidade nascer Por trás do parque estão Marx e Jussara Jordy. O casal mora em Parauapebas desde a fundação do município, criou os dois filhos aqui e está à frente de negócios conhecidos da cidade, da imobiliária à academia e à hotelaria. Casados há mais de 30 anos, acompanham a obra de perto desde o primeiro dia. A gente viu Parauapebas nascer e criou nossos filhos aqui. Sempre faltou um lugar para as famílias viverem esses momentos sem precisar sair da cidade. O Vale das Minas é esse lugar. Jussara Jordy, cofundadora do Vale das Minas Park Vale das Minas Park A última janela para ser sócio remido “Isso aqui é muito maior do que uma piscina ou um tijolo montado. As famílias vão poder eternizar o maior patrimônio que nós temos em vida, que é o patrimônio emocional: criar memória afetiva com a família”, diz Gabriel Castro. Funciona como na compra de um imóvel na planta: quem entra antes de as chaves serem entregues paga menos do que quem chega depois. A série Esmeralda, de sócio remido, foi limitada a 1.000 títulos. Quem entra nela fica isento de mensalidades, com atualização opcional apenas a cada dez anos, contados a partir da abertura do parque. No primeiro ano de funcionamento, o sócio tem direito a cinco ingressos por mês, além de descontos nos eventos do parque e de até 15% nas diárias do Hotel Vale dos Carajás. O título pode ser vendido a qualquer momento. Com a abertura prevista para o primeiro semestre de 2027, a fase mais vantajosa de adesão está chegando ao fim. Restam poucos títulos da série, e o valor passa por reajuste a partir de novembro. Depois que ela se esgotar, novos associados entram apenas na modalidade com mensalidade. Títulos da série Esmeralda estão na fase final Vale das Minas Park Para conhecer o projeto de perto, o Vale das Minas Park mantém sala de apresentação no Karajás Shopping, na Rodovia Municipal Faruk Salmen, Primavera, Parauapebas (PA). Acesse o link de agendamento aqui Vale das Minas Park: conheça o projeto",
-      "link": "https://g1.globo.com/pa/para/especial-publicitario/vale-das-minas-park/noticia/2026/11/18/maior-parque-aquatico-do-para-inicia-concretagem-e-abre-no-1o-semestre-de-2027.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/wukklsJpXE9bGIic31Daeuo7GNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/y/Cs1e2NQPSi6ZKQuxENfw/01-abertura-vista-aerea-obra.jpg",
-      "data": "2026-11-18T03:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "822aaaca9ff7b33de683776f0eb6d086",
-      "titulo": "Assembleia e Tuna Luso entram em quadra pelo Parazão O Liberal de Basquete",
-      "descricao": "Assembleia e Tuna Luso entram em quadra pelo Parazão O Liberal de Basquete",
-      "link": "https://www.oliberal.com/esportes/assembleia-e-tuna-luso-entram-em-quadra-pelo-parazao-o-liberal-de-basquete-1.1195424",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1195427%3A1794959113%2Fjogo%2520tuna%2520luna%2520e%2520assembleia%2520paraense.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-18T00:30:22.081981+00:00",
       "categoria": "PARÁ"
     }
   ]
