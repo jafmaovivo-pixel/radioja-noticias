@@ -1,6 +1,76 @@
 {
-  "atualizado": "2026-11-20T10:41:26.427773+00:00",
+  "atualizado": "2026-11-20T18:54:13.343667+00:00",
   "noticias": [
+    {
+      "id": "ebe352b6d087bdcb4ae5c43a535087e6",
+      "titulo": "Professor da UFPA Carlos Dergan recebe Medalha do Mérito Cultural em Belém",
+      "descricao": "Professor da UFPA Carlos Dergan recebe Medalha do Mérito Cultural em Belém",
+      "link": "https://www.oliberal.com/cultura/professor-da-ufpa-carlos-dergan-recebe-medalha-do-merito-cultural-em-belem-1.1196551",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196556%3A1795198657%2FIMG_0342%2520(1).JPEG%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-20T18:54:11.960003+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "90d50192d11699ba7ee18d95ab11628c",
+      "titulo": "20 livros para além do 20 de novembro: veja a lista de obras de autores negros",
+      "descricao": "20 livros para além do 20 de novembro: veja a lista de obras de autores negros",
+      "link": "https://www.oliberal.com/cultura/20-livros-para-alem-do-20-de-novembro-veja-a-lista-de-obras-de-autores-negros-1.1196547",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196557%3A1795198797%2FWhatsApp%2520Image%25202026-11-20%2520at%252013.26.33.jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-20T18:54:11.766271+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "47b925e7bd0b7e55e2d8c2cb296674ea",
+      "titulo": "Três pessoas morrem e 25 cidades são afetadas após tempestades no RS",
+      "descricao": "Três pessoas morrem e 25 cidades são afetadas após tempestades no RS",
+      "link": "https://www.oliberal.com/brasil/tres-pessoas-morrem-e-25-cidades-sao-afetadas-apos-tempestades-no-rs-1.1196558",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196560%3A1795199721%2Fdanos%2520rs.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-20T18:54:11.417343+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d506d3697fb2f3c4ca56710318a8325b",
+      "titulo": "Meu herói dirige um Geladão: motorista surpreende homem escondido em ônibus e impede furto de renda; veja",
+      "descricao": "Motorista de ônibus Geladão flagrou um homem escondido dentro do coletivo, no bairro do Tapanã, em Belém, e teria impedido o furto do dinheiro arrecadado com as passagens. Motorista de ônibus descobriu um homem escondido em um Geladão no final da linha do Tapanã, em Belém, e impediu a suposta tentativa de furto do dinheiro arrecadado. O post Meu herói dirige um Geladão: motorista surpreende homem escondido em ônibus e impede furto de renda; veja apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/belem/meu-heroi-dirige-um-geladao-motorista-surpreende-homem-escondido-em-onibus-e-impede-furto-de-renda-veja/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Colagem-de-onibus-urbano-e-passageiros.png",
+      "data": "2026-11-20T18:32:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "f6079b719b1cf275a7e55d0ac92b66f2",
+      "titulo": "Conheça o motel onde Suzane von Richthofen esteve com Daniel Cravinhos após matar os pais; veja fotos do local",
+      "descricao": "Suzane von Richthofen e Daniel Cravinhos foram ao antigo Motel Colonial após o assassinato de Manfred e Marísia, pais de Suzane, em outubro de 2002. Foto: Reprodução/Internet. Mais de 20 anos após o assassinato de Manfred e Marísia, local frequentado por Suzane e Daniel Cravinhos continua em funcionamento, agora com outro nome. O post Conheça o motel onde Suzane von Richthofen esteve com Daniel Cravinhos após matar os pais; veja fotos do local apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/conheca-o-motel-onde-suzane-von-richthofen-esteve-com-daniel-cravinhos-apos-matar-os-pais-veja-fotos-do-local/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/DIARIO-1320x768-35.png",
+      "data": "2026-11-20T18:30:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "01a4d10a9c9d43c0d7a9f6a55b461bde",
+      "titulo": "Bebê recém-nascido é sequestrado de maternidade pública e localizado pela polícia na estrada, no Pará",
+      "descricao": "Bebê desaparece na Santa Casa, em Belém Um bebê recém-nascido sequestrado de dentro da Santa Casa de Misericórdia do Pará, em Belém, foi localizado pela Polícia Civil. A criança e a suspeita do crime foram encontradas na rodovia Alça Viária, na região metropolitana de Belém. De acordo com a polícia, o bebê passa bem e a mulher foi presa em flagrante. O caso aconteceu por volta das 8h desta sexta-feira (20) na maior maternidade pública do estado. ✅ Receba as notícias do g1 Pará direto no WhatsApp Segundo relatos de pacientes e acompanhantes, a suspeita circulava pelas enfermarias do hospital desde o dia anterior. Para não levantar suspeitas, ela fingia ser paciente ou acompanhante, buscando puxar conversa e pedindo para carregar o celular. Santa Casa em Belém. Marco Santos / Agência Pará Como foi o sequestro A mulher chegou a se oferecer para comprar um lanche para a acompanhante da mãe do bebê. Aproveitando-se do momento de distração e da vulnerabilidade da mãe no pós-parto, a suspeita pegou a criança e conseguiu sair do hospital pela porta da frente. A facilidade com que a mulher deixou o prédio gerou indignação entre familiares e trabalhadores que atuam na frente da Santa Casa. Testemunhas relataram que o controle de entrada no hospital costuma ser extremamente rígido, com revistas frequentes, o que levanta questionamentos sobre como a suspeita conseguiu passar pela portaria carregando o recém-nascido sem ser barrada. Prisão Logo após a denúncia do desaparecimento, equipes da Polícia Militar e da Polícia Civil iniciaram as buscas dentro e fora do hospital. Imagens do circuito interno de segurança da maternidade foram analisadas para identificar a rota de fuga da suspeita. As investigações avançaram rapidamente e levaram os policiais até a Alça Viária, onde a mulher foi interceptada enquanto tentava fugir com o bebê. Em nota, a Polícia Civil confirmou que a suspeita foi encaminhada para a Delegacia de Proteção à Criança e ao Adolescente (DPCA), onde o caso está sendo registrado. As investigações continuam para apurar as circunstâncias do acesso da mulher ao hospital. A polícia reforça que qualquer informação adicional sobre o caso pode ser repassada de forma totalmente anônima por meio do Disque Denúncia (181). VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/20/bebe-recem-nascido-e-sequestrado-de-maternidade-publica-e-localizado-pela-policia-na-estrada-no-para.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/42IJY1xOXjthwmwY-4VoqHbna3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Q/GrKivsQsyAoXLntcBCSw/20485-c0cce127-a8db-df2c-1eaa-9a58887bcb60.jpg",
+      "data": "2026-11-20T16:25:17+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "896dd2d13d57bcf9083a90dd9de35a06",
+      "titulo": "Altamira reforça policiamento após sequência de assassinatos na cidade e na zona rural",
+      "descricao": "MP cobra ações de enfrentamento e combate a crimes em Altamira, no Pará A sequência de assassinatos registrada nas últimas semanas tem assustado moradores de Altamira, no sudoeste do Pará. Diante da violência, representantes das forças de segurança se reuniram nesta quinta-feira (19) para discutir medidas de enfrentamento aos crimes e reforçar as ações de combate à criminalidade no município e na zona rural. A reunião foi convocada pelo Ministério Público do Estado do Pará (MPPA) e contou com representantes das polícias Militar, Civil e Científica, do Sistema Penitenciário e da Secretaria Municipal de Segurança Pública. Durante o encontro, os órgãos definiram um plano de atuação integrada. Entre os crimes que provocaram comoção na cidade está o assassinato de Antônio Jefferson Pereira Ferreira, de 31 anos, proprietário de um trailer de lanches conhecido em Altamira. Ele foi morto a tiros na madrugada do sábado (14), enquanto guardava o veículo no estacionamento de um lava-jato, no centro da cidade. Outro caso registrado na semana passada foi o assassinato de uma mulher trans em um bairro da periferia de Altamira. Ela foi atingida por pelo menos cinco tiros a poucos metros de casa. Segundo as informações apuradas, o atirador estava dentro de um carro no momento dos disparos. A Polícia Civil também investiga a morte da agricultora Eliete Marques de Carvalho, de 62 anos, encontrada morta dentro de casa, em um assentamento na zona rural de Altamira, no sudoeste do Pará. O corpo tinha sinais de tortura, e a vítima teria sido estrangulada. ✅ Clique e siga o canal do g1 PA no WhatsApp Reforço policial Altamira reforça policiamento após sequência de assassinatos na cidade e na zona rural TV Liberal Com o aumento dos casos de violência, os órgãos de segurança reforçaram o policiamento no município. Operações integradas estão sendo realizadas diariamente na área urbana e na zona rural, com o objetivo de combater a atuação de criminosos e auxiliar na investigação dos assassinatos. Nesta semana, a Polícia Militar enviou mais 40 agentes e 10 viaturas para reforçar o patrulhamento em diferentes pontos do município. As equipes atuam no combate às organizações criminosas, aos roubos e a outros crimes violentos. As abordagens também contam com o apoio de um cão farejador, utilizado para localizar armas e drogas. O policiamento ostensivo também foi intensificado em áreas consideradas críticas, que concentram maior número de ocorrências. De acordo com a Polícia Militar, as operações devem continuar por 30 dias. Além do reforço no policiamento, uma força-tarefa foi montada para acelerar as investigações. Policiais civis que vieram de Belém estão em Altamira para auxiliar na apuração dos assassinatos. O trabalho busca identificar os autores e as motivações dos crimes, além de verificar se existe alguma ligação entre os casos. Vídeos com as principais notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/20/altamira-reforca-policiamento-apos-sequencia-de-assassinatos-na-cidade-e-na-zona-rural.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/10yG-e9si3pH0MjeaHLPLTrSjgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/Z/zksFr2TzGlPCVE0BBj2A/whatsapp-image-2026-11-20-at-10.14.28.jpeg",
+      "data": "2026-11-20T13:15:38+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "4202d8000d8bb3840c53761115da74d9",
       "titulo": "JP8 conquista primeira vitória ao bater a Tuna",
@@ -9,76 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196370%3A1795134050%2FWhatsApp%2520Image%25202026-11-19%2520at%252020.57.39.jpeg%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-20T10:41:24.942372+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "b6f91badbbe3c3c59fcf221ce10cb62d",
-      "titulo": "Fim da 6x1 pode afetar 700 mil trabalhadores do comércio no Pará",
-      "descricao": "Fim da 6x1 pode afetar 700 mil trabalhadores do comércio no Pará",
-      "link": "https://www.oliberal.com/economia/fim-da-6x1-pode-afetar-700-mil-trabalhadores-do-comercio-e-servicos-no-para-1.1196331",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.8858%3A1795128212%2F970354854.jpg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-20T10:41:24.675950+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "106bd42b9fd07001aed55477cfec9718",
-      "titulo": "Re-Pa de boxe leva rivalidade entre Remo e Paysandu ao Ver-o-Peso",
-      "descricao": "Re-Pa de boxe leva rivalidade entre Remo e Paysandu ao Ver-o-Peso",
-      "link": "https://www.oliberal.com/esportes/re-pa-de-boxe-leva-rivalidade-entre-remo-e-paysandu-ao-ver-o-peso-1.1196358",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1145987%3A1784588322%2FWhatsApp%2520Image%25202026-07-19%2520at%252014.38.37.jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-20T10:41:24.375213+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "090e03796acc1ee93864b470512021a0",
-      "titulo": "Novo estádio do Vitória terá espaço de massagem de site adulto",
-      "descricao": "Vitória terá espaço de massagem para torcedores em novo estádio Em parceria com a Skokka, o Vitória planeja um espaço exclusivo de massagem para maiores de 18 anos no futuro estádio, em Salvador, com obras previstas para 2027. O post Novo estádio do Vitória terá espaço de massagem de site adulto apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/novo-estadio-do-vitoria-tera-espaco-de-massagem-de-site-adulto/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/social-massagem-erotica-sao-paulo-o-que-e-1024512-723503.jpg",
-      "data": "2026-11-20T10:07:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "9c5a6a2db83a36249910cd1c011bee31",
-      "titulo": "Consciência Negra: confira 20 frases sobre representatividade, igualdade e resistência",
-      "descricao": "A igualdade racial não se constrói sozinha. Cada pessoa tem um papel na luta por respeito, oportunidades e direitos iguais. Foto: Reprodução Data é feriado nacional e simboliza a luta contra o racismo, a valorização da identidade negra e a memória de Zumbi dos Palmares. O post Consciência Negra: confira 20 frases sobre representatividade, igualdade e resistência apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/cotidiano/consciencia-negra-confira-20-frases-sobre-representatividade-igualdade-e-resistencia/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_cidades_-_betim-cultura_afro-premio_honoris_causa-betim-1764100616.jpg",
-      "data": "2026-11-20T10:05:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "8e27fa16c45c9bdbf40265934652192c",
-      "titulo": "Dona Onete revisita a própria história em documentário e fala sobre ancestralidade e cultura negra no Pará",
-      "descricao": "Dona Onete Tereza Maciel / Divulgação “Eu ainda estou pedindo um pouquinho de vida para Jesus, porque ainda tenho muita coisa para falar.” A frase de Dona Onete, de 87 anos, revela o desejo de continuar contando histórias, defendendo tradições culturais e fazendo da música um espaço de liberdade. Neste Dia da Consciência Negra, celebrado em 20 de novembro, a cantora paraense revisita a própria trajetória, que também ganha as telas de cinema com o documentário \"Dona Onete – Meu Coração Neste Pedacinho Aqui\", dirigido por Mini Kerti, com estreia nacional marcada para 26 de novembro. Em entrevista ao g1, a artista falou sobre as memórias despertadas pelas gravações, os desafios que enfrentou como mulher e a preocupação com o desaparecimento de manifestações culturais de origem africana no interior do Pará. “A gente tem tanta coisa no interior que é herança de negro que veio da África, sabe? Que estão se acabando, já estão morrendo. Nós ainda precisamos muito ir procurar o que é da gente”, afirma. Segundo o Censo 2022 do Instituto Brasileiro de Geografia e Estatística (IBGE), cerca de 79,6% da população do Pará se declara preta ou parda. Entre 2010 e 2022, o número de pessoas autodeclaradas pretas cresceu 44,6% no estado, enquanto a população paraense aumentou 7,1% no mesmo período. Para Dona Onete, parte dessa história permaneceu durante muito tempo distante dos espaços de reconhecimento e valorização cultural. “O Pará custou muito a procurar essa gente. Pensavam que essas pessoas não tinham cultura. E é onde está a cultura”, diz. A cantora cita o banho de cheiro, tradição presente em suas composições, como exemplo de um conhecimento popular que já existia nas comunidades antes de ganhar maior visibilidade. “Eu trouxe de Igarapé-Miri cantando banho de cheiro. Não é que eu tenha trazido, não. Já existia. Mas só que ninguém ligava, não divulgavam.” Essa preocupação também marcou sua trajetória como professora de Estudos Paraenses, disciplina que, segundo ela, ajudava os alunos a compreender a história e a cultura da região. “Era para a gente conhecer a Amazônia, conhecer o que é a Amazônia e a história da gente”, recorda. As memórias por trás da artista Filmado entre rios, festas populares e comunidades ribeirinhas do Pará, o documentário acompanha a trajetória de Ionete Gama antes e depois do reconhecimento musical. Durante as gravações, a artista retornou a lugares que marcaram sua vida, especialmente em Igarapé-Miri, município do nordeste paraense onde viveu parte de sua história. Um dos momentos mais emocionantes foi o reencontro com a escola onde lecionou. Ao chegar, descobriu que uma antiga aluna havia se tornado diretora da instituição. “Eu fiquei muito lisonjeada daquilo. Achei dançarinas do meu grupo de dança. Achei boi-bumbá que eu ensinei a cantar. Muitas coisas”, conta. A liberdade conquistada com o tempo Nascida em Cachoeira do Arari, no arquipélago do Marajó, Dona Onete passou décadas atuando como professora e desenvolvendo atividades ligadas à cultura popular. Em Igarapé-Miri, lecionou História e Estudos Paraenses, participou do movimento sindical e trabalhou na gestão cultural. A música sempre esteve presente em sua vida, mas foi depois dos 60 anos que começou a construir uma carreira artística profissional. Aos 72, lançou o primeiro disco, Feitiço Caboclo, e iniciou uma trajetória que levaria o carimbó chamegado a palcos internacionais. “Eu já cantava. Eu tinha uma voz lindíssima. Se eu estou nessa idade, nessa boa demais, imagina dando aula aos 25 anos, imagine como era essa voz”, brinca. Conhecida por cantar o amor, o desejo e o prazer com humor e irreverência, Dona Onete conta que nem sempre teve liberdade para se expressar. Durante o casamento de 25 anos, lembra que o marido sentia ciúmes até quando ela cantava enquanto realizava tarefas domésticas. “Ele achava que eu estava cantando para chamar atenção de outra pessoa, de outro homem. Aquilo me magoava muito, porque eu não estava pensando em nada, senão na minha casa, nos meus filhos, nas minhas coisas.” A decisão de recomeçar a vida foi acompanhada pelo medo, mas também pela coragem. “Eu fiquei muito amedrontada, mas tive coragem. Porque não é qualquer pessoa que tem coragem.” Hoje, Dona Onete questiona os limites impostos às mulheres pelo envelhecimento. Para aquelas que acreditam ter passado da idade de realizar seus sonhos, deixa um recado: “Isso é uma bobagem. A gente é mulher todo tempo. Todo tempo. A gente nunca é velha.” A cantora também defende o direito das mulheres idosas de continuar aproveitando a vida, frequentando festas e dançando, sem serem julgadas por isso. “Meu amigo, sinta-se feliz por sua mãe gostar de dançar, por sua mãe gostar de beber uma cerveja. Então deixa sua mãe ser feliz.” Cartaz do filme 'Dona Onete - Meu coração neste pedacinho aqui'. Divulgação Documentário premiado chega aos cinemas Dona Onete – Meu Coração Neste Pedacinho Aqui estreia nos cinemas de todo o país em 26 de novembro, após passar por festivais nacionais e internacionais. Dirigido por Mini Kerti, o longa rendeu à cineasta o prêmio de Melhor Direção no Festival do Rio de 2025 e conquistou o prêmio de Melhor Longa-Metragem pelo Júri Popular no Festival Pan-Amazônico de Cinema. A produção também foi selecionada para o Hot Docs, em Toronto, no Canadá. Produzido pela Conspiração, com coprodução do Canal Brasil e Hysteria, o filme reúne encontros de Dona Onete com artistas como Fafá de Belém, Gaby Amarantos, Emicida, Aíla, Jaloo e Dira Paes, entre outros nomes que ajudam a contar sua história. “Meu interesse era criar um espaço de escuta e troca, onde a história dela pudesse emergir com força e delicadeza”, explica a diretora. Ao olhar para a própria trajetória, Dona Onete prefere falar em felicidade, e não em orgulho. Depois de levar o carimbó a palcos internacionais, é na divulgação da cultura paraense que reconhece uma de suas maiores realizações. “Eu sinto que consegui botar esse carimbó muito longe. Eu sinto que muitas coisas que o povo não conhecia eu fiz conhecer.” ✅ Receba as notícias do g1 Pará direto no WhatsApp VÍDEOS: veja todas as notícias do Pará Leia as últimas notícias do estado no g1 Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/20/dona-onete-revisita-a-propria-historia-em-documentario-e-fala-sobre-ancestralidade-e-cultura-negra-no-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/A_WgsJOTnFe9AF_88b489XfpujI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/e/B75LSqR4eqB0BLC4v1pg/credito-tereza-maciel-2-.jpg",
-      "data": "2026-11-20T08:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "10fdc657ff35c3998c29d5a0856554a1",
-      "titulo": "Da bauxita aos cabos elétricos: conheça a cadeia do alumínio, metal estratégico, no PA",
-      "descricao": "Em 2025, o Pará produziu 43,2 milhões de toneladas de bauxita, o equivalente a 90% da produção brasileira, segundo o Boletim da Mineração Paraense 2026. A bauxita é a matéria-prima do alumínio. O Retrato da Mineração na Amazônia, do Sindicato das Indústrias Minerais do Estado do Pará (Simineral), aponta que o aumento da demanda global por minerais críticos e estratégicos pode impulsionar a mineração no estado. 🔍 Segundo a Empresa de Pesquisa Energética, a definição de minerais críticos está ligada à atual transição energética global que busca fontes renováveis e mais sustentáveis para produzir, consumir e distribuir energia. Neste mês, o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos definiu uma lista de 27 itens críticos e estratégicos para o Brasil - incluindo o alumínio. Segundo o Ministério de Minas e Energia (MME), a inclusão do alumínio na lista destaca o papel do Brasil no fornecimento do metal e pode estimular sua transformação industrial no país. Como 90% da produção brasileira de bauxita ocorre no Pará, o estado ocupa uma posição estratégica na cadeia nacional do alumínio - veja no gráfico abaixo: No percurso mostrado pela reportagem, a bauxita é extraída em Paragominas → segue para Barcarena para ser refinada e virar alumina → depois é transformada em alumínio metálico → usada na fabricação de fios e cabos → até chegar na rede elétrica. Na série “Da bauxita à eletrificação: o lugar do Pará na cadeia do alumínio”, o g1 mostra como o minério dá origem a produtos usados nas redes elétricas e o que essa cadeia representa para a economia paraense em termos de desafios e oportunidades. Nesta reportagem, você vai ler: Por que o alumínio é usado nas redes elétricas Da mina à refinaria: como se produz a alumina Da alumina aos cabos elétricos Alumínio na lista de minerais estratégicos ⚡ Por que o alumínio é usado nas redes elétricas As principais aplicações do alumínio estão em setores como o transporte, embalagens, construção civil e indústria elétrica. Para a Associação Brasileira do Alumínio (Abal), o metal é estratégico para a eletrificação porque pode conduzir eletricidade, tem leveza e durabilidade, além de poder ser reciclado. Janaina Donas, presidente-executiva da Abal, afirma que o alumínio é a “escolha natural” para linha de transmissão/distribuição, cabo de média/alta tensão e rede de longa distância. 🔍O segmento de eletricidade passou a responder por 13,4% de todo o consumo de alumínio no Brasil, o que reforça seu peso na demanda nacional, diz a Abal. A Empresa de Pesquisa Energética (EPE) aponta que a expansão das linhas de transmissão deve elevar a demanda por alumínio no setor elétrico. Fabricação de cabo elétrico de alumínio. Divulgação/Alubar O Plano Decenal de Expansão de Energia 2034 projeta que a extensão das linhas de transmissão do Sistema Interligado Nacional (SIN) passe de cerca de 187 mil km em 2024 para cerca de 218 mil km em 2034: uma expansão de cerca de 30 mil km. ⛏️ Da mina à refinaria: como se produz a alumina Seja para a fabricação de cabos elétricos ou de baterias de veículos elétricos, a produção do alumínio passa necessariamente pela extração da bauxita. No Pará, a bauxita é extraída de Oriximiná, Juruti e Paragominas. Segundo a Gerência de Economia Mineral, havia 59 áreas de minas de bauxita com lavra ativa no país, em 2025. Carlos Neves, vice-presidente sênior de operações da Hydro Bauxita & Alumina, explica que a mina de Paragominas é a céu aberto e que, na área descrita, a bauxita é encontrada a 12 metros de profundidade. A bauxita passa por um beneficiamento: é moída, lavada e separada para tirar um pouco da argila e ficar com um teor ideal para ser processada na refinaria Depois, a bauxita segue de Paragominas até a refinaria da Alunorte, em Barcarena, por um mineroduto subterrâneo de 244 km. O duto passa por sete municípios: Abaetetuba, Acará, Barcarena, Ipixuna do Pará, Moju, Paragominas e Tomé-Açu. De acordo com Carlos Neves, a bauxita é tratada em alta temperatura para extrair a alumina. O material solúvel é separado dos resíduos, resfriado e precipitado até retornar ao estado sólido para, depois, ser transformado em alumínio. ⛏️ Mudança visível: Ao fim do refino, a bauxita marrom dá origem a alumina, um pó branco. “A bauxita na Amazônia tem um grau de 48% a 50% de alumina aproveitável no processo de extração”, afirma o vice-presidente da Hydro. Bauxita, marrom, à esquerda; Alumina, pó branco, à direita. Divulgação Hydro e Albras. Para ilustrar o processo, Neves usa a seguinte proporção: 4 toneladas de bauxita dão origem a 2 toneladas de alumina, usadas para produzir 1 tonelada de alumínio metálico. “O Brasil tem a cadeia completa do alumínio, da extração da bauxita até os materiais acabados”, afirma. 🏭 Da alumina aos cabos elétricos A transformação da alumina em alumínio líquido também ocorre no complexo industrial de Barcarena, na Região Metropolitana de Belém. Paulo Nogueira, gerente executivo de Saúde, Segurança e Meio Ambiente da Albras, explica que a fábrica tem quatro linhas de redução. Cada uma reúne várias cubas eletrolíticas, equipamentos nos quais se produz o alumínio metálico. A alumina é colocada nessas cubas e sob forte corrente elétrica e alta temperatura ocorre a reação química que transforma o pó em alumínio líquido. Lingotes de alumínio fabricados na Albras. Divulgação/Albras O alumínio é então retirado das cubas e moldado em lingotes que pesam 22,5 kg. Segundo a Albras, depois são dispostos e distribuídos em pilhas de 1 tonelada. Basicamente funciona assim: alumina, ânodo, cuba eletrolítica e energia elétrica. Isso faz com que a alumina se transforme em alumínio Os lingotes abastecem diferentes setores industriais no Brasil e no exterior. Entre as aplicações de ligas de alumínio na indústria automotiva está a fabricação de rodas. Segundo Paulo, a Albras fornece parte de sua produção à Alubar na forma de alumínio líquido. Assim, a fabricante de cabos recebe o metal sem precisar derreter lingotes antes de usá-lo, o que gera ganho de eficiência. Da bauxita aos cabos: como o Pará participa da infraestrutura elétrica. Leandra Camila / Arte TV Liberal José Luiz Conte, diretor comercial da Alubar, afirma que a unidade de Barcarena transforma alumínio primário em condutores para redes elétricas.. “São [produzidos] cabos condutores para redes de transmissão e de distribuição de energia elétrica, para abastecer não apenas o Pará, mas o Brasil com nossos produtos, para poder eletrificar o país”, destaca. Do alumínio usado na Alubar, 99% vem da Albras. A proximidade entre as fábricas permite transportar o metal ainda líquido. José Luiz Conte divide a atuação da Alubar em três segmentos de cabos: Transmissão: cabos usados em linhas de alta tensão, em empreendimentos cujas concessões foram leiloadas pela Aneel. Distribuição: cabos urbanos e rurais que levam energia às residências e indústrias. Energias renováveis: cabos usados em parques eólicos e usinas solares. Segundo o diretor comercial, a fábrica de Barcarena tem capacidade para produzir mais de 100 mil toneladas de cabos por ano, dependendo dos tipos de cabo comercializados. “Em setembro de 2025, o último estado a ser interligado ao Sistema Interligado Nacional foi o estado de Roraima. E o cabo que está lá é produzido no Pará, com alumínio do Pará, na Região Norte”, afirma José Luiz Conte. 📋 Alumínio na lista de minerais estratégicos Na avaliação de Paulo Nogueira, gerente executivo da Albras, o alumínio é o metal do futuro. “O alumínio é um material leve, 100% reciclável e também fácil de moldar”, afirma. Da bauxita aos cabos elétricos O vice-presidente da Hydro Bauxita & Alumina, Carlos Neves, destaca a classificação do alumínio como um material estratégico para o Brasil. “A sociedade vai continuar precisando de alumínio [...] Ele está presente no nosso dia a dia. Em tudo que está ao nosso redor tem a presença do alumínio”, afirma Carlos. Emerson Rocha, presidente executivo do Simineral, afirma que o Pará tem papel relevante no fornecimento de minérios para a transição energética. Não tem como nós falarmos de transição energética sem envolver o Pará no centro dessa discussão VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/20/da-bauxita-aos-cabos-eletricos-conheca-a-cadeia-do-aluminio-metal-estrategico-no-pa.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/uxFyWHUBxBlbZjEfel6xzi4TYcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/dlXVlNRaO7KjIbEn1k1g/fabricacao-de-cabo-eletrico-de-aluminio-1-.jpg",
-      "data": "2026-11-20T08:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "15b0ec15478d79aa1e8140f3e60d3327",
-      "titulo": "Feijoada do Nosso Tom é atração no feriado em Belém",
-      "descricao": "Feijoada do Nosso Tom é atração no feriado em Belém",
-      "link": "https://www.oliberal.com/cultura/feijoada-do-nosso-tom-e-atracao-no-feriado-em-belem-1.1196383",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.908188%3A1737124386%2F20250113CULNOSSOTOM%2520-%2520FOTOS%2520-%2520IVAN%2520DUARTE%2520(2).JPG%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-20T02:44:12.882379+00:00",
       "categoria": "PARÁ"
     }
   ]
