@@ -1,6 +1,66 @@
 {
-  "atualizado": "2026-11-21T00:27:28.084089+00:00",
+  "atualizado": "2026-11-21T07:31:42.346264+00:00",
   "noticias": [
+    {
+      "id": "c9ebbc5e596920869ec6e69555dd611d",
+      "titulo": "Haiti chega a acordo com El Salvador para construir novas prisões após a visita do ministro",
+      "descricao": "Haiti chega a acordo com El Salvador para construir novas prisões após a visita do ministro",
+      "link": "https://www.oliberal.com/mundo/haiti-chega-a-acordo-com-el-salvador-para-construir-novas-prisoes-apos-a-visita-do-ministro-1.1196700",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196705%3A1795225362%2FCaptura%2520de%2520Tela%25202026-11-20%2520a%CC%80s%252022.42.31.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-21T07:31:41.218769+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "533e711abb13f408997d54e03fe8b663",
+      "titulo": "Boca Juniors toma conta de cidade colombiana com festa gigante antes de decisão com Atlético-MG",
+      "descricao": "Boca Juniors toma conta de cidade colombiana com festa gigante antes de decisão com Atlético-MG",
+      "link": "https://www.oliberal.com/esportes/boca-juniors-toma-conta-de-cidade-colombiana-com-festa-gigante-antes-de-decisao-com-atletico-mg-1.1196704",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196706%3A1795225516%2FCaptura%2520de%2520Tela%25202026-11-20%2520a%CC%80s%252022.45.05.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-21T07:31:40.947920+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "61e9d3aa01a2aa725eace90bc48c8b8c",
+      "titulo": "Jogador do Porto que enfrentou o Palmeiras faz gol contra bizarro e cai no choro",
+      "descricao": "Jogador do Porto que enfrentou o Palmeiras faz gol contra bizarro e cai no choro",
+      "link": "https://www.oliberal.com/esportes/jogador-do-porto-que-enfrentou-o-palmeiras-faz-gol-contra-bizarro-e-cai-no-choro-1.1196707",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-21T07:31:40.681278+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "bf9fc6d975d2e09123e084d1281744b9",
+      "titulo": "Previsão do tempo hoje para Belém (PA): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para este sábado (21) para Belém (PA) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 34ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de chuva e trovoadas. À noite, pancadas de chuva e trovoadas. Previsão do tempo para amanhã em Belém, domingo (22) Para este domingo (22), a previsão é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
+      "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/11/21/previsao-do-tempo-hoje-para-belem-pa-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/OKXjnSi7WwP5qvmRDj0glXZCwvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/D/i5SyP3RnyBRM3bwpyKAg/previsao-tempo-bel-m-20261121-010159.jpeg",
+      "data": "2026-11-21T04:02:10+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "73c97fe0aebb94ef843db9e84bbdc2bb",
+      "titulo": "Americanos vieram ao Pará investigar OVNIs em 2009; documentos secretos revelam missão",
+      "descricao": "magem apresentada no relatório americano como exemplo de fotografia relacionada aos registros da Operação Prato. Relatório de 538 páginas divulgado pelos EUA detalha a Operação Prato, investigação da FAB sobre 179 ocorrências de fenômenos aéreos em Colares, no Pará, entre 1977 e 1978. O post Americanos vieram ao Pará investigar OVNIs em 2009; documentos secretos revelam missão apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/cotidiano/americanos-vieram-ao-para-investigar-ovnis-em-2009-documentos-secretos-revelam-missao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/social-1000417689-724235.jpg",
+      "data": "2026-11-21T02:34:19+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "d514b52d0ea79130b9a71c9cd657f8ae",
+      "titulo": "Neymar retorna ao Brasileiro de poker em São Paulo após faturar R$ 138 mil no circuito",
+      "descricao": "Neymar retorna ao Brasileiro de poker em São Paulo após faturar R$ 138 mil no circuito Camisa 10 santista entrou no torneio 1-Day High Roller, de inscrição de R$ 15 mil, no WTC São Paulo O post Neymar retorna ao Brasileiro de poker em São Paulo após faturar R$ 138 mil no circuito apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/neymar-volta-brasileiro-poker-apos-ganhar-138-mil/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/social-life-is-a-joke-f09f838f-pokerstarsbrasil-724176.jpg",
+      "data": "2026-11-21T00:53:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "1f69a39a3ca3414e366d44f223b7e862",
       "titulo": "Cianorte confirma MC Livinho como reforço e cantor vestirá a camisa 10 em 2027",
@@ -12,46 +72,6 @@
       "categoria": "PARÁ"
     },
     {
-      "id": "ed45f529ba2a0633300b0a1a86619469",
-      "titulo": "Jair Bolsonaro tem obstrução intestinal e está sendo medicado, diz Carlos",
-      "descricao": "Jair Bolsonaro tem obstrução intestinal e está sendo medicado, diz Carlos",
-      "link": "https://www.oliberal.com/politica/jair-bolsonaro-tem-obstrucao-intestinal-e-esta-sendo-medicado-diz-carlos-1.1196693",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.924304%3A1750513230%2FAGENCIAS.png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-21T00:27:25.871594+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f0b67e5831849c54cd19150025b33fb9",
-      "titulo": "Criança sofre parada cardíaca e morre após passeio em shopping",
-      "descricao": "Criança sofre parada cardíaca e morre após passeio em shopping",
-      "link": "https://www.oliberal.com/brasil/crianca-sofre-parada-cardiaca-e-morre-apos-passeio-em-shopping-1.1196691",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196695%3A1795220311%2FCaptura%2520de%2520Tela%25202026-11-20%2520a%CC%80s%252021.17.49.png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-21T00:27:25.559018+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "13e654ec10bb069703f7b22966cd1c19",
-      "titulo": "Cães e gatos podem receber vacina gratuita contra raiva neste sábado em Belém",
-      "descricao": "Mais uma ação de vacinação antirrábica estará à disposição da população de Belém neste sábado. Belém oferece vacinação antirrábica gratuita para cães e gatos neste sábado (20), em dois pontos da capital, das 8h às 16h, sem necessidade de inscrição. O post Cães e gatos podem receber vacina gratuita contra raiva neste sábado em Belém apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/belem/caes-e-gatos-podem-receber-vacina-gratuita-contra-raiva-neste-sabado-em-belem/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://diariodopara.com.br/wp-content/uploads/2023/06/vacina-antirrabica.jpg",
-      "data": "2026-11-21T00:17:12+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "856f19aa119bab6a1b7fcdfb7d4a827a",
-      "titulo": "Influenciadora tenta vaga no BBB há 20 anos, já posou ao lado de Boninho e chamou atenção de Tadeu Schmidt",
-      "descricao": "Glaudstar Rigoni tenta entrar no Big Brother Brasil há 20 anos e reúne registros das inscrições feitas ao longo desse período. Foto: Reprodução/Redes sociais. Empresária já recebeu interações de Tadeu Schmidt e Ana Furtado nas redes sociais, mas ainda espera o convite para entrar na casa mais vigiada do Brasil. O post Influenciadora tenta vaga no BBB há 20 anos, já posou ao lado de Boninho e chamou atenção de Tadeu Schmidt apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/influenciadora-tenta-vaga-no-bbb-ha-20-anos-ja-posou-ao-lado-de-boninho-e-chamou-atencao-de-tadeu-schmidt/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Glaudstar.Rigoni.mp4",
-      "data": "2026-11-21T00:00:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
       "id": "4ee2693addacec836be3385972ec35c3",
       "titulo": "Corregedoria da PM apura batida de viatura em muro de casa em Ananindeua",
       "descricao": "Corregedoria apura batida de viatura em muro de casa em Ananindeua. Divulgação A Corregedoria-Geral da Polícia Militar do Pará apura um acidente envolvendo uma viatura que bateu no muro de uma casa na madrugada desta sexta-feira (20), no conjunto Júlia Seffer, em Ananindeua. Dois policiais militares ficaram feridos e foram encaminhados ao hospital. Segundo a corporação, os agentes estariam sob efeito de álcool no momento da batida. Os nomes dos policiais e o estado de saúde deles não foram divulgados. ✅ Clique e siga o canal do g1 PA no WhatsApp Os militares integram o batalhão responsável pelo policiamento em quatro bairros de Ananindeua. A Polícia Militar informou que abriu um procedimento administrativo disciplinar para apurar o caso e responsabilizar os envolvidos. Em nota, a corporação afirmou que o caso será apurado pela Corregedoria-Geral e ressaltou que “não compactua com desvios de conduta de seus agentes”. Agora no g1 VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
@@ -59,26 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/u6dulCvklbJEz90HqMWa5mZwSCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/n/4ZkIlSR6m3pXMzJHc4eg/image-2026-11-20t194149.228.png",
       "data": "2026-11-20T22:48:18+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0ece2667795e71056d54446f0f9c5403",
-      "titulo": "Policial militar da reserva reage a assalto e baleia suspeito em Ananindeua, no Pará",
-      "descricao": "Suspeito é baleado em tentativa de assalto em Ananindeua. Reprodução Uma tentativa de assalto terminou com um suspeito baleado, na tarde desta quinta-feira (19), no bairro Atalaia, em Ananindeua. Dois homens armados, que estavam em uma motocicleta, abordaram duas pessoas na via pública. Uma das vítimas era um policial militar da reserva, que reagiu à abordagem e efetuou disparos contra os assaltantes. Um dos suspeitos foi atingido pelos tiros. Segundo informações da Polícia Civil, o homem baleado foi socorrido e encaminhado a uma unidade hospitalar. O estado de saúde dele não foi divulgado. Ele foi autuado em flagrante pela tentativa de assalto. ✅ Siga o canal do g1 Pará no WhatsApp O segundo envolvido na ação conseguiu fugir do local logo após os disparos e segue foragido. O caso foi registrado na Delegacia do Jaderlândia. A Polícia Civil informou que trabalha para identificar e localizar o suspeito que conseguiu escapar. Informações que ajudem na identificação do foragido podem ser repassadas de forma anônima pelo Disque-Denúncia 181. VÍDEOS: Veja todas as notícias do Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/20/policial-militar-da-reserva-reage-a-assalto-e-baleia-suspeito-em-ananindeua-no-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/6nDZhc_o2OdnuCcvQAs_g5mW3_0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/V/4Tgwv9Rj2wcORxORIqmw/suspeito-e-baleado-.jpeg",
-      "data": "2026-11-20T21:29:28+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "ebe352b6d087bdcb4ae5c43a535087e6",
-      "titulo": "Professor da UFPA Carlos Dergan recebe Medalha do Mérito Cultural em Belém",
-      "descricao": "Professor da UFPA Carlos Dergan recebe Medalha do Mérito Cultural em Belém",
-      "link": "https://www.oliberal.com/cultura/professor-da-ufpa-carlos-dergan-recebe-medalha-do-merito-cultural-em-belem-1.1196551",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196556%3A1795198657%2FIMG_0342%2520(1).JPEG%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-20T18:54:11.960003+00:00",
       "categoria": "PARÁ"
     }
   ]
