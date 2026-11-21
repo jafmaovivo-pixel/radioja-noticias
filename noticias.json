@@ -1,6 +1,76 @@
 {
-  "atualizado": "2026-11-21T15:44:21.544432+00:00",
+  "atualizado": "2026-11-21T21:17:25.879544+00:00",
   "noticias": [
+    {
+      "id": "bab34df5b5df489f0c1b89372df44985",
+      "titulo": "Jader Filho destaca força do MDB no Pará, apesar de derrota ao governo",
+      "descricao": "Jader Filho destaca força do MDB no Pará, apesar de derrota ao governo",
+      "link": "https://www.oliberal.com/policia/jader-filho-destaca-forca-do-mdb-no-para-apesar-de-derrota-ao-governo-1.1195415",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1195416%3A1794956323%2FFoto%2520Wagner%2520Santana.%2520_MG_0059%2520(20).JPG%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-21T21:17:22.978354+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "07e6ee5c4d4470ca4cd9e347c5999012",
+      "titulo": "El Niño, queimadas e estiagem ampliam risco à saúde no Pará",
+      "descricao": "El Niño, queimadas e estiagem ampliam risco à saúde no Pará",
+      "link": "https://www.oliberal.com/para/el-nino-queimadas-e-estiagem-ampliam-risco-a-saude-no-para-1.1195623",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1195631%3A1795022882%2FARQUIVO.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-21T21:17:22.771365+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5f84adbb2f8ccf666a0b70c6343e13db",
+      "titulo": "Pará perderá mais de R$ 150 mi com cortes da Lei Kandir em 2027, diz economista",
+      "descricao": "Pará perderá mais de R$ 150 mi com cortes da Lei Kandir em 2027, diz economista",
+      "link": "https://www.oliberal.com/economia/para-perdera-mais-de-r-150-mi-com-cortes-da-lei-kandir-em-2027-diz-economista-1.1196646",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196677%3A1795211700%2FMINERA%C3%87%C3%83O.jfif%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-21T21:17:22.343413+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "5eca1b50496513a91d2703f3d3ca0577",
+      "titulo": "Chiclete feito de feijão reduz até 93% do HPV e mais de 99% de bactérias ligadas ao câncer; entenda a descoberta",
+      "descricao": "Pesquisadores americanos desenvolveram uma goma de mascar experimental com proteína extraída do feijão-lablab, capaz de reduzir a presença do HPV e de bactérias associadas ao câncer de boca e garganta em testes laboratoriais. Goma com proteína do feijão reduziu até 93% das partículas do HPV em amostras de saliva, mas os testes foram feitos só em laboratório. O post Chiclete feito de feijão reduz até 93% do HPV e mais de 99% de bactérias ligadas ao câncer; entenda a descoberta apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/dr-responde/chiclete-feito-de-feijao-reduz-ate-93-do-hpv-e-mais-de-99-de-bacterias-ligadas-ao-cancer-entenda-a-descoberta/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Goma-de-feijao-contra-HPV.png",
+      "data": "2026-11-21T21:15:00+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "782562de2c1e2237db3caae0826d8c94",
+      "titulo": "Remo retorna a Belém após problema em avião e pede mudança de jogo",
+      "descricao": "1. Às vésperas de decisão contra o rebaixamento, Remo enfrenta problema em voo Foto: Samara Miranda/ascom Remo Problema técnico em voo fretado fez o Remo retornar a Belém antes de viajar a Curitiba. O clube pediu à CBF a alteração do jogo contra o Athletico-PR. O post Remo retorna a Belém após problema em avião e pede mudança de jogo apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/remo-retorna-a-belem-apos-problema-em-aviao-e-pede-mudanca-de-jogo/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_920281431_1646173653714912_5099248059261037475_n.jpg",
+      "data": "2026-11-21T21:05:36+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "c74a14a6c8b965ef7106cec2e24ce622",
+      "titulo": "Obra da COP 30, Centro de Inovação em Bioeconomia é entregue em Belém um ano após a conferência",
+      "descricao": "Centro de Inovação em Bioeconomia é entregue em Belém. João Caio A Prefeitura de Belém entregou, na quinta-feira (19), a sede do Distrito de Inovação em Bioeconomia (DIB), no Casarão Higson, no Largo das Mercês, no bairro da Campina. A entrega ocorreu após mais de dois anos de obras e depois do prazo previsto para a conclusão, em agosto de 2025, antes da COP 30. Segundo a prefeitura, o prédio estava abandonado havia cerca de dez anos. Com a restauração, o Centro de Inovação em Bioeconomia passou a contar com salas e equipamentos para atividades de empreendedorismo, pesquisa, inovação e desenvolvimento de negócios sustentáveis. ✅ Clique e siga o canal do g1 PA no WhatsApp A proposta é estimular a bioeconomia e a economia criativa, com incentivo a novos negócios no centro histórico da capital paraense. Obra deveria ter sido concluída antes da COP 30 De acordo com o levantamento da série do g1 que acompanhou as obras da COP 30, a intervenção começou em julho de 2024, com previsão de término em agosto de 2025. A entrega ocorreu depois da conferência, realizada em novembro de 2025. Veja a sequência: Julho de 2024: início das obras; Agosto de 2025: prazo previsto para a conclusão; Novembro de 2025: realização da COP 30; Novembro de 2026: entrega da sede pela prefeitura. Inicialmente, a Prefeitura de Belém informou ao g1 um orçamento de R$ 12 milhões. Depois, a Itaipu informou o valor de R$ 20 milhões. O custo final informado foi de mais de R$ 7 milhões. O que mudou no Casarão Higson? Antes da restauração, o imóvel apresentava goteiras, infiltrações, vazamentos, danos na estrutura e instalações elétricas comprometidas. Centro de Inovação em Bioeconomia é entregue em Belém um ano após a conferência. João Caio A intervenção incluiu a recuperação das áreas danificadas, a renovação das instalações e a preservação de elementos antigos que fazem parte das características arquitetônicas do casarão. Entre os serviços executados estão: recuperação da estrutura, dos pisos e das esquadrias antigas; renovação dos revestimentos, emassamento das paredes e pintura dos ambientes; implantação da infraestrutura elétrica; instalação de climatização, câmeras de monitoramento e rede lógica; instalação de equipamentos hidráulicos, caixas d’água e bombas; implantação de sistema de prevenção e combate a incêndios. O depósito recebeu revestimento cerâmico, e os ambientes foram equipados com mobiliário para as atividades previstas no local. Na véspera da COP 30, obras seguem inacabadas O casarão tem 16 salas, três ambientes no térreo e um salão amplo, além de banheiros femininos e masculinos em todos os andares. Os espaços foram preparados para receber empreendedores, pesquisadores e equipes de projetos. A estrutura permitirá o desenvolvimento de trabalhos, a realização de encontros e a criação de soluções ligadas a negócios sustentáveis. SÉRIE OBRAS DA COP: A 100 dias da COP 30 A 200 dias da COP 30 500 dias para a COP 30 Belém chega à COP com 28 obras entregues VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/21/obra-da-cop-30-centro-de-inovacao-em-bioeconomia-e-entregue-em-belem-um-ano-apos-a-conferencia.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/-bbp0YvldTgqeuSTB9dCe7LyRw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/e/AAwgTBRrSqAgtR7BEC6Q/entrega-do-centro-de-inovacao-joao-caio-1-2048x1365.jpg",
+      "data": "2026-11-21T19:23:26+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "3fef247fa24d7921b950be0fa9b344b5",
+      "titulo": "Primeiro cruzeiro da temporada chega a Belém com mais de 1,2 mil pessoas a bordo",
+      "descricao": "Cruzeiro chega a Belém com 1.200 turistas O primeiro navio de cruzeiro da temporada 2026/2027 chegou a Belém na manhã deste sábado (21), com 1.225 pessoas a bordo, entre passageiros e tripulantes. A embarcação Vasco da Gama, de bandeira portuguesa, atracou no Terminal Portuário de Outeiro, após partir de Cabo Verde, na África. Segundo a Companhia Docas do Pará (CDP), o navio transporta 760 passageiros e 465 tripulantes. Com 219,4 metros de comprimento e 30,8 metros de largura, a embarcação é a primeira da temporada a atracar no terminal após a realização da COP30, em novembro de 2025. O cruzeiro permanecerá em Belém até domingo (22), quando seguirá viagem para Macapá, no Amapá, com previsão de chegada na terça-feira (24). Durante a parada na capital paraense, os turistas terão a oportunidade de conhecer atrativos culturais e naturais da cidade. Entre os passageiros está a austríaca Doris Dolear, que visita o Brasil pela segunda vez. Depois de conhecer São Paulo e Rio de Janeiro na primeira viagem, ela escolheu a região amazônica como destino. \"Para mim, o Brasil é o melhor! Os brasileiros são os melhores. Tive uma experiência ótima e voltei. É maravilhoso estar em uma região com rios tão grandes. A Amazônia é incrível\", contou a turista. Movimentação no Porto de Outeiro Além de receber navios de turismo, o Terminal Portuário de Outeiro também opera embarcações de carga. Segundo a CDP, entre janeiro e outubro de 2026, o terminal recebeu 149 embarcações de carga, um aumento de 96% em relação ao mesmo período de 2025, quando foram registradas 76. Para o gerente da Guarda Portuária da CDP, Jonathan Leal, a chegada do primeiro cruzeiro da temporada demonstra a capacidade do terminal de atender diferentes tipos de operação. \"Estamos recebendo o primeiro navio de cruzeiro da temporada 2026/2027, o que mostra que a CDP tem um porto multimodal, preparado para receber tanto cargas quanto navios de turismo\", afirmou. O administrador do Terminal Portuário de Outeiro, Amiraldo Júnior, também destacou a utilização da estrutura para receber turistas. \"Estamos aqui para fazer com que o porto seja mais uma oportunidade para o Brasil e para o turismo\", disse. A passagem do Vasco da Gama marca o início da nova temporada de cruzeiros no terminal, com a chegada de visitantes estrangeiros à capital paraense. ✅ Clique e siga o canal do g1 PA no WhatsApp Agora no g1 VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/21/primeiro-cruzeiro-da-temporada-chega-a-belem-com-mais-de-12-mil-pessoas-a-bordo.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/kYwIoVFiLvenG7CvrskjTooOkms=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/97/93/15269397",
+      "data": "2026-11-21T16:26:28+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "bb1da4a046361a9d48a80df79795ac39",
       "titulo": "FAB inicia uso do avião KC-390 a partir de Santarém no combate a incêndio",
@@ -9,76 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196771%3A1795273275%2FWhatsApp%2520Image%25202026-11-21%2520at%252010.10.59.jpeg%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-21T15:44:20.006540+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7176e3aea1e91aec8d1bb50c2e3da67d",
-      "titulo": "Re-Pa de boxe agita o Ver-o-Peso na manhã deste sábado",
-      "descricao": "Re-Pa de boxe agita o Ver-o-Peso na manhã deste sábado",
-      "link": "https://www.oliberal.com/esportes/re-pa-de-boxe-agita-o-ver-o-peso-na-manha-deste-sabado-1.1196772",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196775%3A1795274382%2Fboxe%2520no%2520ver%2520o%2520peso%2520(2).jpeg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-21T15:44:19.568492+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "0b156c561eb24408fb4c9eec9dd39ac7",
-      "titulo": "Lula: falei para Putin, Trump e Xi para se reunirem; por coincidência ou não, eles se reuniram",
-      "descricao": "Lula: falei para Putin, Trump e Xi para se reunirem; por coincidência ou não, eles se reuniram",
-      "link": "https://www.oliberal.com/politica/lula-falei-para-putin-trump-e-xi-para-se-reunirem-por-coincidencia-ou-nao-eles-se-reuniram-1.1196779",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.924304%3A1750513230%2FAGENCIAS.png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-21T15:44:19.239212+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d8271cd43a8014112f6fe042fabfe43f",
-      "titulo": "Mais de 400 tracajás são resgatados da lama após lago secar durante estiagem no Pará",
-      "descricao": "Filhotes de tracajás sendo devolvidos à naturez Liam Cavalcante/Rede Amazônica Mais de 400 tracajás foram resgatados após ficarem presos na lama de um lago que secou durante a forte estiagem em Porto de Moz, no sudoeste do Pará. A operação foi realizada pelo Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), com apoio de moradores da comunidade Primavera, no rio Guajará, dentro da Reserva Extrativista Verde para Sempre. O trabalho durou dois dias e incluiu a retirada e a soltura dos animais em uma área com maior quantidade de água. O lago, que antes servia como ponto de reprodução dos quelônios, ficou completamente seco em alguns trechos, deixando o solo rachado. Sem água suficiente para se deslocar, tracajás adultos e filhotes ficaram presos na lama. Moradores da comunidade já tentavam salvar os animais desde que o nível da água começou a baixar. Com a chegada da equipe do ICMBio, o trabalho de resgate foi intensificado. Para retirar os tracajás, foi necessário escavar a lama. Depois, os animais foram transportados de barco até outro ponto, onde havia mais água e melhores condições de sobrevivência. A operação terminou com a soltura dos quelônios. Estiagem afeta comunidades e dificulta navegação A seca também tem provocado dificuldades para as famílias que vivem na Reserva Extrativista Verde para Sempre. Cerca de 30% da área da unidade de conservação é formada por várzea, ambiente diretamente afetado pela redução do nível das águas. Em diferentes comunidades ribeirinhas de Porto de Moz, a estiagem tem dificultado o deslocamento de moradores que dependem dos rios para circular entre as localidades. Para tentar manter a navegação, a Prefeitura de Porto de Moz realiza serviços emergenciais de escavação de canais e retirada de material do leito dos rios. Uma das frentes de trabalho ocorre no Canal da Liberdade, no rio Guajará. No local, uma máquina instalada sobre uma balsa retira sedimentos para permitir a passagem de pequenas embarcações. As intervenções buscam garantir a circulação de canoas e voadeiras utilizadas pelas famílias nas áreas mais atingidas pela estiagem. Além das dificuldades de transporte enfrentadas pelos moradores, o resgate dos tracajás evidencia os impactos da redução do nível das águas sobre a fauna da reserva, onde a seca deixou animais presos em uma área que antes era utilizada para reprodução. ✅ Clique e siga o canal do g1 PA no WhatsApp Agora no g1 VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/21/mais-de-400-tracajas-sao-resgatados-da-lama-apos-lago-secar-durante-estiagem-no-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/M1wGMaclomcs6nvlqG7K1F1_81Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/O/hAAzacQQCDAgOBxS3lJA/whatsapp-image-2026-03-30-at-17.26.30-1-.jpeg",
-      "data": "2026-11-21T15:14:31+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "68a5c0aa2cf36abee99749ba5bfc688b",
-      "titulo": "Comércio de Belém projeta crescimento de até 5% nas vendas de produtos natalinos em 2026",
-      "descricao": "Fiscais do Imetropará verificam brinquedos e itens natalinos à venda no comércio de Belém Divulgação/Agência Pará A pouco mais de um mês do Natal, o comércio de Belém já registra movimentação de consumidores em busca de produtos natalinos. Lojistas do centro comercial anteciparam a oferta de mercadorias para a data, e a Câmara de Dirigentes Lojistas de Belém (CDL Belém) projeta crescimento de 3% a 5% nas vendas em 2026, em comparação com o mesmo período do ano passado. Com a proximidade das festas de fim de ano, estabelecimentos comerciais já oferecem produtos voltados à decoração natalina. A antecipação das vendas é uma das estratégias dos lojistas para atrair consumidores e ampliar o período de comercialização dos itens. Entre as apostas dos comerciantes estão promoções, preços competitivos e reforço dos estoques para atender à procura por produtos natalinos. Expectativa de crescimento nas vendas Segundo a CDL Belém, a projeção é de que as vendas cresçam entre 3% e 5% em relação ao mesmo período de 2025. A expectativa de aumento nas vendas também é compartilhada por comerciantes do centro de Belém, que se preparam para atender à demanda das próximas semanas. Com a chegada de dezembro, a movimentação nas lojas será um dos indicadores para avaliar se o desempenho do comércio natalino vai corresponder às projeções do setor. ✅ Clique e siga o canal do g1 PA no WhatsApp Agora no g1 VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/21/comercio-de-belem-projeta-crescimento-de-ate-5percent-nas-vendas-de-produtos-natalinos-em-2026.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/X-_L0d_ns-iYJM6djzqm7gOMf-k=/s.glbimg.com/jo/g1/f/original/2016/12/06/agecnia2.jpg",
-      "data": "2026-11-21T15:11:14+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "727a951720269e43d53937ca84638189",
-      "titulo": "Fim da escala 6×1: supermercados Líder reduzem horários e encerram atendimento 24 horas no Pará",
-      "descricao": "Unidades do Supermercado Líder em Castanhal alteram horários de funcionamento após aprovação do fim da escala 6x1, provocando discussões sobre direitos trabalhistas, atendimento aos consumidores e possíveis demissões. Duas lojas do Grupo Líder em Castanhal reduziram horários após a aprovação do fim da escala 6x1, mas a empresa não confirma relação direta com a nova legislação. O post Fim da escala 6×1: supermercados Líder reduzem horários e encerram atendimento 24 horas no Pará apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/para/fim-da-escala-6x1-supermercados-lider-reduzem-horarios-e-encerram-atendimento-24-horas-no-para/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Fachada-do-Supermercado-Lider-ao-Entardecer.png",
-      "data": "2026-11-21T15:00:02+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "3d23def0712ee8704e87c440229c8812",
-      "titulo": "Copa Feminina de 2027 ignora o Norte e provoca revolta de Helder Barbalho: “O Brasil tem cinco regiões, não quatro!”",
-      "descricao": "Helder Barbalho criticou a ausência de Belém e de toda a Região Norte entre as oito sedes da Copa do Mundo Feminina de 2027, questionando a falta de representatividade regional no torneio. Senador eleito pelo Pará, Helder Barbalho criticou a ausência de Belém e de outras capitais do Norte entre as oito sedes da Copa do Mundo Feminina de 2027. O post Copa Feminina de 2027 ignora o Norte e provoca revolta de Helder Barbalho: “O Brasil tem cinco regiões, não quatro!” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/copa-feminina-de-2027-ignora-o-norte-e-provoca-revolta-de-helder-barbalho-o-brasil-tem-cinco-regioes-nao-quatro/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Exclusao-do-Norte-na-Copa-Feminina-2027-1.png",
-      "data": "2026-11-21T14:10:53+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "c9ebbc5e596920869ec6e69555dd611d",
-      "titulo": "Haiti chega a acordo com El Salvador para construir novas prisões após a visita do ministro",
-      "descricao": "Haiti chega a acordo com El Salvador para construir novas prisões após a visita do ministro",
-      "link": "https://www.oliberal.com/mundo/haiti-chega-a-acordo-com-el-salvador-para-construir-novas-prisoes-apos-a-visita-do-ministro-1.1196700",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196705%3A1795225362%2FCaptura%2520de%2520Tela%25202026-11-20%2520a%CC%80s%252022.42.31.png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-21T07:31:41.218769+00:00",
       "categoria": "PARÁ"
     }
   ]
