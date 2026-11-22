@@ -1,6 +1,56 @@
 {
-  "atualizado": "2026-11-22T16:29:21.599124+00:00",
+  "atualizado": "2026-11-22T21:55:54.963879+00:00",
   "noticias": [
+    {
+      "id": "9112faac05cda906bf825d2e709113fa",
+      "titulo": "Staff de Jajá reúne com diretoria do Athletico para avançar em negociação",
+      "descricao": "Staff de Jajá reúne com diretoria do Athletico para avançar em negociação",
+      "link": "https://www.oliberal.com/esportes/remo/staff-de-jaja-reune-com-diretoria-do-athletico-para-avancar-em-negociacao-1.1197099",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1188111%3A1793234639%2FWhatsApp%2520Image%25202026-10-28%2520at%252021.40.39.jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-22T21:55:52.805066+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "4905f71232662603619344ae260dad44",
+      "titulo": "Cesta de basquete danificada preocupa frequentadores do Parque 25, em Belém",
+      "descricao": "Cesta de basquete danificada preocupa frequentadores do Parque 25, em Belém",
+      "link": "https://www.oliberal.com/belem/cesta-de-basquete-danificada-preocupa-frequentadores-do-parque-25-em-belem-1.1197163",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1197164%3A1795382369%2FWhatsApp%2520Image%25202026-11-22%2520at%252018.18.36.jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-22T21:55:52.482944+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "54b1076860d0289e44c1776d1419bc0a",
+      "titulo": "Cruzeiro joga em ritmo de treino e vence por 2 a 1 a lanterna Chapecoense",
+      "descricao": "Cruzeiro joga em ritmo de treino e vence por 2 a 1 a lanterna Chapecoense",
+      "link": "https://www.oliberal.com/esportes/cruzeiro-joga-em-ritmo-de-treino-e-vence-por-2-a-1-a-lanterna-chapecoense-1.1197175",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-22T21:55:52.107616+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6906e6c7dd149c43ab1d6efc32008fc6",
+      "titulo": "Bole Bole abre preparação para o Carnaval 2027 com ensaio de rua no Guamá",
+      "descricao": "Bole Bole realiza primeiro ensaio de rua para o Carnaval 2027 no Guamá. Fotos: Celso Rodrigues Associação Carnavalesca Bole Bole realizou o primeiro ensaio de rua de 2027 no Guamá, em Belém, com samba-enredo, bateria e show do Grupo Só Prazer. O post Bole Bole abre preparação para o Carnaval 2027 com ensaio de rua no Guamá apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/voce/bole-bole-abre-preparacao-para-o-carnaval-2027-com-ensaio-de-rua-no-guama/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/IMG-20261122-WA0040.jpg",
+      "data": "2026-11-22T21:46:33+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9c2d0a4093b08fbdabc7dd8859a64c3b",
+      "titulo": "Quanto o Remo vai receber na Série B? Veja o impacto da queda no cofre do Leão",
+      "descricao": "O Remo apanhou feio do Palmeiras. Foto: Cesar Greco/Palmeiras/by Canon Rebaixado para a Série B, o Remo terá de rever o planejamento financeiro: gastos de R$ 5,5 milhões mensais superam em muito a cota prevista de R$ 14,9 milhões. O post Quanto o Remo vai receber na Série B? Veja o impacto da queda no cofre do Leão apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/bola/quanto-o-remo-vai-receber-na-serie-b-veja-o-impacto-da-queda-no-cofre-do-leao/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/05112026_cg_palmeiras_destaque_0312_32.png",
+      "data": "2026-11-22T21:45:00+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "7a2f46b2183f1d3499b62f76b8381aa2",
       "titulo": "Árvore da castanha-do-pará entra na lista de espécies ameaçadas de extinção",
@@ -9,46 +59,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1197036%3A1795363593%2F15273_a300dad3-6cd2-5b24-2fea-6417fad8076c.jpg%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-22T16:29:20.501113+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5e36812418bc7102f325776bf79079f4",
-      "titulo": "Messi dá bolada em adversário durante derrota do Inter Miami",
-      "descricao": "Messi dá bolada em adversário durante derrota do Inter Miami",
-      "link": "https://www.oliberal.com/esportes/messi-da-bolada-em-adversario-durante-derrota-do-inter-miami-1.1197037",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1197038%3A1795364422%2FCaptura%2520de%2520tela%25202026-11-22%2520132014.png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-22T16:29:20.230255+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d6a9bda18ec8af166ecc240701f54f9a",
-      "titulo": "Incêndio atingiu área de mata em Vila do Conde, em Barcarena",
-      "descricao": "Incêndio atingiu área de mata em Vila do Conde, em Barcarena",
-      "link": "https://www.oliberal.com/policia/incendio-atingiu-area-de-mata-em-vila-do-conde-em-barcarena-1.1197039",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1197040%3A1795364743%2Fioncendio-vila-do-conde.png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-22T16:29:19.959096+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "783e7a9624f0ee61add59bf4e5f58798",
-      "titulo": "Eliana completa 54 anos e vive em mansão de R$ 7,7 milhões; conheça o patrimônio da apresentadora",
-      "descricao": "Eliana completa 54 anos neste domingo (22) e possui fortuna estimada em mais de R$ 140 milhões, incluindo imóveis de luxo em São Paulo e no Rio de Janeiro. Fotos: Reprodução/Instagram Com fortuna estimada em mais de R$ 140 milhões, a comunicadora possui imóveis em São Paulo e no Rio de Janeiro e investe em negócios fora da televisão. O post Eliana completa 54 anos e vive em mansão de R$ 7,7 milhões; conheça o patrimônio da apresentadora apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/eliana-completa-54-anos-e-vive-em-mansao-de-r-77-milhoes-conheca-o-patrimonio-da-apresentadora/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Eliana-2.jpg",
-      "data": "2026-11-22T16:18:41+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7fbd6cd2ef20cb29fc4c426ed0aeaa72",
-      "titulo": "Rebeca Andrade aparece em clima de romance e se declara para empresária após beijo: “Te amo”",
-      "descricao": "A ginasta Rebeca Andrade compartilhou um registro de carinho com Gisele Paulino, acompanhado da declaração “Te amo”. Foto: Reprodução/Instagram. Ginasta compartilhou registro abraçada com Gisele Paulino, que escreveu “Te amo” na publicação; relação ainda não foi confirmada oficialmente O post Rebeca Andrade aparece em clima de romance e se declara para empresária após beijo: “Te amo” apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/entretenimento/rebeca-andrade-aparece-em-clima-de-romance-e-se-declara-para-empresaria-apos-beijo-te-amo/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/DIARIO-1320x768-1-10.png",
-      "data": "2026-11-22T16:17:15+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -69,16 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/eUV7UZcBfG1wtTXe60D6mvWF_k8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/4/ktIqf3QEOTM8n604Yizw/e5c25c86-28e2-4934-94d8-c211ff056f06.jpeg",
       "data": "2026-11-22T13:45:40+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "99486b1442c9b05b9cf6bcbb3cf5af24",
-      "titulo": "Cruzeiro derrota a Chapecoense e conquista a sexta vitória seguida no Brasileiro",
-      "descricao": "Cruzeiro derrota a Chapecoense e conquista a sexta vitória seguida no Brasileiro",
-      "link": "https://www.oliberal.com/esportes/cruzeiro-derrota-a-chapecoense-e-conquista-a-sexta-vitoria-seguida-no-brasileiro-1.1196913",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-22T08:24:39.372258+00:00",
       "categoria": "PARÁ"
     }
   ]
