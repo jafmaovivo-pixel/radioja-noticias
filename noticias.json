@@ -1,6 +1,46 @@
 {
-  "atualizado": "2026-11-22T01:27:02.833935+00:00",
+  "atualizado": "2026-11-22T08:24:42.201304+00:00",
   "noticias": [
+    {
+      "id": "99486b1442c9b05b9cf6bcbb3cf5af24",
+      "titulo": "Cruzeiro derrota a Chapecoense e conquista a sexta vitória seguida no Brasileiro",
+      "descricao": "Cruzeiro derrota a Chapecoense e conquista a sexta vitória seguida no Brasileiro",
+      "link": "https://www.oliberal.com/esportes/cruzeiro-derrota-a-chapecoense-e-conquista-a-sexta-vitoria-seguida-no-brasileiro-1.1196913",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-22T08:24:39.372258+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "e50f8d0cfe386d5f284baeece85d7eae",
+      "titulo": "Paredes passa mal e desmaia durante entrevista após título da Copa Sul-Americana",
+      "descricao": "Paredes passa mal e desmaia durante entrevista após título da Copa Sul-Americana",
+      "link": "https://www.oliberal.com/esportes/paredes-passa-mal-e-desmaia-durante-entrevista-apos-titulo-da-copa-sul-americana-1.1196914",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-22T08:24:39.187940+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6b7375d799a381d947be8834949ae575",
+      "titulo": "Vice do Atlético na Copa Sul-Americana acaba com chances de G-9 no Brasileirão; entenda",
+      "descricao": "Vice do Atlético na Copa Sul-Americana acaba com chances de G-9 no Brasileirão; entenda",
+      "link": "https://www.oliberal.com/esportes/vice-do-atletico-na-copa-sul-americana-acaba-com-chances-de-g-9-no-brasileirao-entenda-1.1196915",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-22T08:24:39.006219+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "cb8173da2ffd581c8a226767a2ba2c66",
+      "titulo": "Previsão do tempo hoje para Belém (PA): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+      "descricao": "Previsão do tempo hoje em Belém g1 A previsão do tempo para este domingo (22) para Belém (PA) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 36ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol e chuva. À noite, pancadas de chuva. Previsão do tempo para amanhã em Belém, segunda (23) Para esta segunda (23), a previsão é de sol e muitas nuvens à tarde. À noite o céu ainda fica com muita nebulosidade, mas não chove. Veja a previsão do tempo para os próximos dias em Belém (PA). Previsão do tempo nos próximos 8 dias em Belém g1 📱Baixe o app do g1 para ver notícias em tempo real e de graça. As informações são da Climatempo. Encontrou algum erro nestas informações? Escreva para o g1. Esta reportagem foi produzida de modo automático com dados fornecidos pela Climatempo. Clique aqui para saber mais. Se houver novas informações relevantes, a reportagem pode ser atualizada. Se você perceber algum erro nas informações desta reportagem, por favor nos informe por meio do formulário disponível neste link.",
+      "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/11/22/previsao-do-tempo-hoje-para-belem-pa-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/rQ7at7CRZILMq44nBVl7OPBklT8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/P/uEFiojRuOVt7dzsgqIyA/previsao-tempo-bel-m-20261122-010212.jpeg",
+      "data": "2026-11-22T04:02:31+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "c7b6a20cccd5a3c311ee8c81350c9a61",
       "titulo": "Mototaxista é morto a facadas após deixar esposa de suspeito em Santarém",
@@ -9,26 +49,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1196906%3A1795307826%2Fhomicidio%2520santar%C3%A9m.JPG%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-22T01:26:59.603734+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "26d13fa504e4f8e5b77a0c63fb910829",
-      "titulo": "Atlético-MG perde para o Boca Juniors e amarga o vice-campeonato na Copa Sul-Americana",
-      "descricao": "Atlético-MG perde para o Boca Juniors e amarga o vice-campeonato na Copa Sul-Americana",
-      "link": "https://www.oliberal.com/esportes/atletico-mg-perde-para-o-boca-juniors-e-amarga-o-vice-campeonato-na-copa-sul-americana-1.1196907",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-22T01:26:59.304006+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "7fb7a207ba258ebf572ea17a3fc121cf",
-      "titulo": "Reino Unido adere à iniciativa da Otan para agilizar lançamentos de satélites",
-      "descricao": "Reino Unido adere à iniciativa da Otan para agilizar lançamentos de satélites",
-      "link": "https://www.oliberal.com/mundo/reino-unido-adere-a-iniciativa-da-otan-para-agilizar-lancamentos-de-satelites-1.1196908",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.924304%3A1750513230%2FAGENCIAS.png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-22T01:26:59.114380+00:00",
       "categoria": "PARÁ"
     },
     {
@@ -59,26 +79,6 @@
       "fonte": "G1",
       "imagem": "https://s2-g1.glbimg.com/GYQaaVVrM2ZgsEhLJwO23auAL1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/h/TBrqBoSXyd9zA1WwAiAw/image-2026-11-21t200743.206.png",
       "data": "2026-11-21T23:02:59+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bab34df5b5df489f0c1b89372df44985",
-      "titulo": "Jader Filho destaca força do MDB no Pará, apesar de derrota ao governo",
-      "descricao": "Jader Filho destaca força do MDB no Pará, apesar de derrota ao governo",
-      "link": "https://www.oliberal.com/policia/jader-filho-destaca-forca-do-mdb-no-para-apesar-de-derrota-ao-governo-1.1195415",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1195416%3A1794956323%2FFoto%2520Wagner%2520Santana.%2520_MG_0059%2520(20).JPG%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-21T21:17:22.978354+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "2d95f83f6420ed9730686d6206e8dcb7",
-      "titulo": "Tiroteio durante perseguição policial assusta pessoas em cruzamento de Belém",
-      "descricao": "Tiroteio durante perseguição policial assusta pessoas em cruzamento de Belém Um tiroteio deixou um suspeito de roubo e uma pessoa que passava pelo local baleados na tarde deste sábado (21), no cruzamento da avenida Independência com o elevado da Augusto Montenegro, em Belém. Os dois foram encaminhados para atendimento médico. Vídeos divulgados nas redes sociais registraram mais de dez disparos enquanto pessoas e veículos passavam pelo cruzamento. Duas testemunhas relataram ter visto correria em frente a uma escola particular e ouvido muitos tiros. ✅ Clique e siga o canal do g1 PA no WhatsApp Segundo a polícia, os disparos ocorreram após uma tentativa de roubo. Dois suspeitos fugiram, e um deles foi detido por populares. Imagens mostram quando o outro suspeito, de camisa vermelha e calça preta, corre com uma arma pela avenida Augusto Montenegro. Durante a fuga, ele tenta entrar em um carro. Tiroteio durante perseguição policial assusta pessoas em cruzamento de Belém. Reprodução/Redes sociais Policiais começam a atirar na direção dele enquanto pessoas e veículos passam pelo local. Ele é atingido, se abaixa e entrega a arma. Os policiais se aproximam e fazem a prisão. Uma outra pessoa foi baleada, mas não tinha envolvimento com a ocorrência e foi encaminhado para atendimento médico. A Polícia Civil informou que dois homens foram apresentados pela Polícia Militar à Seccional da Marambaia, onde foram autuados em flagrante por roubo. O material apreendido foi entregue na unidade policial e será periciado. VÍDEOS: veja todas as notícias do Pará Confira outras notícias do estado no g1 PA",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/21/tiroteio-durante-perseguicao-policial-assusta-pessoas-em-cruzamento-de-belem.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/_tlncm59S88AnJQpir3aNVBibgA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/E/kK3z6HQ8GoIciqOBH31w/179529590417189.jpg",
-      "data": "2026-11-21T21:15:49+00:00",
       "categoria": "PARÁ"
     }
   ]
