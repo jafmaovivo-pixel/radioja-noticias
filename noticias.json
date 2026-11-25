@@ -1,6 +1,76 @@
 {
-  "atualizado": "2026-11-25T01:57:46.350429+00:00",
+  "atualizado": "2026-11-25T20:17:34.411493+00:00",
   "noticias": [
+    {
+      "id": "a50091dd9a69f784cd32340e9f92ad70",
+      "titulo": "Brasil busca representante argentino alternativo a Milei para a posse de Lula, diz Celso Amorim",
+      "descricao": "Brasil busca representante argentino alternativo a Milei para a posse de Lula, diz Celso Amorim",
+      "link": "https://www.oliberal.com/politica/brasil-busca-representante-argentino-alternativo-a-milei-para-a-posse-de-lula-diz-celso-amorim-1.1198248",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.671711%3A1682126422%2FTomaz%2520Silva%2520Ag%C3%AAncia%2520Brasil.png%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-25T20:17:32.911780+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "6538982fe8fe509c1db981e9c60fc5d8",
+      "titulo": "Empresário morto em Castanhal: Justiça solta sócio apontado como mandante",
+      "descricao": "Empresário morto em Castanhal: Justiça solta sócio apontado como mandante",
+      "link": "https://www.oliberal.com/policia/empresario-morto-em-castanhal-justica-solta-socio-apontado-como-mandante-1.1198252",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1198253%3A1795636697%2FWhatsApp%2520Image%25202026-11-25%2520at%252016.56.23.jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-25T20:17:32.763533+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "988055868fffcae87d62ac67d637ed0a",
+      "titulo": "Marcelinho vira dúvida no Remo para duelo contra o São Paulo",
+      "descricao": "Marcelinho vira dúvida no Remo para duelo contra o São Paulo",
+      "link": "https://www.oliberal.com/esportes/remo/marcelinho-vira-duvida-no-remo-para-duelo-contra-o-sao-paulo-1.1198250",
+      "fonte": "O Liberal",
+      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1178520%3A1791416388%2FWhatsApp%2520Image%25202026-10-07%2520at%252020.19.38.jpeg%3Ff%3D187%3A100%26w%3D1200",
+      "data": "2026-11-25T20:17:32.499038+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "fa2f87f8602cfaefbf2c6702b0e37fb2",
+      "titulo": "Caixa ganha concorrente: Itaú entra no Minha Casa, Minha Vida para renda de até R$ 12 mil",
+      "descricao": "O Itaú Unibanco confirmou sua entrada nas operações de financiamento habitacional do Minha Casa, Minha Vida, inicialmente para clientes enquadrados na Faixa 3 e na modalidade Pró-Cotista. A iniciativa amplia a concorrência com a Caixa Econômica Federal e poderá beneficiar interessados na aquisição da casa própria em 2027. Itaú Unibanco confirmou que financiará imóveis pelo Minha Casa, Minha Vida, inicialmente na Faixa 3 e no Pró-Cotista, com contratação gradual e sem cronograma regional. O post Caixa ganha concorrente: Itaú entra no Minha Casa, Minha Vida para renda de até R$ 12 mil apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/seu-bolso/caixa-ganha-concorrente-itau-entra-no-minha-casa-minha-vida-para-renda-de-ate-r-12-mil/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Disputa-de-Financiamento-Habitacional-1.png",
+      "data": "2026-11-25T20:12:11+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "9084980a8cadcb0bc6a068df0e5e71ca",
+      "titulo": "Parece decoração, mas é sobremesa! Aprenda a fazer bolo de vidro ‘Glass Cake’",
+      "descricao": "Bolo de vidro impressiona pela aparência! Aprenda a fazer glass cake, o bolo de vidro com camada transparente de gelatina, frutas e recheio. Confira ingredientes e modo de preparo. O post Parece decoração, mas é sobremesa! Aprenda a fazer bolo de vidro ‘Glass Cake’ apareceu primeiro em Diário do Pará .",
+      "link": "https://diariodopara.com.br/entretenimento/receitas/parece-decoracao-mas-e-sobremesa-aprenda-a-fazer-bolo-de-vidro-glass-cake/",
+      "fonte": "Diário do Pará",
+      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/social-bolo-de-vidro-727956.jpg",
+      "data": "2026-11-25T20:04:13+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "79b2829d51c975b9736b8fc081317e90",
+      "titulo": "VÍDEO: Grupo armado em três motos assalta moradores na porta de casa em Marituba, no Pará",
+      "descricao": "Moradores são assaltados na porta de casa por grupo armado em Marituba Seis homens armados em três motocicletas realizaram um arrastão contra moradores que estavam na porta de casa na noite de terça-feira (24), no bairro Pedreirinha, em Marituba, Região Metropolitana de Belém. (Veja o vídeo acima). O crime ocorreu por volta das 22h e foi registrado por câmeras de segurança, que flagraram o momento em que os suspeitos abordam as vítimas. ✅ Siga o canal do g1 Pará no WhatsApp Ao perceber a aproximação do trio de motocicletas, um homem que estava na calçada tenta correr para fugir do assalto, mas é alcançado pelos criminosos. No vídeo, é possível ver os assaltantes levando os pertences das pessoas que estavam na via pública. Após a ação, que durou poucos minutos, o grupo fugiu. Em nota, a Polícia Civil informou que foi comunicada pela Polícia Militar sobre a ocorrência e até o momento, não houve registro formal de vítimas sobre o caso. A PC destacou ainda que policiais da Delegacia de Marituba foram ao local para buscar informações, identificar as vítimas e investigar o assalto. Moradores são assaltados na porta de casa por grupo armado, em Marituba, Região Metropolitana de Belém. Reprodução VÍDEOS com as principais notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/25/video-grupo-armado-em-tres-motos-assalta-moradores-na-porta-de-casa-em-marituba-no-para.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/NMOtgLxLZOitOoRoJyy8_ToSOvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/t/JjnoNXRvGwBNbUosFKXg/arrastao-marituba.jpg",
+      "data": "2026-11-25T19:54:06+00:00",
+      "categoria": "PARÁ"
+    },
+    {
+      "id": "35fb3ac81a7827dd1a83350bf609c313",
+      "titulo": "Homem é preso em flagrante por furto de fios elétricos e placa na Nova Doca, em Belém",
+      "descricao": "Homem é preso em flagrante por furtar fios elétricos e placa, em Belém Um homem foi preso em flagrante na madrugada desta quarta-feira (25), suspeito de furtar cabos da rede elétrica e uma placa de sinalização de trânsito no Parque Linear da Nova Doca, em Belém. A ação foi registrada em tempo real pelas câmeras do Sistema Integrado de Monitoramento (SIM) da Guarda Municipal de Belém (GMB). Ao identificarem a movimentação suspeita, os operadores do sistema acionaram uma guarnição que realizava patrulhamento na região. ✅ Siga o canal do g1 Pará no WhatsApp Os guardas municipais abordaram o suspeito e efetuaram a prisão. Com ele, foram recuperados os cabos de iluminação pública e a placa de trânsito. Após a abordagem, o homem foi conduzido à Seccional de São Brás. Ele foi autuado por furto e dano ao patrimônio público e permanece à disposição da justiça. Homem é preso em flagrante por furto de fios elétricos e placa de trânsito na Nova Doca, em Belém Reprodução VÍDEOS com as principais notícias do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/25/homem-e-preso-em-flagrante-por-furto-de-fios-eletricos-e-placa-na-nova-doca-em-belem.ghtml",
+      "fonte": "G1",
+      "imagem": "https://s2-g1.glbimg.com/Q1gzebq_ofnbZqU5XVlfns2c6O0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/J/hT7rdzSYy6mzdyo4Vncg/prisao-em-flagrante-2-.jpg",
+      "data": "2026-11-25T18:46:20+00:00",
+      "categoria": "PARÁ"
+    },
     {
       "id": "89f11cf7ee322a84d1fd311f28e76dfd",
       "titulo": "Federação Paulista revela grupos e sedes da 57ª Copa São Paulo de Futebol Júnior",
@@ -9,76 +79,6 @@
       "fonte": "O Liberal",
       "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.928522%3A1750518873%2FAGENCIAS%2520(1).png%3Ff%3D187%3A100%26w%3D1200",
       "data": "2026-11-25T01:57:43.282639+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "e11019d9c455a417ec6fab5c253049c0",
-      "titulo": "Saiba quem tem a tabela mais fácil na briga contra o rebaixamento no Brasileirão",
-      "descricao": "Saiba quem tem a tabela mais fácil na briga contra o rebaixamento no Brasileirão",
-      "link": "https://www.oliberal.com/esportes/saiba-quem-tem-a-tabela-mais-facil-na-briga-contra-o-rebaixamento-no-brasileirao-1.1197968",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1044949%3A1762204282%2Fserie-a.jpg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-25T01:57:42.911626+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "054c47818480133121d3c06dac261c3c",
-      "titulo": "Influenciador que dá 'conselhos amorosos' é acusado de agressão pela ex",
-      "descricao": "Influenciador que dá 'conselhos amorosos' é acusado de agressão pela ex",
-      "link": "https://www.oliberal.com/brasil/influenciador-que-da-conselhos-amorosos-e-acusado-de-agressao-pela-ex-1.1197971",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.1197973%3A1795570827%2FSaveClip.App_834038173_17952076224278137_5424103606931262784_n.png%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-25T01:57:42.640714+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "174610492cc8284d48d0c3ddb135f8b1",
-      "titulo": "“O leão é o rei da selva”: frase de executivo do Paysandu repercute",
-      "descricao": "Símbolo do Remo, leão aparece em discurso de novo dirigente do Paysandu Foto: Jorge Luís Totti/Paysandu Novo executivo de futebol do Paysandu, Ricardo Drubscky usou o leão como exemplo de postura vencedora, o que repercutiu entre torcedores por ser símbolo do rival Remo. O post “O leão é o rei da selva”: frase de executivo do Paysandu repercute apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/bola/o-leao-e-o-rei-da-selva-frase-de-executivo-do-paysandu-repercute/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/55672209948_3a5848d55c_k.jpg",
-      "data": "2026-11-25T01:17:06+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "5a679761a929cd90d5607eed990e7016",
-      "titulo": "Ataque xenofóbico contra passageira nordestina leva Uber a desativar motorista",
-      "descricao": "Caso ocorreu durante corrida em São José do Rio Preto, no interior paulista, após discussão sobre a escala 5x2; dados da SaferNet mostram que denúncias de xenofobia na internet dispararam em ano eleitoral e recuaram em 2025 Passageira baiana denuncia motorista de aplicativo por ofensas a nordestinos em São José do Rio Preto. A Uber desativou a conta do condutor e a polícia investiga o caso. O post Ataque xenofóbico contra passageira nordestina leva Uber a desativar motorista apareceu primeiro em Diário do Pará .",
-      "link": "https://diariodopara.com.br/noticias/brasil/ataque-xenofobico-contra-passageira-nordestina-leva-uber-a-desativar-motorista/",
-      "fonte": "Diário do Pará",
-      "imagem": "https://uploads.diariodopara.com.br/imagens/2026/09/uberrobotaxi5.jpg",
-      "data": "2026-11-25T01:15:00+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "d8331325a887d0104ed9bdbac15a192d",
-      "titulo": "Banpará é alvo de tentativa de fraude via Pix em conta vinculada à Sefa",
-      "descricao": "Banpará Bruno Cecim / Ag.Pará O Banco do Estado do Pará (Banpará) informou que identificou uma tentativa de fraude por meio de transações via Pix em uma conta vinculada à Secretaria de Estado da Fazenda (Sefa). Segundo a instituição, os acessos foram bloqueados e os valores, recuperados. A tentativa ocorreu na segunda-feira (23) e foi divulgada pelo banco em comunicado na noite desta terça-feira (24). O Banpará não informou a quantia movimentada. ✅ Siga o canal do g1 Pará no WhatsApp Segundo o banco, o sistema de segurança detectou a movimentação suspeita e permitiu a adoção de medidas para bloquear os acessos. “O sistema de segurança do banco identificou a movimentação suspeita, bloqueou os acessos e permitiu a recuperação dos valores”, afirmou a instituição. Agora no g1 O Banpará informou que comunicou o caso às autoridades e ao Banco Central. Ainda segundo a instituição, a Polícia Civil já atua para investigar os responsáveis. “A segurança das operações e dos clientes permanece como prioridade da instituição”, declarou o banco no comunicado. VÍDEOS com as principais notícias do Pará Acesse outras notícias do estado no g1 Pará.",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/24/banpara-e-alvo-de-tentativa-de-fraude-via-pix-em-conta-vinculada-a-sefa.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/M-iYSvQjoot1AjA7iT0zAByXPiY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/t/p/qvJ6eJRPObm0si8dvcuQ/up-ag-21059-a1e2e4e7-d811-128e-33a1-8ae67b962941.jpg",
-      "data": "2026-11-25T01:13:44+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "f6cb6819c95b9a69198d3e06437f31ee",
-      "titulo": "Homem e duas crianças são atingidos por carro enquanto andavam de bicicleta na Alça Viária, no Pará",
-      "descricao": "Homem e crianças são atropelados por carro na Alça Viária, em Marituba Um homem e duas crianças foram atingidos por um carro enquanto andavam de bicicleta na Alça Viária, em Marituba, na Região Metropolitana de Belém, na tarde de segunda-feira (23). O acidente foi registrado por câmeras de segurança. As três vítimas foram socorridas por pessoas que presenciaram o acidente e encaminhadas ao hospital. Segundo a Polícia Civil, nenhuma delas apresentou ferimentos de maior gravidade. Em nota, a Polícia Civil informou que o próprio motorista do carro registrou a ocorrência na Seccional Urbana de Marituba. O condutor não foi autuado. As vítimas passarão por exame de corpo de delito e deverão comparecer à unidade policial para dar continuidade à apuração do caso. As circunstâncias do acidente são investigadas. ✅ Receba as notícias do g1 Pará direto no WhatsApp Agora no g1 VÍDEOS: veja todas as notícias do Pará Leia mais notícias do estado no g1 Pará",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/24/homem-e-duas-criancas-sao-atingidos-por-carro-enquanto-andavam-de-bicicleta-na-alca-viaria-no-para.ghtml",
-      "fonte": "G1",
-      "imagem": "https://s2-g1.glbimg.com/qtWyGADyMGP5VS0ikdrc0KbDWWA=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/75/82/15278275",
-      "data": "2026-11-24T22:07:56+00:00",
-      "categoria": "PARÁ"
-    },
-    {
-      "id": "bacf08a3953d1a19734ecd1d101ae450",
-      "titulo": "Evanescence em Belém? Banda anuncia turnê na América do Sul em 2027",
-      "descricao": "Evanescence em Belém? Banda anuncia turnê na América do Sul em 2027",
-      "link": "https://www.oliberal.com/cultura/evanescence-em-belem-banda-anuncia-turne-na-america-do-sul-em-2027-1.1197793",
-      "fonte": "O Liberal",
-      "imagem": "https://www.oliberal.com/api/og-image?src=%2Fimage%2Fpolicy%3A1.708751%3A1690219333%2Famy-lee-evanescence.jpg%3Ff%3D187%3A100%26w%3D1200",
-      "data": "2026-11-24T17:59:37.378815+00:00",
       "categoria": "PARÁ"
     }
   ]
